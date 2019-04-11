@@ -1,12 +1,12 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,Australians have emphatically rejected Malcolm Turnbull’s cuts to Medicare ,Assertive,2,Liberal,,1.0
-2,"which will see patients being treated for cancer, and other serious health conditions, forced to fork out thousands of dollars upfront for crucial scans and tests.",Assertive-V,,Liberal,,
-3,"In just eight weeks, over 500,000 Australians have signed the petition opposing the Liberals' $650 million cuts to Medicare.",Assertive,1#4#5#10,Liberal,,
-4,These cuts to bulk-billing will hit Australians on July 1 this year - the day before the election.,Assertive,5#7,Liberal,,
-5,Families know these cuts will hurt the most vulnerable in our community and stop them from getting the necessary tests at an early stage.,Assertive-V,6,Liberal,,
-6,The very people who shouldn’t have to suffer more will be forced to pay more or put off getting tests because of Mr Turnbull.,Assertive-V,,Liberal,,
-7,A vote for the Turnbull Liberals is a vote to cut Medicare.,Assertive-V,8#9,Liberal,,
-8,While Mr Turnbull is soft on the top end of town he is hard on people with cancer and diabetes who will have to pay more for critical tests.,Assertive-V,10,Liberal,,
-9,Everything the Turnbull Liberal Government has done has been designed to make patients pay more and undermine Medicare.,Assertive-V,10,Liberal,,
-10,This should serve as a warning for the Liberals and Nationals – ,Assertive,11,Liberal,,1.0
-11,Labor will put people first and fight alongside Australians to protect Medicare and reject these devastating cuts.,Commissive-A,,Labor,Specific,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,Australians have emphatically rejected Malcolm Turnbull’s cuts to Medicare ,Assertive,Liberal,,1.0
+2,"which will see patients being treated for cancer, and other serious health conditions, forced to fork out thousands of dollars upfront for crucial scans and tests.",Assertive-V,Liberal,,
+3,"In just eight weeks, over 500,000 Australians have signed the petition opposing the Liberals' $650 million cuts to Medicare.",Assertive,Liberal,,
+4,These cuts to bulk-billing will hit Australians on July 1 this year - the day before the election.,Assertive,Liberal,,
+5,Families know these cuts will hurt the most vulnerable in our community and stop them from getting the necessary tests at an early stage.,Assertive-V,Liberal,,
+6,The very people who shouldn’t have to suffer more will be forced to pay more or put off getting tests because of Mr Turnbull.,Assertive-V,Liberal,,
+7,A vote for the Turnbull Liberals is a vote to cut Medicare.,Assertive-V,Liberal,,
+8,While Mr Turnbull is soft on the top end of town he is hard on people with cancer and diabetes who will have to pay more for critical tests.,Assertive-V,Liberal,,
+9,Everything the Turnbull Liberal Government has done has been designed to make patients pay more and undermine Medicare.,Assertive-V,Liberal,,
+10,This should serve as a warning for the Liberals and Nationals – ,Assertive,Liberal,,1.0
+11,Labor will put people first and fight alongside Australians to protect Medicare and reject these devastating cuts.,Commissive-A,Labor,Specific,

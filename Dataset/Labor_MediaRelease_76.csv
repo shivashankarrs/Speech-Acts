@@ -1,22 +1,22 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,Labor’s Your Child. Our Future plan will benefit every student in every school community in Australia.,Commissive-A,3#7#9#20#21,Labor,Vague,
-2,"New data released today shows that no matter where a student lives or what school they attend, they will benefit from additional needs-based funding.",Assertive,1,Other,,
-3,"For the first time, every community in Australia can now see how much additional funding will flow to local schools under a Shorten Labor Government.",Assertive-V,,Labor,,
-4,Every student has different learning needs and every school has different requirements to support them.,Assertive,5,Other,,
-5,Gonski will give every school exactly what they need.,Assertive,7,Labor,,
-6,Labor’s plan will give principals and educators the support and resources to deliver programs which make a real difference to the learning outcomes of students.,Commissive-A,1,Labor,Vague,
-7,"By committing to the Gonski reforms on-time and in-full, every school and every student will be better off under Labor.",Assertive-V,8,Labor,,
-8,"Your Child. Our Future will mean more individualised support and attention for students, better early literacy and numeracy intervention programs, and better professional development for our teachers.",Assertive-V,,Labor,,
-9,"In contrast to Labor’s positive plan to fund our schools, ",Assertive-V,10,Labor,,1.0
-10,Malcolm Turnbull is promising cuts of $29 billion to Australia’s classrooms over the next decade –,Assertive-S,11#13#19,Liberal,,1.0
-11,cuts which will negatively impact on the future of our students and the future of our nation.,Assertive-V,12,Liberal,,
-12,Mr Turnbull is making the wrong choices for Australia’s future.,Assertive,,Liberal,,
-13,He is giving big business a big tax cut at the same time as he cuts funding from every school in the country.,Assertive-S,12#14#15,Liberal,,
-14,Australians know that you don’t get a stronger education system through cuts.,Assertive,17,Liberal,,
-15,And Australians also know that you can’t have a plan for jobs and growth if you don’t have a plan for education.,Assertive,17,Liberal,,
-16,Properly funding our schools is critical to making sure every young person has the skills they need to get a good job and contribute to society.,Assertive,17,Labor,,
-17,Labor is making the right choice.,Assertive,,Labor,,
-18,Mr Turnbull talks big on the economy and innovation – ,Assertive-S,19,Liberal,,1.0
-19,but this means nothing without investment in a strong education system.,Assertive-V,20#21,Liberal,,
-20,Only Labor will put people first by investing in Australia’s schools.,Assertive-V,,Labor,,
-21,Only Labor has a plan for a strong education system for the next generation of young Australians.,Assertive-V,,Labor,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,Labor’s Your Child. Our Future plan will benefit every student in every school community in Australia.,Commissive-A,Labor,Vague,
+2,"New data released today shows that no matter where a student lives or what school they attend, they will benefit from additional needs-based funding.",Assertive,Other,,
+3,"For the first time, every community in Australia can now see how much additional funding will flow to local schools under a Shorten Labor Government.",Assertive-V,Labor,,
+4,Every student has different learning needs and every school has different requirements to support them.,Assertive,Other,,
+5,Gonski will give every school exactly what they need.,Assertive,Labor,,
+6,Labor’s plan will give principals and educators the support and resources to deliver programs which make a real difference to the learning outcomes of students.,Commissive-A,Labor,Vague,
+7,"By committing to the Gonski reforms on-time and in-full, every school and every student will be better off under Labor.",Assertive-V,Labor,,
+8,"Your Child. Our Future will mean more individualised support and attention for students, better early literacy and numeracy intervention programs, and better professional development for our teachers.",Assertive-V,Labor,,
+9,"In contrast to Labor’s positive plan to fund our schools, ",Assertive-V,Labor,,1.0
+10,Malcolm Turnbull is promising cuts of $29 billion to Australia’s classrooms over the next decade –,Assertive-S,Liberal,,1.0
+11,cuts which will negatively impact on the future of our students and the future of our nation.,Assertive-V,Liberal,,
+12,Mr Turnbull is making the wrong choices for Australia’s future.,Assertive,Liberal,,
+13,He is giving big business a big tax cut at the same time as he cuts funding from every school in the country.,Assertive-S,Liberal,,
+14,Australians know that you don’t get a stronger education system through cuts.,Assertive,Liberal,,
+15,And Australians also know that you can’t have a plan for jobs and growth if you don’t have a plan for education.,Assertive,Liberal,,
+16,Properly funding our schools is critical to making sure every young person has the skills they need to get a good job and contribute to society.,Assertive,Labor,,
+17,Labor is making the right choice.,Assertive,Labor,,
+18,Mr Turnbull talks big on the economy and innovation – ,Assertive-S,Liberal,,1.0
+19,but this means nothing without investment in a strong education system.,Assertive-V,Liberal,,
+20,Only Labor will put people first by investing in Australia’s schools.,Assertive-V,Labor,,
+21,Only Labor has a plan for a strong education system for the next generation of young Australians.,Assertive-V,Labor,,

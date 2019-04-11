@@ -1,37 +1,37 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,Labor is in chaos on the Schoolkids Bonus.,Assertive,9,Labor,,
-2,Labor voted against the abolition of the Schoolkids Bonus in the House of Representatives on six separate occasions and in the Senate on five occasions.,Assertive-S,1#3,Labor,,
-3,"The Leader of the Opposition has campaigned for three years on this issue, promising to fight it “every day up to the next election”:",Assertive-S,1#30,Labor,,1.0
-4,"“In the last two Budgets, the Liberals have proposed… axing the Schoolkids Bonus… ",Assertive-S,5#6,Liberal,,1.0
-5,"Labor will stand with Australian families against these cuts every day up to the next election.” (Joint Media release, 1 March 2016)",Assertive-S,3,Labor,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,Labor is in chaos on the Schoolkids Bonus.,Assertive,Labor,,
+2,Labor voted against the abolition of the Schoolkids Bonus in the House of Representatives on six separate occasions and in the Senate on five occasions.,Assertive-S,Labor,,
+3,"The Leader of the Opposition has campaigned for three years on this issue, promising to fight it “every day up to the next election”:",Assertive-S,Labor,,1.0
+4,"“In the last two Budgets, the Liberals have proposed… axing the Schoolkids Bonus… ",Assertive-S,Liberal,,1.0
+5,"Labor will stand with Australian families against these cuts every day up to the next election.” (Joint Media release, 1 March 2016)",Assertive-S,Labor,,
 6,"Two days ago in the seat of Bass, Jenny Macklin dishonestly said: “If Mr Turnbull and the Liberals are elected in the upcoming election, 
-we will see families in this part of Tasmania lose up to $5,000 a year. ",Assertive-V,,Liberal,,
-7,"$5,000 a year will be taken from the budgets of families by this Liberal Government as a result of family tax benefits cuts, the abolition of the Schoolkids Bonus. ",Assertive-V,6#8,Liberal,,
-8,"These cuts will hurt families very, very hard if Mr Turnbull is successful at the upcoming election.” (Interview Transcript, 24 May 2016)",Assertive-V,,Liberal,,
-9,"In the last 24 hours, Labor has been in further chaos on this issue.",Assertive,,Labor,,
-10,"Yesterday, Labor’s David Feeney said:",Assertive,9#11,Labor,,1.0
-11,SPEERS: Will Labor keep the Schoolkids Bonus?,Interrogative,12,Labor,,
-12,FEENEY: The... well we... in terms… the baby bonus?,Interrogative,13,Labor,,
-13,SPEERS: Schoolkids bonus...,Assertive,14,Labor,,
-14,FEENEY: The… well I… you'd have to refer to our relevant shadow.,Directive,15#17,Labor,,
-15,I've been a little ah distracted over the last few days.,Assertive,,Labor,,
-16,"(Sky News, 25 May 2016)",Assertive,10,Other,,1.0
-17,"But just this morning, Labor’s Shadow Treasurer said:",Assertive,9#18,Labor,,1.0
-18,"KELLY: Chris Bowen, will Labor keep the Schoolkids Bonus?",Interrogative,19,Labor,,
-19,"BOWEN: Ah, well Fran, no, because -",Assertive-S,20,Labor,,
-20,KELLY: No!?,Interrogative,21,Labor,,
-21,"BOWEN: No, Labor, well Labor opposed the repeal of the Schoolkids Bonus, that was our vote in Parliament, ",Assertive-S,2#22,Labor,,1.0
-22,the Government got it through with the Clive Palmer Party,Assertive-S,23,Liberal,,1.0
-23,so if it was up to Labor we would still have the Schoolkids Bonus. ,Assertive-S,25,Labor,,
-24,"But we've now had the pre-election economic forecast, we know that the Government has tripled the budget deficit, we know the AAA credit rating is under real threat, ",Assertive-V,25,Labor,,1.0
-25,so we are taking a very responsible approach in all our promises. ,Assertive-S,26#33,Labor,,
-26,"Now families will be better off under Labor,",Assertive-V,,Labor,,1.0
-27,"because we won't be proceeding with the cuts to family tax benefits in the way that the Government is proposing and that is a real difference for families, but we will not be able to afford to bring back the Schoolkids Bonus.",Assertive-S,25#26#30#31,Labor,,
-28,"(ABC Radio National, 26 May 2016)",Assertive,17,Other,,1.0
-29,"Since the Schoolkids Bonus was abolished in September 2014, there have been a number of Budgets and Budget updates, which have regularly and clearly shown the Budget position.",Assertive-V,30,Liberal,,
-30,Labor’s only explanation for their backflip today – that they have only just seen the Pre-Election Economic and Fiscal Outlook – is not a valid explanation.,Assertive-V,31,Labor,,
-31,"Clearly, not even Bill Shorten can tell the Australian people how big Labor’s Budget black hole is. ",Assertive,32#33,Labor,,
-32,He doesn’t know.,Assertive,,Labor,,
-33,"Bill Shorten and Labor can’t pay for their spending promises, and what they can’t pay for they will never deliver.",Assertive-V,34,Labor,,
-34,"Labor’s spending decisions are in chaos, but they still have a massive Budget black hole.",Assertive-V,35,Labor,,
-35,Labor’s economic and fiscal chaos would be a disaster for Australia.,Assertive-V,,Labor,,
+we will see families in this part of Tasmania lose up to $5,000 a year. ",Assertive-V,Liberal,,
+7,"$5,000 a year will be taken from the budgets of families by this Liberal Government as a result of family tax benefits cuts, the abolition of the Schoolkids Bonus. ",Assertive-V,Liberal,,
+8,"These cuts will hurt families very, very hard if Mr Turnbull is successful at the upcoming election.” (Interview Transcript, 24 May 2016)",Assertive-V,Liberal,,
+9,"In the last 24 hours, Labor has been in further chaos on this issue.",Assertive,Labor,,
+10,"Yesterday, Labor’s David Feeney said:",Assertive,Labor,,1.0
+11,SPEERS: Will Labor keep the Schoolkids Bonus?,Interrogative,Labor,,
+12,FEENEY: The... well we... in terms… the baby bonus?,Interrogative,Labor,,
+13,SPEERS: Schoolkids bonus...,Assertive,Labor,,
+14,FEENEY: The… well I… you'd have to refer to our relevant shadow.,Directive,Labor,,
+15,I've been a little ah distracted over the last few days.,Assertive,Labor,,
+16,"(Sky News, 25 May 2016)",Assertive,Other,,1.0
+17,"But just this morning, Labor’s Shadow Treasurer said:",Assertive,Labor,,1.0
+18,"KELLY: Chris Bowen, will Labor keep the Schoolkids Bonus?",Interrogative,Labor,,
+19,"BOWEN: Ah, well Fran, no, because -",Assertive-S,Labor,,
+20,KELLY: No!?,Interrogative,Labor,,
+21,"BOWEN: No, Labor, well Labor opposed the repeal of the Schoolkids Bonus, that was our vote in Parliament, ",Assertive-S,Labor,,1.0
+22,the Government got it through with the Clive Palmer Party,Assertive-S,Liberal,,1.0
+23,so if it was up to Labor we would still have the Schoolkids Bonus. ,Assertive-S,Labor,,
+24,"But we've now had the pre-election economic forecast, we know that the Government has tripled the budget deficit, we know the AAA credit rating is under real threat, ",Assertive-V,Labor,,1.0
+25,so we are taking a very responsible approach in all our promises. ,Assertive-S,Labor,,
+26,"Now families will be better off under Labor,",Assertive-V,Labor,,1.0
+27,"because we won't be proceeding with the cuts to family tax benefits in the way that the Government is proposing and that is a real difference for families, but we will not be able to afford to bring back the Schoolkids Bonus.",Assertive-S,Labor,,
+28,"(ABC Radio National, 26 May 2016)",Assertive,Other,,1.0
+29,"Since the Schoolkids Bonus was abolished in September 2014, there have been a number of Budgets and Budget updates, which have regularly and clearly shown the Budget position.",Assertive-V,Liberal,,
+30,Labor’s only explanation for their backflip today – that they have only just seen the Pre-Election Economic and Fiscal Outlook – is not a valid explanation.,Assertive-V,Labor,,
+31,"Clearly, not even Bill Shorten can tell the Australian people how big Labor’s Budget black hole is. ",Assertive,Labor,,
+32,He doesn’t know.,Assertive,Labor,,
+33,"Bill Shorten and Labor can’t pay for their spending promises, and what they can’t pay for they will never deliver.",Assertive-V,Labor,,
+34,"Labor’s spending decisions are in chaos, but they still have a massive Budget black hole.",Assertive-V,Labor,,
+35,Labor’s economic and fiscal chaos would be a disaster for Australia.,Assertive-V,Labor,,

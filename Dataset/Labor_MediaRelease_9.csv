@@ -1,16 +1,16 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,A Shorten Labor Government will get Australia moving by investing in public transport – tackling congestion issues and creating a pipeline of new jobs.,Commissive-A,,Labor,Vague,
-2,Investing in infrastructure is critical to lifting national economic capacity and building smart cities for our future needs.,Assertive,4,Labor,,
-3,Shifting commuters off the road and onto public transport helps our cities move better by alleviating the traffic congestion which stifles growth.,Assertive,4,Labor,,
-4,That’s why Labor has made public transport the centrepiece of our comprehensive plan for infrastructure development.,Assertive-V,1,Labor,,
-5,Labor will return the independent Infrastructure Australia to the centre of decision-making about nation building and ensure that major projects are the subject of cost-benefit analysis before they receive Federal Government investment.,Commissive-A,1,Labor,Specific,
-6,Infrastructure Australia would administer Labor’s new $10 billion infrastructure investment facility.,Commissive-A,5,Labor,Specific,
-7,"This facility will use financing instruments such as loans, guarantees and equity to leverage more private investment in public infrastructure projects, with rules around this new mandate to be determined by an expert panel to be appointed within 100 days of Labor forming government.",Commissive-A,6,Labor,Specific,
-8,"While the former Labor Government made record investments in infrastructure between 2007 and 2013,",Assertive-S,9#13,Labor,,1.0
-9,Australian Bureau of Statistics figures show public sector infrastructure investment declined by 20 per cent between the September quarter of 2013 and the September quarter of 2015.,Assertive-V,10,Other,,
-10,"The decline is attributable to the Abbott-Turnbull Government’s 2014 cancellation of more than $4 billion of planned investment in public transport infrastructure, including projects that had been positively assessed by Infrastructure Australia.",Assertive-V,,Liberal,,
-11,The Abbott-Turnbull Government instead sought to invest that money in proposed toll roads,Assertive-S,12#13,Liberal,,1.0
-12,"including Melbourne’s East West Link, which has collapsed; the Perth Freight Link, which has been halted by the courts on environmental grounds; and Sydney’s WestConnex, which has seen its budget blow out from $10 billion to $16.8 billion.",Assertive-V,,Liberal,,
-13,"Labor understands the importance of infrastructure investment to boost economic activity, lift productivity and create jobs.",Assertive,14,Labor,,
-14,We will end the Liberals’ chaos and return to an evidence-based approach to decision-making on major projects.,Commissive-A,1,Labor,Vague,
-15,"In particular, a Shorten Labor Government will invest heavily in urban public transport to address the traffic congestion which Infrastructure Australia has warned will cost the nation $53 billion a year in lost productivity by 2031 without action now.",Commissive-A,14,Labor,Vague,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,A Shorten Labor Government will get Australia moving by investing in public transport – tackling congestion issues and creating a pipeline of new jobs.,Commissive-A,Labor,Vague,
+2,Investing in infrastructure is critical to lifting national economic capacity and building smart cities for our future needs.,Assertive,Labor,,
+3,Shifting commuters off the road and onto public transport helps our cities move better by alleviating the traffic congestion which stifles growth.,Assertive,Labor,,
+4,That’s why Labor has made public transport the centrepiece of our comprehensive plan for infrastructure development.,Assertive-V,Labor,,
+5,Labor will return the independent Infrastructure Australia to the centre of decision-making about nation building and ensure that major projects are the subject of cost-benefit analysis before they receive Federal Government investment.,Commissive-A,Labor,Specific,
+6,Infrastructure Australia would administer Labor’s new $10 billion infrastructure investment facility.,Commissive-A,Labor,Specific,
+7,"This facility will use financing instruments such as loans, guarantees and equity to leverage more private investment in public infrastructure projects, with rules around this new mandate to be determined by an expert panel to be appointed within 100 days of Labor forming government.",Commissive-A,Labor,Specific,
+8,"While the former Labor Government made record investments in infrastructure between 2007 and 2013,",Assertive-S,Labor,,1.0
+9,Australian Bureau of Statistics figures show public sector infrastructure investment declined by 20 per cent between the September quarter of 2013 and the September quarter of 2015.,Assertive-V,Other,,
+10,"The decline is attributable to the Abbott-Turnbull Government’s 2014 cancellation of more than $4 billion of planned investment in public transport infrastructure, including projects that had been positively assessed by Infrastructure Australia.",Assertive-V,Liberal,,
+11,The Abbott-Turnbull Government instead sought to invest that money in proposed toll roads,Assertive-S,Liberal,,1.0
+12,"including Melbourne’s East West Link, which has collapsed; the Perth Freight Link, which has been halted by the courts on environmental grounds; and Sydney’s WestConnex, which has seen its budget blow out from $10 billion to $16.8 billion.",Assertive-V,Liberal,,
+13,"Labor understands the importance of infrastructure investment to boost economic activity, lift productivity and create jobs.",Assertive,Labor,,
+14,We will end the Liberals’ chaos and return to an evidence-based approach to decision-making on major projects.,Commissive-A,Labor,Vague,
+15,"In particular, a Shorten Labor Government will invest heavily in urban public transport to address the traffic congestion which Infrastructure Australia has warned will cost the nation $53 billion a year in lost productivity by 2031 without action now.",Commissive-A,Labor,Vague,

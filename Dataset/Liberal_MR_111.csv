@@ -1,16 +1,16 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,"A re-elected Turnbull Coalition will improve and increase funding for frontline services for domestic violence, to ensure victims and their family members obtain the timely support they require.",Commissive-A,2,Liberal,Vague,
-2,"The Turnbull Coalition’s commitment to keeping women and children safe from domestic and family violence is comprehensive, multi-faceted and unwavering.",Assertive-V,,Liberal,,
-3,"Today’s announcement of an additional $15 million for frontline services will deliver tangible, practical improvements to those victims who reach out for help.",Commissive-A,1#5,Liberal,Specific,
-4,"Encouragingly, a heightened awareness of domestic violence in recent years is resulting in an increase in the number of people reaching out for help.",Assertive,5,Other,,
-5,"Accordingly, the Coalition is providing both increased funding and improved service delivery to better serve those who take the courageous step of asking for help to escape violence in the home.",Assertive-V,,Liberal,,
-6,"<LIST> The precise programmes to be funded will be decided in conjunction with the states and territories, but the Commonwealth’s strategic focus includes:",Commissive-A,3#11,Liberal,Vague,1.0
-7,"<li> Further support for the 1800RESPECT helpline to implement the new first responder model so that all calls are answered and triaged to the most appropriate response, and to assist with expected increased demand; </li>",Commissive-A,6,Liberal,Vague,1.0
-8,<li> A housing innovation fund to provide safe accommodation for women and children; </li>,Commissive-A,6,Liberal,Vague,1.0
-9,<li> Financial support for women experiencing or at risk of domestic and family violence through financial counselling and capacity building and access to microfinance; and </li>,Commissive-A,6,Liberal,Vague,1.0
-10,<li> Innovative and collaborative service delivery between specialist family violence service providers and health and social services providers to respond effectively to need and improve the level of care for women and children. </li> </LIST>,Commissive-A,6,Liberal,Vague,
-11,These initiatives are based on advice from the COAG Advisory Panel on Domestic Violence led by Ken Lay and Rosie Batty.,Assertive-V,,Liberal,,
-12,"The particular initiatives to be funded from this $15 million will be identified in consultation with the States and Territories, relevant stakeholder organisations and the community.",Commissive-A,6,Liberal,Specific,
-13,The additional $15 million will be funded through the $100 million allocated in this year’s Budget to fund the Third Action Plan of the National Plan to Reduce Violence against Women and their Children 2010-2022.,Commissive-A,3#14#15,Liberal,Specific,
-14,"No Commonwealth government has ever invested as much in the critical area of tackling domestic violence, with around $275 million spent each year on programmes that directly support women and their children who experience domestic violence.",Assertive-V,,Liberal,,
-15,"The Turnbull Coalition is resolute in its commitment to ensure women and children are safe in their homes, safe on the streets and safe online.",Assertive-V,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,"A re-elected Turnbull Coalition will improve and increase funding for frontline services for domestic violence, to ensure victims and their family members obtain the timely support they require.",Commissive-A,Liberal,Vague,
+2,"The Turnbull Coalition’s commitment to keeping women and children safe from domestic and family violence is comprehensive, multi-faceted and unwavering.",Assertive-V,Liberal,,
+3,"Today’s announcement of an additional $15 million for frontline services will deliver tangible, practical improvements to those victims who reach out for help.",Commissive-A,Liberal,Specific,
+4,"Encouragingly, a heightened awareness of domestic violence in recent years is resulting in an increase in the number of people reaching out for help.",Assertive,Other,,
+5,"Accordingly, the Coalition is providing both increased funding and improved service delivery to better serve those who take the courageous step of asking for help to escape violence in the home.",Assertive-V,Liberal,,
+6,"<LIST> The precise programmes to be funded will be decided in conjunction with the states and territories, but the Commonwealth’s strategic focus includes:",Commissive-A,Liberal,Vague,1.0
+7,"<li> Further support for the 1800RESPECT helpline to implement the new first responder model so that all calls are answered and triaged to the most appropriate response, and to assist with expected increased demand; </li>",Commissive-A,Liberal,Vague,1.0
+8,<li> A housing innovation fund to provide safe accommodation for women and children; </li>,Commissive-A,Liberal,Vague,1.0
+9,<li> Financial support for women experiencing or at risk of domestic and family violence through financial counselling and capacity building and access to microfinance; and </li>,Commissive-A,Liberal,Vague,1.0
+10,<li> Innovative and collaborative service delivery between specialist family violence service providers and health and social services providers to respond effectively to need and improve the level of care for women and children. </li> </LIST>,Commissive-A,Liberal,Vague,
+11,These initiatives are based on advice from the COAG Advisory Panel on Domestic Violence led by Ken Lay and Rosie Batty.,Assertive-V,Liberal,,
+12,"The particular initiatives to be funded from this $15 million will be identified in consultation with the States and Territories, relevant stakeholder organisations and the community.",Commissive-A,Liberal,Specific,
+13,The additional $15 million will be funded through the $100 million allocated in this year’s Budget to fund the Third Action Plan of the National Plan to Reduce Violence against Women and their Children 2010-2022.,Commissive-A,Liberal,Specific,
+14,"No Commonwealth government has ever invested as much in the critical area of tackling domestic violence, with around $275 million spent each year on programmes that directly support women and their children who experience domestic violence.",Assertive-V,Liberal,,
+15,"The Turnbull Coalition is resolute in its commitment to ensure women and children are safe in their homes, safe on the streets and safe online.",Assertive-V,Liberal,,

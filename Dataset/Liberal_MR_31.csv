@@ -1,18 +1,18 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,Bill Shorten’s war on business has been heavily influenced by the Greens.,Assertive-V,,Labor,,
-2,"In its response to the 2010 Henry Tax Review, Labor immediately ruled out changes to the capital gains tax discount.",Assertive-S,5,Labor,,
-3,"Soon after that, Treasurer Wayne Swan said that ending negative gearing would be “economically disastrous”.",Assertive-S,5,Labor,,
-4,"But after the Greens decided to launch an attack on business in 2015,",Assertive-S,5,Other,,1.0
-5,Labor changed its tune and followed suit.,Assertive-V,1,Labor,,
-6,TIMELINE OF LABOR’S WAR ON BUSINESS,Assertive,7#8,Labor,,
-7,May 2015: the Greens announce that they will end negative gearing.,Assertive-S,9,Other,,
-8,August 2015: The Greens announce that they will increase the capital gains tax.,Assertive-S,10,Other,,
-9,February 2016: Bill Shorten announces that Labor will end negative gearing.,Assertive-S,11,Labor,,
-10,February 2016: Bill Shorten announces a 50 percent increase in the capital gains tax.,Assertive-S,11,Labor,,
-11,"Business should be left with no doubt that a Labor government beholden to, or in coalition with the Greens would cause havoc.",Assertive-V,17,Labor,,
-12,"These taxes increases are not the only area of policy alignment between Labor and the Greens, but they are indicative of the anti-business agenda of both parties.",Assertive-V,17,Labor,,
-13,Their introduction would be only the first tranche of a tax assault that would be levied on the Australian businesses by Labor and the Greens to pay for their extravagant and uncosted promises.,Assertive-V,12,Labor,,
-14,"At a time when we need more investment to grow the economy and create jobs, ",Assertive,15,Labor,,1.0
-15,Labor and the Greens want to raise the tax on investment ,Assertive-S,16,Labor,,1.0
-16,and discourage it.,Assertive-V,17,Labor,,
-17,"Labor’s changes would be bad for business, bad for investment and bad for jobs.",Assertive-V,,Labor,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,Bill Shorten’s war on business has been heavily influenced by the Greens.,Assertive-V,Labor,,
+2,"In its response to the 2010 Henry Tax Review, Labor immediately ruled out changes to the capital gains tax discount.",Assertive-S,Labor,,
+3,"Soon after that, Treasurer Wayne Swan said that ending negative gearing would be “economically disastrous”.",Assertive-S,Labor,,
+4,"But after the Greens decided to launch an attack on business in 2015,",Assertive-S,Other,,1.0
+5,Labor changed its tune and followed suit.,Assertive-V,Labor,,
+6,TIMELINE OF LABOR’S WAR ON BUSINESS,Assertive,Labor,,
+7,May 2015: the Greens announce that they will end negative gearing.,Assertive-S,Other,,
+8,August 2015: The Greens announce that they will increase the capital gains tax.,Assertive-S,Other,,
+9,February 2016: Bill Shorten announces that Labor will end negative gearing.,Assertive-S,Labor,,
+10,February 2016: Bill Shorten announces a 50 percent increase in the capital gains tax.,Assertive-S,Labor,,
+11,"Business should be left with no doubt that a Labor government beholden to, or in coalition with the Greens would cause havoc.",Assertive-V,Labor,,
+12,"These taxes increases are not the only area of policy alignment between Labor and the Greens, but they are indicative of the anti-business agenda of both parties.",Assertive-V,Labor,,
+13,Their introduction would be only the first tranche of a tax assault that would be levied on the Australian businesses by Labor and the Greens to pay for their extravagant and uncosted promises.,Assertive-V,Labor,,
+14,"At a time when we need more investment to grow the economy and create jobs, ",Assertive,Labor,,1.0
+15,Labor and the Greens want to raise the tax on investment ,Assertive-S,Labor,,1.0
+16,and discourage it.,Assertive-V,Labor,,
+17,"Labor’s changes would be bad for business, bad for investment and bad for jobs.",Assertive-V,Labor,,

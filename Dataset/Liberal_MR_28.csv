@@ -1,14 +1,14 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,A re-elected Turnbull Coalition Government will drive jobs and growth by committing $10.5 million towards a new indoor regional netball centre in Deakin.,Commissive-A,2#3#4#9,Liberal,Specific,
-2,"Our commitment will deliver a purpose built netball facility which will allow netball games and training all year round, in all weather conditions.",Commissive-O,7,Liberal,,
-3,"The netball centre will create a hub for women’s sport whilst greatly benefitting local netball clubs from Maroondah, Knox, Yarra Ranges and Whitehorse.",Assertive-V,,Liberal,,
-4,"This investment is meeting the needs of the growing netball community, ",Assertive-V,,Liberal,,1.0
-5,with participation rising significantly over the past five years.,Assertive,4,Other,,
-6,"There are currently 3,600 registered netballers in the area.",Assertive,4,Other,,
-7,The facility will be home to the Melbourne East Netball Association and Ariels Victorian Churches Netball Association.,Assertive-V,8,Liberal,,
-8,"By giving netball a home, as well as an operational and training hub, the sport is able to expand and the region will benefit from local job creation and economic growth.",Assertive-V,,Liberal,,
-9,Importantly the commitment will encourage more female participation in sport.,Assertive-V,10,Liberal,,
-10,"The Coalition is committed to seeing more girls actively involved in sport, especially into their teenage and adult years, ",Commissive-O,,Liberal,,1.0
-11,but a lack of local facilities has often been a barrier to participation.,Assertive,10,Other,,
-12,A re-elected Turnbull Government and the Member for Deakin Michael Sukkar MP will work with the City of Maroondah and the local community to deliver this project.,Commissive-A,1#13,Liberal,Vague,
-13,"By providing community infrastructure we are improving lifestyles, building stronger communities and delivering jobs and growth.",Assertive-V,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,A re-elected Turnbull Coalition Government will drive jobs and growth by committing $10.5 million towards a new indoor regional netball centre in Deakin.,Commissive-A,Liberal,Specific,
+2,"Our commitment will deliver a purpose built netball facility which will allow netball games and training all year round, in all weather conditions.",Commissive-O,Liberal,,
+3,"The netball centre will create a hub for women’s sport whilst greatly benefitting local netball clubs from Maroondah, Knox, Yarra Ranges and Whitehorse.",Assertive-V,Liberal,,
+4,"This investment is meeting the needs of the growing netball community, ",Assertive-V,Liberal,,1.0
+5,with participation rising significantly over the past five years.,Assertive,Other,,
+6,"There are currently 3,600 registered netballers in the area.",Assertive,Other,,
+7,The facility will be home to the Melbourne East Netball Association and Ariels Victorian Churches Netball Association.,Assertive-V,Liberal,,
+8,"By giving netball a home, as well as an operational and training hub, the sport is able to expand and the region will benefit from local job creation and economic growth.",Assertive-V,Liberal,,
+9,Importantly the commitment will encourage more female participation in sport.,Assertive-V,Liberal,,
+10,"The Coalition is committed to seeing more girls actively involved in sport, especially into their teenage and adult years, ",Commissive-O,Liberal,,1.0
+11,but a lack of local facilities has often been a barrier to participation.,Assertive,Other,,
+12,A re-elected Turnbull Government and the Member for Deakin Michael Sukkar MP will work with the City of Maroondah and the local community to deliver this project.,Commissive-A,Liberal,Vague,
+13,"By providing community infrastructure we are improving lifestyles, building stronger communities and delivering jobs and growth.",Assertive-V,Liberal,,

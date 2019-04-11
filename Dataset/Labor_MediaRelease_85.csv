@@ -1,16 +1,16 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,"A Shorten Labor Government will commit up to $50 million to kickstart the critical upgrade of Sydney’s notorious Appin Road to improve capacity, safety and invest in local jobs.",Commissive-A,7,Labor,Specific,
-2,"Appin Road is at the heart of Sydney’s future growth corridor with 35,000 extra houses soon to be built south of Campbelltown.",Assertive,3,Labor,,
-3,Action is needed now to get ahead of this boom in development and to ensure that sufficient road infrastructure is in place.,Assertive,4,Labor,,
-4,"Upgrading the road is important to address ongoing safety issues, with a disturbing number of fatalities on the road - ",Assertive-V,7,Labor,,1.0
-5,more than 36 lives have been lost over the past two decades.,Assertive,4#6,Other,,
-6,Local residents are desperate for investment in the road to address ongoing safety issues.,Assertive,7#15,Labor,,
-7,"Labor’s commitment of up to $50 million will go towards a full upgrade of the road, making it dual carriageway.",Commissive-O,,Labor,,
-8,Labor will work with the State Government and private investors to secure the full funding commitment.,Commissive-A,1#9,Labor,Specific,
-9,This is an important investment in the region and will help facilitate development of the area and provide affordable housing options in outer Sydney.,Assertive-V,10,Labor,,
-10,It is expected that public transport will also rapidly evolve on the upgraded road as the new homes will be built close to the route.,Assertive-V,,Labor,,
-11,The Appin Road was once a country road linking a town to a village.,Assertive,12,Other,,
-12,Now it sits between two growing major regions – Macarthur and the Illawarra.,Assertive,13,Other,,
-13,The time for Appin Road upgrade has come.,Assertive,14,Labor,,
-14,Labor is committed to this investment,Commissive-A,1#15,Labor,Specific,1.0
-15,because we know that local residents have waited long enough – an investment in the Appin Road is an investment in the future of Sydney’s growth.,Assertive-V,,Labor,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,"A Shorten Labor Government will commit up to $50 million to kickstart the critical upgrade of Sydney’s notorious Appin Road to improve capacity, safety and invest in local jobs.",Commissive-A,Labor,Specific,
+2,"Appin Road is at the heart of Sydney’s future growth corridor with 35,000 extra houses soon to be built south of Campbelltown.",Assertive,Labor,,
+3,Action is needed now to get ahead of this boom in development and to ensure that sufficient road infrastructure is in place.,Assertive,Labor,,
+4,"Upgrading the road is important to address ongoing safety issues, with a disturbing number of fatalities on the road - ",Assertive-V,Labor,,1.0
+5,more than 36 lives have been lost over the past two decades.,Assertive,Other,,
+6,Local residents are desperate for investment in the road to address ongoing safety issues.,Assertive,Labor,,
+7,"Labor’s commitment of up to $50 million will go towards a full upgrade of the road, making it dual carriageway.",Commissive-O,Labor,,
+8,Labor will work with the State Government and private investors to secure the full funding commitment.,Commissive-A,Labor,Specific,
+9,This is an important investment in the region and will help facilitate development of the area and provide affordable housing options in outer Sydney.,Assertive-V,Labor,,
+10,It is expected that public transport will also rapidly evolve on the upgraded road as the new homes will be built close to the route.,Assertive-V,Labor,,
+11,The Appin Road was once a country road linking a town to a village.,Assertive,Other,,
+12,Now it sits between two growing major regions – Macarthur and the Illawarra.,Assertive,Other,,
+13,The time for Appin Road upgrade has come.,Assertive,Labor,,
+14,Labor is committed to this investment,Commissive-A,Labor,Specific,1.0
+15,because we know that local residents have waited long enough – an investment in the Appin Road is an investment in the future of Sydney’s growth.,Assertive-V,Labor,,

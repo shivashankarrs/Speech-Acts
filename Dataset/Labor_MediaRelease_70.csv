@@ -1,28 +1,28 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,A Shorten Labor Government will hold a Royal Commission into misconduct in the banking and financial services industry.,Commissive-A,,Labor,Specific,
-2,This is an important decision that was not taken lightly - it’s been made after careful consideration over an extended period of time.,Assertive,1,Labor,,
-3,This sector employs almost half a million people and it’s the fastest growing in the Australian economy.,Assertive,5,Other,,
-4,Australia has one of the strongest banking systems in the world and Labor wants to make it even stronger.,Assertive,5,Labor,,
-5,"The fact is, the confidence and trust in the financial services industry has taken a huge hit over an ongoing range of scandals and high profile consumer rip offs.",Assertive,6,Labor,,
-6,"We need Australians to have confidence in their banks and financial institutions, to sweep away the doubt, to uncover and deal with unethical behaviour that compromises that confidence.",Assertive,1,Labor,,
-7,Retirees who have had their retirement savings gutted.,Assertive,11,Labor,,
-8,Families have been rorted out of hundreds of thousands of dollars.,Assertive,11,Labor,,
-9,Small business owners who have lost everything.,Assertive,11,Labor,,
-10,Life insurance policy holders denied justice.,Assertive,11,Labor,,
-11,"There are literally tens of thousands of victims, if not more.",Assertive,12,Labor,,
-12,Enough is enough.,Assertive,17,Labor,,
-13,"Even the Prime Minister, finally, expressed concern on Wednesday.",Expressive,17,Liberal,,
-14,“There have been too many troubling incidents over recent times for them simply to be dismissed.”,Expressive,13,Liberal,,
-15,"(TURNBULL, SPEECH TO WESTPAC’S 199TH BIRTHDAY, WEDNESDAY 6 APRIL 2016)",Assertive,14,Liberal,,1.0
-16,There are Members of Parliament in the Liberal and National Parties who are fed up with hard-working people in their communities getting ripped off.,Assertive,17,Liberal,,
-17,Mr Turnbull should listen to these MPs and the concerns of members of the public and support this Royal Commission.,Assertive,,Liberal,,
-18,Every Australian uses a bank and every Australian relies on the integrity of the banks - we need to restore that trust and confidence.,Assertive,19,Labor,,
-19,"After a damaging series of Liberal cuts to ASIC, getting to the bottom of the wide-ranging and severe issues uncovered in recent years has become beyond the capacity of regulators.",Assertive-V,20,Liberal,,
-20,<LIST> A Royal Commission into the financial services industry will examine issues such as:,Commissive-A,1#27,Labor,Vague,1.0
-21,<li> how widespread instances of illegal and unethical behaviour are within Australia’s financial services industry; </li> ,Commissive-A,20#26,Labor,Specific,1.0
-22,<li> how Australia’s financial services institutions treat their duty of care to their customers; </li> ,Commissive-A,20#26,Labor,Specific,1.0
-23,"<li> how the culture, ethical standards and business structures of Australian financial services institutions affect the behaviour of these institutions; </li> ",Commissive-A,20#26,Labor,Specific,1.0
-24,<li> whether Australia’s regulators are really equipped to identify and prevent illegal and unethical behaviour; </li> ,Commissive-A,20#26,Labor,Specific,1.0
-25,<li> comparable international experience with similar financial services industry misconduct and best practice responses to those incidents; and </li> ,Commissive-A,20#26,Labor,Specific,1.0
-26,<li> other events as may come to light in the course of investigating the above. </li> </LIST>,Commissive-A,20,Labor,Vague,
-27,This proposal for a Royal Commission into Australia’s Financial Services Industry has been costed by the independent Parliamentary Budget Office at $53 million over two years.,Assertive-V,,Labor,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,A Shorten Labor Government will hold a Royal Commission into misconduct in the banking and financial services industry.,Commissive-A,Labor,Specific,
+2,This is an important decision that was not taken lightly - it’s been made after careful consideration over an extended period of time.,Assertive,Labor,,
+3,This sector employs almost half a million people and it’s the fastest growing in the Australian economy.,Assertive,Other,,
+4,Australia has one of the strongest banking systems in the world and Labor wants to make it even stronger.,Assertive,Labor,,
+5,"The fact is, the confidence and trust in the financial services industry has taken a huge hit over an ongoing range of scandals and high profile consumer rip offs.",Assertive,Labor,,
+6,"We need Australians to have confidence in their banks and financial institutions, to sweep away the doubt, to uncover and deal with unethical behaviour that compromises that confidence.",Assertive,Labor,,
+7,Retirees who have had their retirement savings gutted.,Assertive,Labor,,
+8,Families have been rorted out of hundreds of thousands of dollars.,Assertive,Labor,,
+9,Small business owners who have lost everything.,Assertive,Labor,,
+10,Life insurance policy holders denied justice.,Assertive,Labor,,
+11,"There are literally tens of thousands of victims, if not more.",Assertive,Labor,,
+12,Enough is enough.,Assertive,Labor,,
+13,"Even the Prime Minister, finally, expressed concern on Wednesday.",Expressive,Liberal,,
+14,“There have been too many troubling incidents over recent times for them simply to be dismissed.”,Expressive,Liberal,,
+15,"(TURNBULL, SPEECH TO WESTPAC’S 199TH BIRTHDAY, WEDNESDAY 6 APRIL 2016)",Assertive,Liberal,,1.0
+16,There are Members of Parliament in the Liberal and National Parties who are fed up with hard-working people in their communities getting ripped off.,Assertive,Liberal,,
+17,Mr Turnbull should listen to these MPs and the concerns of members of the public and support this Royal Commission.,Assertive,Liberal,,
+18,Every Australian uses a bank and every Australian relies on the integrity of the banks - we need to restore that trust and confidence.,Assertive,Labor,,
+19,"After a damaging series of Liberal cuts to ASIC, getting to the bottom of the wide-ranging and severe issues uncovered in recent years has become beyond the capacity of regulators.",Assertive-V,Liberal,,
+20,<LIST> A Royal Commission into the financial services industry will examine issues such as:,Commissive-A,Labor,Vague,1.0
+21,<li> how widespread instances of illegal and unethical behaviour are within Australia’s financial services industry; </li> ,Commissive-A,Labor,Specific,1.0
+22,<li> how Australia’s financial services institutions treat their duty of care to their customers; </li> ,Commissive-A,Labor,Specific,1.0
+23,"<li> how the culture, ethical standards and business structures of Australian financial services institutions affect the behaviour of these institutions; </li> ",Commissive-A,Labor,Specific,1.0
+24,<li> whether Australia’s regulators are really equipped to identify and prevent illegal and unethical behaviour; </li> ,Commissive-A,Labor,Specific,1.0
+25,<li> comparable international experience with similar financial services industry misconduct and best practice responses to those incidents; and </li> ,Commissive-A,Labor,Specific,1.0
+26,<li> other events as may come to light in the course of investigating the above. </li> </LIST>,Commissive-A,Labor,Vague,
+27,This proposal for a Royal Commission into Australia’s Financial Services Industry has been costed by the independent Parliamentary Budget Office at $53 million over two years.,Assertive-V,Labor,,

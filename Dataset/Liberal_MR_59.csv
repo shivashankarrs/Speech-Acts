@@ -1,17 +1,17 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,"Employment figures released today reveal people looking for work under the Coalition’s new jobactive employment services model are achieving better, long-term employment outcomes.",Assertive-V,2,Liberal,,
-2,The Turnbull Coalition is committed to implementing effective policies to deliver jobs and growth.,Commissive-A,15#16,Liberal,Vague,
-3,The 2015 reforms to the Government’s employment services programme ,Assertive-S,4,Liberal,,1.0
-4,"clearly show the changes are providing significant benefits for people looking for a job, employers and the broader economy.",Assertive-V,1,Liberal,,
-5,"Since the start of jobactive in July 2015, jobactive providers have recorded over 321,000 placements into jobs across Australia. ",Assertive-V,4,Liberal,,
-6,"Of these, over 90,000 were for young job seekers under 25, over 26,000 were for Indigenous job seekers and over 11,000 were for refugees.",Assertive-V,5,Liberal,,
-7,"Furthermore, a marked increase in the number of people staying in employment under jobactive compared to the previous Labor Government’s Job Services Australia model demonstrates that the Coalition is getting people into a job and keeping them in a job.",Assertive-V,4#9,Liberal,,
-8,The latest data on employment outcomes for people looking for a job under jobactive shows an 5.9 per cent increase in the number of paid employment outcomes for people who have remained in work for at least 12 weeks when compared to the first eleven months under Labor’s Job Services Australia.,Assertive-V,4#9,Liberal,,
-9,"That means a greater number of people who have found work under jobactive are sticking with those jobs, compared to the old system. ",Assertive-V,,Liberal,,
-10,"The Coalition’s reforms are delivering more Australians into work and keeping them there for longer – this is an outstanding result that is good for the individual, families, communities and the broader economy.",Assertive-V,4,Liberal,,
-11,"Clearly, the greater focus under jobactive on helping employers find candidates who are the right fit, ",Assertive-S,12,Liberal,,1.0
-12,is delivering a real and lasting difference in the lives of thousands of previously unemployed Australians.,Assertive-V,4,Liberal,,
-13,"The facts speak for themselves – our system is working in achieving sustainable, long-term outcomes for people wanting to move out of welfare and into employment.",Assertive-V,4,Liberal,,
-14,The Turnbull Coalition has committed $7.5 billion to the jobactive programme and is a key part of the Coalition’s employment strategy to reduce barriers to employment and promoting workforce participation.,Commissive-A,2,Liberal,Specific,
-15,Only the Turnbull Coalition has a carefully structured plan for jobs and growth. ,Assertive,,Liberal,,
-16,"We are the only team implementing effective policies to drive the transition to the new economy, create gainful employment opportunities for all and secure a prosperous future for Australian families.",Assertive,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,"Employment figures released today reveal people looking for work under the Coalition’s new jobactive employment services model are achieving better, long-term employment outcomes.",Assertive-V,Liberal,,
+2,The Turnbull Coalition is committed to implementing effective policies to deliver jobs and growth.,Commissive-A,Liberal,Vague,
+3,The 2015 reforms to the Government’s employment services programme ,Assertive-S,Liberal,,1.0
+4,"clearly show the changes are providing significant benefits for people looking for a job, employers and the broader economy.",Assertive-V,Liberal,,
+5,"Since the start of jobactive in July 2015, jobactive providers have recorded over 321,000 placements into jobs across Australia. ",Assertive-V,Liberal,,
+6,"Of these, over 90,000 were for young job seekers under 25, over 26,000 were for Indigenous job seekers and over 11,000 were for refugees.",Assertive-V,Liberal,,
+7,"Furthermore, a marked increase in the number of people staying in employment under jobactive compared to the previous Labor Government’s Job Services Australia model demonstrates that the Coalition is getting people into a job and keeping them in a job.",Assertive-V,Liberal,,
+8,The latest data on employment outcomes for people looking for a job under jobactive shows an 5.9 per cent increase in the number of paid employment outcomes for people who have remained in work for at least 12 weeks when compared to the first eleven months under Labor’s Job Services Australia.,Assertive-V,Liberal,,
+9,"That means a greater number of people who have found work under jobactive are sticking with those jobs, compared to the old system. ",Assertive-V,Liberal,,
+10,"The Coalition’s reforms are delivering more Australians into work and keeping them there for longer – this is an outstanding result that is good for the individual, families, communities and the broader economy.",Assertive-V,Liberal,,
+11,"Clearly, the greater focus under jobactive on helping employers find candidates who are the right fit, ",Assertive-S,Liberal,,1.0
+12,is delivering a real and lasting difference in the lives of thousands of previously unemployed Australians.,Assertive-V,Liberal,,
+13,"The facts speak for themselves – our system is working in achieving sustainable, long-term outcomes for people wanting to move out of welfare and into employment.",Assertive-V,Liberal,,
+14,The Turnbull Coalition has committed $7.5 billion to the jobactive programme and is a key part of the Coalition’s employment strategy to reduce barriers to employment and promoting workforce participation.,Commissive-A,Liberal,Specific,
+15,Only the Turnbull Coalition has a carefully structured plan for jobs and growth. ,Assertive,Liberal,,
+16,"We are the only team implementing effective policies to drive the transition to the new economy, create gainful employment opportunities for all and secure a prosperous future for Australian families.",Assertive,Liberal,,

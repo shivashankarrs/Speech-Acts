@@ -1,15 +1,15 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,"The Carbon Tax will be back with even higher electricity prices if Labor is elected, and it will have the support of the potential Independents as well as the Greens.",Assertive-V,6,Labor,,
-2,"Reports today are that Tony Windsor, Rob Oakeshott and Andrew Wilkie are going to work with Bill to bring back the carbon tax if they win.",Assertive,1#3#4#5,Labor,,
-3,It’s like Groundhog Day – it’s Julia Gillard Mark II. ,Assertive,,Labor,,
-4,The same old Labor-Greens-Independent chaos.,Assertive,,Labor,,
-5,We thought Labor’s plan for a carbon tax was bad – imagine how painful it will be once the Greens and the Independents get involved.,Assertive,,Labor,,
-6,Modelling of similar targets to Labor’s confirm an expected wholesale price increase for electricity of 78 per cent by 2030 – this is from Labor’s own modelling!,Assertive-V,9,Labor,,
-7,Greens Leader Richard Di Natale has promised that a carbon tax will be one of the key issues when negotiating with Labor to form government.,Assertive,8,Labor,,
-8,Labor wreaked havoc on the Australian economy with their carbon tax and now they’re going to bring it back with the help of the Greens and a rabble of Independents.,Assertive-V,1,Labor,,
-9,The carbon tax didn’t work at reducing emissions in any significant way – it did however hurt families and business with skyrocketing power prices.,Assertive-V,10,Labor,,
-10,Don’t risk a return to Labor-Greens-Independent chaos.,Assertive,,Labor,,
-11,Australians voted at the last election to scrap the Carbon Tax ,Assertive,12,Liberal,,1.0
-12,and the Coalition delivered –,Assertive-S,13#14,Liberal,,1.0
-13,resulting in the single largest drop in electricity prices.,Assertive-V,10,Liberal,,
-14,We have demonstrated that you can reduce emissions and tackle climate change without a Carbon Tax.,Assertive-V,10,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,"The Carbon Tax will be back with even higher electricity prices if Labor is elected, and it will have the support of the potential Independents as well as the Greens.",Assertive-V,Labor,,
+2,"Reports today are that Tony Windsor, Rob Oakeshott and Andrew Wilkie are going to work with Bill to bring back the carbon tax if they win.",Assertive,Labor,,
+3,It’s like Groundhog Day – it’s Julia Gillard Mark II. ,Assertive,Labor,,
+4,The same old Labor-Greens-Independent chaos.,Assertive,Labor,,
+5,We thought Labor’s plan for a carbon tax was bad – imagine how painful it will be once the Greens and the Independents get involved.,Assertive,Labor,,
+6,Modelling of similar targets to Labor’s confirm an expected wholesale price increase for electricity of 78 per cent by 2030 – this is from Labor’s own modelling!,Assertive-V,Labor,,
+7,Greens Leader Richard Di Natale has promised that a carbon tax will be one of the key issues when negotiating with Labor to form government.,Assertive,Labor,,
+8,Labor wreaked havoc on the Australian economy with their carbon tax and now they’re going to bring it back with the help of the Greens and a rabble of Independents.,Assertive-V,Labor,,
+9,The carbon tax didn’t work at reducing emissions in any significant way – it did however hurt families and business with skyrocketing power prices.,Assertive-V,Labor,,
+10,Don’t risk a return to Labor-Greens-Independent chaos.,Assertive,Labor,,
+11,Australians voted at the last election to scrap the Carbon Tax ,Assertive,Liberal,,1.0
+12,and the Coalition delivered –,Assertive-S,Liberal,,1.0
+13,resulting in the single largest drop in electricity prices.,Assertive-V,Liberal,,
+14,We have demonstrated that you can reduce emissions and tackle climate change without a Carbon Tax.,Assertive-V,Liberal,,

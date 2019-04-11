@@ -1,15 +1,15 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,"Labor’s failure to adopt the Coalition’s means test would deliver an annual windfall of up to $176 million to families earning over $250,000 at the expense of low to middle income working families.",Assertive-V,6,Labor,,
-2,Minister for Education and Training Simon Birmingham said that splashing up to $176 million a year on higher income earners doesn’t pass the ‘fairness test’ that Bill Shorten has set for himself and Labor’s campaign.,Assertive-V,1,Labor,,
-3,"“A family earning $500,000 per year with two children in child care three days a week would be $5,000 better off under Labor, ",Assertive-V,2#4,Labor,,1.0
-4,"while under the Turnbull Government they would see a $6,680 decrease in their subsidies so that more support could be given to low and middle income families,” Minister Birmingham said.",Assertive-V,5,Liberal,,
-5,"“That compares to a family earning $100,000 per year accessing child care five days a week for two children who would be $3,187 better off under the Turnbull Government’s child care policy than Labor’s unfunded promises.",Assertive-V,,Liberal,,
-6,"“Labor’s misleading policy document shows that their claims can’t be believed, while their failure to better target $3 billion in additional spending to the hardest working families shows they can’t be trusted with the hard task of effective childcare reform.",Assertive-V,7#14,Labor,,
-7,“Labor’s child care approach is in stark contrast to the Coalition’s comprehensive reforms ,Assertive-V,,Labor,,
-8,"that are fully-funded, provide an 85 per cent rebate for the lowest income families and will benefit around one million families who work or want to work more.",Assertive-V,7#9,Liberal,,
-9,"By contrast, Labor is blowing the child care budget on families earning the most or not working at all.",Assertive-V,6#10,Labor,,
-10,“These revelations highlight Bill Shorten’s incompetence when it comes to child care.,Assertive,6,Labor,,
-11,"Families remember the last time Labor offered a band-aid solution to child care affordability by raising the Child Care Rebate from 30 to 50 per cent in 2008, ",Assertive-S,10#12,Labor,,1.0
-12,which the Productivity Commission said accelerated child care fee increases.,Assertive-V,,Labor,,
-13,"“Under the Turnbull Government the rate of fee increases is around half Labor’s - 3.6 per cent for the 2015 June quarter compared to an average of 7.8 per cent per year, and a spike of 12.9 per cent in 2009, under Labor.”",Assertive-V,12,Liberal,,
-14,“Labor’s $3 billion policy is unfair and unfunded with Bill Shorten failing to outline how he would pay for his poorly targeted cash splash.”,Assertive-V,,Labor,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,"Labor’s failure to adopt the Coalition’s means test would deliver an annual windfall of up to $176 million to families earning over $250,000 at the expense of low to middle income working families.",Assertive-V,Labor,,
+2,Minister for Education and Training Simon Birmingham said that splashing up to $176 million a year on higher income earners doesn’t pass the ‘fairness test’ that Bill Shorten has set for himself and Labor’s campaign.,Assertive-V,Labor,,
+3,"“A family earning $500,000 per year with two children in child care three days a week would be $5,000 better off under Labor, ",Assertive-V,Labor,,1.0
+4,"while under the Turnbull Government they would see a $6,680 decrease in their subsidies so that more support could be given to low and middle income families,” Minister Birmingham said.",Assertive-V,Liberal,,
+5,"“That compares to a family earning $100,000 per year accessing child care five days a week for two children who would be $3,187 better off under the Turnbull Government’s child care policy than Labor’s unfunded promises.",Assertive-V,Liberal,,
+6,"“Labor’s misleading policy document shows that their claims can’t be believed, while their failure to better target $3 billion in additional spending to the hardest working families shows they can’t be trusted with the hard task of effective childcare reform.",Assertive-V,Labor,,
+7,“Labor’s child care approach is in stark contrast to the Coalition’s comprehensive reforms ,Assertive-V,Labor,,
+8,"that are fully-funded, provide an 85 per cent rebate for the lowest income families and will benefit around one million families who work or want to work more.",Assertive-V,Liberal,,
+9,"By contrast, Labor is blowing the child care budget on families earning the most or not working at all.",Assertive-V,Labor,,
+10,“These revelations highlight Bill Shorten’s incompetence when it comes to child care.,Assertive,Labor,,
+11,"Families remember the last time Labor offered a band-aid solution to child care affordability by raising the Child Care Rebate from 30 to 50 per cent in 2008, ",Assertive-S,Labor,,1.0
+12,which the Productivity Commission said accelerated child care fee increases.,Assertive-V,Labor,,
+13,"“Under the Turnbull Government the rate of fee increases is around half Labor’s - 3.6 per cent for the 2015 June quarter compared to an average of 7.8 per cent per year, and a spike of 12.9 per cent in 2009, under Labor.”",Assertive-V,Liberal,,
+14,“Labor’s $3 billion policy is unfair and unfunded with Bill Shorten failing to outline how he would pay for his poorly targeted cash splash.”,Assertive-V,Labor,,

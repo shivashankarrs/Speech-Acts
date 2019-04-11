@@ -1,20 +1,20 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,The Turnbull Government will drive jobs and growth in South Australia by investing $43 million in the Flinders Link project – part of an $85 million extension to the Tonsley rail line.,Commissive-A,2#3#4#5#6#8#13#14#15,Liberal,Specific,
-2,The Flinders Link project will link the vibrant urban villages and employment centres of Tonsley Innovation Park and the Flinders Medical and University precinct – and for the first time connect the Flinders University campus to the Adelaide metropolitan rail network.,Commissive-O,,Liberal,,
-3,"The project extends the existing rail line, which will now terminate at a new transport interchange next to the Flinders Medical Centre.",Commissive-O,,Liberal,,
-4,The existing Tonsley Station will be removed.,Commissive-O,,Liberal,,
-5,The project also incorporates a shared pedestrian and cycle path providing better connectivity between Flinders Medical Centre and the Flinders University campus and Tonsley Innovation Park.,Commissive-O,,Liberal,,
-6,"It delivers on the Coalition’s Smart Cities Plan – providing jobs closer to homes, more affordable housing, healthy environments and better transport.",Assertive-V,,Liberal,,
-7,Public transport is essential to ensure Australian cities such as Adelaide remain world-class.,Assertive,1#8,Other,,
-8,"<LIST> In addition to Flinders Link, the Commonwealth is investing over $4 billion in public transport nationwide, including :",Commissive-A,,Liberal,Specific,1.0
-9,<li> $490 million towards Forrestfield Airport Link in Perth; </li> ,Commissive-A,8,Liberal,Specific,1.0
-10,<li> $1.7 billion towards Sydney Metro; </li> ,Commissive-A,8,Liberal,Specific,1.0
-11,<li> $860 million towards Melbourne Metro; </li> ,Commissive-A,8,Liberal,Specific,1.0
-12,<li> $95 million towards Gold Coast light rail. </li>  </LIST>,Commissive-A,8,Liberal,Specific,
-13,"Flinders Link will greatly improve access to Adelaide’s metropolitan rail network for those living in the southern suburbs of Adelaide and provide better travel options for more than 26,000 people who travel to the Flinders precinct each day.",Assertive-V,,Liberal,,
-14,"Flinders Link is not just a transport project; it leverages the National Science and Innovation agenda to accelerate the growth and development of vital innovation, health and knowledge hubs, creating almost 2,000 new jobs and driving over $800 million in additional investment.",Assertive-V,,Liberal,,
-15,"It will facilitate new high density housing, including thousands of student accommodation units, commercial and retail development, space for 100 start-up companies as well as a new business school for Flinders University.",Assertive-V,,Liberal,,
-16,Liberal candidate for Boothby Nicolle Flint has been a passionate advocate for the Flinders Link project and has already proven to be a strong local voice for residents in the electorate.,Assertive-S,1,Liberal,,
-17,"This new commitment builds on the Coalition’s existing $1.7 billion investment in the North-South Corridor, ",Assertive,1#19,Liberal,,1.0
-18,"already generating 1,330 jobs each year during construction.",Assertive-V,17,Liberal,,
-19,"Construction of the Flinders Link rail extension will be integrated with work which has recently commenced on the $620 million Darlington Project (80 per cent funded by the Commonwealth Government), which upgrades 3.3 kilometres of the North South Corridor running next to the Flinders University campus and Tonsley Park to motorway standard.",Commissive-A,1,Liberal,Specific,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,The Turnbull Government will drive jobs and growth in South Australia by investing $43 million in the Flinders Link project – part of an $85 million extension to the Tonsley rail line.,Commissive-A,Liberal,Specific,
+2,The Flinders Link project will link the vibrant urban villages and employment centres of Tonsley Innovation Park and the Flinders Medical and University precinct – and for the first time connect the Flinders University campus to the Adelaide metropolitan rail network.,Commissive-O,Liberal,,
+3,"The project extends the existing rail line, which will now terminate at a new transport interchange next to the Flinders Medical Centre.",Commissive-O,Liberal,,
+4,The existing Tonsley Station will be removed.,Commissive-O,Liberal,,
+5,The project also incorporates a shared pedestrian and cycle path providing better connectivity between Flinders Medical Centre and the Flinders University campus and Tonsley Innovation Park.,Commissive-O,Liberal,,
+6,"It delivers on the Coalition’s Smart Cities Plan – providing jobs closer to homes, more affordable housing, healthy environments and better transport.",Assertive-V,Liberal,,
+7,Public transport is essential to ensure Australian cities such as Adelaide remain world-class.,Assertive,Other,,
+8,"<LIST> In addition to Flinders Link, the Commonwealth is investing over $4 billion in public transport nationwide, including :",Commissive-A,Liberal,Specific,1.0
+9,<li> $490 million towards Forrestfield Airport Link in Perth; </li> ,Commissive-A,Liberal,Specific,1.0
+10,<li> $1.7 billion towards Sydney Metro; </li> ,Commissive-A,Liberal,Specific,1.0
+11,<li> $860 million towards Melbourne Metro; </li> ,Commissive-A,Liberal,Specific,1.0
+12,<li> $95 million towards Gold Coast light rail. </li>  </LIST>,Commissive-A,Liberal,Specific,
+13,"Flinders Link will greatly improve access to Adelaide’s metropolitan rail network for those living in the southern suburbs of Adelaide and provide better travel options for more than 26,000 people who travel to the Flinders precinct each day.",Assertive-V,Liberal,,
+14,"Flinders Link is not just a transport project; it leverages the National Science and Innovation agenda to accelerate the growth and development of vital innovation, health and knowledge hubs, creating almost 2,000 new jobs and driving over $800 million in additional investment.",Assertive-V,Liberal,,
+15,"It will facilitate new high density housing, including thousands of student accommodation units, commercial and retail development, space for 100 start-up companies as well as a new business school for Flinders University.",Assertive-V,Liberal,,
+16,Liberal candidate for Boothby Nicolle Flint has been a passionate advocate for the Flinders Link project and has already proven to be a strong local voice for residents in the electorate.,Assertive-S,Liberal,,
+17,"This new commitment builds on the Coalition’s existing $1.7 billion investment in the North-South Corridor, ",Assertive,Liberal,,1.0
+18,"already generating 1,330 jobs each year during construction.",Assertive-V,Liberal,,
+19,"Construction of the Flinders Link rail extension will be integrated with work which has recently commenced on the $620 million Darlington Project (80 per cent funded by the Commonwealth Government), which upgrades 3.3 kilometres of the North South Corridor running next to the Flinders University campus and Tonsley Park to motorway standard.",Commissive-A,Liberal,Specific,

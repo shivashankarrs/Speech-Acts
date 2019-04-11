@@ -1,12 +1,12 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,I would like to acknowledge the traditional owners of the land upon which we start the Long Walk.,Assertive,2.0,Labor,,
-2,"And I want to declare this was, it is and always will be Aboriginal land.",Assertive-V,3.0,Labor,,
-3,"Until this country can secure equal treatment for Aboriginal and Torres Strait Islander peoples, and other Australians, ",Assertive,4.0,Labor,,1.0
-4,we can not truly celebrate.,Expressive,5.0,Labor,,
-5,But I promise I will dedicate myself to the proposition that Aboriginal and Torres Strait Islander peoples deserve to have the same outcomes as every other Australian.,Commissive-A,6.0,Labor,Vague,
-6,"And until they do, it is unfinished business.",Assertive,7.0,Labor,,
-7,What happens to the equal treatment of Aboriginal and Torres Strait Islander peoples may not decide the election between Malcolm and myself.,Assertive,8.0,Labor,,
-8,"But when we have the equal treatment of Aboriginal people, then we can change the nation.",Assertive,9.0,Labor,,
-9,And we can do that together.,Assertive,,Labor,,
-10,"Congratulations, Michael.",Expressive,11.0,Other,,
-11,Let's have a great walk in a great cause.,Directive,,Other,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,I would like to acknowledge the traditional owners of the land upon which we start the Long Walk.,Assertive,Labor,,
+2,"And I want to declare this was, it is and always will be Aboriginal land.",Assertive-V,Labor,,
+3,"Until this country can secure equal treatment for Aboriginal and Torres Strait Islander peoples, and other Australians, ",Assertive,Labor,,1.0
+4,we can not truly celebrate.,Expressive,Labor,,
+5,But I promise I will dedicate myself to the proposition that Aboriginal and Torres Strait Islander peoples deserve to have the same outcomes as every other Australian.,Commissive-A,Labor,Vague,
+6,"And until they do, it is unfinished business.",Assertive,Labor,,
+7,What happens to the equal treatment of Aboriginal and Torres Strait Islander peoples may not decide the election between Malcolm and myself.,Assertive,Labor,,
+8,"But when we have the equal treatment of Aboriginal people, then we can change the nation.",Assertive,Labor,,
+9,And we can do that together.,Assertive,Labor,,
+10,"Congratulations, Michael.",Expressive,Other,,
+11,Let's have a great walk in a great cause.,Directive,Other,,

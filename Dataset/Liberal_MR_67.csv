@@ -1,16 +1,16 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,A re-elected Turnbull Coalition Government will invest in Australia’s digital services to make government more accessible.,Commissive-A,,Liberal,Vague,
-2,Innovation and technology are critical to Australia’s economic transition and form an important part of our national economic plan.,Assertive,1,Liberal,,
-3,Australians are strong adopters of technology and expect to be able to access government services from any location through their mobile device.,Assertive,1,Other,,
-4,A re-elected Turnbull Government will accelerate the digitisation of government services.,Commissive-A,1,Liberal,Vague,
-5,We are investing $50.5 million to modernise myGov.,Commissive-A,1#7#8#9,Liberal,Specific,
-6,Millions of Australians use myGov to engage with government online across a wide range of agencies.,Assertive,5,Other,,
-7,We will simplify and streamline the myGov login process. ,Commissive-O,,Liberal,,
-8,"Australians will be able to choose their own unique username, starting with their email address.",Commissive-O,,Liberal,,
-9,This investment will also enable Australians to sign into participating agencies directly without having to first go through myGov.,Commissive-O,,Liberal,,
-10,"<LIST> As part of our plan to deliver better and more accessible government services, the Coalition will also:",Commissive-A,1,Liberal,Vague,1.0
-11,<li> Deliver a digital transformation roadmap for all major government services by November 2016 </li> ,Commissive-A,1,Liberal,Specific,1.0
-12,<li> Establish a taskforce within the Prime Minister’s Department to reform government ICT procurement policies </li> ,Commissive-A,1,Liberal,Specific,1.0
-13,<li> Accelerate the release of open government data and expand the Data Start programme </li>  </LIST>,Commissive-A,1,Liberal,Vague,
-14,"As part of our commitment, we established a Digital Transformation Office in July 2015 and made innovation in government an important priority of our National Innovation and Science Agenda.",Assertive-S,1,Liberal,,
-15,The Turnbull Government will accelerate the digital transformation of government to improve the quality and accessibility of services and lower the cost of service delivery.,Commissive-A,4,Liberal,Vague,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,A re-elected Turnbull Coalition Government will invest in Australia’s digital services to make government more accessible.,Commissive-A,Liberal,Vague,
+2,Innovation and technology are critical to Australia’s economic transition and form an important part of our national economic plan.,Assertive,Liberal,,
+3,Australians are strong adopters of technology and expect to be able to access government services from any location through their mobile device.,Assertive,Other,,
+4,A re-elected Turnbull Government will accelerate the digitisation of government services.,Commissive-A,Liberal,Vague,
+5,We are investing $50.5 million to modernise myGov.,Commissive-A,Liberal,Specific,
+6,Millions of Australians use myGov to engage with government online across a wide range of agencies.,Assertive,Other,,
+7,We will simplify and streamline the myGov login process. ,Commissive-O,Liberal,,
+8,"Australians will be able to choose their own unique username, starting with their email address.",Commissive-O,Liberal,,
+9,This investment will also enable Australians to sign into participating agencies directly without having to first go through myGov.,Commissive-O,Liberal,,
+10,"<LIST> As part of our plan to deliver better and more accessible government services, the Coalition will also:",Commissive-A,Liberal,Vague,1.0
+11,<li> Deliver a digital transformation roadmap for all major government services by November 2016 </li> ,Commissive-A,Liberal,Specific,1.0
+12,<li> Establish a taskforce within the Prime Minister’s Department to reform government ICT procurement policies </li> ,Commissive-A,Liberal,Specific,1.0
+13,<li> Accelerate the release of open government data and expand the Data Start programme </li>  </LIST>,Commissive-A,Liberal,Vague,
+14,"As part of our commitment, we established a Digital Transformation Office in July 2015 and made innovation in government an important priority of our National Innovation and Science Agenda.",Assertive-S,Liberal,,
+15,The Turnbull Government will accelerate the digital transformation of government to improve the quality and accessibility of services and lower the cost of service delivery.,Commissive-A,Liberal,Vague,

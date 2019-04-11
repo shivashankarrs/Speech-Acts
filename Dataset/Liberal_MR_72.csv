@@ -1,11 +1,11 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,Today the Liberal Party has released a television advertisement,Assertive,2,Liberal,,1.0
-2,that highlights Bill Shorten’s economic hypocrisy.,Assertive-V,,Labor,,
-3,"Any sensible person, who isn’t playing pure politics, would support our plan for tax relief for small and medium Australian businesses.",Assertive,4,Liberal,,
-4,"Unfortunately, Mr Shorten is playing pure politics.",Assertive,2,Labor,,
-5,"Deep down, Mr Shorten understands the importance of lowering company tax, ",Assertive,6#7,Labor,,1.0
-6,as you can see in our new ad.,Assertive-S,1,Liberal,,
-7,"Since then, however, Mr Shorten has waged a war on business.",Assertive,8,Labor,,
-8,"While Bill is playing politics, this is not a game. ",Assertive,4#10,Labor,,
-9,Australia’s economy is at a sensitive stage.,Assertive,10,Other,,
-10,"Labor’s high tax agenda will kill incentive, cost jobs and stop the successful transition of the Australian economy dead in its tracks.",Assertive-V,,Labor,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,Today the Liberal Party has released a television advertisement,Assertive,Liberal,,1.0
+2,that highlights Bill Shorten’s economic hypocrisy.,Assertive-V,Labor,,
+3,"Any sensible person, who isn’t playing pure politics, would support our plan for tax relief for small and medium Australian businesses.",Assertive,Liberal,,
+4,"Unfortunately, Mr Shorten is playing pure politics.",Assertive,Labor,,
+5,"Deep down, Mr Shorten understands the importance of lowering company tax, ",Assertive,Labor,,1.0
+6,as you can see in our new ad.,Assertive-S,Liberal,,
+7,"Since then, however, Mr Shorten has waged a war on business.",Assertive,Labor,,
+8,"While Bill is playing politics, this is not a game. ",Assertive,Labor,,
+9,Australia’s economy is at a sensitive stage.,Assertive,Other,,
+10,"Labor’s high tax agenda will kill incentive, cost jobs and stop the successful transition of the Australian economy dead in its tracks.",Assertive-V,Labor,,

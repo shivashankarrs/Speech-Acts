@@ -1,9 +1,9 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,The Turnbull Coalition Government is extremely disappointed at news today ,Expressive,3,Liberal,,1.0
-2,that the Victorian Labor Government intends to proceed with its plan to hand over control of the Victorian Country Fire Authority to the United Firefighters Union under the guise of a destructive new Enterprise Bargaining Agreement.,Assertive-S,1,Labor,,
-3,"The Coalition stands shoulder-to-shoulder with the CFA and its 60,000 volunteers in resisting the attempts by the Labor Government to impose this new EBA on them against their will.",Commissive-A,5,Liberal,Specific,
-4,Labor’s proposed EBA will seriously weaken the CFA and will compromise the safety of millions of Victorians who rely on the CFA to keep them safe.,Assertive-V,5,Liberal,,
-5,"As the Prime Minister announced on Sunday, if re-elected, the Coalition will amend the Fair Work Act so the Act can no longer be misused to undermine volunteer emergency services bodies.",Commissive-A,8,Liberal,Specific,
-6,"This amendment will expand the range of “objectionable terms” to provide that an EBA cannot include terms that undermine the capacity of the CFA or other emergency services volunteer bodies to properly manage their own volunteer operations, or provisions that are inconsistent with the State or Territory laws that regulate such bodies.",Commissive-A,5#7,Liberal,Specific,
-7,This would render unenforceable any such objectionable terms in any such EBA or proposed EBA.,Commissive-O,,Liberal,,
-8,The Coalition’s priority will always be to protect the CFA and its volunteers and to protect the safety of Victorians.,Commissive-O,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,The Turnbull Coalition Government is extremely disappointed at news today ,Expressive,Liberal,,1.0
+2,that the Victorian Labor Government intends to proceed with its plan to hand over control of the Victorian Country Fire Authority to the United Firefighters Union under the guise of a destructive new Enterprise Bargaining Agreement.,Assertive-S,Labor,,
+3,"The Coalition stands shoulder-to-shoulder with the CFA and its 60,000 volunteers in resisting the attempts by the Labor Government to impose this new EBA on them against their will.",Commissive-A,Liberal,Specific,
+4,Labor’s proposed EBA will seriously weaken the CFA and will compromise the safety of millions of Victorians who rely on the CFA to keep them safe.,Assertive-V,Liberal,,
+5,"As the Prime Minister announced on Sunday, if re-elected, the Coalition will amend the Fair Work Act so the Act can no longer be misused to undermine volunteer emergency services bodies.",Commissive-A,Liberal,Specific,
+6,"This amendment will expand the range of “objectionable terms” to provide that an EBA cannot include terms that undermine the capacity of the CFA or other emergency services volunteer bodies to properly manage their own volunteer operations, or provisions that are inconsistent with the State or Territory laws that regulate such bodies.",Commissive-A,Liberal,Specific,
+7,This would render unenforceable any such objectionable terms in any such EBA or proposed EBA.,Commissive-O,Liberal,,
+8,The Coalition’s priority will always be to protect the CFA and its volunteers and to protect the safety of Victorians.,Commissive-O,Liberal,,

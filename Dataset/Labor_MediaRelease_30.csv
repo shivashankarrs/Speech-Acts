@@ -1,9 +1,9 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,A Shorten Labor Government will stand up for the people of New South Wales and give them a genuine say in how their councils are elected.,Commissive-A,,Labor,Vague,
-2,The Liberals’ plan to sack directly elected representatives and force councils to amalgamate is an insult to democracy and the people of New South Wales.,Assertive-V,1,Liberal,,
-3,"Labor will set aside $20 million in funding to offset the costs of the Australian Electoral Commission running plebiscites across NSW at the request of councils,  so that the people can decide how they want their local governments formed.",Commissive-A,1#4#7#8,Labor,Specific,
-4,"This will give the people of NSW the power to stand up to the Baird Liberal Government, and their plan to unilaterally dispense with democracy and force councils to merge and sack councillors.",Commissive-O,,Labor,,
-5,The plebiscites will be available for all councils.,Commissive-A,3,Labor,Specific,
-6,"Under Labor’s plan, even those councils that have been spared amalgamation would be able to request a plebiscite to affirm community support, sending a clear message to the Liberals to keep their hands off the council.",Commissive-A,3,Labor,Specific,
-7,This move is similar to the one taken by the Howard Liberal Government in 2007 when the Queensland Government amalgamated councils.,Assertive-V,,Labor,,
-8,Only Labor will ensure that the people of NSW have a say in the way their local councils are elected.,Assertive,,Labor,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,A Shorten Labor Government will stand up for the people of New South Wales and give them a genuine say in how their councils are elected.,Commissive-A,Labor,Vague,
+2,The Liberals’ plan to sack directly elected representatives and force councils to amalgamate is an insult to democracy and the people of New South Wales.,Assertive-V,Liberal,,
+3,"Labor will set aside $20 million in funding to offset the costs of the Australian Electoral Commission running plebiscites across NSW at the request of councils,  so that the people can decide how they want their local governments formed.",Commissive-A,Labor,Specific,
+4,"This will give the people of NSW the power to stand up to the Baird Liberal Government, and their plan to unilaterally dispense with democracy and force councils to merge and sack councillors.",Commissive-O,Labor,,
+5,The plebiscites will be available for all councils.,Commissive-A,Labor,Specific,
+6,"Under Labor’s plan, even those councils that have been spared amalgamation would be able to request a plebiscite to affirm community support, sending a clear message to the Liberals to keep their hands off the council.",Commissive-A,Labor,Specific,
+7,This move is similar to the one taken by the Howard Liberal Government in 2007 when the Queensland Government amalgamated councils.,Assertive-V,Labor,,
+8,Only Labor will ensure that the people of NSW have a say in the way their local councils are elected.,Assertive,Labor,,

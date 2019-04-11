@@ -1,14 +1,14 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,Today’s appearance at the National Press Club by Bill Shorten has again highlighted a crucial weakness for Labor.,Assertive,,Labor,,
-2,Mr Shorten’s boats and border protection policy is the subject that he dare not mention.,Assertive-S,1,Labor,,
-3,It is the second key speech he has given where he failed to make any reference to Labor’s boats policy after totally avoiding the issue at Labor’s campaign launch.,Assertive-S,2,Labor,,
-4,With 50 of his candidates directly opposed to his policy to “retain the option” of turning back boats Bill Shorten is dodging the issue.,Assertive-S,2,Labor,,
-5,"That’s because he knows that should Labor be returned to government the Left, led by Tanya Plibersek and Anthony Albanese, will overturn his cobbled together policy and the boats will start again.",Assertive-V,4#6,Labor,,
-6,Labor will again allow Australia’s borders to be thrown open to the people smugglers who are watching and waiting for a green light to restart their deadly trade.,Assertive-V,,Labor,,
-7,"Australians should not be hoodwinked by Bill Shorten and the missing man of this election campaign, immigration spokesman Richard Marles.",Assertive,6,Labor,,
-8,They seek to portray their policy as a carbon copy of the Turnbull Coalition Government but there is a vast difference on two of the three pillars of Operation Sovereign Borders that stopped the boats.,Assertive-V,12,Labor,,
-9,"Firstly, Labor has given no firm commitment to boat turnbacks, their policy says only that they will “retain an option” to do so.",Assertive-S,8#6,Labor,,
-10,"Secondly, they have promised to abolish the Coalition’s Temporary Protection Visas ",Assertive-S,8,Labor,,1.0
-11,which are a firm deterrent to people getting on smugglers’ illegal boats.,Assertive-V,10,Liberal,,
-12,"A return to Labor would be a return to the chaos of the Rudd-Gillard-Rudd years during which 50,000 illegal arrivals landed in 800 boats, while 8,000 children were placed in detention and 1,200 people lost their lives at sea.",Assertive-V,13,Labor,,
-13,"It is only through the Coalition’s strong border protection policies that Australia has re-taken control of our refugee programme from the people smugglers, increased the humanitarian intake and removed all children from detention.",Assertive-V,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,Today’s appearance at the National Press Club by Bill Shorten has again highlighted a crucial weakness for Labor.,Assertive,Labor,,
+2,Mr Shorten’s boats and border protection policy is the subject that he dare not mention.,Assertive-S,Labor,,
+3,It is the second key speech he has given where he failed to make any reference to Labor’s boats policy after totally avoiding the issue at Labor’s campaign launch.,Assertive-S,Labor,,
+4,With 50 of his candidates directly opposed to his policy to “retain the option” of turning back boats Bill Shorten is dodging the issue.,Assertive-S,Labor,,
+5,"That’s because he knows that should Labor be returned to government the Left, led by Tanya Plibersek and Anthony Albanese, will overturn his cobbled together policy and the boats will start again.",Assertive-V,Labor,,
+6,Labor will again allow Australia’s borders to be thrown open to the people smugglers who are watching and waiting for a green light to restart their deadly trade.,Assertive-V,Labor,,
+7,"Australians should not be hoodwinked by Bill Shorten and the missing man of this election campaign, immigration spokesman Richard Marles.",Assertive,Labor,,
+8,They seek to portray their policy as a carbon copy of the Turnbull Coalition Government but there is a vast difference on two of the three pillars of Operation Sovereign Borders that stopped the boats.,Assertive-V,Labor,,
+9,"Firstly, Labor has given no firm commitment to boat turnbacks, their policy says only that they will “retain an option” to do so.",Assertive-S,Labor,,
+10,"Secondly, they have promised to abolish the Coalition’s Temporary Protection Visas ",Assertive-S,Labor,,1.0
+11,which are a firm deterrent to people getting on smugglers’ illegal boats.,Assertive-V,Liberal,,
+12,"A return to Labor would be a return to the chaos of the Rudd-Gillard-Rudd years during which 50,000 illegal arrivals landed in 800 boats, while 8,000 children were placed in detention and 1,200 people lost their lives at sea.",Assertive-V,Labor,,
+13,"It is only through the Coalition’s strong border protection policies that Australia has re-taken control of our refugee programme from the people smugglers, increased the humanitarian intake and removed all children from detention.",Assertive-V,Liberal,,

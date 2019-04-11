@@ -1,17 +1,17 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,The Turnbull Coalition Government is supporting volunteers and providing $10 million to Surf Life Saving Australia to upgrade its volunteer training.,Commissive-A,7#11#12#13#15#16,Liberal,Specific,
-2,"<LIST> The funding, announced in Terrigal on the NSW Central Coast, includes:",Commissive-A,1,Liberal,Vague,1.0
-3,<li> $6 million to help upskill existing volunteer trainers and assessors </li> ,Commissive-A,1,Liberal,Specific,1.0
-4,<li> $1.5 million for Surf Life Saving Australia to update its technology to enhance training and reduce red tape </li> ,Commissive-A,1,Liberal,Specific,1.0
-5,"<li> $1.5 million to expand the scope of volunteer training at clubs around the country, including induction and ongoing training for both members and volunteer training managers. </li> ",Commissive-A,1,Liberal,Specific,1.0
-6,"<li> $1 million for expanded recruitment and recognition of supervisors, trainers and assessors at clubs around the country </li> </LIST>",Commissive-A,1,Liberal,Specific,
-7,Minister for Vocational Education and Skills Senator the Hon Scott Ryan said the funding would help to develop the skills of Surf Life Saving volunteers who selflessly give back to the community and allow Surf Life Saving Australia to keep its trainers up-to-date with the latest teaching methods.,Commissive-O,,Liberal,,
-8,"“Surf lifesavers, like other volunteers in the country fire services and SES, provide an essential service in the local community,” Minister Ryan said.",Assertive,9,Other,,
-9,"“Surf Life Saving Australia trains its volunteers to protect the community, lead their peers and work in a team. ",Assertive,11,Other,,
-10,These are all skills that can be practised on the beach and away from the surf club.”,Assertive,11,Other,,
-11,“This funding will help Surf Life Saving Australia to train the trainers who share their knowledge and experience with new and advancing volunteers.”,Commissive-O,,Liberal,,
-12,"Surf Life Saving Australia President Graham Ford AM, said this financial support will greatly improve the quality of existing training and enhance opportunities of volunteer surf lifesavers.",Assertive-V,,Liberal,,
-13,"“The Government’s funding will relieve much of the administrative burden on our volunteers, freeing them up to deliver front line services,"" Mr Ford said.",Assertive-V,,Liberal,,
-14,“Surf Life Saving Australia is committed to reducing the nation’s coastal drowning rate by 50% by 2020,Assertive,15,Other,,1.0
-15,and this strong Government support is a significant boost to our efforts in achieving that.”,Assertive-V,,Liberal,,
-16,"The Turnbull Coalition Government stands shoulder-to-shoulder with volunteers, who generously give back to their community.",Assertive,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,The Turnbull Coalition Government is supporting volunteers and providing $10 million to Surf Life Saving Australia to upgrade its volunteer training.,Commissive-A,Liberal,Specific,
+2,"<LIST> The funding, announced in Terrigal on the NSW Central Coast, includes:",Commissive-A,Liberal,Vague,1.0
+3,<li> $6 million to help upskill existing volunteer trainers and assessors </li> ,Commissive-A,Liberal,Specific,1.0
+4,<li> $1.5 million for Surf Life Saving Australia to update its technology to enhance training and reduce red tape </li> ,Commissive-A,Liberal,Specific,1.0
+5,"<li> $1.5 million to expand the scope of volunteer training at clubs around the country, including induction and ongoing training for both members and volunteer training managers. </li> ",Commissive-A,Liberal,Specific,1.0
+6,"<li> $1 million for expanded recruitment and recognition of supervisors, trainers and assessors at clubs around the country </li> </LIST>",Commissive-A,Liberal,Specific,
+7,Minister for Vocational Education and Skills Senator the Hon Scott Ryan said the funding would help to develop the skills of Surf Life Saving volunteers who selflessly give back to the community and allow Surf Life Saving Australia to keep its trainers up-to-date with the latest teaching methods.,Commissive-O,Liberal,,
+8,"“Surf lifesavers, like other volunteers in the country fire services and SES, provide an essential service in the local community,” Minister Ryan said.",Assertive,Other,,
+9,"“Surf Life Saving Australia trains its volunteers to protect the community, lead their peers and work in a team. ",Assertive,Other,,
+10,These are all skills that can be practised on the beach and away from the surf club.”,Assertive,Other,,
+11,“This funding will help Surf Life Saving Australia to train the trainers who share their knowledge and experience with new and advancing volunteers.”,Commissive-O,Liberal,,
+12,"Surf Life Saving Australia President Graham Ford AM, said this financial support will greatly improve the quality of existing training and enhance opportunities of volunteer surf lifesavers.",Assertive-V,Liberal,,
+13,"“The Government’s funding will relieve much of the administrative burden on our volunteers, freeing them up to deliver front line services,"" Mr Ford said.",Assertive-V,Liberal,,
+14,“Surf Life Saving Australia is committed to reducing the nation’s coastal drowning rate by 50% by 2020,Assertive,Other,,1.0
+15,and this strong Government support is a significant boost to our efforts in achieving that.”,Assertive-V,Liberal,,
+16,"The Turnbull Coalition Government stands shoulder-to-shoulder with volunteers, who generously give back to their community.",Assertive,Liberal,,

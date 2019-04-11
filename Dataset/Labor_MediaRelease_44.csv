@@ -1,12 +1,12 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,The news that Arrium has entered voluntary administration will come as a terrible blow to the workers of Arrium and their families.,Assertive-V,2#3,Labor,,
-2,Our thoughts are with Arrium’s workers and the entire Whyalla community at this time of uncertainty.,Expressive,,Labor,,
-3,Steel is a strategically significant industry for Australia; we must not become the only advanced economy in the world to let our steel industry die.,Assertive,4,Labor,,
-4,The Government needs to get serious about working with the industry to secure the future of steel making in this country.,Assertive,6,Liberal,,
-5,Australia needs a national steel plan.,Assertive,6,Labor,,
-6,Bill Shorten wrote to Malcolm Turnbull in February and called on him to act.,Directive,11,Liberal,,
-7,"<LIST> As Bill said in February, the Government should:",Directive,6#11,Liberal,,1.0
-8,"<li> lead by example and work with Australian steel producers and their supply chains to maximise the use of Australian steel in government-funded infrastructure projects across local, state and federal government;  </li>",Directive,6#11,Liberal,,1.0
-9,"<li> guarantee that they will not repeal or weaken the Australian Jobs Act, which gives local manufacturers, both large and small, the opportunity to win work on large Australian projects; and </li>",Directive,6#11,Liberal,,1.0
-10,"<li> reinstate a Local Employment Coordinator, to be responsible for assisting workers, and providing linkages between workers, government and employers. </li> </LIST>",Directive,6#11,Liberal,,
-11,"Steel can have a great future in Australia, but it will take all parties working collaboratively to achieve this.",Assertive-V,,Labor,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,The news that Arrium has entered voluntary administration will come as a terrible blow to the workers of Arrium and their families.,Assertive-V,Labor,,
+2,Our thoughts are with Arrium’s workers and the entire Whyalla community at this time of uncertainty.,Expressive,Labor,,
+3,Steel is a strategically significant industry for Australia; we must not become the only advanced economy in the world to let our steel industry die.,Assertive,Labor,,
+4,The Government needs to get serious about working with the industry to secure the future of steel making in this country.,Assertive,Liberal,,
+5,Australia needs a national steel plan.,Assertive,Labor,,
+6,Bill Shorten wrote to Malcolm Turnbull in February and called on him to act.,Directive,Liberal,,
+7,"<LIST> As Bill said in February, the Government should:",Directive,Liberal,,1.0
+8,"<li> lead by example and work with Australian steel producers and their supply chains to maximise the use of Australian steel in government-funded infrastructure projects across local, state and federal government;  </li>",Directive,Liberal,,1.0
+9,"<li> guarantee that they will not repeal or weaken the Australian Jobs Act, which gives local manufacturers, both large and small, the opportunity to win work on large Australian projects; and </li>",Directive,Liberal,,1.0
+10,"<li> reinstate a Local Employment Coordinator, to be responsible for assisting workers, and providing linkages between workers, government and employers. </li> </LIST>",Directive,Liberal,,
+11,"Steel can have a great future in Australia, but it will take all parties working collaboratively to achieve this.",Assertive-V,Labor,,

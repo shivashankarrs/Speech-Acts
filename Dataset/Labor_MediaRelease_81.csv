@@ -1,28 +1,28 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,A Shorten Labor Government will provide funding certainty to the organisations delivering the National Plan to Reduce Violence against Women and their Children.,Commissive-A,,Labor,Vague,
-2,"Labor’s commitment of $65 million over six years will ensure 1800 RESPECT, Our WATCh and Australia’s National Research Organisation for Women’s Safety (ANROWS) can continue their critical work in tackling the scourge of family violence.",Commissive-A,1#7#9#13,Labor,Specific,
-3,These organisations provide critical frontline support services to women experiencing family violence and help drive cultural change.,Assertive,2#9,Labor,,
-4,"In Australia today, one in three women has experienced physical violence since the age of 15.",Assertive,6,Other,,
-5,A woman dies at the hands of a current or former partner almost every week.,Assertive,6,Other,,
-6,These are shameful statistics which should shock us all into action.,Expressive,7,Labor,,
-7,Labor is committed to putting an end to the scourge of family violence in our community.,Commissive-O,8,Labor,,
-8,It will be one of the most important priorities of a Shorten Labor Government.,Assertive-V,,Labor,,
-9,Today’s funding commitment locks in support for these organisations to 2021-22 – giving them certainty for the life of the National Plan.,Commissive-O,,Labor,,
-10,"In Government, Labor delivered the National Plan to Reduce Violence against Women and their Children to provide a comprehensive approach to the prevention of violence against women and to improve coordination between Commonwealth, State and Territory Governments.",Assertive-S,11,Labor,,
-11,The implementation of the National Plan was always going to result in more women seeking support and it is critical that these services can continue to support women as demand increases.,Assertive-V,12,Labor,,
-12,Currently 1800 RESPECT has no funding certainty over the life of the National Plan.,Assertive-V,13,Liberal,,
-13,Labor will give them this certainty.,Commissive-O,,Labor,,
-14,"We will ensure that the funding goes directly to frontline services providers, meaning victims of abuse can speak directly to qualified professionals as quickly as possible.",Commissive-A,2#15,Labor,Specific,
-15,"In addition to providing frontline services, Australia needs to continue to build our evidence base, so that we get the best insights into how to reduce and ultimately eliminate violence against women.",Assertive,16,Labor,,
-16,"Today’s announcement will allow ANROWS to continue to improve the knowledge about the causes, consequences and factors of family violence, and how we can prevent it.",Assertive-V,17,Labor,,
-17,We also need to keep working towards stopping violence before it occurs.,Assertive,18,Labor,,
-18,"To achieve this, we need cultural change.",Assertive,19,Labor,,
-19,That is why advocacy organisations like Our WATCh are so important – to build awareness and help create a society where violence is not tolerated.,Assertive-V,,Labor,,
-20,"Today’s announcement builds on Labor’s earlier commitment to deliver more than $70 million over three years in targeted funding to ensure those suffering from family violence can access critical services, and to make domestic violence leave a universal right.",Commissive-A,2,Labor,Specific,
-21,"If elected, Labor will work alongside these organisations to ensure women and children are free to live safe from violence.",Commissive-A,2,Labor,Vague,
-22,Financial Implications,Assertive,23,Labor,,1.0
-23,"Labor will commit an additional $65.7 million over six years, a cost of $40.1 million over the forward estimates.",Commissive-A,2,Labor,Specific,
-24,<LIST> 2016-17 2017-18 2018-2019 2019-20 TOTAL,Assertive,25#26#27,Labor,,1.0
-25,<li> ANROWS 1.7 1.7 1.7 1.7 6.8 1800 </li> ,Commissive-A,23,Labor,Specific,1.0
-26,<li> RESPECT - 10.1 10.1 10.1 30.2 </li> ,Commissive-A,23,Labor,Specific,1.0
-27,<li> Our WATCh - 1.0 1.0 1.0 3.1 </li> </LIST>,Commissive-A,23,Labor,Specific,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,A Shorten Labor Government will provide funding certainty to the organisations delivering the National Plan to Reduce Violence against Women and their Children.,Commissive-A,Labor,Vague,
+2,"Labor’s commitment of $65 million over six years will ensure 1800 RESPECT, Our WATCh and Australia’s National Research Organisation for Women’s Safety (ANROWS) can continue their critical work in tackling the scourge of family violence.",Commissive-A,Labor,Specific,
+3,These organisations provide critical frontline support services to women experiencing family violence and help drive cultural change.,Assertive,Labor,,
+4,"In Australia today, one in three women has experienced physical violence since the age of 15.",Assertive,Other,,
+5,A woman dies at the hands of a current or former partner almost every week.,Assertive,Other,,
+6,These are shameful statistics which should shock us all into action.,Expressive,Labor,,
+7,Labor is committed to putting an end to the scourge of family violence in our community.,Commissive-O,Labor,,
+8,It will be one of the most important priorities of a Shorten Labor Government.,Assertive-V,Labor,,
+9,Today’s funding commitment locks in support for these organisations to 2021-22 – giving them certainty for the life of the National Plan.,Commissive-O,Labor,,
+10,"In Government, Labor delivered the National Plan to Reduce Violence against Women and their Children to provide a comprehensive approach to the prevention of violence against women and to improve coordination between Commonwealth, State and Territory Governments.",Assertive-S,Labor,,
+11,The implementation of the National Plan was always going to result in more women seeking support and it is critical that these services can continue to support women as demand increases.,Assertive-V,Labor,,
+12,Currently 1800 RESPECT has no funding certainty over the life of the National Plan.,Assertive-V,Liberal,,
+13,Labor will give them this certainty.,Commissive-O,Labor,,
+14,"We will ensure that the funding goes directly to frontline services providers, meaning victims of abuse can speak directly to qualified professionals as quickly as possible.",Commissive-A,Labor,Specific,
+15,"In addition to providing frontline services, Australia needs to continue to build our evidence base, so that we get the best insights into how to reduce and ultimately eliminate violence against women.",Assertive,Labor,,
+16,"Today’s announcement will allow ANROWS to continue to improve the knowledge about the causes, consequences and factors of family violence, and how we can prevent it.",Assertive-V,Labor,,
+17,We also need to keep working towards stopping violence before it occurs.,Assertive,Labor,,
+18,"To achieve this, we need cultural change.",Assertive,Labor,,
+19,That is why advocacy organisations like Our WATCh are so important – to build awareness and help create a society where violence is not tolerated.,Assertive-V,Labor,,
+20,"Today’s announcement builds on Labor’s earlier commitment to deliver more than $70 million over three years in targeted funding to ensure those suffering from family violence can access critical services, and to make domestic violence leave a universal right.",Commissive-A,Labor,Specific,
+21,"If elected, Labor will work alongside these organisations to ensure women and children are free to live safe from violence.",Commissive-A,Labor,Vague,
+22,Financial Implications,Assertive,Labor,,1.0
+23,"Labor will commit an additional $65.7 million over six years, a cost of $40.1 million over the forward estimates.",Commissive-A,Labor,Specific,
+24,<LIST> 2016-17 2017-18 2018-2019 2019-20 TOTAL,Assertive,Labor,,1.0
+25,<li> ANROWS 1.7 1.7 1.7 1.7 6.8 1800 </li> ,Commissive-A,Labor,Specific,1.0
+26,<li> RESPECT - 10.1 10.1 10.1 30.2 </li> ,Commissive-A,Labor,Specific,1.0
+27,<li> Our WATCh - 1.0 1.0 1.0 3.1 </li> </LIST>,Commissive-A,Labor,Specific,

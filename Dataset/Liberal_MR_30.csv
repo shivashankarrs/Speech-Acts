@@ -1,14 +1,14 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,"A re-elected Turnbull Government will fully fund a PET scanner for the people of the Northern Territory, increasing cancer treatments and keeping patients close to their families and support.",Commissive-A,2#5#10#11,Liberal,Specific,
-2,"This $15 million commitment includes both a scanner and cyclonic machine, making an enormous difference to the lives of many people across the NT.",Commissive-O,,Liberal,,
-3,"A positron emission tomography (PET) scan is a sensitive imaging procedure showing the chemical function of an organ or tissue, rather than its structure.",Assertive,4,Other,,
-4,"It helps detect and monitor cancer and other diseases, ",Assertive,5,Other,,1.0
-5,meaning Territorians will now be able to receive the best in health care in Darwin.,Assertive-V,,Liberal,,
-6,"PET can detect small amounts of tumour that are undetectable by other imaging procedures, which can have an important impact on choosing the best treatment option.",Assertive,7,Other,,
-7,"The information can then determine what combination of surgery, radiation therapy and chemotherapy is most likely to be successful in managing cancer, and helps monitor how effective the treatment is.",Assertive,10#11,Other,,
-8,Up to 300 local patients are currently forced to travel interstate each year for this scan despite having access to local oncology treatment such as radiation therapy and chemotherapy.,Assertive,10#11,Other,,
-9,"A PET scanner will help detect and monitor cancer and other diseases, ",Assertive,10#11,Other,,1.0
-10,meaning Territorians will now be able to receive the best in health care right here in Darwin.,Assertive-V,,Liberal,,
-11,It also means family and friends can also be a valuable source of local support to someone already under significant pressure because of their condition and treatment.,Assertive-V,,Liberal,,
-12,"The Turnbull Government is committed to delivering a 21st century health system to all Australians, ",Commissive-O,1#13,Liberal,,1.0
-13,"but good economic management is vital to delivering on that promise -- this truly fills the missing gap for local cancer treatment, Ms Griggs said.",Assertive-V,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,"A re-elected Turnbull Government will fully fund a PET scanner for the people of the Northern Territory, increasing cancer treatments and keeping patients close to their families and support.",Commissive-A,Liberal,Specific,
+2,"This $15 million commitment includes both a scanner and cyclonic machine, making an enormous difference to the lives of many people across the NT.",Commissive-O,Liberal,,
+3,"A positron emission tomography (PET) scan is a sensitive imaging procedure showing the chemical function of an organ or tissue, rather than its structure.",Assertive,Other,,
+4,"It helps detect and monitor cancer and other diseases, ",Assertive,Other,,1.0
+5,meaning Territorians will now be able to receive the best in health care in Darwin.,Assertive-V,Liberal,,
+6,"PET can detect small amounts of tumour that are undetectable by other imaging procedures, which can have an important impact on choosing the best treatment option.",Assertive,Other,,
+7,"The information can then determine what combination of surgery, radiation therapy and chemotherapy is most likely to be successful in managing cancer, and helps monitor how effective the treatment is.",Assertive,Other,,
+8,Up to 300 local patients are currently forced to travel interstate each year for this scan despite having access to local oncology treatment such as radiation therapy and chemotherapy.,Assertive,Other,,
+9,"A PET scanner will help detect and monitor cancer and other diseases, ",Assertive,Other,,1.0
+10,meaning Territorians will now be able to receive the best in health care right here in Darwin.,Assertive-V,Liberal,,
+11,It also means family and friends can also be a valuable source of local support to someone already under significant pressure because of their condition and treatment.,Assertive-V,Liberal,,
+12,"The Turnbull Government is committed to delivering a 21st century health system to all Australians, ",Commissive-O,Liberal,,1.0
+13,"but good economic management is vital to delivering on that promise -- this truly fills the missing gap for local cancer treatment, Ms Griggs said.",Assertive-V,Liberal,,

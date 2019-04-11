@@ -1,9 +1,9 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,My attention has been drawn to remarks by the Leader of the Opposition.,Assertive,6.0,Labor,,
-2,Parakeelia Pty Ltd is owned by the Liberal Party of Australia.,Assertive,6.0,Other,,
-3,It has been in existence for many years during the administrations of various governments.,Assertive,6.0,Other,,
-4,"It is run on a professional basis, independently audited and complies with the law.",Assertive,6.0,Other,,
-5,"In addition, as an entity of the Party, it is subject to AEC oversight.",Assertive,6.0,Other,,
-6,"If the Department of Finance, the AEC or any other relevant body has any queries the Liberal Party will fully assist as we would with any other regulatory body.",Commissive-A,,Liberal,Vague,
-7,The provision of electoral roll systems and data management by the Party complies fully with the statutory obligations imposed by the Commonwealth Electoral Act on the use of such data including the prohibition on commercialisation.,Assertive-S,6.0,Liberal,,
-8,The provision for Members and Senators to use what is now their communications allowance for this purpose is long established and set out in the relevant provisions in the Parliamentary Entitlements Act (excerpt).,Assertive,6.0,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,My attention has been drawn to remarks by the Leader of the Opposition.,Assertive,Labor,,
+2,Parakeelia Pty Ltd is owned by the Liberal Party of Australia.,Assertive,Other,,
+3,It has been in existence for many years during the administrations of various governments.,Assertive,Other,,
+4,"It is run on a professional basis, independently audited and complies with the law.",Assertive,Other,,
+5,"In addition, as an entity of the Party, it is subject to AEC oversight.",Assertive,Other,,
+6,"If the Department of Finance, the AEC or any other relevant body has any queries the Liberal Party will fully assist as we would with any other regulatory body.",Commissive-A,Liberal,Vague,
+7,The provision of electoral roll systems and data management by the Party complies fully with the statutory obligations imposed by the Commonwealth Electoral Act on the use of such data including the prohibition on commercialisation.,Assertive-S,Liberal,,
+8,The provision for Members and Senators to use what is now their communications allowance for this purpose is long established and set out in the relevant provisions in the Parliamentary Entitlements Act (excerpt).,Assertive,Liberal,,

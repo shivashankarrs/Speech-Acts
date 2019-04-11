@@ -1,24 +1,24 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,"A Shorten Labor Government will deliver to the ABC the resources it needs to boost coverage of women’s sport, giving our female sports stars the recognition they so obviously deserve.",Commissive-O,,Labor,,
-2,"Australia’s female athletes have given our country some of its greatest sporting glories in recent years – including victories for the Diamonds at the Netball World Cup in 2015, the Southern Stars at the Ashes in 2015, and the Matildas at the Asian Cup in 2010.",Assertive,3,Other,,
-3,"The Matildas will also be representing Australia at the Rio de Janeiro Olympics this year, for the first time since 2004.",Assertive,4,Other,,
-4,Yet in 2014 the Australian Sports Commission found that television coverage dedicated to women’s sport was only 7 per cent of all broadcast sports hours.,Assertive,5,Other,,
-5,[i] This is not good enough.,Assertive,,Labor,,
-6,Better television coverage is the first step toward giving our female athletes equal recognition with their male counterparts.,Assertive,7,Labor,,
-7,"Without it, sportswomen will continue to face barriers to equality in pay, corporate sponsorship and fan support.",Assertive,11,Labor,,
-8,The Abbott-Turnbull Government’s savage cuts to the national broadcaster,Assertive-S,9,Liberal,,1.0
-9,"made the problem worse,",Assertive-V,10,Liberal,,1.0
-10,contributing to the ABC’s decision to cut its regular broadcasts of women’s sport including the Women’s National Basketball League (WNBL).,Assertive-V,11,Liberal,,
-11,The $21 million in funding Labor will provide to the ABC will increase coverage of women’s sport on both television and digital platforms by approximately 500 live hours over the next four years.,Commissive-A,1#19,Labor,Specific,
-12,It is anticipated that the funding will be used to acquire the rights to female sporting competitions that are currently under-represented and where commercial broadcasters have decided not to pursue these rights.,Commissive-A,11#13,Labor,Specific,
-13,<LIST> These may include:,Assertive,14#15#16#17,Labor,,1.0
-14,<li> The ICC Women’s Cricket World Cup. </li>,Assertive,,Labor,,
-15,<li> The Women’s Hockey World Cup and Champions Trophy. </li>,Assertive,,Labor,,
-16,<li> The FIBA Women’s Basketball World Cup and the WNBL. </li>,Assertive,,Labor,,
-17,<li> The AFC Women’s Asian Cup. </li> </LIST>,Assertive,,Labor,,
-18,"The funds may also be used by the ABC to develop a dedicated women’s sport space on its digital platform iView, covering international women’s teams like the Southern Stars, Opals, Matildas, Diamonds and the Hockeyroos.",Commissive-A,12,Labor,Specific,
-19,"This month’s announcement of a landmark deal between Channel 9, Telstra and Netball Australia is a fantastic step in the right direction and shows that the time for greater recognition of Australian sportswomen has finally come.",Assertive-V,20,Labor,,
-20,Today’s announcement is part of Labor’s long-standing commitment to women in sport.,Assertive,23,Labor,,
-21,The previous Labor Government invested in female athletes through the Australian Sports Commission; supported the appointment of women to leadership positions on sports boards and governing bodies; and funded a $1.45 million Women in Sports media grant program.,Assertive-S,23,Labor,,
-22,Mr Turnbull broke a promise to the Australian people and slashed more than $250 million from the ABC.,Assertive-S,23,Liberal,,
-23,Only Labor will ensure our national broadcaster has the funds necessary to boost women’s sport.,Assertive,,Labor,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,"A Shorten Labor Government will deliver to the ABC the resources it needs to boost coverage of women’s sport, giving our female sports stars the recognition they so obviously deserve.",Commissive-O,Labor,,
+2,"Australia’s female athletes have given our country some of its greatest sporting glories in recent years – including victories for the Diamonds at the Netball World Cup in 2015, the Southern Stars at the Ashes in 2015, and the Matildas at the Asian Cup in 2010.",Assertive,Other,,
+3,"The Matildas will also be representing Australia at the Rio de Janeiro Olympics this year, for the first time since 2004.",Assertive,Other,,
+4,Yet in 2014 the Australian Sports Commission found that television coverage dedicated to women’s sport was only 7 per cent of all broadcast sports hours.,Assertive,Other,,
+5,[i] This is not good enough.,Assertive,Labor,,
+6,Better television coverage is the first step toward giving our female athletes equal recognition with their male counterparts.,Assertive,Labor,,
+7,"Without it, sportswomen will continue to face barriers to equality in pay, corporate sponsorship and fan support.",Assertive,Labor,,
+8,The Abbott-Turnbull Government’s savage cuts to the national broadcaster,Assertive-S,Liberal,,1.0
+9,"made the problem worse,",Assertive-V,Liberal,,1.0
+10,contributing to the ABC’s decision to cut its regular broadcasts of women’s sport including the Women’s National Basketball League (WNBL).,Assertive-V,Liberal,,
+11,The $21 million in funding Labor will provide to the ABC will increase coverage of women’s sport on both television and digital platforms by approximately 500 live hours over the next four years.,Commissive-A,Labor,Specific,
+12,It is anticipated that the funding will be used to acquire the rights to female sporting competitions that are currently under-represented and where commercial broadcasters have decided not to pursue these rights.,Commissive-A,Labor,Specific,
+13,<LIST> These may include:,Assertive,Labor,,1.0
+14,<li> The ICC Women’s Cricket World Cup. </li>,Assertive,Labor,,
+15,<li> The Women’s Hockey World Cup and Champions Trophy. </li>,Assertive,Labor,,
+16,<li> The FIBA Women’s Basketball World Cup and the WNBL. </li>,Assertive,Labor,,
+17,<li> The AFC Women’s Asian Cup. </li> </LIST>,Assertive,Labor,,
+18,"The funds may also be used by the ABC to develop a dedicated women’s sport space on its digital platform iView, covering international women’s teams like the Southern Stars, Opals, Matildas, Diamonds and the Hockeyroos.",Commissive-A,Labor,Specific,
+19,"This month’s announcement of a landmark deal between Channel 9, Telstra and Netball Australia is a fantastic step in the right direction and shows that the time for greater recognition of Australian sportswomen has finally come.",Assertive-V,Labor,,
+20,Today’s announcement is part of Labor’s long-standing commitment to women in sport.,Assertive,Labor,,
+21,The previous Labor Government invested in female athletes through the Australian Sports Commission; supported the appointment of women to leadership positions on sports boards and governing bodies; and funded a $1.45 million Women in Sports media grant program.,Assertive-S,Labor,,
+22,Mr Turnbull broke a promise to the Australian people and slashed more than $250 million from the ABC.,Assertive-S,Liberal,,
+23,Only Labor will ensure our national broadcaster has the funds necessary to boost women’s sport.,Assertive,Labor,,

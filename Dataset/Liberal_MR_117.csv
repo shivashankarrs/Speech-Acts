@@ -1,23 +1,23 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,A re-elected Turnbull Government will strengthen existing workplace laws to ensure better protections for workers and to stamp out exploitation by unscrupulous employers.,Commissive-A,2#22,Liberal,Vague,
-2,The Coalition’s focus on jobs and growth will be complemented by increased safeguards for vulnerable workers ,Assertive-V,,Liberal,,1.0
-3,"who have been let down in recent times as a result of blatant non-compliance with workplace laws by employers across a number of industries and in many cases, multinational corporations who ignore their obligations under Australian laws.",Assertive,2,Other,,
-4,"<LIST> Today the Turnbull Government announces that, if re-elected, stronger protections for vulnerable workers will be delivered by:",Commissive-A,1,Liberal,Specific,1.0
-5,<li> increasing the penalties that apply to employers who underpay workers and who fail to keep proper employment records.,Commissive-A,4,Liberal,Specific,
-6,"A new higher penalty category of ‘serious contraventions’ will be introduced, and will apply to any employer that has intentionally ripped off workers, regardless of the employer’s size </li>",Commissive-A,5,Liberal,Specific,1.0
-7,<li> introducing new offence provisions that capture franchisors and parent companies who fail to deal with exploitation by their franchisees </li>,Commissive-A,4,Liberal,Specific,1.0
-8,<li> delivering a $20 million funding increase for the capabilities and workforce of the Fair Work Ombudsman </li>,Commissive-A,4,Liberal,Specific,1.0
-9,<li> strengthening the powers of the Fair Work Ombudsman so that it can more effectively deal with employers who intentionally exploit workers by compelling them to produce information and answer questions </li>,Commissive-A,4,Liberal,Specific,1.0
-10,<li> establishing a Migrant Workers Taskforce in the Fair Work Ombudsman that will target employers who exploit migrant workers </li> </LIST>,Commissive-A,9,Liberal,Specific,1.0
-11,The Coalition will provide stronger and more effective laws to help prevent a recurrence of the shocking stories of exploitation that we have witnessed in recent times.,Commissive-A,4,Liberal,Vague,
-12,"The widespread non-compliance within the 7-Eleven chain is perhaps the most well-known example, however unfortunately is by no means the only one.",Assertive,11,Other,,
-13,"Given 7-Eleven’s failings to address the significant breaches of workplace laws, ",Assertive,12#14,Other,,1.0
-14,Prof Allan Fels AO and Dr David Cousins will be engaged to work with the Fair Work Ombudsman’s Migrant Workers Taskforce.,Commissive-A,11,Liberal,Specific,
-15,"The Taskforce, with advice from Professor Fels and Dr Cousins, will provide oversight and advice to the Fair Work Ombudsman to ensure that 7-Eleven rectifies the serious breaches committed by its franchise network and to ensure 7-Eleven takes responsibility for addressing its systematic failing to provide minimum entitlements to 7-Eleven franchise employees.",Commissive-A,14,Liberal,Vague,
-16,"The Coalition’s management of this issue has been strong and methodical, unlike that of Labor.",Assertive-V,21,Liberal,,
-17,Bill Shorten’s policy on the run approach has led to a deeply-flawed policy that exempts small businesses from any higher penalties.,Assertive-V,16#18,Labor,,
-18,This would mean that 7-Eleven franchisees will not be covered by Labor’s policy.,Assertive-V,19,Labor,,
-19,The existing Fair Work laws established by Labor have failed to prevent worker exploitation scandals such as 7-Eleven.,Assertive-V,20,Labor,,
-20,Labor’s proposed policy would not address such scandals.,Assertive-V,21,Labor,,
-21,The Coalition’s commitment will protect vulnerable workers and help ensure better workplaces in Australia.,Assertive-V,22,Liberal,,
-22,"A re-elected Turnbull Government will deliver jobs, growth and strong workplace protections for all workers.",Commissive-O,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,A re-elected Turnbull Government will strengthen existing workplace laws to ensure better protections for workers and to stamp out exploitation by unscrupulous employers.,Commissive-A,Liberal,Vague,
+2,The Coalition’s focus on jobs and growth will be complemented by increased safeguards for vulnerable workers ,Assertive-V,Liberal,,1.0
+3,"who have been let down in recent times as a result of blatant non-compliance with workplace laws by employers across a number of industries and in many cases, multinational corporations who ignore their obligations under Australian laws.",Assertive,Other,,
+4,"<LIST> Today the Turnbull Government announces that, if re-elected, stronger protections for vulnerable workers will be delivered by:",Commissive-A,Liberal,Specific,1.0
+5,<li> increasing the penalties that apply to employers who underpay workers and who fail to keep proper employment records.,Commissive-A,Liberal,Specific,
+6,"A new higher penalty category of ‘serious contraventions’ will be introduced, and will apply to any employer that has intentionally ripped off workers, regardless of the employer’s size </li>",Commissive-A,Liberal,Specific,1.0
+7,<li> introducing new offence provisions that capture franchisors and parent companies who fail to deal with exploitation by their franchisees </li>,Commissive-A,Liberal,Specific,1.0
+8,<li> delivering a $20 million funding increase for the capabilities and workforce of the Fair Work Ombudsman </li>,Commissive-A,Liberal,Specific,1.0
+9,<li> strengthening the powers of the Fair Work Ombudsman so that it can more effectively deal with employers who intentionally exploit workers by compelling them to produce information and answer questions </li>,Commissive-A,Liberal,Specific,1.0
+10,<li> establishing a Migrant Workers Taskforce in the Fair Work Ombudsman that will target employers who exploit migrant workers </li> </LIST>,Commissive-A,Liberal,Specific,1.0
+11,The Coalition will provide stronger and more effective laws to help prevent a recurrence of the shocking stories of exploitation that we have witnessed in recent times.,Commissive-A,Liberal,Vague,
+12,"The widespread non-compliance within the 7-Eleven chain is perhaps the most well-known example, however unfortunately is by no means the only one.",Assertive,Other,,
+13,"Given 7-Eleven’s failings to address the significant breaches of workplace laws, ",Assertive,Other,,1.0
+14,Prof Allan Fels AO and Dr David Cousins will be engaged to work with the Fair Work Ombudsman’s Migrant Workers Taskforce.,Commissive-A,Liberal,Specific,
+15,"The Taskforce, with advice from Professor Fels and Dr Cousins, will provide oversight and advice to the Fair Work Ombudsman to ensure that 7-Eleven rectifies the serious breaches committed by its franchise network and to ensure 7-Eleven takes responsibility for addressing its systematic failing to provide minimum entitlements to 7-Eleven franchise employees.",Commissive-A,Liberal,Vague,
+16,"The Coalition’s management of this issue has been strong and methodical, unlike that of Labor.",Assertive-V,Liberal,,
+17,Bill Shorten’s policy on the run approach has led to a deeply-flawed policy that exempts small businesses from any higher penalties.,Assertive-V,Labor,,
+18,This would mean that 7-Eleven franchisees will not be covered by Labor’s policy.,Assertive-V,Labor,,
+19,The existing Fair Work laws established by Labor have failed to prevent worker exploitation scandals such as 7-Eleven.,Assertive-V,Labor,,
+20,Labor’s proposed policy would not address such scandals.,Assertive-V,Labor,,
+21,The Coalition’s commitment will protect vulnerable workers and help ensure better workplaces in Australia.,Assertive-V,Liberal,,
+22,"A re-elected Turnbull Government will deliver jobs, growth and strong workplace protections for all workers.",Commissive-O,Liberal,,

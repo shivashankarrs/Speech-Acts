@@ -1,24 +1,24 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,Labor is today releasing its positive plan for Victoria.,Assertive,5,Labor,,
-2,"As a result of the Abbott-Turnbull Governments attacks on manufacturing and other industries,",Assertive-S,3,Liberal,,1.0
-3,many Victorian families are facing uncertainty as jobs are disappearing.,Assertive-V,4,Liberal,,
-4,Victorians deserve a Federal Government with a clear plan to transition the economy in a way that protects local jobs and improves living standards.,Assertive,5,Other,,
-5,Labor has a plan to invest in the job-creating infrastructure that will create jobs and drive the Victorian economy for the next generation.,Commissive-A,6#7,Labor,Vague,
-6,We have developed more than 100 positive policies for Victorian families ,Assertive,7,Labor,,1.0
-7,"and our initiatives will create more than 5,000 real and local jobs for Victorians.",Commissive-O,,Labor,,
-8,<LIST> A Shorten Labor Government will :,Assertive,6#9#11#12#15#16#18#19,Labor,,1.0
-9,"<li> Invest in the Melbourne Metro project, which will add capacity to Melbournes existing transport network. ",Commissive-A,5#10#20,Labor,Vague,
-10,Five new underground stations will be built and 65 new high-capacity trains will be added. ,Commissive-O,,Labor,,
-11,"Labor will fund up to 12,000 extra park-and-ride commuter car parks across the Melbourne network. </li> ",Commissive-A,5#20,Labor,Specific,
-12,<li> Invest in rail and roads through a Victorian Regional Roads package that includes extra funding for the Great Ocean Road. </li> ,Commissive-A,5#20,Labor,Specific,
-13,"<li> Fund transport infrastructure including widening the M80 Ring Road and the Monash Freeway, Murray Basin Rail, upgrades to the Bridge Inn Road in Mernda, Thompsons Road in Melbournes south east, OHerns Road and Craigieburn Road.",Commissive-A,12,Labor,Specific,
-14,We'll also extend the number 11 tram route. </li> ,Commissive-A,12,Labor,Specific,
-15,"<li> Protect Medicare  Labor will reverse the Liberals freeze on the Medicare Benefits Schedule, meaning an average family with two children in Victoria will be $400 a year better off. </li> ",Commissive-A,5#20,Labor,Specific,
-16,<li> Invest in hospitals  Labor will increase funding for Victorian hospitals over the next four years.,Commissive-A,5#17#20,Labor,Specific,
-17,Hospitals in Victoria can expect to receive about $500 million more than they would under the Liberals. </li> ,Assertive-V,,Labor,,
-18,"<li> Deliver child care support that is faster, fairer and more affordable  many of the 185,770 families in Victoria who rely on the Child Care Rebate will be up to $2,500 a year better off. </li> ",Commissive-A,5#20,Labor,Vague,
-19,"<li> Invest in our nations schools including $815 million more in targeted, needs based funding for Victorian schools in 2018. </li> </LIST>",Commissive-A,5#20,Labor,Specific,
-20,These are just some of our positive policies for Victoria.,Assertive,21,Labor,,
-21,"This election, there is a clear choice for Victorians.",Assertive,22#23,Other,,
-22,"Malcolm Turnbull and the Liberals will cut local schools and destroy Medicare, while recklessly spending $50 billion on a tax break for banks and big business.",Assertive-V,23,Liberal,,
-23,"A Shorten Labor Government will save Medicare, improve schools, invest in job-creating infrastructure and protect middle and working class families.",Commissive-A,,Labor,Vague,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,Labor is today releasing its positive plan for Victoria.,Assertive,Labor,,
+2,"As a result of the Abbott-Turnbull Governments attacks on manufacturing and other industries,",Assertive-S,Liberal,,1.0
+3,many Victorian families are facing uncertainty as jobs are disappearing.,Assertive-V,Liberal,,
+4,Victorians deserve a Federal Government with a clear plan to transition the economy in a way that protects local jobs and improves living standards.,Assertive,Other,,
+5,Labor has a plan to invest in the job-creating infrastructure that will create jobs and drive the Victorian economy for the next generation.,Commissive-A,Labor,Vague,
+6,We have developed more than 100 positive policies for Victorian families ,Assertive,Labor,,1.0
+7,"and our initiatives will create more than 5,000 real and local jobs for Victorians.",Commissive-O,Labor,,
+8,<LIST> A Shorten Labor Government will :,Assertive,Labor,,1.0
+9,"<li> Invest in the Melbourne Metro project, which will add capacity to Melbournes existing transport network. ",Commissive-A,Labor,Vague,
+10,Five new underground stations will be built and 65 new high-capacity trains will be added. ,Commissive-O,Labor,,
+11,"Labor will fund up to 12,000 extra park-and-ride commuter car parks across the Melbourne network. </li> ",Commissive-A,Labor,Specific,
+12,<li> Invest in rail and roads through a Victorian Regional Roads package that includes extra funding for the Great Ocean Road. </li> ,Commissive-A,Labor,Specific,
+13,"<li> Fund transport infrastructure including widening the M80 Ring Road and the Monash Freeway, Murray Basin Rail, upgrades to the Bridge Inn Road in Mernda, Thompsons Road in Melbournes south east, OHerns Road and Craigieburn Road.",Commissive-A,Labor,Specific,
+14,We'll also extend the number 11 tram route. </li> ,Commissive-A,Labor,Specific,
+15,"<li> Protect Medicare  Labor will reverse the Liberals freeze on the Medicare Benefits Schedule, meaning an average family with two children in Victoria will be $400 a year better off. </li> ",Commissive-A,Labor,Specific,
+16,<li> Invest in hospitals  Labor will increase funding for Victorian hospitals over the next four years.,Commissive-A,Labor,Specific,
+17,Hospitals in Victoria can expect to receive about $500 million more than they would under the Liberals. </li> ,Assertive-V,Labor,,
+18,"<li> Deliver child care support that is faster, fairer and more affordable  many of the 185,770 families in Victoria who rely on the Child Care Rebate will be up to $2,500 a year better off. </li> ",Commissive-A,Labor,Vague,
+19,"<li> Invest in our nations schools including $815 million more in targeted, needs based funding for Victorian schools in 2018. </li> </LIST>",Commissive-A,Labor,Specific,
+20,These are just some of our positive policies for Victoria.,Assertive,Labor,,
+21,"This election, there is a clear choice for Victorians.",Assertive,Other,,
+22,"Malcolm Turnbull and the Liberals will cut local schools and destroy Medicare, while recklessly spending $50 billion on a tax break for banks and big business.",Assertive-V,Liberal,,
+23,"A Shorten Labor Government will save Medicare, improve schools, invest in job-creating infrastructure and protect middle and working class families.",Commissive-A,Labor,Vague,

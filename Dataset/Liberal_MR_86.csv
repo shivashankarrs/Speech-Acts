@@ -1,17 +1,17 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,"Bill Shorten’s Shadow Employment Minister, Brendan O’Connor, has today confirmed that Bill Shorten and federal Labor are fully supporting the state Labor Government’s agenda to hand over control of the Victorian CFA to the United Firefighters Union.",Assertive-S,2#7,Labor,,
-2,"This policy, and the measures being used by Daniel Andrews to impose the policy, ",Assertive,3,Labor,,1.0
-3,have shocked and alarmed all decent Victorians who support CFA volunteers.,Expressive,,Labor,,
-4,"Mr Andrews is implementing his union takeover by bullying a Minister into resigning, bullying the CFA board by sacking them, and continuing to pursue an EBA that the Government and the CFA’s legal advice have confirmed is unlawful and discriminatory.",Assertive-V,2#6,Labor,,
-5,"On Sky News Australian Agenda this morning, Mr O’Connor was asked on four separate occasions whether federal Labor supported Mr Andrews’ approach.",Assertive,6,Labor,,
-6,On each occasion he confirmed that federal Labor supports the tactics of bullying and union cronyism that Daniel Andrews is using to “resolve” this issue.,Assertive,,Labor,,
-7,The Turnbull Government’s position is the exact opposite.,Assertive-S,8#9,Liberal,,
-8,"The Coalition stands shoulder to shoulder with the CFA and its volunteers, who are being abused and brow-beaten by a bullying Premier.",Commissive-A,10,Liberal,Vague,
-9,"If re-elected, the Coalition will amend the Fair Work Act so the Act can no longer be misused to undermine volunteer emergency services bodies.",Commissive-A,10,Liberal,Specific,
-10,Mr O’Connor also confirmed that Bill Shorten will not support the Coalition’s legislation to save the CFA:,Assertive,12,Labor,,1.0
-11,“…as I’m advised and having looked at the proposed by Malcolm Turnbull this is not practical it is not something that will remedy the problem”,Assertive-V,10,Liberal,,
-12,Bill Shorten supports Daniel Andrews’ deal to destroy the CFA because he himself is part of the deal.,Assertive,16,Labor,,
-13,"The sell-out of 60,000 Victorian CFA volunteers is the direct result of the deal done by Labor to prevent the UFU making good on its threat to campaign against them during this election.",Assertive,12#14,Labor,,
-14,In April this year Mr Shorten met with UFU secretary Peter Marshall in his Canberra office to do this deal.,Assertive,,Labor,,
-15,Media reports on Friday further confirmed that Mr Shorten’s two most senior Victorian frontbenchers – Stephen Conroy and Kim Carr – spent last week in discussions with the UFU to reach the “deal” that was rammed through by Daniel Andrews on Friday.,Assertive,12,Labor,,
-16,"There can now be no doubt where Mr Shorten stands – his policy is to support the UFU takeover of the CFA and to abandon the 60,000 volunteers who keep millions of Victorians safe.",Assertive-V,,Labor,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,"Bill Shorten’s Shadow Employment Minister, Brendan O’Connor, has today confirmed that Bill Shorten and federal Labor are fully supporting the state Labor Government’s agenda to hand over control of the Victorian CFA to the United Firefighters Union.",Assertive-S,Labor,,
+2,"This policy, and the measures being used by Daniel Andrews to impose the policy, ",Assertive,Labor,,1.0
+3,have shocked and alarmed all decent Victorians who support CFA volunteers.,Expressive,Labor,,
+4,"Mr Andrews is implementing his union takeover by bullying a Minister into resigning, bullying the CFA board by sacking them, and continuing to pursue an EBA that the Government and the CFA’s legal advice have confirmed is unlawful and discriminatory.",Assertive-V,Labor,,
+5,"On Sky News Australian Agenda this morning, Mr O’Connor was asked on four separate occasions whether federal Labor supported Mr Andrews’ approach.",Assertive,Labor,,
+6,On each occasion he confirmed that federal Labor supports the tactics of bullying and union cronyism that Daniel Andrews is using to “resolve” this issue.,Assertive,Labor,,
+7,The Turnbull Government’s position is the exact opposite.,Assertive-S,Liberal,,
+8,"The Coalition stands shoulder to shoulder with the CFA and its volunteers, who are being abused and brow-beaten by a bullying Premier.",Commissive-A,Liberal,Vague,
+9,"If re-elected, the Coalition will amend the Fair Work Act so the Act can no longer be misused to undermine volunteer emergency services bodies.",Commissive-A,Liberal,Specific,
+10,Mr O’Connor also confirmed that Bill Shorten will not support the Coalition’s legislation to save the CFA:,Assertive,Labor,,1.0
+11,“…as I’m advised and having looked at the proposed by Malcolm Turnbull this is not practical it is not something that will remedy the problem”,Assertive-V,Liberal,,
+12,Bill Shorten supports Daniel Andrews’ deal to destroy the CFA because he himself is part of the deal.,Assertive,Labor,,
+13,"The sell-out of 60,000 Victorian CFA volunteers is the direct result of the deal done by Labor to prevent the UFU making good on its threat to campaign against them during this election.",Assertive,Labor,,
+14,In April this year Mr Shorten met with UFU secretary Peter Marshall in his Canberra office to do this deal.,Assertive,Labor,,
+15,Media reports on Friday further confirmed that Mr Shorten’s two most senior Victorian frontbenchers – Stephen Conroy and Kim Carr – spent last week in discussions with the UFU to reach the “deal” that was rammed through by Daniel Andrews on Friday.,Assertive,Labor,,
+16,"There can now be no doubt where Mr Shorten stands – his policy is to support the UFU takeover of the CFA and to abandon the 60,000 volunteers who keep millions of Victorians safe.",Assertive-V,Labor,,

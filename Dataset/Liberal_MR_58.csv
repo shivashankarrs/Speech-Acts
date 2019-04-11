@@ -1,63 +1,63 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,“The consequences of litigation against the CFMEU for a small business can be fatal.”,Assertive-V,,Other,,
-2,- Finding by the Trade Union Royal Commission.,Assertive,1,Other,,
-3,Bill Shorten has declared war on business.,Assertive,,Labor,,
-4,"Each day of the campaign, the damage of Labor’s war on business becomes clearer.",Assertive,3,Labor,,
-5,"Since the campaign commenced on May 8, Fair Work Building & Construction (FWBC) has released details of seven court actions and findings against the CFMEU [see below].",Assertive,1#8,Other,,
-6,Detailed below is a vignette of the threats and intimidation that small and large businesses face drawn from one of the proceedings commenced by the FWBC over the past four weeks.,Assertive,5,Other,,
-7,"The CFMEU has been fined a total of $193,825 over the past four weeks.",Assertive,6,Other,,
-8,"Yet Mr Shorten continues to support this rogue union at the expense of small businesses in particular, ",Assertive-S,10,Labor,,1.0
-9,as the Royal Commission into Trade Union Governance and Corruption succinctly noted.,Assertive,8,Labor,,
-10,"Mr Shorten is denying these companies the full protection of the industry regulator with teeth that can enforce the law, ",Assertive-S,12#13,Labor,,1.0
-11,he is also bent on hitting Australian businesses with higher taxes.,Assertive-S,12#13,Labor,,
-12,It is a multi-pronged attack on businesses that collectively employ one million people.,Assertive-V,3,Labor,,
-13,Denying small business the full protection of the law; denying businesses tax cuts; increasing the Capital Gains Tax; abolishing Negative Gearing; increasing the burden of personal income tax and increasing the cost of electricity is an attack on business – the driver of economic growth and jobs.,Assertive-V,3,Labor,,
-14,<LIST> VIGNETTE -,Assertive,6,Other,,1.0
-15,"<li> On the morning of 5 December 2014, CFMEU official Drew MacDonald parked a vehicle across the entrance to the Aldi Supermarket construction site in Altona, saying to the site manager, “no panels going up today”. </li> ",Assertive,17#18,Other,,
-16,"<li> Mr MacDonald, CFMEU official John Duggan and others who were not working on the site then stood around the vehicle and a second vehicle that had been parked across the entrance, preventing access by trucks carrying construction equipment and materials to the site. ",Assertive,17#18,Other,,
-17,"As a result, no building work was able to take place that day. ",Assertive,19,Other,,
-18,The Victorian Police were called to the site to monitor the situation and ensure it did not escalate. </li> ,Assertive,19,Other,,
-19,"<li> Mr MacDonald returned to the site on the morning of 8 December 2014 and again blockaded the entrance with a vehicle, preventing any building work from occurring on the site for a second day. </li> ",Assertive,20#22,Other,,
-20,"<li> These actions followed a number of representations made by Mr MacDonald to the construction company in November 2014, requesting that they make an enterprise agreement with the CFMEU. ",Assertive,21,Other,,
-21,"When the company refused, Mr MacDonald said “I wish you good luck ’cause there will be trouble.” </li> ",Assertive,,Other,,
-22,"<li> The blockade also followed several representations made by Mr Duggan to a subcontractor engaged by the construction company, demanding that the subcontractor refuse to carry out work on the site on the basis that the head contractor did not have an enterprise agreement with the CFMEU. </li>  </LIST>",Assertive,,Other,,
-23,[Source: https://www.fwbc.gov.au/news-and-media/latest-news-and-media/cfmeu-court-coercion-after-allegedly-blockading-construction-site],Assertive,14,Other,,
-24,<LIST> CASES AND FINDINGS -,Assertive,5,Other,,1.0
-25,<li> FWBC seeks Federal Court injunctions to end stoppages at Commonwealth Games site </li> ,Assertive,24,Other,,1.0
-26,2016-06-02 00:00:00,Assertive,25,Other,,1.0
-27,Media Release – excerpt,Assertive,25,Other,,1.0
-28,Fair Work Building and Construction has commenced proceedings in the Federal Court against the CFMEU and two of its officials to seek injunctions in an effort to put an end to over three weeks of rolling work stoppages at the Carrara Sports and Recreation Project on Queensland’s Gold Coast.,Assertive-V,25,Other,,
-29,"Since 9 May 2016, work on the $126 million taxpayer-funded project – a key piece of infrastructure for the 2018 Commonwealth Games – has been disrupted by twice-daily, two hour‑long ‘union meetings’ organised by the CFMEU.",Assertive-V,25,Other,,
-30,<li> Victorian CFMEU officials added to No Permit list </li> ,Assertive,24,Other,,1.0
-31,2016-06-02 00:00:00,Assertive,30,Other,,1.0
-32,Media Release – excerpt,Assertive,30,Other,,1.0
-33,Victorian CFMEU officials Alex Tadic and Drew MacDonald have been added to the no permit list after the Fair Work Commission dismissed their applications to renew their Right of Entry permits.,Assertive-V,30,Other,,
-34,Fair Work Building and Construction (FWBC) opposed the permit applications of Mr Tadic and Mr MacDonald on the basis that neither of them met the ‘fit and proper person’ test to be granted federal right of entry powers.,Assertive-V,30,Other,,
-35,"In handing down his decision to refuse Mr MacDonald a Right of Entry Permit, Vice President Watson of the Fair Work Commission highlighted that",Assertive-V,30,Other,,1.0
-36,"Blockades at Perth Airport construction site lead to $21,225 in penalties",Assertive-V,35,Other,,1.0
-37,2016-05-30 00:00:00,Assertive,36,Other,,1.0
-38,"Penalties totalling $21,225 have been ordered against the CFMEU, the six of its officials including State Secretary Mick Buchan and Assistant State Secretary Joe McDonald following the blockade of the $80 million Perth International Airport Arrivals Expansion project.",Assertive-V,36,Other,,
-39,"The Federal Court found that on 22 October 2013, the officials organised a blockade of the project involving approximately 100 protestors who prevented 160 workers from accessing the site following a dispute with one of the subcontractors engaged on the project.",Assertive-V,36,Other,,
-40,<li> CFMEU in court for coercion after allegedly blockading construction site </li> ,Assertive,24,Other,,1.0
-41,2016-05-25 00:00:00,Assertive,40,Other,,1.0
-42,Media Release – excerpt,Assertive,40,Other,,1.0
-43,The CFMEU and two of its officials are facing civil penalties in the Federal Court after allegedly blockading a Melbourne building site in an attempt to force a construction company to sign up to an enterprise agreement with the union.,Assertive-V,40,Other,,
-44,<LIST> FWBC’s statement of claim outlines the following allegations :,Assertive-V,40,Other,,1.0
-45,"<li> On the morning of 5 December 2014, CFMEU official Drew MacDonald parked a vehicle across the entrance to the Aldi Supermarket construction site in Altona, saying to the site manager, “no panels going up today”. </li>  </LIST> ",Assertive-V,44,Other,,
-46,<li> CFMEU in court for allegedly closing down Geelong Grammar construction site </li> ,Assertive,24,Other,,1.0
-47,2016-05-24 00:00:00,Assertive,46,Other,,1.0
-48,Media Release – excerpt,Assertive,46,Other,,1.0
-49,"The CFMEU and one of its officials, Brendan Murphy, are facing Federal Court action following claims Mr Murphy breached right of entry provisions and delayed construction work being undertaken at the Geelong Grammar School on 3 December 2014.",Assertive-V,46,Other,,
-50,"In its statement of claim, FWBC alleges the following :",Assertive-V,46,Other,,1.0
-51,"Darwin industrial action leads to $94,600 penalty ",Assertive-V,50,Other,,1.0
-52,2016-05-16 00:00:00,Assertive,51,Other,,1.0
-53,Media Release – excerpt,Assertive,51,Other,,1.0
-54,"Penalties totalling $94,600 have been ordered against the CFMEU, the CEPU and three union officials following unlawful industrial action targeting the $45 billion Ichthys LNG development, one of the world’s most significant oil and gas projects.",Assertive-V,51,Other,,
-55,The penalties arise from action taken at the project’s “park and ride” facilities at Yarrawonga and Darwin airport. ,Assertive,51,Other,,
-56,The facilities allowed workers to park their vehicles before being transported by bus to the project’s onshore facility at Bladin Point near Darwin,Assertive,51,Other,,1.0
-57,"<li> CFMEU and official fined $78,000: Judge says official “not the least bit troubled about breaking the law” </li>  </LIST>",Assertive-V,24,Other,,1.0
-58,2016-05-13 00:00:00,Assertive,57,Other,,1.0
-59,Media Release – excerpt,Assertive,57,Other,,1.0
-60,"The CFMEU and official Joe Myles have been dealt penalties of $78,000 for blockading the taxpayer-funded $4.3 billion Regional Rail Link project site, preventing the delivery of concrete to the site and causing tonnes of wastage.",Assertive,57,Other,,
-61,"Notably, Mr Myles was penalised $18,000 with Judge Mortimer ordering that the CFMEU must not reimburse Mr Myles, or pay the penalty on his behalf. ",Assertive,57,Other,,
-62,"The CFMEU was also penalised $60,000.",Assertive,57,Other,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,“The consequences of litigation against the CFMEU for a small business can be fatal.”,Assertive-V,Other,,
+2,- Finding by the Trade Union Royal Commission.,Assertive,Other,,
+3,Bill Shorten has declared war on business.,Assertive,Labor,,
+4,"Each day of the campaign, the damage of Labor’s war on business becomes clearer.",Assertive,Labor,,
+5,"Since the campaign commenced on May 8, Fair Work Building & Construction (FWBC) has released details of seven court actions and findings against the CFMEU [see below].",Assertive,Other,,
+6,Detailed below is a vignette of the threats and intimidation that small and large businesses face drawn from one of the proceedings commenced by the FWBC over the past four weeks.,Assertive,Other,,
+7,"The CFMEU has been fined a total of $193,825 over the past four weeks.",Assertive,Other,,
+8,"Yet Mr Shorten continues to support this rogue union at the expense of small businesses in particular, ",Assertive-S,Labor,,1.0
+9,as the Royal Commission into Trade Union Governance and Corruption succinctly noted.,Assertive,Labor,,
+10,"Mr Shorten is denying these companies the full protection of the industry regulator with teeth that can enforce the law, ",Assertive-S,Labor,,1.0
+11,he is also bent on hitting Australian businesses with higher taxes.,Assertive-S,Labor,,
+12,It is a multi-pronged attack on businesses that collectively employ one million people.,Assertive-V,Labor,,
+13,Denying small business the full protection of the law; denying businesses tax cuts; increasing the Capital Gains Tax; abolishing Negative Gearing; increasing the burden of personal income tax and increasing the cost of electricity is an attack on business – the driver of economic growth and jobs.,Assertive-V,Labor,,
+14,<LIST> VIGNETTE -,Assertive,Other,,1.0
+15,"<li> On the morning of 5 December 2014, CFMEU official Drew MacDonald parked a vehicle across the entrance to the Aldi Supermarket construction site in Altona, saying to the site manager, “no panels going up today”. </li> ",Assertive,Other,,
+16,"<li> Mr MacDonald, CFMEU official John Duggan and others who were not working on the site then stood around the vehicle and a second vehicle that had been parked across the entrance, preventing access by trucks carrying construction equipment and materials to the site. ",Assertive,Other,,
+17,"As a result, no building work was able to take place that day. ",Assertive,Other,,
+18,The Victorian Police were called to the site to monitor the situation and ensure it did not escalate. </li> ,Assertive,Other,,
+19,"<li> Mr MacDonald returned to the site on the morning of 8 December 2014 and again blockaded the entrance with a vehicle, preventing any building work from occurring on the site for a second day. </li> ",Assertive,Other,,
+20,"<li> These actions followed a number of representations made by Mr MacDonald to the construction company in November 2014, requesting that they make an enterprise agreement with the CFMEU. ",Assertive,Other,,
+21,"When the company refused, Mr MacDonald said “I wish you good luck ’cause there will be trouble.” </li> ",Assertive,Other,,
+22,"<li> The blockade also followed several representations made by Mr Duggan to a subcontractor engaged by the construction company, demanding that the subcontractor refuse to carry out work on the site on the basis that the head contractor did not have an enterprise agreement with the CFMEU. </li>  </LIST>",Assertive,Other,,
+23,[Source: https://www.fwbc.gov.au/news-and-media/latest-news-and-media/cfmeu-court-coercion-after-allegedly-blockading-construction-site],Assertive,Other,,
+24,<LIST> CASES AND FINDINGS -,Assertive,Other,,1.0
+25,<li> FWBC seeks Federal Court injunctions to end stoppages at Commonwealth Games site </li> ,Assertive,Other,,1.0
+26,2016-06-02 00:00:00,Assertive,Other,,1.0
+27,Media Release – excerpt,Assertive,Other,,1.0
+28,Fair Work Building and Construction has commenced proceedings in the Federal Court against the CFMEU and two of its officials to seek injunctions in an effort to put an end to over three weeks of rolling work stoppages at the Carrara Sports and Recreation Project on Queensland’s Gold Coast.,Assertive-V,Other,,
+29,"Since 9 May 2016, work on the $126 million taxpayer-funded project – a key piece of infrastructure for the 2018 Commonwealth Games – has been disrupted by twice-daily, two hour‑long ‘union meetings’ organised by the CFMEU.",Assertive-V,Other,,
+30,<li> Victorian CFMEU officials added to No Permit list </li> ,Assertive,Other,,1.0
+31,2016-06-02 00:00:00,Assertive,Other,,1.0
+32,Media Release – excerpt,Assertive,Other,,1.0
+33,Victorian CFMEU officials Alex Tadic and Drew MacDonald have been added to the no permit list after the Fair Work Commission dismissed their applications to renew their Right of Entry permits.,Assertive-V,Other,,
+34,Fair Work Building and Construction (FWBC) opposed the permit applications of Mr Tadic and Mr MacDonald on the basis that neither of them met the ‘fit and proper person’ test to be granted federal right of entry powers.,Assertive-V,Other,,
+35,"In handing down his decision to refuse Mr MacDonald a Right of Entry Permit, Vice President Watson of the Fair Work Commission highlighted that",Assertive-V,Other,,1.0
+36,"Blockades at Perth Airport construction site lead to $21,225 in penalties",Assertive-V,Other,,1.0
+37,2016-05-30 00:00:00,Assertive,Other,,1.0
+38,"Penalties totalling $21,225 have been ordered against the CFMEU, the six of its officials including State Secretary Mick Buchan and Assistant State Secretary Joe McDonald following the blockade of the $80 million Perth International Airport Arrivals Expansion project.",Assertive-V,Other,,
+39,"The Federal Court found that on 22 October 2013, the officials organised a blockade of the project involving approximately 100 protestors who prevented 160 workers from accessing the site following a dispute with one of the subcontractors engaged on the project.",Assertive-V,Other,,
+40,<li> CFMEU in court for coercion after allegedly blockading construction site </li> ,Assertive,Other,,1.0
+41,2016-05-25 00:00:00,Assertive,Other,,1.0
+42,Media Release – excerpt,Assertive,Other,,1.0
+43,The CFMEU and two of its officials are facing civil penalties in the Federal Court after allegedly blockading a Melbourne building site in an attempt to force a construction company to sign up to an enterprise agreement with the union.,Assertive-V,Other,,
+44,<LIST> FWBC’s statement of claim outlines the following allegations :,Assertive-V,Other,,1.0
+45,"<li> On the morning of 5 December 2014, CFMEU official Drew MacDonald parked a vehicle across the entrance to the Aldi Supermarket construction site in Altona, saying to the site manager, “no panels going up today”. </li>  </LIST> ",Assertive-V,Other,,
+46,<li> CFMEU in court for allegedly closing down Geelong Grammar construction site </li> ,Assertive,Other,,1.0
+47,2016-05-24 00:00:00,Assertive,Other,,1.0
+48,Media Release – excerpt,Assertive,Other,,1.0
+49,"The CFMEU and one of its officials, Brendan Murphy, are facing Federal Court action following claims Mr Murphy breached right of entry provisions and delayed construction work being undertaken at the Geelong Grammar School on 3 December 2014.",Assertive-V,Other,,
+50,"In its statement of claim, FWBC alleges the following :",Assertive-V,Other,,1.0
+51,"Darwin industrial action leads to $94,600 penalty ",Assertive-V,Other,,1.0
+52,2016-05-16 00:00:00,Assertive,Other,,1.0
+53,Media Release – excerpt,Assertive,Other,,1.0
+54,"Penalties totalling $94,600 have been ordered against the CFMEU, the CEPU and three union officials following unlawful industrial action targeting the $45 billion Ichthys LNG development, one of the world’s most significant oil and gas projects.",Assertive-V,Other,,
+55,The penalties arise from action taken at the project’s “park and ride” facilities at Yarrawonga and Darwin airport. ,Assertive,Other,,
+56,The facilities allowed workers to park their vehicles before being transported by bus to the project’s onshore facility at Bladin Point near Darwin,Assertive,Other,,1.0
+57,"<li> CFMEU and official fined $78,000: Judge says official “not the least bit troubled about breaking the law” </li>  </LIST>",Assertive-V,Other,,1.0
+58,2016-05-13 00:00:00,Assertive,Other,,1.0
+59,Media Release – excerpt,Assertive,Other,,1.0
+60,"The CFMEU and official Joe Myles have been dealt penalties of $78,000 for blockading the taxpayer-funded $4.3 billion Regional Rail Link project site, preventing the delivery of concrete to the site and causing tonnes of wastage.",Assertive,Other,,
+61,"Notably, Mr Myles was penalised $18,000 with Judge Mortimer ordering that the CFMEU must not reimburse Mr Myles, or pay the penalty on his behalf. ",Assertive,Other,,
+62,"The CFMEU was also penalised $60,000.",Assertive,Other,,

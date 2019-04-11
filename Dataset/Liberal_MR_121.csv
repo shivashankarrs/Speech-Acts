@@ -1,30 +1,30 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,"Labor’s infrastructure spokesman Anthony Albanese has disclosed an extraordinary backflip on WestConnex, ",Assertive-V,,Labor,,1.0
-2,revealing that a Shorten Labor government would withdraw support for this transformative project.,Assertive-S,1,Labor,,
-3,"That’s despite Albanese having previously claimed credit for WestConnex on multiple occasions,  boasting on 12 May 2014 that Labor provided $1.8 billion for WestConnex, ",Assertive,1#4,Labor,,1.0
-4,and criticising the Coalition on 15 May 2014 for committing less than Labor had committed to the project.,Assertive-V,,Liberal,,
-5,"In a 2013 media release, Mr Albanese highlighted the benefits of WestConnex in, “helping western and south-western Sydney residents to cut back on travel times and improve the quality of life they can enjoy with their families.”",Assertive-V,1,Labor,,
-6,"The reason for Mr Albanese’s backflip is well known – as the sitting Member for Grayndler, he is fighting for his political life at the next election after a redistribution which favoured his Greens opponent.",Assertive,,Labor,,
-7,"Following a Greens media release calling for the project to be scrapped and for funding to be abolished, ",Assertive,8,Other,,1.0
-8,Mr Albanese told a meeting in his electorate on 19 May that Labor was withdrawing support for WestConnex:,Assertive-S,6,Labor,,1.0
-9,ALBANESE: The fact is if I am the transport minister there will be not one dollar from the federal Labor government for this WestConnex project.,Assertive-S,8#10,Labor,,
-10,Labor’s recent track record means this is unlikely to be just rhetoric.,Assertive-V,,Labor,,
-11,"Chasing Greens votes in inner-city Melbourne, ",Assertive,6#12,Labor,,1.0
-12,Victorian Labor in late-2014 said it would cancel the vital East West Link project.,Assertive-S,13,Labor,,
-13,"Upon coming to government, it tore up the contracts – ",Assertive-S,10#14,Labor,,1.0
-14,"wasting $1.1 billion of taxpayers’ money, according to the Victorian Auditor-General.",Assertive-V,,Labor,,
-15,"On 22 May 2016, Bill Shorten announced Labor would cancel funding for the Perth Freight Link project,",Assertive-S,10#16,Labor,,1.0
-16,"again to secure Greens votes, this time in the seat of Fremantle.",Assertive,6,Labor,,
-17,This is despite Perth Freight Link and WestConnex being rated by Infrastructure Australia as two of the country’s four ‘high priority’ infrastructure projects.,Assertive-V,15,Labor,,
-18,WestConnex is a project that will deliver real benefits to millions of people in western and southwestern Sydney – such as cutting travel time from Parramatta to Sydney Airport by 40 minutes.,Assertive-V,22,Other,,
-19,"WestConnex will widen and extend both the M4 and M5 motorways and take traffic off local residential streets, including large sections in underground tunnels, meaning less time stuck in traffic, quicker trips to and from work, and easier travel between western and south western Sydney and other parts of the Sydney metropolitan area.",Assertive-V,22,Other,,
-20,The business case shows the benefits of WestConnex exceed the costs by 70 per cent.,Assertive-V,22,Other,,
-21,Infrastructure Australia recommends the project proceed.,Assertive-V,17#22,Other,,
-22,That is why the Turnbull Government is supporting the project – with $1.5 billion in grant funding and a $2 billion concessional loan.,Assertive-S,23#24#29,Liberal,,
-23,"However, only half of the Commonwealth’s $1.5 billion grant funding has been paid to New South Wales so far, and no money has yet been paid under the $2 billion concessional loan.",Assertive-V,,Liberal,,
-24,This means that significant amounts will remain to be paid if Labor comes to government.,Assertive,26,Labor,,
-25,"Given Mr Albanese’s commitment that ‘not one dollar’ of Commonwealth money would flow to WestConnex,",Assertive-S,26,Labor,,1.0
-26,this must raise grave concerns about what actions Mr Albanese might take in government.,Assertive-V,27,Labor,,
-27,Federal Labor would seek to deprive the people of western and south western Sydney of the benefits Mr Albanese himself identified in his 2013 media release – ,Assertive-V,29,Labor,,1.0
-28,all because Labor politicians like Anthony Albanese and Tanya Plibersek were trying to win Greens votes in their inner-city electorates.,Assertive,27,Labor,,
-29,Only a re-elected Turnbull Coalition Government can be trusted to deliver WestConnex.,Assertive,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,"Labor’s infrastructure spokesman Anthony Albanese has disclosed an extraordinary backflip on WestConnex, ",Assertive-V,Labor,,1.0
+2,revealing that a Shorten Labor government would withdraw support for this transformative project.,Assertive-S,Labor,,
+3,"That’s despite Albanese having previously claimed credit for WestConnex on multiple occasions,  boasting on 12 May 2014 that Labor provided $1.8 billion for WestConnex, ",Assertive,Labor,,1.0
+4,and criticising the Coalition on 15 May 2014 for committing less than Labor had committed to the project.,Assertive-V,Liberal,,
+5,"In a 2013 media release, Mr Albanese highlighted the benefits of WestConnex in, “helping western and south-western Sydney residents to cut back on travel times and improve the quality of life they can enjoy with their families.”",Assertive-V,Labor,,
+6,"The reason for Mr Albanese’s backflip is well known – as the sitting Member for Grayndler, he is fighting for his political life at the next election after a redistribution which favoured his Greens opponent.",Assertive,Labor,,
+7,"Following a Greens media release calling for the project to be scrapped and for funding to be abolished, ",Assertive,Other,,1.0
+8,Mr Albanese told a meeting in his electorate on 19 May that Labor was withdrawing support for WestConnex:,Assertive-S,Labor,,1.0
+9,ALBANESE: The fact is if I am the transport minister there will be not one dollar from the federal Labor government for this WestConnex project.,Assertive-S,Labor,,
+10,Labor’s recent track record means this is unlikely to be just rhetoric.,Assertive-V,Labor,,
+11,"Chasing Greens votes in inner-city Melbourne, ",Assertive,Labor,,1.0
+12,Victorian Labor in late-2014 said it would cancel the vital East West Link project.,Assertive-S,Labor,,
+13,"Upon coming to government, it tore up the contracts – ",Assertive-S,Labor,,1.0
+14,"wasting $1.1 billion of taxpayers’ money, according to the Victorian Auditor-General.",Assertive-V,Labor,,
+15,"On 22 May 2016, Bill Shorten announced Labor would cancel funding for the Perth Freight Link project,",Assertive-S,Labor,,1.0
+16,"again to secure Greens votes, this time in the seat of Fremantle.",Assertive,Labor,,
+17,This is despite Perth Freight Link and WestConnex being rated by Infrastructure Australia as two of the country’s four ‘high priority’ infrastructure projects.,Assertive-V,Labor,,
+18,WestConnex is a project that will deliver real benefits to millions of people in western and southwestern Sydney – such as cutting travel time from Parramatta to Sydney Airport by 40 minutes.,Assertive-V,Other,,
+19,"WestConnex will widen and extend both the M4 and M5 motorways and take traffic off local residential streets, including large sections in underground tunnels, meaning less time stuck in traffic, quicker trips to and from work, and easier travel between western and south western Sydney and other parts of the Sydney metropolitan area.",Assertive-V,Other,,
+20,The business case shows the benefits of WestConnex exceed the costs by 70 per cent.,Assertive-V,Other,,
+21,Infrastructure Australia recommends the project proceed.,Assertive-V,Other,,
+22,That is why the Turnbull Government is supporting the project – with $1.5 billion in grant funding and a $2 billion concessional loan.,Assertive-S,Liberal,,
+23,"However, only half of the Commonwealth’s $1.5 billion grant funding has been paid to New South Wales so far, and no money has yet been paid under the $2 billion concessional loan.",Assertive-V,Liberal,,
+24,This means that significant amounts will remain to be paid if Labor comes to government.,Assertive,Labor,,
+25,"Given Mr Albanese’s commitment that ‘not one dollar’ of Commonwealth money would flow to WestConnex,",Assertive-S,Labor,,1.0
+26,this must raise grave concerns about what actions Mr Albanese might take in government.,Assertive-V,Labor,,
+27,Federal Labor would seek to deprive the people of western and south western Sydney of the benefits Mr Albanese himself identified in his 2013 media release – ,Assertive-V,Labor,,1.0
+28,all because Labor politicians like Anthony Albanese and Tanya Plibersek were trying to win Greens votes in their inner-city electorates.,Assertive,Labor,,
+29,Only a re-elected Turnbull Coalition Government can be trusted to deliver WestConnex.,Assertive,Liberal,,

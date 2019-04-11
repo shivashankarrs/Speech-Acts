@@ -1,28 +1,28 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,"Today on World Environment Day, the Coalition is delighted to announce",Expressive,2,Liberal,,1.0
-2,that a re-elected Turnbull Government will create a $5 million Threatened Species Recovery Fund to support local communities in the fight to protect Australia’s vulnerable wildlife.,Commissive-A,3#16,Liberal,Specific,
-3,The Fund will provide seed money and community grants for local projects that strongly align with the targets of Australia’s Threatened Species Strategy.,Commissive-O,,Liberal,,
-4,"Across Australian local communities, environment groups and ‘friends of’ groups are working tirelessly to protect our vulnerable species.",Assertive,5,Other,,
-5,We want to support their efforts.,Assertive,6,Liberal,,
-6,"The first nine projects to be supported by the new Fund will focus on community conservation efforts in Queensland, New South Wales, Western Australia, Victoria and Tasmania.",Commissive-O,3,Liberal,,
-7,Examples of these projects include work to control predators and improve habitat in far north Queensland to protect the Southern Cassowary; creating a new secure population in Western Australia of Gilbert’s Potoroo – the world’s rarest marsupial; predator control in Tasmania’s Meander Valley to protect the Eastern Barred Bandicoot and Eastern Quoll.,Commissive-O,6,Liberal,,
-8,Australia’s unacceptably high rate of species extinction is a problem that needed a fresh approach.,Assertive,9,Liberal,,
-9,That is why the Coalition Government appointed Australia’s first Threatened Species Commissioner and released Australia’s first Threatened Species Strategy.,Assertive-S,3#12#13,Liberal,,
-10,"The Strategy contains ambitious but achievable targets to turn around the trajectory of 20 priority birds, 20 priority mammals and 30 priority plants by 2020.",Assertive-S,9,Liberal,,
-11,"It also commits to the creation of five feral cat-free island, 10 mainland feral cat-free wildlife enclosures and the culling of two million feral cats.",Assertive-S,9,Liberal,,
-12,"For the first time ever, threatened species have an Australian Government policy framework with hard and measurable targets.",Assertive-V,14,Liberal,,
-13,"Since the appointment of the Threatened Species Commissioner in June 2014, the Australian Government has mobilised more than $208 million for projects that directly support and protect our threatened species.",Assertive-V,14,Liberal,,
-14,However protecting our vulnerable wildlife is not a task that governments can do alone.,Assertive,15,Liberal,,
-15,"We can only be successful by working in partnership with all levels of government, the private sector and the community.",Assertive,16,Liberal,,
-16,"The Threatened Species Recovery Fund will help galvanise community action on the ground, where it is needed most.",Assertive-V,,Liberal,,
-17,<LIST> The initial projects to be funded under the Threatened Species Recovery Fund include:,Commissive-O,6#16,Liberal,,1.0
-18,<li> State Community Group Species Funding Description </li>,Assertive,6#16,Liberal,,1.0
-19,"<li> WA Gilbert’s Potoroo Action Group Gilbert’s Potoroo $250,000 Improving the status of the world’s rarest marsupial by creating one new secure population </li>",Commissive-O,6#16,Liberal,,1.0
-20,"<li> WA Martu Traditional Owners Mala, Golden Bandicoot $250,000 Assisting in the re-introduction of up to 6 threatened mammal species and the remove feral cats </li>",Commissive-O,6#16,Liberal,,1.0
-21,"<li> QLD Cassowary Recovery Team Cassowary $150,000 Working with Indigenous communities to conduct feral pig control and fire management in Cape York to improve habitat for the northern population of the Cassowary </li>",Commissive-O,6#16,Liberal,,1.0
-22,"<li> QLD Mungarru Lodge Sanctuary Mahogany Glider $50,000 Helping landholders and community groups build habitat to reverse the decline of the Mahogany Glider </li>",Commissive-O,6#16,Liberal,,1.0
-23,"<li> QLD Friends of Ormeau Bottle Tree Ormeau Bottle Tree $20,000 Fencing off populations, seed collection and banking, propagation and replanting, invasive weed control </li>",Commissive-O,6#16,Liberal,,1.0
-24,"<li> NSW Hunter Bird Observers Club Eastern Curlew $20,000 Restoring saltmarsh habitat for migratory shorebirds at flyway sites </li>",Commissive-O,6#16,Liberal,,1.0
-25,"<li> TAS Meander Valley Catchment Landcare Group Eastern Barred Bandicoot, Eastern Quoll $90,000 Supporting feral cat trapping activities and humane euthanasia along with increasing community awareness and engagement </li>",Commissive-O,6#16,Liberal,,1.0
-26,"<li> VIC Friends of Helmeted Honeyeater Helmeted Honeyeater $50,000 Propagation and revegetation at Yellingbo </li>",Commissive-O,6#16,Liberal,,1.0
-27,"<li> VIC Friends of Terrick Terrick National Park Plains Wanderer $20,000 Working with Parks Victoria to plant native shrubs and conduct surveys of birds in Terrick Terrick National Park </li> </LIST>",Commissive-O,6#16,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,"Today on World Environment Day, the Coalition is delighted to announce",Expressive,Liberal,,1.0
+2,that a re-elected Turnbull Government will create a $5 million Threatened Species Recovery Fund to support local communities in the fight to protect Australia’s vulnerable wildlife.,Commissive-A,Liberal,Specific,
+3,The Fund will provide seed money and community grants for local projects that strongly align with the targets of Australia’s Threatened Species Strategy.,Commissive-O,Liberal,,
+4,"Across Australian local communities, environment groups and ‘friends of’ groups are working tirelessly to protect our vulnerable species.",Assertive,Other,,
+5,We want to support their efforts.,Assertive,Liberal,,
+6,"The first nine projects to be supported by the new Fund will focus on community conservation efforts in Queensland, New South Wales, Western Australia, Victoria and Tasmania.",Commissive-O,Liberal,,
+7,Examples of these projects include work to control predators and improve habitat in far north Queensland to protect the Southern Cassowary; creating a new secure population in Western Australia of Gilbert’s Potoroo – the world’s rarest marsupial; predator control in Tasmania’s Meander Valley to protect the Eastern Barred Bandicoot and Eastern Quoll.,Commissive-O,Liberal,,
+8,Australia’s unacceptably high rate of species extinction is a problem that needed a fresh approach.,Assertive,Liberal,,
+9,That is why the Coalition Government appointed Australia’s first Threatened Species Commissioner and released Australia’s first Threatened Species Strategy.,Assertive-S,Liberal,,
+10,"The Strategy contains ambitious but achievable targets to turn around the trajectory of 20 priority birds, 20 priority mammals and 30 priority plants by 2020.",Assertive-S,Liberal,,
+11,"It also commits to the creation of five feral cat-free island, 10 mainland feral cat-free wildlife enclosures and the culling of two million feral cats.",Assertive-S,Liberal,,
+12,"For the first time ever, threatened species have an Australian Government policy framework with hard and measurable targets.",Assertive-V,Liberal,,
+13,"Since the appointment of the Threatened Species Commissioner in June 2014, the Australian Government has mobilised more than $208 million for projects that directly support and protect our threatened species.",Assertive-V,Liberal,,
+14,However protecting our vulnerable wildlife is not a task that governments can do alone.,Assertive,Liberal,,
+15,"We can only be successful by working in partnership with all levels of government, the private sector and the community.",Assertive,Liberal,,
+16,"The Threatened Species Recovery Fund will help galvanise community action on the ground, where it is needed most.",Assertive-V,Liberal,,
+17,<LIST> The initial projects to be funded under the Threatened Species Recovery Fund include:,Commissive-O,Liberal,,1.0
+18,<li> State Community Group Species Funding Description </li>,Assertive,Liberal,,1.0
+19,"<li> WA Gilbert’s Potoroo Action Group Gilbert’s Potoroo $250,000 Improving the status of the world’s rarest marsupial by creating one new secure population </li>",Commissive-O,Liberal,,1.0
+20,"<li> WA Martu Traditional Owners Mala, Golden Bandicoot $250,000 Assisting in the re-introduction of up to 6 threatened mammal species and the remove feral cats </li>",Commissive-O,Liberal,,1.0
+21,"<li> QLD Cassowary Recovery Team Cassowary $150,000 Working with Indigenous communities to conduct feral pig control and fire management in Cape York to improve habitat for the northern population of the Cassowary </li>",Commissive-O,Liberal,,1.0
+22,"<li> QLD Mungarru Lodge Sanctuary Mahogany Glider $50,000 Helping landholders and community groups build habitat to reverse the decline of the Mahogany Glider </li>",Commissive-O,Liberal,,1.0
+23,"<li> QLD Friends of Ormeau Bottle Tree Ormeau Bottle Tree $20,000 Fencing off populations, seed collection and banking, propagation and replanting, invasive weed control </li>",Commissive-O,Liberal,,1.0
+24,"<li> NSW Hunter Bird Observers Club Eastern Curlew $20,000 Restoring saltmarsh habitat for migratory shorebirds at flyway sites </li>",Commissive-O,Liberal,,1.0
+25,"<li> TAS Meander Valley Catchment Landcare Group Eastern Barred Bandicoot, Eastern Quoll $90,000 Supporting feral cat trapping activities and humane euthanasia along with increasing community awareness and engagement </li>",Commissive-O,Liberal,,1.0
+26,"<li> VIC Friends of Helmeted Honeyeater Helmeted Honeyeater $50,000 Propagation and revegetation at Yellingbo </li>",Commissive-O,Liberal,,1.0
+27,"<li> VIC Friends of Terrick Terrick National Park Plains Wanderer $20,000 Working with Parks Victoria to plant native shrubs and conduct surveys of birds in Terrick Terrick National Park </li> </LIST>",Commissive-O,Liberal,,

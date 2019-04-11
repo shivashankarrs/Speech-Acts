@@ -1,29 +1,29 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,"Bill Shorten’s war on business is not just his tax attack, but also new and investment stifling bureaucracies.",Assertive-V,26,Labor,,
-2,His innocuous sounding Domestic Gas Review Board is just one example.,Assertive-V,1#3#7#10#11#12#15#23,Labor,,
-3,"Not only will this new bureaucracy increase red tape, kill investment and result in less reliable gas supplies for Australian consumers and industry – it will also hand over control of Australia’s world leading gas industry to the Australian Workers Union who co-wrote the policy with shadow treasurer, Chris Bowen.",Assertive-V,27,Labor,,
-4,"Under Mr Shorten’s new bureaucracy gas companies will have to jump through several hoops before an approval for a new gas export facility is won, or if there is a significant expansion in an existing natural gas export facility.",Assertive-V,3,Labor,,
-5,"After the Board forms a view of an application, taking into account cost benefit analysis, the economic, social, strategic, regional, industrial and employment impacts, it then passes on its recommendation to the Treasurer.",Assertive,4#6,Labor,,
-6,"The Treasurer then has to seek the advice of the Minister for Industry, the Minister Resources and other cabinet members.",Assertive,4,Labor,,
-7,"No wonder former Labor Resource Minister, Martin Ferguson slated the idea saying: “Surely any responsible government, any responsible political party, would not be about undermining investor confidence in Australia by talking about a national interest test, but would actually be working with private investors to remove barriers to investment.",Assertive-V,3#8#15,Labor,,
-8,"“To raise the spectre of sovereign risk for short term political horizons is not what the Labor Party I grew up in was about.” (The Australian, 19 May, 2016)",Assertive,9,Labor,,
-9,This wasn’t the first time Mr Ferguson slammed this ALP/AWU policy.,Assertive,10,Labor,,
-10,"In March 2015 he described it as an “investment killer” and “poor policy at the best of times” (Sydney Morning Herald, 23 March 2015).",Assertive-V,3#15,Labor,,
-11,"His successor, Gary Gray, has also panned the policy stating that “a reservation policy could not lead to lower gas prices or more gas.” (The Land, 10 July 2013)",Assertive-V,3#15,Labor,,
-12,"Even South Australian Labor Treasurer and Minister for Mineral Resources and Energy, Tom Koutsantonis, had the guts to stand up to the AWU and declare the policy would:",Assertive-S,13#15,Labor,,1.0
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,"Bill Shorten’s war on business is not just his tax attack, but also new and investment stifling bureaucracies.",Assertive-V,Labor,,
+2,His innocuous sounding Domestic Gas Review Board is just one example.,Assertive-V,Labor,,
+3,"Not only will this new bureaucracy increase red tape, kill investment and result in less reliable gas supplies for Australian consumers and industry – it will also hand over control of Australia’s world leading gas industry to the Australian Workers Union who co-wrote the policy with shadow treasurer, Chris Bowen.",Assertive-V,Labor,,
+4,"Under Mr Shorten’s new bureaucracy gas companies will have to jump through several hoops before an approval for a new gas export facility is won, or if there is a significant expansion in an existing natural gas export facility.",Assertive-V,Labor,,
+5,"After the Board forms a view of an application, taking into account cost benefit analysis, the economic, social, strategic, regional, industrial and employment impacts, it then passes on its recommendation to the Treasurer.",Assertive,Labor,,
+6,"The Treasurer then has to seek the advice of the Minister for Industry, the Minister Resources and other cabinet members.",Assertive,Labor,,
+7,"No wonder former Labor Resource Minister, Martin Ferguson slated the idea saying: “Surely any responsible government, any responsible political party, would not be about undermining investor confidence in Australia by talking about a national interest test, but would actually be working with private investors to remove barriers to investment.",Assertive-V,Labor,,
+8,"“To raise the spectre of sovereign risk for short term political horizons is not what the Labor Party I grew up in was about.” (The Australian, 19 May, 2016)",Assertive,Labor,,
+9,This wasn’t the first time Mr Ferguson slammed this ALP/AWU policy.,Assertive,Labor,,
+10,"In March 2015 he described it as an “investment killer” and “poor policy at the best of times” (Sydney Morning Herald, 23 March 2015).",Assertive-V,Labor,,
+11,"His successor, Gary Gray, has also panned the policy stating that “a reservation policy could not lead to lower gas prices or more gas.” (The Land, 10 July 2013)",Assertive-V,Labor,,
+12,"Even South Australian Labor Treasurer and Minister for Mineral Resources and Energy, Tom Koutsantonis, had the guts to stand up to the AWU and declare the policy would:",Assertive-S,Labor,,1.0
 13,"“kill investment stone dead” (27 February 2015 – The Australian); 
-",Assertive-V,3#14,Labor,,1.0
-14,"and “reduce investment and leave gas in the ground, leading to higher prices for industrial and retail customers and threatening thousands of South Australian jobs” (March 11 2015 – The Australian).",Assertive-V,3,Labor,,
-15,The industry has been just as scathing. ,Assertive-V,23,Labor,,
-16,"The head of the Australian Petroleum and Production and Exploration Association, Malcolm Roberts echoed the concerns: ",Expressive,15,Liberal,,1.0
-17,“The national interest test on gas exports announced today by the Labor Party is poor policy that would discourage rather than stimulate investment in developing Australia’s gas reserves.”,Assertive-V,3#16,Labor,,
-18,"On Wednesday, Chris Bowen, didn’t even have the courage to attend the Australian Petroleum Production and Exploration Association annual conference being held in Brisbane to defend his policy, despite being in the same city.",Assertive,19#20,Labor,,
-19,"The AFR reported on 9 June, 2016 that: Central Petroleum chief executive and gas industry veteran Richard Cottee said Labor leaders should have appeared to explain their policies, especially since LNG exports drive economic growth.",Assertive,,Labor,,
-20,“They had a chance to explain exactly what their policy meant – around the national interest test – ,Assertive,21,Labor,,1.0
-21,"and you’re not willing to talk about it in an election campaign?”, Mr Cottee said.",Interrogative,22,Labor,,
-22,"“It is bizarre and shows a disregard for an important sector that is driving the economy, I would have said.”",Assertive-V,15,Labor,,
-23,Others were equally scathing.,Assertive-V,,Labor,,
-24,"Peter Strickland, the chief executive of oil and gas explorer MEO Australia, said the no show was “more than disappointing.”",Expressive,23,Labor,,
-25,"“The opportunity was here: there were four senior federal Labor members including the opposition leader himself in the same building as the premier industry conference in the country and yet it wasn’t possible to get their views presented to delegates,” Mr Strickland said.",Assertive,24,Labor,,
-26,Labor is bad for business. ,Assertive-V,27,Labor,,
-27,"Handing over control of the industry to a left leaning Treasurer, beholden to the Greens and the unions would not only be bad for business it would be bad for Australia.",Assertive-V,,Labor,,
+",Assertive-V,Labor,,1.0
+14,"and “reduce investment and leave gas in the ground, leading to higher prices for industrial and retail customers and threatening thousands of South Australian jobs” (March 11 2015 – The Australian).",Assertive-V,Labor,,
+15,The industry has been just as scathing. ,Assertive-V,Labor,,
+16,"The head of the Australian Petroleum and Production and Exploration Association, Malcolm Roberts echoed the concerns: ",Expressive,Liberal,,1.0
+17,“The national interest test on gas exports announced today by the Labor Party is poor policy that would discourage rather than stimulate investment in developing Australia’s gas reserves.”,Assertive-V,Labor,,
+18,"On Wednesday, Chris Bowen, didn’t even have the courage to attend the Australian Petroleum Production and Exploration Association annual conference being held in Brisbane to defend his policy, despite being in the same city.",Assertive,Labor,,
+19,"The AFR reported on 9 June, 2016 that: Central Petroleum chief executive and gas industry veteran Richard Cottee said Labor leaders should have appeared to explain their policies, especially since LNG exports drive economic growth.",Assertive,Labor,,
+20,“They had a chance to explain exactly what their policy meant – around the national interest test – ,Assertive,Labor,,1.0
+21,"and you’re not willing to talk about it in an election campaign?”, Mr Cottee said.",Interrogative,Labor,,
+22,"“It is bizarre and shows a disregard for an important sector that is driving the economy, I would have said.”",Assertive-V,Labor,,
+23,Others were equally scathing.,Assertive-V,Labor,,
+24,"Peter Strickland, the chief executive of oil and gas explorer MEO Australia, said the no show was “more than disappointing.”",Expressive,Labor,,
+25,"“The opportunity was here: there were four senior federal Labor members including the opposition leader himself in the same building as the premier industry conference in the country and yet it wasn’t possible to get their views presented to delegates,” Mr Strickland said.",Assertive,Labor,,
+26,Labor is bad for business. ,Assertive-V,Labor,,
+27,"Handing over control of the industry to a left leaning Treasurer, beholden to the Greens and the unions would not only be bad for business it would be bad for Australia.",Assertive-V,Labor,,

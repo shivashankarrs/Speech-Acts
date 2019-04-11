@@ -1,14 +1,14 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,A re-elected Turnbull Government will enhance existing visitor visas to enable sponsored parents to visit their family in Australia for a continuous period of up to five years.,Commissive-A,6,Liberal,Specific,
-2,"Currently, the parents of Australian citizens and permanent residents who have lodged a permanent parental visa application may be issued with a visitor visa of up to five years duration, on a case-by-case basis.",Assertive,1,Other,,
-3,"If returned to Office, the Coalition will remove the requirement for these parents to have lodged a concurrent permanent parental visa application.",Commissive-A,1,Liberal,Specific,
-4,"“The Coalition recognises that many Australians, including our growing South Asian and Chinese communities, face particular pressures through the separation of children from parents and grandchildren from grandparents,” Mr Dutton said.",Assertive,5,Liberal,,
-5,"“We want to help families reunite and spend time together, ",Assertive,6,Liberal,,1.0
-6,while ensuring that we do so in a way that does not burden Australia’s health care system.”,Commissive-A,9#13,Liberal,Vague,
-7,Visitors applying for the enhanced parental visitor visa will need to demonstrate that they hold adequate private health insurance from an Australian provider. ,Commissive-A,6,Liberal,Specific,
-8,They or their sponsoring family will also be required to pay a bond based on the existing Assurance of Support Scheme.,Commissive-A,6,Liberal,Specific,
-9,<LIST> These measures build on the Coalition’s strong record of visa reform to enhance our national economic and social prosperity including :,Assertive-V,13,Liberal,,1.0
-10,"<li> Three-year multiple entry tourist visas for Indian, Chinese and other nationals. </li> ",Assertive-S,9,Liberal,,
-11,"<li> Premium processing in key markets, including India. </li> ",Assertive-S,9,Liberal,,
-12,<li> A 10-year visitor visa and on-line Chinese language application for approved Chinese nationals. </li>  </LIST>,Assertive-S,9,Liberal,,
-13,"Confidence in Australia’s migration programme has grown under the Coalition, according to the Scanlon Foundation, as order has been restored to the border following Labor’s years of chaos.",Assertive-V,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,A re-elected Turnbull Government will enhance existing visitor visas to enable sponsored parents to visit their family in Australia for a continuous period of up to five years.,Commissive-A,Liberal,Specific,
+2,"Currently, the parents of Australian citizens and permanent residents who have lodged a permanent parental visa application may be issued with a visitor visa of up to five years duration, on a case-by-case basis.",Assertive,Other,,
+3,"If returned to Office, the Coalition will remove the requirement for these parents to have lodged a concurrent permanent parental visa application.",Commissive-A,Liberal,Specific,
+4,"“The Coalition recognises that many Australians, including our growing South Asian and Chinese communities, face particular pressures through the separation of children from parents and grandchildren from grandparents,” Mr Dutton said.",Assertive,Liberal,,
+5,"“We want to help families reunite and spend time together, ",Assertive,Liberal,,1.0
+6,while ensuring that we do so in a way that does not burden Australia’s health care system.”,Commissive-A,Liberal,Vague,
+7,Visitors applying for the enhanced parental visitor visa will need to demonstrate that they hold adequate private health insurance from an Australian provider. ,Commissive-A,Liberal,Specific,
+8,They or their sponsoring family will also be required to pay a bond based on the existing Assurance of Support Scheme.,Commissive-A,Liberal,Specific,
+9,<LIST> These measures build on the Coalition’s strong record of visa reform to enhance our national economic and social prosperity including :,Assertive-V,Liberal,,1.0
+10,"<li> Three-year multiple entry tourist visas for Indian, Chinese and other nationals. </li> ",Assertive-S,Liberal,,
+11,"<li> Premium processing in key markets, including India. </li> ",Assertive-S,Liberal,,
+12,<li> A 10-year visitor visa and on-line Chinese language application for approved Chinese nationals. </li>  </LIST>,Assertive-S,Liberal,,
+13,"Confidence in Australia’s migration programme has grown under the Coalition, according to the Scanlon Foundation, as order has been restored to the border following Labor’s years of chaos.",Assertive-V,Liberal,,

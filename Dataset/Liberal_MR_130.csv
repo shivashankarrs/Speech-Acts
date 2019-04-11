@@ -1,20 +1,20 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,The Turnbull Coalition Government is committed to ensuring senior Australians have the digital skills and knowledge to take advantage of new technology and stay connected with loved ones online.,Commissive-O,,Liberal,,
-2,Around 80 per cent of Australians own a smartphone and thousands more own a tablet and other smart devices.,Assertive,5,Other,,
-3,"Despite this strong take-up, only around 20 per cent of senior Australians own a smartphone.",Assertive,5,Other,,
-4,Senior Australians often cite a lack of confidence and knowledge as one of the main reasons for not participating online.,Assertive,5,Other,,
-5,The Turnbull Coalition is committed to bridging this digital divide.,Commissive-O,1,Liberal,,
-6,A re-elected Coalition Government will invest $50 million to improve the digital literacy of senior Australians and improve their safety online.,Commissive-A,5#8#19,Liberal,Specific,
-7,We will develop a digital inclusion and online safety strategy for senior Australians.,Commissive-A,6,Liberal,Vague,
-8,The digital literacy strategy will complement existing programmes and draw on the expertise and knowledge of the community sector to develop an appropriate package of support to improve the digital literacy and safety of seniors online.,Assertive-V,,Liberal,,
-9,"Like many Australians, face-to-face contact remains an important form of engagement for seniors.",Assertive,10,Other,,
-10,"But the convenience of technology provides an additional avenue to keep senior Australians connected, especially to family and friends.",Assertive,11,Other,,
-11,We will ensure senior Australians who have access to existing devices will be supported to learn how to take full advantage to keep in touch and stay connected.,Commissive-O,1,Liberal,,
-12,Smart devices provide unparalleled opportunities for older Australians to continue to participate fully in our society.,Assertive,14,Other,,
-13,"They provide opportunities for grandparents to stay connected to their families and grandchildren, and older Australians to retain their independence.",Assertive,14,Other,,
-14,"We will leverage existing community infrastructure such as libraries, retirement villages, community centres, CWA halls, and aged care facilities to support senior Australians develop the confidence and skills they need to use their smart device and stay connected.",Commissive-A,7#11,Liberal,Specific,
-15,<LIST> This may include:,Commissive-A,14,Liberal,Vague,1.0
-16,"<li> Smart device training, delivered in partnership with existing organisations </li>",Commissive-A,14,Liberal,Specific,1.0
-17,"<li> Small technology grants for libraries, aged care facilities, retirement villages and community centres to purchase equipment like smart devices (modelled on the existing volunteer grants funded by the Department of Social Services) </li>",Commissive-A,14,Liberal,Specific,1.0
-18,<li> Measures to ensure older Australians are safe online </li> </LIST>,Commissive-A,14,Liberal,Vague,1.0
-19,The Turnbull Coalition is committed to supporting senior Australians and ensuring they have the skills to participate in our modern digital economy.,Commissive-O,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,The Turnbull Coalition Government is committed to ensuring senior Australians have the digital skills and knowledge to take advantage of new technology and stay connected with loved ones online.,Commissive-O,Liberal,,
+2,Around 80 per cent of Australians own a smartphone and thousands more own a tablet and other smart devices.,Assertive,Other,,
+3,"Despite this strong take-up, only around 20 per cent of senior Australians own a smartphone.",Assertive,Other,,
+4,Senior Australians often cite a lack of confidence and knowledge as one of the main reasons for not participating online.,Assertive,Other,,
+5,The Turnbull Coalition is committed to bridging this digital divide.,Commissive-O,Liberal,,
+6,A re-elected Coalition Government will invest $50 million to improve the digital literacy of senior Australians and improve their safety online.,Commissive-A,Liberal,Specific,
+7,We will develop a digital inclusion and online safety strategy for senior Australians.,Commissive-A,Liberal,Vague,
+8,The digital literacy strategy will complement existing programmes and draw on the expertise and knowledge of the community sector to develop an appropriate package of support to improve the digital literacy and safety of seniors online.,Assertive-V,Liberal,,
+9,"Like many Australians, face-to-face contact remains an important form of engagement for seniors.",Assertive,Other,,
+10,"But the convenience of technology provides an additional avenue to keep senior Australians connected, especially to family and friends.",Assertive,Other,,
+11,We will ensure senior Australians who have access to existing devices will be supported to learn how to take full advantage to keep in touch and stay connected.,Commissive-O,Liberal,,
+12,Smart devices provide unparalleled opportunities for older Australians to continue to participate fully in our society.,Assertive,Other,,
+13,"They provide opportunities for grandparents to stay connected to their families and grandchildren, and older Australians to retain their independence.",Assertive,Other,,
+14,"We will leverage existing community infrastructure such as libraries, retirement villages, community centres, CWA halls, and aged care facilities to support senior Australians develop the confidence and skills they need to use their smart device and stay connected.",Commissive-A,Liberal,Specific,
+15,<LIST> This may include:,Commissive-A,Liberal,Vague,1.0
+16,"<li> Smart device training, delivered in partnership with existing organisations </li>",Commissive-A,Liberal,Specific,1.0
+17,"<li> Small technology grants for libraries, aged care facilities, retirement villages and community centres to purchase equipment like smart devices (modelled on the existing volunteer grants funded by the Department of Social Services) </li>",Commissive-A,Liberal,Specific,1.0
+18,<li> Measures to ensure older Australians are safe online </li> </LIST>,Commissive-A,Liberal,Vague,1.0
+19,The Turnbull Coalition is committed to supporting senior Australians and ensuring they have the skills to participate in our modern digital economy.,Commissive-O,Liberal,,

@@ -1,14 +1,14 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,A re-elected Turnbull Coalition Government will invest $1 million to support the Exeter Community Precinct.,Commissive-A,2#3#4#5#9#11,Liberal,Specific,
-2,"The Turnbull Coalition’s commitment to the Exeter Community Precinct will provide a centralised location for community services for residents of Exeter and the nearby towns including Blackwall, Deviot, Gravelly Beach, Lanena, Rosevears, Bridgenorth, Frankford and Glengarry.",Assertive-V,,Liberal,,
-3,"This investment will bring council, library, sporting, recreation and community services together in one location.",Assertive-V,,Liberal,,
-4,"It will increase the capacity and capability of the area, improve access to amenities and increase livability for residents.",Assertive-V,,Liberal,,
-5,This is a great initiative ,Assertive-V,,Liberal,,1.0
-6,"that has long been supported by local Member Eric Hutchinson, a tireless advocate for improved regional community infrastructure and services across the electorate of Lyons.",Assertive-S,5#7,Liberal,,
-7,Prime Minister Malcolm Turnbull congratulated Eric Hutchinson for his hard work and tireless advocacy.,Expressive,,Liberal,,
-8,"“Eric Hutchinson is delivering for the people of Lyons,” said the Prime Minister.",Assertive,9,Liberal,,
-9,"“Together we are creating jobs and opportunities and ensuring Exeter and surrounding towns can realise their potential.""",Assertive-V,13,Liberal,,
-10,Mr Hutchinson has been working with West Tamar Council and community organisations to ensure the best outcomes for Lyons.,Assertive-S,8,Liberal,,
-11,"“This project will benefit so many in the West Tamar community, bringing residents and organisations together,” said Mr Hutchinson.",Assertive-V,12,Liberal,,
-12,“I thank the efforts of Mayor Christina Holmdahl and everyone who has worked on the project.”,Expressive,,Liberal,,
-13,A Turnbull Liberal team is dedicated to building stronger communities across Tasmania and jobs and growth for local residents.,Commissive-O,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,A re-elected Turnbull Coalition Government will invest $1 million to support the Exeter Community Precinct.,Commissive-A,Liberal,Specific,
+2,"The Turnbull Coalition’s commitment to the Exeter Community Precinct will provide a centralised location for community services for residents of Exeter and the nearby towns including Blackwall, Deviot, Gravelly Beach, Lanena, Rosevears, Bridgenorth, Frankford and Glengarry.",Assertive-V,Liberal,,
+3,"This investment will bring council, library, sporting, recreation and community services together in one location.",Assertive-V,Liberal,,
+4,"It will increase the capacity and capability of the area, improve access to amenities and increase livability for residents.",Assertive-V,Liberal,,
+5,This is a great initiative ,Assertive-V,Liberal,,1.0
+6,"that has long been supported by local Member Eric Hutchinson, a tireless advocate for improved regional community infrastructure and services across the electorate of Lyons.",Assertive-S,Liberal,,
+7,Prime Minister Malcolm Turnbull congratulated Eric Hutchinson for his hard work and tireless advocacy.,Expressive,Liberal,,
+8,"“Eric Hutchinson is delivering for the people of Lyons,” said the Prime Minister.",Assertive,Liberal,,
+9,"“Together we are creating jobs and opportunities and ensuring Exeter and surrounding towns can realise their potential.""",Assertive-V,Liberal,,
+10,Mr Hutchinson has been working with West Tamar Council and community organisations to ensure the best outcomes for Lyons.,Assertive-S,Liberal,,
+11,"“This project will benefit so many in the West Tamar community, bringing residents and organisations together,” said Mr Hutchinson.",Assertive-V,Liberal,,
+12,“I thank the efforts of Mayor Christina Holmdahl and everyone who has worked on the project.”,Expressive,Liberal,,
+13,A Turnbull Liberal team is dedicated to building stronger communities across Tasmania and jobs and growth for local residents.,Commissive-O,Liberal,,

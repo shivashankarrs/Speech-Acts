@@ -1,24 +1,24 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,A re-elected Turnbull Government will invest $6 million for an additional control vessel to tackle crown-of-thorns starfish on the Great Barrier Reef.,Commissive-A,7#10#12#23,Liberal,Specific,
-2,"Minister for the Environment, Greg Hunt, said the crown-of-thorns starfish can have a devastating impact on the Reef, ",Assertive,3,Other,,1.0
-3,but we have been able to halt their spread through targeted management.,Assertive-V,6,Liberal,,
-4,"So far around 400,000 crown-of-thorns starfish have been killed through our current operation whereby divers inject the starfish with a saline solution.",Assertive-V,3,Liberal,,
-5,"With each of these coral-eating starfish capable of producing up to 65 million eggs over the spawning season, ",Assertive,2#6,Other,,1.0
-6,"these targeted programs are vital in preventing major outbreaks, particularly in key tourism areas that support local jobs.",Assertive-V,1,Liberal,,
-7,"This latest investment will allow this work to be ramped up, as part of Phase Four of the Coalition’s $210 million Reef Trust.",Assertive-V,11,Liberal,,
-8,"“Building a strong, resilient and healthy Great Barrier Reef is a high priority for the Coalition,” Minister Hunt said.",Assertive,1,Liberal,,
-9,“Destroying the coral-eating predator is essential in order to protect the Great Barrier Reef for future generations and ensure it is in the best possible condition to withstand the challenges of climate change and the recent coral bleaching.”,Assertive,1,Other,,
-10,The second vessel will complement the existing culling effort underway between Cairns and Lizard Island.,Assertive-V,,Liberal,,
-11,"Investments under the Reef Trust are overseen by the Independent Expert Panel, chaired by the former Commonwealth Chief Scientist, Professor Ian Chubb.",Assertive,,Liberal,,
-12,"Federal Member for Leichhardt, Warren Entsch MP, said the $6 million boost will help protect 21 reefs of high tourism and conservation value and identify additional ecologically-important reefs to ensure that coral cover is maintained above critical levels on these reefs.",Assertive-V,,Liberal,,
-13,"“Outbreaks of the crown-of-thorns starfish pose one of the most significant threats to the Great Barrier Reef,” Mr Entsch said.",Assertive,5#14,Other,,
-14,"“The new control vessel will assist with removing adult starfish to protect coral cover, monitoring and surveillance and support for research through providing samples, specimens, monitoring data and berthing for researchers.”",Commissive-A,1,Liberal,Specific,
-15,"The Coalition is also tackling the crown-of-thorns starfish through improved land management, by reducing nitrogen run-off ",Assertive-S,19,Liberal,,1.0
-16,which is proven to increase starfish outbreaks.,Assertive,15,Other,,
-17,"“Farmers in the Reef catchment are already making significant efforts to improve water quality by reducing fertiliser and soil runoff, which helps manage crown-of-thorns starfish,” Mr Entsch said.",Assertive,18,Other,,
-18,“It was under the Labor Government that the World Heritage Committee put the Reef on the watch list and was on its way to being listed ‘in danger’.”,Assertive-V,19,Labor,,
-19,"“The Coalition on being elected, acted quickly, ",Assertive-S,1#20,Liberal,,1.0
-20,resulting in the World Heritage Committee not proceeding with the ‘in-danger’ listing and now describing Australia as a global leader in its management of the Reef.”,Assertive-V,,Liberal,,
-21,The Turnbull Government provided an additional $171 million in funding to support the Reef in the latest recent Federal Budget.,Assertive-S,19#23,Liberal,,
-22,This includes an additional $70 million to the Reef Trust – bring the total investment under the Trust to $210 million – and $101 million under the National Landcare Programme.,Assertive-S,21,Liberal,,
-23,This is part of a projected investment of more than $2 billion from Australian governments to protect the Great Barrier Reef over the next decade.,Assertive,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,A re-elected Turnbull Government will invest $6 million for an additional control vessel to tackle crown-of-thorns starfish on the Great Barrier Reef.,Commissive-A,Liberal,Specific,
+2,"Minister for the Environment, Greg Hunt, said the crown-of-thorns starfish can have a devastating impact on the Reef, ",Assertive,Other,,1.0
+3,but we have been able to halt their spread through targeted management.,Assertive-V,Liberal,,
+4,"So far around 400,000 crown-of-thorns starfish have been killed through our current operation whereby divers inject the starfish with a saline solution.",Assertive-V,Liberal,,
+5,"With each of these coral-eating starfish capable of producing up to 65 million eggs over the spawning season, ",Assertive,Other,,1.0
+6,"these targeted programs are vital in preventing major outbreaks, particularly in key tourism areas that support local jobs.",Assertive-V,Liberal,,
+7,"This latest investment will allow this work to be ramped up, as part of Phase Four of the Coalition’s $210 million Reef Trust.",Assertive-V,Liberal,,
+8,"“Building a strong, resilient and healthy Great Barrier Reef is a high priority for the Coalition,” Minister Hunt said.",Assertive,Liberal,,
+9,“Destroying the coral-eating predator is essential in order to protect the Great Barrier Reef for future generations and ensure it is in the best possible condition to withstand the challenges of climate change and the recent coral bleaching.”,Assertive,Other,,
+10,The second vessel will complement the existing culling effort underway between Cairns and Lizard Island.,Assertive-V,Liberal,,
+11,"Investments under the Reef Trust are overseen by the Independent Expert Panel, chaired by the former Commonwealth Chief Scientist, Professor Ian Chubb.",Assertive,Liberal,,
+12,"Federal Member for Leichhardt, Warren Entsch MP, said the $6 million boost will help protect 21 reefs of high tourism and conservation value and identify additional ecologically-important reefs to ensure that coral cover is maintained above critical levels on these reefs.",Assertive-V,Liberal,,
+13,"“Outbreaks of the crown-of-thorns starfish pose one of the most significant threats to the Great Barrier Reef,” Mr Entsch said.",Assertive,Other,,
+14,"“The new control vessel will assist with removing adult starfish to protect coral cover, monitoring and surveillance and support for research through providing samples, specimens, monitoring data and berthing for researchers.”",Commissive-A,Liberal,Specific,
+15,"The Coalition is also tackling the crown-of-thorns starfish through improved land management, by reducing nitrogen run-off ",Assertive-S,Liberal,,1.0
+16,which is proven to increase starfish outbreaks.,Assertive,Other,,
+17,"“Farmers in the Reef catchment are already making significant efforts to improve water quality by reducing fertiliser and soil runoff, which helps manage crown-of-thorns starfish,” Mr Entsch said.",Assertive,Other,,
+18,“It was under the Labor Government that the World Heritage Committee put the Reef on the watch list and was on its way to being listed ‘in danger’.”,Assertive-V,Labor,,
+19,"“The Coalition on being elected, acted quickly, ",Assertive-S,Liberal,,1.0
+20,resulting in the World Heritage Committee not proceeding with the ‘in-danger’ listing and now describing Australia as a global leader in its management of the Reef.”,Assertive-V,Liberal,,
+21,The Turnbull Government provided an additional $171 million in funding to support the Reef in the latest recent Federal Budget.,Assertive-S,Liberal,,
+22,This includes an additional $70 million to the Reef Trust – bring the total investment under the Trust to $210 million – and $101 million under the National Landcare Programme.,Assertive-S,Liberal,,
+23,This is part of a projected investment of more than $2 billion from Australian governments to protect the Great Barrier Reef over the next decade.,Assertive,Liberal,,

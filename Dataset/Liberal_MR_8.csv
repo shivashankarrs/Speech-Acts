@@ -1,17 +1,17 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,A re-elected Turnbull Coalition Government will help drive jobs and growth in the electorate of Braddon by delivering a new sporting facility and community function centre in Devonport.,Commissive-A,,Liberal,Specific,
-2,We will invest $3.5 million towards the construction of a new function centre for the Devonport Golf Club which will also become home to the Devonport and Spreyton Bowls Clubs.,Commissive-A,1#3#5#6#11#13,Liberal,Specific,
-3,The project includes plans for a national standard eight rink indoor and a four green outdoor bowls facility as well as a new function centre which will greatly benefit the broader community and the three club’s combined 1000 members.,Commissive-O,4,Liberal,,
-4,The new modern bowls and community facility will create jobs and increase recreation opportunities.,Assertive-V,16,Liberal,,
-5,This initiative is part of our commitment to building healthy and active Australian communities.,Assertive-V,16,Liberal,,
-6,Importantly this investment will deliver new tourism opportunities for North-West Tasmania.,Assertive-V,16,Liberal,,
-7,"The North-West is experiencing a tourism boom with an increase of 8,000 visits in the last year and Devonport has been named as a top 10 destination that Australians are loving.",Assertive,6,Other,,
-8,The Devonport Golf Club is the home of one of Tasmania’s premier courses at Woodrising,Assertive,9,Other,,1.0
-9,and this new facility will provide the club with exciting opportunities to promote golfing tourism and link more closely with the Barnbougle and King Island golfing experiences.,Assertive-V,6,Liberal,,
-10,The construction of a national standard bowls facility in Devonport will also open the way to host state and national competitions bringing more and more visitors to the region.,Assertive-V,6,Liberal,,
-11,Member for Braddon Brett Whiteley and the Turnbull Coalition Government is delivering for Devonport.,Assertive,,Liberal,,
-12,“This is a fantastic project that will serve Devonport well into the future,Assertive-V,13,Liberal,,1.0
-13,"and one that I am thrilled to be able to deliver,” said Mr Whiteley.",Expressive,,Liberal,,
-14,“The North-West is fast becoming a prime destination for sporting tourism,Assertive,15,Other,,1.0
-15,and this facility will only add to the tourism offering on the North-West.”,Assertive-V,6,Liberal,,
-16,"By investing in infrastructure such as this we are improving lifestyles, building stronger communities and delivering jobs and growth.",Assertive-V,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,A re-elected Turnbull Coalition Government will help drive jobs and growth in the electorate of Braddon by delivering a new sporting facility and community function centre in Devonport.,Commissive-A,Liberal,Specific,
+2,We will invest $3.5 million towards the construction of a new function centre for the Devonport Golf Club which will also become home to the Devonport and Spreyton Bowls Clubs.,Commissive-A,Liberal,Specific,
+3,The project includes plans for a national standard eight rink indoor and a four green outdoor bowls facility as well as a new function centre which will greatly benefit the broader community and the three club’s combined 1000 members.,Commissive-O,Liberal,,
+4,The new modern bowls and community facility will create jobs and increase recreation opportunities.,Assertive-V,Liberal,,
+5,This initiative is part of our commitment to building healthy and active Australian communities.,Assertive-V,Liberal,,
+6,Importantly this investment will deliver new tourism opportunities for North-West Tasmania.,Assertive-V,Liberal,,
+7,"The North-West is experiencing a tourism boom with an increase of 8,000 visits in the last year and Devonport has been named as a top 10 destination that Australians are loving.",Assertive,Other,,
+8,The Devonport Golf Club is the home of one of Tasmania’s premier courses at Woodrising,Assertive,Other,,1.0
+9,and this new facility will provide the club with exciting opportunities to promote golfing tourism and link more closely with the Barnbougle and King Island golfing experiences.,Assertive-V,Liberal,,
+10,The construction of a national standard bowls facility in Devonport will also open the way to host state and national competitions bringing more and more visitors to the region.,Assertive-V,Liberal,,
+11,Member for Braddon Brett Whiteley and the Turnbull Coalition Government is delivering for Devonport.,Assertive,Liberal,,
+12,“This is a fantastic project that will serve Devonport well into the future,Assertive-V,Liberal,,1.0
+13,"and one that I am thrilled to be able to deliver,” said Mr Whiteley.",Expressive,Liberal,,
+14,“The North-West is fast becoming a prime destination for sporting tourism,Assertive,Other,,1.0
+15,and this facility will only add to the tourism offering on the North-West.”,Assertive-V,Liberal,,
+16,"By investing in infrastructure such as this we are improving lifestyles, building stronger communities and delivering jobs and growth.",Assertive-V,Liberal,,

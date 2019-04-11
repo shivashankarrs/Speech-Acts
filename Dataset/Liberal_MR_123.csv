@@ -1,17 +1,17 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,Today the Coalition announced that a re-elected Turnbull Government will be adopting recommendations of the Heydon Royal Commission relating to registered organisations and the building industry.,Commissive-A,,Liberal,Specific,
-2,"Unions and employer associations play a critical role in the workplace relations system and the economy more broadly, and their members place a great deal of trust in them. ",Assertive,1,Other,,
-3,The building industry is Australia’s third-largest employer and its health is vital to the health of the economy.,Assertive,1,Other,,
-4,"It is therefore essential that unions and employers operate in a transparent and accountable manner and that the building industry is fair, safe and lawful.",Assertive,1,Other,,
-5,<LIST> A re-elected Turnbull Coalition Government will:,Commissive-A,1,Liberal,Vague,1.0
-6,<li> Re-establish the Australian Building and Construction Commission to restore the rule of law and boost productivity and fairness in the building and construction industry; </li>,Commissive-A,1#15#16,Liberal,Specific,1.0
-7,<li> Legislate to allow the courts to ban officials of registered organisations from holding office where they repeatedly break the law; </li>,Commissive-A,1#15#16,Liberal,Specific,1.0
-8,<li> Codify the obligation for officials of registered organisations to act in the best interests of members by putting members’ interests before their own; declaring any financial benefits they receive; and dealing properly with any conflicts of interest; </li>,Commissive-A,1#15#16,Liberal,Specific,1.0
-9,<li> Outlaw ‘corrupting benefits’ – payments between an employer and union that are not covered by legitimate exemptions; </li>,Commissive-A,1#15#16,Liberal,Specific,1.0
-10,<li> Require disclosure to employees of any legitimate financial payments between employers and unions; </li>,Commissive-A,1#15#16,Liberal,Specific,1.0
-11,"<li> Enable courts to place registered organisations (or individual divisions or branches) in administration or deregister them if they become dysfunctional or are no longer serving the interests of their members, as is the case with companies under the corporations law; </li>",Commissive-A,1#15#16,Liberal,Specific,1.0
-12,<li> Introduce new sanctions for the deliberate falsification of membership records; and </li>,Commissive-A,1#15#16,Liberal,Specific,1.0
-13,"<li> Introduce a new public interest test for mergers of registered organisations, which will allow relevant matters to be taken into account, such as the organisations’ history of compliance with workplace laws. </li> </LIST>",Commissive-A,1#15#16,Liberal,Specific,
-14,Australian workers deserve to know that their employers and their unions are acting ethically and honestly and in their best interests.,Assertive,15,Other,,
-15,"The Coalition’s strong new laws will impose strong obligations and employers, employer organisations and unions, with strong penalties for anyone that does the wrong thing.",Commissive-O,,Liberal,,
-16,"Only the Turnbull Coalition Government will act in the national interest to ensure that fairness, transparency and the rule of law apply in all Australian workplaces.",Assertive,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,Today the Coalition announced that a re-elected Turnbull Government will be adopting recommendations of the Heydon Royal Commission relating to registered organisations and the building industry.,Commissive-A,Liberal,Specific,
+2,"Unions and employer associations play a critical role in the workplace relations system and the economy more broadly, and their members place a great deal of trust in them. ",Assertive,Other,,
+3,The building industry is Australia’s third-largest employer and its health is vital to the health of the economy.,Assertive,Other,,
+4,"It is therefore essential that unions and employers operate in a transparent and accountable manner and that the building industry is fair, safe and lawful.",Assertive,Other,,
+5,<LIST> A re-elected Turnbull Coalition Government will:,Commissive-A,Liberal,Vague,1.0
+6,<li> Re-establish the Australian Building and Construction Commission to restore the rule of law and boost productivity and fairness in the building and construction industry; </li>,Commissive-A,Liberal,Specific,1.0
+7,<li> Legislate to allow the courts to ban officials of registered organisations from holding office where they repeatedly break the law; </li>,Commissive-A,Liberal,Specific,1.0
+8,<li> Codify the obligation for officials of registered organisations to act in the best interests of members by putting members’ interests before their own; declaring any financial benefits they receive; and dealing properly with any conflicts of interest; </li>,Commissive-A,Liberal,Specific,1.0
+9,<li> Outlaw ‘corrupting benefits’ – payments between an employer and union that are not covered by legitimate exemptions; </li>,Commissive-A,Liberal,Specific,1.0
+10,<li> Require disclosure to employees of any legitimate financial payments between employers and unions; </li>,Commissive-A,Liberal,Specific,1.0
+11,"<li> Enable courts to place registered organisations (or individual divisions or branches) in administration or deregister them if they become dysfunctional or are no longer serving the interests of their members, as is the case with companies under the corporations law; </li>",Commissive-A,Liberal,Specific,1.0
+12,<li> Introduce new sanctions for the deliberate falsification of membership records; and </li>,Commissive-A,Liberal,Specific,1.0
+13,"<li> Introduce a new public interest test for mergers of registered organisations, which will allow relevant matters to be taken into account, such as the organisations’ history of compliance with workplace laws. </li> </LIST>",Commissive-A,Liberal,Specific,
+14,Australian workers deserve to know that their employers and their unions are acting ethically and honestly and in their best interests.,Assertive,Other,,
+15,"The Coalition’s strong new laws will impose strong obligations and employers, employer organisations and unions, with strong penalties for anyone that does the wrong thing.",Commissive-O,Liberal,,
+16,"Only the Turnbull Coalition Government will act in the national interest to ensure that fairness, transparency and the rule of law apply in all Australian workplaces.",Assertive,Liberal,,

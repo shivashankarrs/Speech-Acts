@@ -1,13 +1,13 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,Bill Shorten today failed to rule out increases in the cost of rental accommodation as a result of his ill-thought out changes to negative gearing arrangements.,Assertive-V,8,Labor,,
-2,Asked today to guarantee housing rents won't rise as a result of his housing tax he talked about everything except rental costs :,Assertive,3#4,Labor,,1.0
-3,Question: The median house price in this suburb is $1.5 million.,Assertive,5,Other,,
-4,The median rent per week is $700.,Assertive,5,Other,,
-5,Can you guarantee your negative gearing policy won't push those rents up?,Interrogative,6,Labor,,
-6,Bill Shorten: I can guarantee that our measures will give a better chance than currently exists for first homebuyers to enter the housing market.,Assertive,1,Labor,,
-7,"(Opposition Leader press conference, Five Dock, Sydney, 13 May 2016)",Assertive,6,Labor,,
-8,"As Australia’s leading real estate agents have confirmed today, Bill Shorten’s reckless policy on negative gearing will drive down the value of Australian homes - for many families their biggest asset and it will push up the cost of rental accommodation.",Assertive-V,9#10,Labor,,
-9,That is not what Australia needs.,Assertive,,Labor,,
-10,We need more investment to increase the supply of housing and we need more investment to generate stronger growth and more jobs.,Assertive,11#12,Labor,,
-11,Labor has no plan for jobs and growth.,Assertive-V,,Labor,,
-12,Labor just has a plan for higher taxes which would hurt jobs and growth.,Assertive-V,,Labor,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,Bill Shorten today failed to rule out increases in the cost of rental accommodation as a result of his ill-thought out changes to negative gearing arrangements.,Assertive-V,Labor,,
+2,Asked today to guarantee housing rents won't rise as a result of his housing tax he talked about everything except rental costs :,Assertive,Labor,,1.0
+3,Question: The median house price in this suburb is $1.5 million.,Assertive,Other,,
+4,The median rent per week is $700.,Assertive,Other,,
+5,Can you guarantee your negative gearing policy won't push those rents up?,Interrogative,Labor,,
+6,Bill Shorten: I can guarantee that our measures will give a better chance than currently exists for first homebuyers to enter the housing market.,Assertive,Labor,,
+7,"(Opposition Leader press conference, Five Dock, Sydney, 13 May 2016)",Assertive,Labor,,
+8,"As Australia’s leading real estate agents have confirmed today, Bill Shorten’s reckless policy on negative gearing will drive down the value of Australian homes - for many families their biggest asset and it will push up the cost of rental accommodation.",Assertive-V,Labor,,
+9,That is not what Australia needs.,Assertive,Labor,,
+10,We need more investment to increase the supply of housing and we need more investment to generate stronger growth and more jobs.,Assertive,Labor,,
+11,Labor has no plan for jobs and growth.,Assertive-V,Labor,,
+12,Labor just has a plan for higher taxes which would hurt jobs and growth.,Assertive-V,Labor,,

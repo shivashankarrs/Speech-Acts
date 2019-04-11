@@ -1,19 +1,19 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,Today the Turnbull Coalition Government strengthens its comprehensive commitment to keeping women and children safe with $20 million for measures to prevent domestic violence.,Commissive-A,3,Liberal,Specific,
-2,"Investment in preventative measures is critical to save lives and to disrupt intergenerational cycles of violence, dysfunction and disadvantage.",Assertive,1,Liberal,,
-3,The funding is part of the Coalition’s $100 million in new funding over three years announced in the 2016 budget to implement the Third Action Plan under the National Plan to Reduce Violence Against Women and Their Children.,Commissive-A,4#18,Liberal,Specific,
-4,This builds on the $100 million Women's Safety Package announced in September 2015 by the Turnbull Coalition Government.,Assertive-V,,Liberal,,
-5,"The Minister for Social Services, Christian Porter, announced the strategic focus of the initiatives during an event involving Our Watch and the leaders of Australia’s top sporting codes at the Melbourne Cricket Ground.",Assertive,6#7#8#9#10,Liberal,,
-6,<LIST> The $20 million will be invested in initiatives that are designed to:,Commissive-A,1#15,Liberal,Vague,1.0
-7,"<li> Develop and promote prevention strategies with local government, businesses, sporting organisations and community groups, including intensive work with remote Indigenous communities; </li> ",Commissive-A,1#11#12,Liberal,Vague,1.0
-8,"<li> Support Our Watch to drive nation-wide change in the culture, behaviours and attitudes that lead to violence against women and children; and </li> ",Commissive-A,1#11#12,Liberal,Vague,1.0
-9,"<li> Reach out to men and fathers, with specific assistance for first time fathers, to ensure they are aware of their influence as role models; </li> ",Commissive-A,1#11#12,Liberal,Vague,1.0
-10,"<li> Empower women and those around them with information to identify ‘red flags’ for violence, such as controlling behaviour and emotional and financial abuse. </li> </LIST>",Commissive-A,1#11#12,Liberal,Vague,
-11,These initiatives are based on advice from the COAG Advisory Panel on Domestic Violence.,Assertive,13,Liberal,,
-12,The Government has accepted that advice and has set out the strategic focus for a range of particular initiatives that will be funded.,Assertive,13,Liberal,,
-13,Those initiatives will be identified in consultation with the States and Territories and the community.,Commissive-A,,Liberal,Vague,
-14,The Coalition has already made a significant investment in addressing and preventing domestic violence ,Assertive-S,4,Liberal,,1.0
-15,and this substantial additional investment recognises the importance of providing people with the information and support to prevent domestic violence.,Assertive-V,,Liberal,,
-16,"In addition to the $100 million for initiatives to implement the Third Action Plan to Reduce Violence Against Women and Their Children, ",Assertive,3#17,Liberal,,1.0
-17,the 2016 budget provided almost $10 million for the development of a National Domestic Violence Order (DVO) System that will enable courts and police to share information relating to DVOs across all Australian jurisdictions to bring offenders to justice.,Commissive-A,18,Liberal,Specific,
-18,"The Turnbull Coalition is unwavering in our commitment to ensure women and children are safe in their homes, safe of the streets and safe online.",Commissive-O,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,Today the Turnbull Coalition Government strengthens its comprehensive commitment to keeping women and children safe with $20 million for measures to prevent domestic violence.,Commissive-A,Liberal,Specific,
+2,"Investment in preventative measures is critical to save lives and to disrupt intergenerational cycles of violence, dysfunction and disadvantage.",Assertive,Liberal,,
+3,The funding is part of the Coalition’s $100 million in new funding over three years announced in the 2016 budget to implement the Third Action Plan under the National Plan to Reduce Violence Against Women and Their Children.,Commissive-A,Liberal,Specific,
+4,This builds on the $100 million Women's Safety Package announced in September 2015 by the Turnbull Coalition Government.,Assertive-V,Liberal,,
+5,"The Minister for Social Services, Christian Porter, announced the strategic focus of the initiatives during an event involving Our Watch and the leaders of Australia’s top sporting codes at the Melbourne Cricket Ground.",Assertive,Liberal,,
+6,<LIST> The $20 million will be invested in initiatives that are designed to:,Commissive-A,Liberal,Vague,1.0
+7,"<li> Develop and promote prevention strategies with local government, businesses, sporting organisations and community groups, including intensive work with remote Indigenous communities; </li> ",Commissive-A,Liberal,Vague,1.0
+8,"<li> Support Our Watch to drive nation-wide change in the culture, behaviours and attitudes that lead to violence against women and children; and </li> ",Commissive-A,Liberal,Vague,1.0
+9,"<li> Reach out to men and fathers, with specific assistance for first time fathers, to ensure they are aware of their influence as role models; </li> ",Commissive-A,Liberal,Vague,1.0
+10,"<li> Empower women and those around them with information to identify ‘red flags’ for violence, such as controlling behaviour and emotional and financial abuse. </li> </LIST>",Commissive-A,Liberal,Vague,
+11,These initiatives are based on advice from the COAG Advisory Panel on Domestic Violence.,Assertive,Liberal,,
+12,The Government has accepted that advice and has set out the strategic focus for a range of particular initiatives that will be funded.,Assertive,Liberal,,
+13,Those initiatives will be identified in consultation with the States and Territories and the community.,Commissive-A,Liberal,Vague,
+14,The Coalition has already made a significant investment in addressing and preventing domestic violence ,Assertive-S,Liberal,,1.0
+15,and this substantial additional investment recognises the importance of providing people with the information and support to prevent domestic violence.,Assertive-V,Liberal,,
+16,"In addition to the $100 million for initiatives to implement the Third Action Plan to Reduce Violence Against Women and Their Children, ",Assertive,Liberal,,1.0
+17,the 2016 budget provided almost $10 million for the development of a National Domestic Violence Order (DVO) System that will enable courts and police to share information relating to DVOs across all Australian jurisdictions to bring offenders to justice.,Commissive-A,Liberal,Specific,
+18,"The Turnbull Coalition is unwavering in our commitment to ensure women and children are safe in their homes, safe of the streets and safe online.",Commissive-O,Liberal,,

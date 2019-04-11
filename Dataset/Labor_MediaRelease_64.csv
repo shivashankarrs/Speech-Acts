@@ -1,16 +1,16 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,"Labor will scrap Malcolm Turnbull’s cuts to medicines and GP visits, meaning the average Australian family with two healthy kids will pay $412 less a year for essential healthcare. [1]",Assertive-V,2,Liberal,,
-2,We will ensure every Australian continues to have access to affordable medicines by reversing Malcolm Turnbull’s decision to hike out-of-pocket costs for medicines on the Pharmaceutical Benefits Scheme (PBS).,Commissive-A,4#5,Labor,Vague,
-3,"Together with our commitment to end the Government’s GP Tax by stealth by ending the freeze on the Medicare Benefits Schedule (MBS),",Commissive-A,4#5,Labor,Vague,1.0
-4,this will protect universal healthcare for all Australians.,Commissive-O,,Labor,,
-5,"Reversing Malcolm Turnbull’s cuts to the PBS and MBS will particularly help Australians on low and fixed incomes, as well as those with chronic illnesses.",Commissive-O,6#7#8,Labor,,
-6,"For example, a single pensioner aged over 65 who has heart disease will pay $270 less a year for medicines and visits to the GP under Labor.",Assertive-V,10,Labor,,
-7,Healthcare costs for a low-income single parent pensioner who has diabetes and two teenage kids will be around $450 lower as a result of reversing these cuts.,Assertive-V,10,Labor,,
-8,"A pensioner couple aged over 65, one of whom has diagnosed dementia and the other has congestive heart failure, will pay around $60 less for their medicines and $500 less for their healthcare overall.",Assertive-V,10,Labor,,
-9,"Under Malcolm Turnbull, every general patient will pay $5 more for each prescription of commonly used medicines that treat conditions like asthma, depression, high cholesterol, emphysema and nerve pain from diabetes.",Assertive-V,10,Liberal,,
-10,"Under Labor, they won’t.",Assertive-V,,Labor,,
-11,The increases to PBS co-payments and safety net thresholds were first proposed in Tony Abbott’s horror 2014 Budget.,Assertive-S,,Liberal,,
-12,Malcolm Turnbull took ownership of these cuts by building them into his first Budget.,Assertive-S,11#13,Liberal,,
-13,Labor will not stand by and let Malcolm Turnbull and the Liberals dismantle universal healthcare.,Commissive-A,2#3,Labor,Vague,
-14,We will ensure medicines are more affordable under Labor and ensure people aren’t priced out of seeing a GP,Commissive-A,13,Labor,Vague,1.0
-15,because we believe good health is something all Australians should enjoy.,Assertive,14,Labor,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,"Labor will scrap Malcolm Turnbull’s cuts to medicines and GP visits, meaning the average Australian family with two healthy kids will pay $412 less a year for essential healthcare. [1]",Assertive-V,Liberal,,
+2,We will ensure every Australian continues to have access to affordable medicines by reversing Malcolm Turnbull’s decision to hike out-of-pocket costs for medicines on the Pharmaceutical Benefits Scheme (PBS).,Commissive-A,Labor,Vague,
+3,"Together with our commitment to end the Government’s GP Tax by stealth by ending the freeze on the Medicare Benefits Schedule (MBS),",Commissive-A,Labor,Vague,1.0
+4,this will protect universal healthcare for all Australians.,Commissive-O,Labor,,
+5,"Reversing Malcolm Turnbull’s cuts to the PBS and MBS will particularly help Australians on low and fixed incomes, as well as those with chronic illnesses.",Commissive-O,Labor,,
+6,"For example, a single pensioner aged over 65 who has heart disease will pay $270 less a year for medicines and visits to the GP under Labor.",Assertive-V,Labor,,
+7,Healthcare costs for a low-income single parent pensioner who has diabetes and two teenage kids will be around $450 lower as a result of reversing these cuts.,Assertive-V,Labor,,
+8,"A pensioner couple aged over 65, one of whom has diagnosed dementia and the other has congestive heart failure, will pay around $60 less for their medicines and $500 less for their healthcare overall.",Assertive-V,Labor,,
+9,"Under Malcolm Turnbull, every general patient will pay $5 more for each prescription of commonly used medicines that treat conditions like asthma, depression, high cholesterol, emphysema and nerve pain from diabetes.",Assertive-V,Liberal,,
+10,"Under Labor, they won’t.",Assertive-V,Labor,,
+11,The increases to PBS co-payments and safety net thresholds were first proposed in Tony Abbott’s horror 2014 Budget.,Assertive-S,Liberal,,
+12,Malcolm Turnbull took ownership of these cuts by building them into his first Budget.,Assertive-S,Liberal,,
+13,Labor will not stand by and let Malcolm Turnbull and the Liberals dismantle universal healthcare.,Commissive-A,Labor,Vague,
+14,We will ensure medicines are more affordable under Labor and ensure people aren’t priced out of seeing a GP,Commissive-A,Labor,Vague,1.0
+15,because we believe good health is something all Australians should enjoy.,Assertive,Labor,,

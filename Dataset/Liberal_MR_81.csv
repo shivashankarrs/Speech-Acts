@@ -1,14 +1,14 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,Motor Neurone Disease is the cruellest of diseases; its cause not fully understood and with no cure.,Assertive,3,Other,,
-2,"We do know it affects over 2,000 people in Australia and, with the average survival rate following diagnosis just over two years, it is family and friends who also feel the devastating impact.",Assertive,3,Other,,
-3,"This is why events like ‘Big Freeze 2’ are so important - people coming together, uniting for a single purpose. ",Assertive,4,Other,,
-4,"Few nations do this with as much commitment and passion as ours, and few do it better than the Australian Rules community.",Assertive,5,Other,,
-5,"In support of the search for a Cure4MND, the Turnbull Government committed to match the total amount raised during yesterday’s ‘Big Freeze at the G for MND’,",Commissive-A,7#10#12#13,Liberal,Specific,1.0
-6,the second fundraiser centred around the traditional Queens Birthday AFL clash between Melbourne and Collingwood.,Assertive,5,Other,,
-7,"Thanks to the fantastic efforts of everyone involved,this brings the grand total raised to $5.6 million.",Expressive,,Liberal,,
-8,"The Turnbull Government, through the National Health and Medical Research Council, already supports ongoing research to find a breakthrough cure for MND – in 2015, we provided funding of over $11 million for this goal.",Assertive-S,5#9,Liberal,,
-9,It’s part of our commitment to innovation and support for the country’s brightest health and medical researchers to help to deliver the next big breakthroughs in medicine.,Assertive-V,,Liberal,,
-10,This injection of funds towards MND research will also help the Cure4MND Foundation make more clinical trials available to Australian patients.,Assertive-V,,Liberal,,
-11,"Clinical trials serve a dual purpose; offering hope to current MND patients by making cutting-edge treatments immediately available, as well as helping researchers gather the evidence they need to develop a cure for MND patients in Australia and around the world.",Assertive,10,Other,,
-12,"The Coalition’s commitment of $2.8 million, doubling the tremendous contribution made the Australian public, is what researchers need to discover the life-changing and life-saving treatment to help those living with MND fight back against this terrible disease.",Assertive-V,,Liberal,,
-13,The Turnbull Government is committed to supporting them every step of the way.,Commissive-A,,Liberal,Vague,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,Motor Neurone Disease is the cruellest of diseases; its cause not fully understood and with no cure.,Assertive,Other,,
+2,"We do know it affects over 2,000 people in Australia and, with the average survival rate following diagnosis just over two years, it is family and friends who also feel the devastating impact.",Assertive,Other,,
+3,"This is why events like ‘Big Freeze 2’ are so important - people coming together, uniting for a single purpose. ",Assertive,Other,,
+4,"Few nations do this with as much commitment and passion as ours, and few do it better than the Australian Rules community.",Assertive,Other,,
+5,"In support of the search for a Cure4MND, the Turnbull Government committed to match the total amount raised during yesterday’s ‘Big Freeze at the G for MND’,",Commissive-A,Liberal,Specific,1.0
+6,the second fundraiser centred around the traditional Queens Birthday AFL clash between Melbourne and Collingwood.,Assertive,Other,,
+7,"Thanks to the fantastic efforts of everyone involved,this brings the grand total raised to $5.6 million.",Expressive,Liberal,,
+8,"The Turnbull Government, through the National Health and Medical Research Council, already supports ongoing research to find a breakthrough cure for MND – in 2015, we provided funding of over $11 million for this goal.",Assertive-S,Liberal,,
+9,It’s part of our commitment to innovation and support for the country’s brightest health and medical researchers to help to deliver the next big breakthroughs in medicine.,Assertive-V,Liberal,,
+10,This injection of funds towards MND research will also help the Cure4MND Foundation make more clinical trials available to Australian patients.,Assertive-V,Liberal,,
+11,"Clinical trials serve a dual purpose; offering hope to current MND patients by making cutting-edge treatments immediately available, as well as helping researchers gather the evidence they need to develop a cure for MND patients in Australia and around the world.",Assertive,Other,,
+12,"The Coalition’s commitment of $2.8 million, doubling the tremendous contribution made the Australian public, is what researchers need to discover the life-changing and life-saving treatment to help those living with MND fight back against this terrible disease.",Assertive-V,Liberal,,
+13,The Turnbull Government is committed to supporting them every step of the way.,Commissive-A,Liberal,Vague,

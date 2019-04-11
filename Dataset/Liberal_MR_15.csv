@@ -1,9 +1,9 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,The Liberal Party will preference the Greens below Labor in every seat our party contests.,Commissive-A,7#8,Liberal,Vague,
-2,"The choice at this election is stark: a continuation of strong, stable majority government with a clear economic plan, ",Assertive-V,1,Liberal,,1.0
-3,or Bill Shorten falling across the line by forming a Labor-Greens-independent minority government.,Assertive,2#4#5,Labor,,
-4,A Labor-Greens-independent minority government would be a disaster for Australia and a return to the economic chaos of the Gillard-Rudd years.,Assertive-V,,Labor,,
-5,"It’s clear the Greens are dragging Labor to the left – higher taxes, more spending and weaker border protection.",Assertive-V,,Labor,,
-6,The Liberal Party stands for a clear economic plan for jobs and growth and we won’t compromise that.,Commissive-A,1,Liberal,Vague,
-7,This is the right decision for our country. ,Assertive,,Liberal,,
-8,This is the right call for Australia.,Assertive,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,The Liberal Party will preference the Greens below Labor in every seat our party contests.,Commissive-A,Liberal,Vague,
+2,"The choice at this election is stark: a continuation of strong, stable majority government with a clear economic plan, ",Assertive-V,Liberal,,1.0
+3,or Bill Shorten falling across the line by forming a Labor-Greens-independent minority government.,Assertive,Labor,,
+4,A Labor-Greens-independent minority government would be a disaster for Australia and a return to the economic chaos of the Gillard-Rudd years.,Assertive-V,Labor,,
+5,"It’s clear the Greens are dragging Labor to the left – higher taxes, more spending and weaker border protection.",Assertive-V,Labor,,
+6,The Liberal Party stands for a clear economic plan for jobs and growth and we won’t compromise that.,Commissive-A,Liberal,Vague,
+7,This is the right decision for our country. ,Assertive,Liberal,,
+8,This is the right call for Australia.,Assertive,Liberal,,

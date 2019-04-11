@@ -1,22 +1,22 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,Today’s announcement is ground hog day with the NBN – ,Assertive-V,,Labor,,1.0
-2,"Labor are again promising ‘free’ technology upgrades, this time around 2 million Australians will apparently get fibre-to the-premises (FTTP).",Assertive,1,Labor,,
-3,"The last time the NBN looked at how much it would cost to do Labor’s FTTP rollout, NBN found it would cost around $30 billion more and would take six to eight years longer.",Assertive-V,4,Labor,,
-4,Now Labor are out today saying that there will be little additional cost and that Labor’s roll out will be finished at roughly the same time - ,Assertive,2#5#6#11#13#21,Labor,,1.0
-5,it’s a magic pudding!,Assertive-V,,Labor,,
-6,“Shorten-economics” strikes again.,Assertive,,Labor,,
-7,Everyone remembers what happened only three years ago when Labor last mismanaged the NBN.,Assertive,6#8#19,Labor,,
-8,"After six years and $6.5 billion, Labor had connected just 51,000 premises nationwide to an active NBN service.",Assertive-V,9,Labor,,
-9,"Under the Coalition, the NBN now connects more than 60,000 paying customers per month.",Assertive-V,,Liberal,,
-10,<LIST> Today’s announcement by Labor confirms that:,Assertive,11#13,Labor,,1.0
-11,"<li> Australians will wait longer – Mr Shorten said Labor’s NBN would be completed by June 2022, ",Assertive,12#17,Labor,,1.0
-12,which means homes and businesses will have to wait more than two years longer for the NBN. </li>,Assertive-V,,Labor,,
-13,"<li> Australians will pay more – With a new price tag of $57 billion, Labor’s gold-plated policy is $8 billion more than the Coalition’s current peak funding projection of $49 billion.",Assertive-V,14,Labor,,
-14,A price rise that will ultimately be passed on to households and businesses monthly internet bills. </li> </LIST>,Assertive-V,,Labor,,
-15,"Right now, under the Coalition’s rollout plan, every home and business in Australia knows they will get the NBN by 2020.",Commissive-A,9#16#18,Liberal,Specific,
-16,"Under the Coalition, a rigorous cost benefit analysis found $16 billion in additional benefits to the public, including $6 billion which was attributable to getting the project completed sooner.",Assertive-V,13#17,Liberal,,
-17,"Under Labor’s changes, they can’t tell us how long people are going to have to wait and how much it will cost the economy to do so.",Assertive-V,18,Labor,,
-18,"The NBN has met all its rollout targets under the Coalition, having connected more premises in the past four weeks than Labor connected in six years.",Assertive-V,,Liberal,,
-19,"Last time Labor were trusted with rolling out the NBN, many of the delivery partners were either asking for more money or had pulled out of the project, they missed their rollout forecasts by 85 per cent and the project had failed.",Assertive-V,20,Labor,,
-20,Labor’s already tried and failed to deliver the NBN.,Assertive-V,21,Labor,,
-21,Labor can’t be trusted a second time.,Assertive-V,,Labor,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,Today’s announcement is ground hog day with the NBN – ,Assertive-V,Labor,,1.0
+2,"Labor are again promising ‘free’ technology upgrades, this time around 2 million Australians will apparently get fibre-to the-premises (FTTP).",Assertive,Labor,,
+3,"The last time the NBN looked at how much it would cost to do Labor’s FTTP rollout, NBN found it would cost around $30 billion more and would take six to eight years longer.",Assertive-V,Labor,,
+4,Now Labor are out today saying that there will be little additional cost and that Labor’s roll out will be finished at roughly the same time - ,Assertive,Labor,,1.0
+5,it’s a magic pudding!,Assertive-V,Labor,,
+6,“Shorten-economics” strikes again.,Assertive,Labor,,
+7,Everyone remembers what happened only three years ago when Labor last mismanaged the NBN.,Assertive,Labor,,
+8,"After six years and $6.5 billion, Labor had connected just 51,000 premises nationwide to an active NBN service.",Assertive-V,Labor,,
+9,"Under the Coalition, the NBN now connects more than 60,000 paying customers per month.",Assertive-V,Liberal,,
+10,<LIST> Today’s announcement by Labor confirms that:,Assertive,Labor,,1.0
+11,"<li> Australians will wait longer – Mr Shorten said Labor’s NBN would be completed by June 2022, ",Assertive,Labor,,1.0
+12,which means homes and businesses will have to wait more than two years longer for the NBN. </li>,Assertive-V,Labor,,
+13,"<li> Australians will pay more – With a new price tag of $57 billion, Labor’s gold-plated policy is $8 billion more than the Coalition’s current peak funding projection of $49 billion.",Assertive-V,Labor,,
+14,A price rise that will ultimately be passed on to households and businesses monthly internet bills. </li> </LIST>,Assertive-V,Labor,,
+15,"Right now, under the Coalition’s rollout plan, every home and business in Australia knows they will get the NBN by 2020.",Commissive-A,Liberal,Specific,
+16,"Under the Coalition, a rigorous cost benefit analysis found $16 billion in additional benefits to the public, including $6 billion which was attributable to getting the project completed sooner.",Assertive-V,Liberal,,
+17,"Under Labor’s changes, they can’t tell us how long people are going to have to wait and how much it will cost the economy to do so.",Assertive-V,Labor,,
+18,"The NBN has met all its rollout targets under the Coalition, having connected more premises in the past four weeks than Labor connected in six years.",Assertive-V,Liberal,,
+19,"Last time Labor were trusted with rolling out the NBN, many of the delivery partners were either asking for more money or had pulled out of the project, they missed their rollout forecasts by 85 per cent and the project had failed.",Assertive-V,Labor,,
+20,Labor’s already tried and failed to deliver the NBN.,Assertive-V,Labor,,
+21,Labor can’t be trusted a second time.,Assertive-V,Labor,,

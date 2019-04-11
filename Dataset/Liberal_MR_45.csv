@@ -1,12 +1,12 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,A re-elected Turnbull Coalition Government will drive jobs and growth in Shoalhaven by investing in important community initiatives.,Commissive-A,,Liberal,Vague,
-2,"A Turnbull Government will invest $358,000 to build the Jindelara Cottage in Ulladulla in conjunction with the Lions-Ulladulla District Community Foundation.",Commissive-A,1#4#5#11,Liberal,Specific,
-3,The Cottage will house respite care services for young people with disabilities and their families.,Commissive-A,2,Liberal,Specific,
-4,This investment is part of the Government’s broader commitment to provide reasonable and necessary support for those people with disability in our community and their families.,Assertive,,Liberal,,
-5,"It will complement the National Disability Insurance Scheme (NDIS), which will create over 3000 jobs in the Illawarra Shoalhaven region after it commences here on 1 July 2017.",Assertive-V,,Liberal,,
-6,"A Turnbull Government will also invest $790,000 to upgrade Ulladulla Harbour, which has been central to the regional economy since 1840.",Commissive-A,1#7#11,Liberal,Specific,
-7,"Commercial and recreational fishers will benefit from dredging, removal of a rock shelf and the installation of a floating pontoon to support 21 new berths.",Assertive-V,,Liberal,,
-8,"A Turnbull Government will deliver this upgrade in partnership with the Shoalhaven City Council, delivering 18 new jobs and $3.6 million in economic benefit to the region.",Commissive-A,6,Liberal,Specific,
-9,"Gilmore will also benefit from the Turnbull Government’s $2.5 million investment in the upgrade of Moruya Airport, creating up to $40 million of economic value for the region.",Commissive-A,1#11,Liberal,Specific,
-10,These initiatives – strongly supported by Member for Gilmore Ann Sudmalis – ,Assertive-S,2#6#9,Liberal,,1.0
-11,demonstrate how the Turnbull Government is committed to growing more vibrant communities and delivering jobs and growth.,Assertive-V,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,A re-elected Turnbull Coalition Government will drive jobs and growth in Shoalhaven by investing in important community initiatives.,Commissive-A,Liberal,Vague,
+2,"A Turnbull Government will invest $358,000 to build the Jindelara Cottage in Ulladulla in conjunction with the Lions-Ulladulla District Community Foundation.",Commissive-A,Liberal,Specific,
+3,The Cottage will house respite care services for young people with disabilities and their families.,Commissive-A,Liberal,Specific,
+4,This investment is part of the Government’s broader commitment to provide reasonable and necessary support for those people with disability in our community and their families.,Assertive,Liberal,,
+5,"It will complement the National Disability Insurance Scheme (NDIS), which will create over 3000 jobs in the Illawarra Shoalhaven region after it commences here on 1 July 2017.",Assertive-V,Liberal,,
+6,"A Turnbull Government will also invest $790,000 to upgrade Ulladulla Harbour, which has been central to the regional economy since 1840.",Commissive-A,Liberal,Specific,
+7,"Commercial and recreational fishers will benefit from dredging, removal of a rock shelf and the installation of a floating pontoon to support 21 new berths.",Assertive-V,Liberal,,
+8,"A Turnbull Government will deliver this upgrade in partnership with the Shoalhaven City Council, delivering 18 new jobs and $3.6 million in economic benefit to the region.",Commissive-A,Liberal,Specific,
+9,"Gilmore will also benefit from the Turnbull Government’s $2.5 million investment in the upgrade of Moruya Airport, creating up to $40 million of economic value for the region.",Commissive-A,Liberal,Specific,
+10,These initiatives – strongly supported by Member for Gilmore Ann Sudmalis – ,Assertive-S,Liberal,,1.0
+11,demonstrate how the Turnbull Government is committed to growing more vibrant communities and delivering jobs and growth.,Assertive-V,Liberal,,

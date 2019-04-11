@@ -1,26 +1,26 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,Better management of Australia’s social services will support continued record investment in social welfare and other assistance.,Assertive,,Liberal,,
-2,We are committed to supporting those who are most at risk in our community ,Commissive-A,1,Liberal,Vague,1.0
-3,and we have delivered on significant commitments to strengthen Australia’s social welfare system.,Assertive-S,2,Liberal,,
-4,We are rolling out the National Disability Insurance Scheme across Australia on time and on budget and ensuring that it is fully funded.,Assertive-S,2,Liberal,,
-5,We are implementing a $100 million Women’s Safety Package to protect women and children at high risk of experiencing domestic and family violence.,Assertive-S,2,Liberal,,
-6,"The Coalition is also providing almost $40 billion over the next four years to help Australian families with the cost of child care and early learning, targeting low income working families.",Commissive-A,2,Liberal,Specific,
-7,"Australia currently spends around $160 billion a year on social services and welfare, which represent more than 80 per cent of all the personal income tax collected in Australia.",Assertive,10,Other,,
-8,"At any one time, there is around $3.5 billion of debt to the Commonwealth due to fraud, non-compliance or misreporting in the welfare system.",Assertive,10,Other,,
-9,Welfare spending is currently projected to increase to over $190 billion by 2019-20 and to over $270 billion by 2025-26.,Assertive,10,Other,,
-10,"Through the smarter use of technology, we can better manage our social welfare system to ensure that every dollar goes to those who need it most.",Assertive,1#12,Liberal,,
-11,"Our existing integrity measures are successfully identifying and recovering fraud and overpayments, ",Assertive,12,Liberal,,1.0
-12,and we will build on these.,Commissive-A,,Liberal,Vague,
-13,<LIST>A re-elected Coalition Government will:,Assertive,12,Liberal,,1.0
-14,<li> enhance the integrity and compliance of social welfare payments through improved employment income and non-employment income data matching; </li> ,Commissive-A,12#21#22,Liberal,Vague,1.0
-15,<li> improve engagement with welfare recipients to better ensure they meet their obligations before problems arise; </li> ,Commissive-A,12#21#22,Liberal,Vague,1.0
-16,<li> ensure welfare recipients accurately disclose assets and investments; and </li> ,Commissive-A,12#21#22,Liberal,Vague,1.0
-17,<li> improve the capability for the identification and recovery of debt owed to taxpayers. </li> </LIST>,Commissive-A,12#21#22,Liberal,Vague,
-18,The vast majority of Australian welfare recipients do the right thing.,Assertive,20,Other,,
-19,"Some welfare recipients make genuine mistakes in the information they supply to the government, which can result in reduced or cancelled payments.",Assertive,20,Other,,
-20,Better management will make it simpler and less time consuming for welfare recipients to meet their obligations.,Assertive,23,Liberal,,
-21,These reforms will cut red tape and ensure that mistakes are minimised so that recipients who are doing the right thing are not adversely affected or inconvenienced.,Assertive-V,,Liberal,,
-22,These measures will also better target fraud in our social welfare system.,Assertive-V,,Liberal,,
-23,"We will better manage the welfare system to ensure we prevent, detect and deter fraud and non-compliance.",Commissive-A,12#24#25,Liberal,Vague,
-24,No one who genuinely needs social welfare support and who is honestly disclosing their employment income and non-employment income will be worse-off under our commitment.,Assertive-V,,Liberal,,
-25,Together these better management reforms will improve the Budget by $2 billion.,Assertive-V,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,Better management of Australia’s social services will support continued record investment in social welfare and other assistance.,Assertive,Liberal,,
+2,We are committed to supporting those who are most at risk in our community ,Commissive-A,Liberal,Vague,1.0
+3,and we have delivered on significant commitments to strengthen Australia’s social welfare system.,Assertive-S,Liberal,,
+4,We are rolling out the National Disability Insurance Scheme across Australia on time and on budget and ensuring that it is fully funded.,Assertive-S,Liberal,,
+5,We are implementing a $100 million Women’s Safety Package to protect women and children at high risk of experiencing domestic and family violence.,Assertive-S,Liberal,,
+6,"The Coalition is also providing almost $40 billion over the next four years to help Australian families with the cost of child care and early learning, targeting low income working families.",Commissive-A,Liberal,Specific,
+7,"Australia currently spends around $160 billion a year on social services and welfare, which represent more than 80 per cent of all the personal income tax collected in Australia.",Assertive,Other,,
+8,"At any one time, there is around $3.5 billion of debt to the Commonwealth due to fraud, non-compliance or misreporting in the welfare system.",Assertive,Other,,
+9,Welfare spending is currently projected to increase to over $190 billion by 2019-20 and to over $270 billion by 2025-26.,Assertive,Other,,
+10,"Through the smarter use of technology, we can better manage our social welfare system to ensure that every dollar goes to those who need it most.",Assertive,Liberal,,
+11,"Our existing integrity measures are successfully identifying and recovering fraud and overpayments, ",Assertive,Liberal,,1.0
+12,and we will build on these.,Commissive-A,Liberal,Vague,
+13,<LIST>A re-elected Coalition Government will:,Assertive,Liberal,,1.0
+14,<li> enhance the integrity and compliance of social welfare payments through improved employment income and non-employment income data matching; </li> ,Commissive-A,Liberal,Vague,1.0
+15,<li> improve engagement with welfare recipients to better ensure they meet their obligations before problems arise; </li> ,Commissive-A,Liberal,Vague,1.0
+16,<li> ensure welfare recipients accurately disclose assets and investments; and </li> ,Commissive-A,Liberal,Vague,1.0
+17,<li> improve the capability for the identification and recovery of debt owed to taxpayers. </li> </LIST>,Commissive-A,Liberal,Vague,
+18,The vast majority of Australian welfare recipients do the right thing.,Assertive,Other,,
+19,"Some welfare recipients make genuine mistakes in the information they supply to the government, which can result in reduced or cancelled payments.",Assertive,Other,,
+20,Better management will make it simpler and less time consuming for welfare recipients to meet their obligations.,Assertive,Liberal,,
+21,These reforms will cut red tape and ensure that mistakes are minimised so that recipients who are doing the right thing are not adversely affected or inconvenienced.,Assertive-V,Liberal,,
+22,These measures will also better target fraud in our social welfare system.,Assertive-V,Liberal,,
+23,"We will better manage the welfare system to ensure we prevent, detect and deter fraud and non-compliance.",Commissive-A,Liberal,Vague,
+24,No one who genuinely needs social welfare support and who is honestly disclosing their employment income and non-employment income will be worse-off under our commitment.,Assertive-V,Liberal,,
+25,Together these better management reforms will improve the Budget by $2 billion.,Assertive-V,Liberal,,

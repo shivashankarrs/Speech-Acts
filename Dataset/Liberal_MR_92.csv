@@ -1,20 +1,20 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,A re-elected Turnbull Coalition Government will provide an additional $10 million to support victims of revenge porn and domestic violence.,Commissive-A,2#3,Liberal,Specific,
-2,This additional funding will improve research and education to counter the risk of technology-facilitated abuse by ensuring women’s privacy and safety are protected and young people understand the impact of their actions.,Commissive-O,,Liberal,,
-3,"The Coalition’s commitment to keeping women and children safe from domestic and family violence is comprehensive, multi-faceted and unwavering.",Assertive-V,,Liberal,,
-4,Sexual violence is a heinous crime and revenge porn is a grave violation of a person’s freedom.,Assertive,7,Other,,
-5,Increasing reliance on technology presents new mediums in which perpetrators can subject victims to intimidation and harassment.,Assertive,7,Other,,
-6,"Equally, such technologies present us with innovative ways in which to educate and protect those who might be at risk of technology-facilitated abuse.",Assertive,7,Other,,
-7,"As part of our unprecedented commitment to end domestic violence, ",Assertive,8,Liberal,,1.0
-8,the Coalition will confront this issue head on.,Commissive-A,1,Liberal,Vague,
-9,<LIST> The $10 million will be invested in initiatives that are designed to:,Commissive-A,1,Liberal,Specific,1.0
-10,<li> Establish a national online complaints mechanism where victims can report cases of intimate photos or videos being posted without consent (ie. “revenge porn”) and access immediate and tangible support; </li> ,Commissive-A,1#14#16,Liberal,Specific,1.0
-11,<li> Counter the impact of pornography in society with targeted information and educational resources to shift attitudes and behaviours in young people; </li> ,Commissive-A,1#14#16,Liberal,Specific,1.0
-12,"<li> Identify gaps in, and impediments to, information sharing about victims and perpetrators of domestic, family and sexual violence between jurisdictions; and </li> ",Commissive-A,1#14#16,Liberal,Specific,1.0
-13,<li> Strengthen research and data collection around the forms of violence experienced by Aboriginal and Torres Strait Islander women and their children and culturally and linguistically diverse communities. </li>  </LIST>,Commissive-A,1#14#16,Liberal,Specific,
-14,These initiatives are based on advice from the COAG Advisory Panel on Domestic Violence led by Ken Lay and Rosie Batty.,Assertive-V,,Liberal,,
-15,"The Turnbull Coalition is steadfast in our commitment that violence and intimidation will not be tolerated under any circumstance – physical, emotional or virtual.",Assertive,16,Liberal,,
-16,"The specific initiatives to be funded from this $10 million will be identified in consultation with the States and Territories, relevant stakeholder organisations and the community.",Commissive-A,,Liberal,Specific,
-17,The additional $10 million will be funded through the $100 million allocated in this year’s Budget to fund the Third Action Plan of the National Plan to Reduce Violence against Women and their Children 2010-2022.,Commissive-A,1#18#19,Liberal,Specific,
-18,"No Commonwealth government has ever invested as much in the critical area of tackling domestic violence, with approximately $275 million spent each year on programmes that directly support women and their children who experience domestic violence.",Assertive-V,,Liberal,,
-19,"The Turnbull Coalition is resolute in its commitment to ensure women and children are safe in their homes, safe on the streets and safe online.",Assertive-V,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,A re-elected Turnbull Coalition Government will provide an additional $10 million to support victims of revenge porn and domestic violence.,Commissive-A,Liberal,Specific,
+2,This additional funding will improve research and education to counter the risk of technology-facilitated abuse by ensuring women’s privacy and safety are protected and young people understand the impact of their actions.,Commissive-O,Liberal,,
+3,"The Coalition’s commitment to keeping women and children safe from domestic and family violence is comprehensive, multi-faceted and unwavering.",Assertive-V,Liberal,,
+4,Sexual violence is a heinous crime and revenge porn is a grave violation of a person’s freedom.,Assertive,Other,,
+5,Increasing reliance on technology presents new mediums in which perpetrators can subject victims to intimidation and harassment.,Assertive,Other,,
+6,"Equally, such technologies present us with innovative ways in which to educate and protect those who might be at risk of technology-facilitated abuse.",Assertive,Other,,
+7,"As part of our unprecedented commitment to end domestic violence, ",Assertive,Liberal,,1.0
+8,the Coalition will confront this issue head on.,Commissive-A,Liberal,Vague,
+9,<LIST> The $10 million will be invested in initiatives that are designed to:,Commissive-A,Liberal,Specific,1.0
+10,<li> Establish a national online complaints mechanism where victims can report cases of intimate photos or videos being posted without consent (ie. “revenge porn”) and access immediate and tangible support; </li> ,Commissive-A,Liberal,Specific,1.0
+11,<li> Counter the impact of pornography in society with targeted information and educational resources to shift attitudes and behaviours in young people; </li> ,Commissive-A,Liberal,Specific,1.0
+12,"<li> Identify gaps in, and impediments to, information sharing about victims and perpetrators of domestic, family and sexual violence between jurisdictions; and </li> ",Commissive-A,Liberal,Specific,1.0
+13,<li> Strengthen research and data collection around the forms of violence experienced by Aboriginal and Torres Strait Islander women and their children and culturally and linguistically diverse communities. </li>  </LIST>,Commissive-A,Liberal,Specific,
+14,These initiatives are based on advice from the COAG Advisory Panel on Domestic Violence led by Ken Lay and Rosie Batty.,Assertive-V,Liberal,,
+15,"The Turnbull Coalition is steadfast in our commitment that violence and intimidation will not be tolerated under any circumstance – physical, emotional or virtual.",Assertive,Liberal,,
+16,"The specific initiatives to be funded from this $10 million will be identified in consultation with the States and Territories, relevant stakeholder organisations and the community.",Commissive-A,Liberal,Specific,
+17,The additional $10 million will be funded through the $100 million allocated in this year’s Budget to fund the Third Action Plan of the National Plan to Reduce Violence against Women and their Children 2010-2022.,Commissive-A,Liberal,Specific,
+18,"No Commonwealth government has ever invested as much in the critical area of tackling domestic violence, with approximately $275 million spent each year on programmes that directly support women and their children who experience domestic violence.",Assertive-V,Liberal,,
+19,"The Turnbull Coalition is resolute in its commitment to ensure women and children are safe in their homes, safe on the streets and safe online.",Assertive-V,Liberal,,

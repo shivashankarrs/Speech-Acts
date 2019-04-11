@@ -1,18 +1,18 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,"In an extraordinary repackaging of a months old announcement today, Labor has shown they don’t understand how the Commonwealth’s schools funding is distributed and how arrangements work.",Assertive,3,Labor,,
-2,"Quite simply, the Federal Government pays lump sums to states and territories and non-government organisations to distribute as they see fit and based on their own funding models.",Assertive-S,1#17,Liberal,,
-3,"Contrary to what is implied in his announcement today, Bill Shorten would have no say in how money is allocated to each school.",Assertive,4,Labor,,
-4,"Not only does Labor have no say in how funding is distributed among individual schools, ",Assertive,5,Labor,,1.0
-5,"but they will continue a model riddled with inconsistencies in funding between the states, territories and non-government systems.",Assertive-V,,Labor,,
-6,"In government Labor created 27 different schools funding agreements across the country , ",Assertive-S,7#8,Labor,,1.0
-7,which they promise to perpetuate.,Assertive-V,5,Labor,,
-8,"Then, in secret, just before the last election Labor cut $1.2 billion from Queensland, the NT and WA because they'd failed to sign up to this confused and inconsistent approach.",Assertive-S,9,Labor,,
-9,The Coalition had to restore this funding in our first budget.,Assertive,,Liberal,,
-10,"Having pledged to continue these 27 special deals , ",Assertive-V,7#11#12#15#16,Labor,,1.0
-11,"does Bill Shorten again suggest leaving Queensland, WA and the NT out in the cold?",Interrogative,13,Labor,,
-12,"Or will we see another round of hodgepodge negotiations, resulting in more inconsistencies?",Interrogative,13,Labor,,
-13,"Don’t trust what Labor says, trust what they do.",Assertive,,Labor,,
-14,"Bill Shorten actually cut $794 million from Queensland schools before the last election, including $26 million the Commonwealth provided to the states and territories and non-government sector for schools in Herbert, and $28 million each from Capricornia and Dawson schools.",Assertive-S,13#17,Labor,,
-15,"To come out and promise millions of dollars specific to individual schools ignores arrangements with states and territories and their abilities to distribute schools funding based on their own funding model, as has always been the case.",Assertive-V,,Labor,,
-16,"Labor’s model is entirely focused on one input - school funding - to solve a complicated issue, how to lift student outcomes.",Assertive-V,,Labor,,
-17,"The Coalition is the only party with a fully funded and affordable plan that ensures money is needs-based and focuses on proven measures that will improve outcomes in literacy, numeracy, STEM subjects and prepare students for the jobs of the future.",Assertive-V,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,"In an extraordinary repackaging of a months old announcement today, Labor has shown they don’t understand how the Commonwealth’s schools funding is distributed and how arrangements work.",Assertive,Labor,,
+2,"Quite simply, the Federal Government pays lump sums to states and territories and non-government organisations to distribute as they see fit and based on their own funding models.",Assertive-S,Liberal,,
+3,"Contrary to what is implied in his announcement today, Bill Shorten would have no say in how money is allocated to each school.",Assertive,Labor,,
+4,"Not only does Labor have no say in how funding is distributed among individual schools, ",Assertive,Labor,,1.0
+5,"but they will continue a model riddled with inconsistencies in funding between the states, territories and non-government systems.",Assertive-V,Labor,,
+6,"In government Labor created 27 different schools funding agreements across the country , ",Assertive-S,Labor,,1.0
+7,which they promise to perpetuate.,Assertive-V,Labor,,
+8,"Then, in secret, just before the last election Labor cut $1.2 billion from Queensland, the NT and WA because they'd failed to sign up to this confused and inconsistent approach.",Assertive-S,Labor,,
+9,The Coalition had to restore this funding in our first budget.,Assertive,Liberal,,
+10,"Having pledged to continue these 27 special deals , ",Assertive-V,Labor,,1.0
+11,"does Bill Shorten again suggest leaving Queensland, WA and the NT out in the cold?",Interrogative,Labor,,
+12,"Or will we see another round of hodgepodge negotiations, resulting in more inconsistencies?",Interrogative,Labor,,
+13,"Don’t trust what Labor says, trust what they do.",Assertive,Labor,,
+14,"Bill Shorten actually cut $794 million from Queensland schools before the last election, including $26 million the Commonwealth provided to the states and territories and non-government sector for schools in Herbert, and $28 million each from Capricornia and Dawson schools.",Assertive-S,Labor,,
+15,"To come out and promise millions of dollars specific to individual schools ignores arrangements with states and territories and their abilities to distribute schools funding based on their own funding model, as has always been the case.",Assertive-V,Labor,,
+16,"Labor’s model is entirely focused on one input - school funding - to solve a complicated issue, how to lift student outcomes.",Assertive-V,Labor,,
+17,"The Coalition is the only party with a fully funded and affordable plan that ensures money is needs-based and focuses on proven measures that will improve outcomes in literacy, numeracy, STEM subjects and prepare students for the jobs of the future.",Assertive-V,Liberal,,

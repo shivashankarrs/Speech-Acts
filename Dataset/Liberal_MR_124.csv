@@ -1,16 +1,16 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,Labor’s Kate Ellis has sensationally finally admitted that Labor’s tinkering with the child care system in 2008,Assertive-S,2,Labor,,1.0
-2,resulted in “inflationary” pressure on fee increases and failed to guarantee their new promises won’t do the same.,Assertive-V,,Labor,,
-3,Ms Ellis’ arguments as to why history won’t repeat itself with a spike in fee increases simply don’t stack up.,Assertive-V,2,Labor,,
-4,"Without a mechanism like hourly fee caps to put downward pressure on prices, Labor’s extra money will go into the pockets of child care providers rather than hardworking families.",Assertive-V,3,Labor,,
-5,“What we are doing is increasing the cap on the rebate. ,Assertive-S,6#12,Labor,,
-6,"So we do not believe that, a) it would have the same inflationary issue” - Kate Ellis, Doorstop Interview, 5/6/16",Assertive-V,2#11#13,Labor,,1.0
-7,"Asked directly to guarantee that his promises wouldn’t raise fees, and would increase child care places, ",Interrogative,8,Labor,,1.0
-8,Bill Shorten failed to do so.,Assertive,11#13,Labor,,
-9,"Asked seven times how his $3 billion worth of promises would be funded, ",Interrogative,10,Labor,,1.0
-10,Bill Shorten could not give a clear answer.,Assertive,,Labor,,
-11,"Minister for Education and Training Simon Birmingham said Labor was repeating their past mistakes, which caused child care hikes of up to 12.5 per cent.",Assertive-V,,Labor,,
-12,"“After claiming to be proud of Labor’s 53 per cent rise in child care fees, it’s extraordinary that Kate Ellis has back flipped and recognised the pain her party’s policies caused families,” Minister Birmingham said.",Assertive,,Labor,,
-13,“Australian families have been burned by Labor’s haphazard approach to child care policy before and know they cannot trust that today’s announcement won’t hurt their hip pockets again.”,Assertive-V,14,Labor,,
-14,“Under the Turnbull Government the rate of fee increases has reduced to around 3.6 per cent per year,Assertive-V,,Liberal,,1.0
-15," compared to an average of 7.8 per cent per year during Labor’s time in government, which spiked at 12.5 per cent in 2009 after their last effort in this area.”",Assertive-V,14,Labor,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,Labor’s Kate Ellis has sensationally finally admitted that Labor’s tinkering with the child care system in 2008,Assertive-S,Labor,,1.0
+2,resulted in “inflationary” pressure on fee increases and failed to guarantee their new promises won’t do the same.,Assertive-V,Labor,,
+3,Ms Ellis’ arguments as to why history won’t repeat itself with a spike in fee increases simply don’t stack up.,Assertive-V,Labor,,
+4,"Without a mechanism like hourly fee caps to put downward pressure on prices, Labor’s extra money will go into the pockets of child care providers rather than hardworking families.",Assertive-V,Labor,,
+5,“What we are doing is increasing the cap on the rebate. ,Assertive-S,Labor,,
+6,"So we do not believe that, a) it would have the same inflationary issue” - Kate Ellis, Doorstop Interview, 5/6/16",Assertive-V,Labor,,1.0
+7,"Asked directly to guarantee that his promises wouldn’t raise fees, and would increase child care places, ",Interrogative,Labor,,1.0
+8,Bill Shorten failed to do so.,Assertive,Labor,,
+9,"Asked seven times how his $3 billion worth of promises would be funded, ",Interrogative,Labor,,1.0
+10,Bill Shorten could not give a clear answer.,Assertive,Labor,,
+11,"Minister for Education and Training Simon Birmingham said Labor was repeating their past mistakes, which caused child care hikes of up to 12.5 per cent.",Assertive-V,Labor,,
+12,"“After claiming to be proud of Labor’s 53 per cent rise in child care fees, it’s extraordinary that Kate Ellis has back flipped and recognised the pain her party’s policies caused families,” Minister Birmingham said.",Assertive,Labor,,
+13,“Australian families have been burned by Labor’s haphazard approach to child care policy before and know they cannot trust that today’s announcement won’t hurt their hip pockets again.”,Assertive-V,Labor,,
+14,“Under the Turnbull Government the rate of fee increases has reduced to around 3.6 per cent per year,Assertive-V,Liberal,,1.0
+15," compared to an average of 7.8 per cent per year during Labor’s time in government, which spiked at 12.5 per cent in 2009 after their last effort in this area.”",Assertive-V,Labor,,

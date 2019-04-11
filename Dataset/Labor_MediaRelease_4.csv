@@ -1,23 +1,23 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,A Shorten Labor Government will appoint a full-time Disability Discrimination Commissioner to the Australian Human Rights Commission.,Commissive-A,11#12,Labor,Specific,
-2,Discrimination against people with disability is still far too common in Australia.,Assertive,4,Other,,
-3,"People with disability face discrimination in the workplace, when accessing services and in the community. ",Assertive,4,Other,,
-4,Complaints relating to breaches of the Disability Discrimination Act are consistently the most common complaint received by the Commission. ,Assertive,5,Labor,,
-5,That’s why Australia needs a dedicated Disability Discrimination Commissioner – because people with disability deserve a powerful voice to advocate their interests.,Assertive,1,Labor,,
-6,"Upon taking office, a Shorten Labor Government will immediately begin the process of appointing a full-time Disability Discrimination Commissioner.",Commissive-A,1,Labor,Specific,
-7,This position will replace the currently vacant Human Rights Commissioner position previously held by Liberal candidate Tim Wilson. ,Commissive-A,6,Labor,Specific,
-8,It says everything about the priorities of the Turnbull Government,Assertive-V,,Liberal,,1.0
-9,"that they appointed a ‘Freedom Commissioner’ and a Commissioner for wind farms, but not a full-time Disability Discrimination Commissioner. ",Assertive-S,8#11#13#22,Liberal,,
-10,"In the horror 2014 Budget, the Liberal Government cut funding for the Human Rights Commission and sacked Graeme Innes – Australia’s longest-serving Disability Discrimination Commissioner and a powerful advocate for Australians with disability, their families and carers.    ",Assertive-S,8#11#22,Liberal,,
-11,A Shorten Labor Government will right this wrong. ,Commissive-A,17#22,Labor,Vague,
-12,"This change will result in the Age Discrimination Commissioner also returning to a full-time role, ending the forced sharing of the two job roles which has occurred under the Liberal Government.",Commissive-O,,Labor,,
-13,"Susan Ryan, Age Discrimination Commissioner, was forced to do both jobs at once – ",Assertive-S,14#15,Liberal,,1.0
-14,a difficult task which she has performed ably under immense pressure. ,Assertive-V,,Liberal,,
-15,But both positions deserve full-time attention. ,Assertive,,Labor,,
-16,"The new Disability Discrimination Commissioner will have a special focus on removing barriers to employment for people with disability, and will work with business, governments and the community sector to boost job opportunities for Australians with disability.",Commissive-A,7,Labor,Vague,
-17,Today’s announcement is just one part of Labor’s plan to strengthen the voices of Australians with disability. ,Assertive-V,,Labor,,
-18,A Shorten Labor Government will also provide an additional $2 million a year to peak disability advocacy organisations so that people with disability have the biggest say in the decisions and debates that affect their lives.  ,Commissive-A,11,Labor,Specific,
-19,Federal Labor has a proud record of delivering greater support for people with disability.,Assertive-S,22,Labor,,
-20,"Labor designed, funded and introduced the National Disability Insurance Scheme,",Assertive-S,19#21,Labor,,1.0
-21,"which is already transforming the lives of thousands of people with disability, their families and carers.",Assertive-V,,Labor,,
-22,Only Labor puts people with disability first. ,Assertive,,Labor,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,A Shorten Labor Government will appoint a full-time Disability Discrimination Commissioner to the Australian Human Rights Commission.,Commissive-A,Labor,Specific,
+2,Discrimination against people with disability is still far too common in Australia.,Assertive,Other,,
+3,"People with disability face discrimination in the workplace, when accessing services and in the community. ",Assertive,Other,,
+4,Complaints relating to breaches of the Disability Discrimination Act are consistently the most common complaint received by the Commission. ,Assertive,Labor,,
+5,That’s why Australia needs a dedicated Disability Discrimination Commissioner – because people with disability deserve a powerful voice to advocate their interests.,Assertive,Labor,,
+6,"Upon taking office, a Shorten Labor Government will immediately begin the process of appointing a full-time Disability Discrimination Commissioner.",Commissive-A,Labor,Specific,
+7,This position will replace the currently vacant Human Rights Commissioner position previously held by Liberal candidate Tim Wilson. ,Commissive-A,Labor,Specific,
+8,It says everything about the priorities of the Turnbull Government,Assertive-V,Liberal,,1.0
+9,"that they appointed a ‘Freedom Commissioner’ and a Commissioner for wind farms, but not a full-time Disability Discrimination Commissioner. ",Assertive-S,Liberal,,
+10,"In the horror 2014 Budget, the Liberal Government cut funding for the Human Rights Commission and sacked Graeme Innes – Australia’s longest-serving Disability Discrimination Commissioner and a powerful advocate for Australians with disability, their families and carers.    ",Assertive-S,Liberal,,
+11,A Shorten Labor Government will right this wrong. ,Commissive-A,Labor,Vague,
+12,"This change will result in the Age Discrimination Commissioner also returning to a full-time role, ending the forced sharing of the two job roles which has occurred under the Liberal Government.",Commissive-O,Labor,,
+13,"Susan Ryan, Age Discrimination Commissioner, was forced to do both jobs at once – ",Assertive-S,Liberal,,1.0
+14,a difficult task which she has performed ably under immense pressure. ,Assertive-V,Liberal,,
+15,But both positions deserve full-time attention. ,Assertive,Labor,,
+16,"The new Disability Discrimination Commissioner will have a special focus on removing barriers to employment for people with disability, and will work with business, governments and the community sector to boost job opportunities for Australians with disability.",Commissive-A,Labor,Vague,
+17,Today’s announcement is just one part of Labor’s plan to strengthen the voices of Australians with disability. ,Assertive-V,Labor,,
+18,A Shorten Labor Government will also provide an additional $2 million a year to peak disability advocacy organisations so that people with disability have the biggest say in the decisions and debates that affect their lives.  ,Commissive-A,Labor,Specific,
+19,Federal Labor has a proud record of delivering greater support for people with disability.,Assertive-S,Labor,,
+20,"Labor designed, funded and introduced the National Disability Insurance Scheme,",Assertive-S,Labor,,1.0
+21,"which is already transforming the lives of thousands of people with disability, their families and carers.",Assertive-V,Labor,,
+22,Only Labor puts people with disability first. ,Assertive,Labor,,

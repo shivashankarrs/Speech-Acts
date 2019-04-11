@@ -1,20 +1,20 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,Our ambitious trade agenda is critical for job creation and growth.,Assertive-V,,Liberal,,
-2,"It took a Coalition Government to conclude trade agreements with Korea, Japan and China, and upgrade Australia’s agreement with Singapore.",Assertive-S,1#3#4#7,Liberal,,
-3,"A re-elected Turnbull Government will launch free trade agreement negotiations with the European Union and explore the feasibility of trade negotiations with Canada, Mexico and Colombia.",Commissive-A,1#6#19,Liberal,Specific,
-4,We will also pursue new opportunities in the Indo-Pacific region.,Commissive-A,1#6#19,Liberal,Vague,
-5,"We will conclude trade agreements with India, Indonesia, the 16 Regional Comprehensive Economic Partnership countries, the Gulf Cooperation Council, and Pacific Island countries through the PACER Plus agreement.",Commissive-A,4,Liberal,Specific,
-6,New free trade agreements will create more Australian jobs and attract new investment.,Assertive-V,,Liberal,,
-7,We will also expand existing export agreements to tap into investment opportunities – more investment means more jobs.,Commissive-A,1#6#19,Liberal,Vague,
-8,<LIST> A re-elected Turnbull Government will help secure Australia’s future prosperity and drive job growth through trade and investment by:,Commissive-A,19,Liberal,Vague,1.0
-9,<li> delivering an enterprise tax cut for Australia’s small businesses; </li>,Commissive-A,8,Liberal,Specific,1.0
-10,<li> establishing a single window for all export documentation which will drastically simplify export processes for Australian businesses; </li>,Commissive-A,8,Liberal,Specific,1.0
-11,<li> assisting Australian businesses to connect with key export markets through information seminars and the expansion of the FTA portal to cover all existing FTAs; </li>,Commissive-A,8,Liberal,Specific,1.0
-12,<li> establishing a Professional Services Mutual Recognition Unit; </li>,Commissive-A,8,Liberal,Specific,1.0
-13,<li> implementing the National Strategy for International Education 2025; </li>,Commissive-A,8,Liberal,Specific,1.0
-14,<li> securing access for local exporters to the multi-billion dollar government procurement markets of 45 economies by joining the WTO Government Procurement Agreement. </li> </LIST>,Commissive-A,7#8,Liberal,Specific,
-15,"The Coalition Government has already delivered export trade agreements with three of our largest trading partners – China, Japan and Korea - ",Assertive-S,2#16#18#19,Liberal,,1.0
-16,delivering thousands of jobs and growth opportunities for Australian businesses.,Assertive-V,,Liberal,,
-17,Labor had six years to conclude these agreements and achieved nothing.,Assertive-V,15,Labor,,
-18,"As a result of the Government’s trade initiatives, Australia’s economy is projected to be more than $24 billion larger by 2035.",Assertive-V,,Liberal,,
-19,The new and existing agreements form a vital part of our National Economic Plan.,Assertive-V,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,Our ambitious trade agenda is critical for job creation and growth.,Assertive-V,Liberal,,
+2,"It took a Coalition Government to conclude trade agreements with Korea, Japan and China, and upgrade Australia’s agreement with Singapore.",Assertive-S,Liberal,,
+3,"A re-elected Turnbull Government will launch free trade agreement negotiations with the European Union and explore the feasibility of trade negotiations with Canada, Mexico and Colombia.",Commissive-A,Liberal,Specific,
+4,We will also pursue new opportunities in the Indo-Pacific region.,Commissive-A,Liberal,Vague,
+5,"We will conclude trade agreements with India, Indonesia, the 16 Regional Comprehensive Economic Partnership countries, the Gulf Cooperation Council, and Pacific Island countries through the PACER Plus agreement.",Commissive-A,Liberal,Specific,
+6,New free trade agreements will create more Australian jobs and attract new investment.,Assertive-V,Liberal,,
+7,We will also expand existing export agreements to tap into investment opportunities – more investment means more jobs.,Commissive-A,Liberal,Vague,
+8,<LIST> A re-elected Turnbull Government will help secure Australia’s future prosperity and drive job growth through trade and investment by:,Commissive-A,Liberal,Vague,1.0
+9,<li> delivering an enterprise tax cut for Australia’s small businesses; </li>,Commissive-A,Liberal,Specific,1.0
+10,<li> establishing a single window for all export documentation which will drastically simplify export processes for Australian businesses; </li>,Commissive-A,Liberal,Specific,1.0
+11,<li> assisting Australian businesses to connect with key export markets through information seminars and the expansion of the FTA portal to cover all existing FTAs; </li>,Commissive-A,Liberal,Specific,1.0
+12,<li> establishing a Professional Services Mutual Recognition Unit; </li>,Commissive-A,Liberal,Specific,1.0
+13,<li> implementing the National Strategy for International Education 2025; </li>,Commissive-A,Liberal,Specific,1.0
+14,<li> securing access for local exporters to the multi-billion dollar government procurement markets of 45 economies by joining the WTO Government Procurement Agreement. </li> </LIST>,Commissive-A,Liberal,Specific,
+15,"The Coalition Government has already delivered export trade agreements with three of our largest trading partners – China, Japan and Korea - ",Assertive-S,Liberal,,1.0
+16,delivering thousands of jobs and growth opportunities for Australian businesses.,Assertive-V,Liberal,,
+17,Labor had six years to conclude these agreements and achieved nothing.,Assertive-V,Labor,,
+18,"As a result of the Government’s trade initiatives, Australia’s economy is projected to be more than $24 billion larger by 2035.",Assertive-V,Liberal,,
+19,The new and existing agreements form a vital part of our National Economic Plan.,Assertive-V,Liberal,,

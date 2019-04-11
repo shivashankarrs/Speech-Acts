@@ -1,12 +1,12 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,Today’s independent Pre-Election Economic and Fiscal Outlook 2016 (PEFO) confirms the integrity of the Budget delivered on May 3 and that the Turnbull Government is on track to bring the Budget back into balance as projected.,Assertive-V,,Liberal,,
-2,The PEFO shows the Secretaries of the Treasury and the Department of Finance have attested that the credible and conservative assumptions and economic forecasts underpinning the 2016-17 Budget are official estimates which were adopted in full by the Government.,Assertive-V,1,Liberal,,
-3,"Having had the Budget baselines and the government’s costings confirmed in PEFO, with the same bottom line over 4 years as the Budget, ",Assertive-V,1#4,Liberal,,1.0
-4,Labor must now release their costings and how they intend to pay for their promises over the next four years.,Assertive,,Labor,,
-5,<LIST> PEFO confirms the downside risks for our economy from global economic headwinds and the importance of the Coalition’s plan for jobs and growth through :,Assertive-V,1,Liberal,,1.0
-6,<li> Tax cuts and incentives for small and medium sized businesses and hard working families. </li> ,Commissive-A,5,Liberal,Vague,
-7,<li> A sustainable budget with crackdowns on tax avoidance and better targeting of tax concessions. </li> ,Commissive-A,5,Liberal,Vague,
-8,"<li> An innovation and science programme bringing more great Australian ideas to market, providing tax incentives to invest in start-up businesses and helping prepare our children for the jobs of the future by boosting participation in science, technology, engineering and maths (STEM). </li> ",Commissive-A,5,Liberal,Vague,
-9,<li> A defence industry plan that will secure an advanced defence manufacturing industry in Australia and create thousands of new hi-tech jobs. </li> ,Commissive-A,5,Liberal,Vague,
-10,"<li> Export trade deals to generate 19,000 new export opportunities, give our farmers a competitive edge and open doors into expanding markets for our service industries. </li> ",Commissive-A,5,Liberal,Specific,
-11,"<li> Guaranteed funding for health, education and roads. </li> </LIST>",Commissive-A,5,Liberal,Vague,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,Today’s independent Pre-Election Economic and Fiscal Outlook 2016 (PEFO) confirms the integrity of the Budget delivered on May 3 and that the Turnbull Government is on track to bring the Budget back into balance as projected.,Assertive-V,Liberal,,
+2,The PEFO shows the Secretaries of the Treasury and the Department of Finance have attested that the credible and conservative assumptions and economic forecasts underpinning the 2016-17 Budget are official estimates which were adopted in full by the Government.,Assertive-V,Liberal,,
+3,"Having had the Budget baselines and the government’s costings confirmed in PEFO, with the same bottom line over 4 years as the Budget, ",Assertive-V,Liberal,,1.0
+4,Labor must now release their costings and how they intend to pay for their promises over the next four years.,Assertive,Labor,,
+5,<LIST> PEFO confirms the downside risks for our economy from global economic headwinds and the importance of the Coalition’s plan for jobs and growth through :,Assertive-V,Liberal,,1.0
+6,<li> Tax cuts and incentives for small and medium sized businesses and hard working families. </li> ,Commissive-A,Liberal,Vague,
+7,<li> A sustainable budget with crackdowns on tax avoidance and better targeting of tax concessions. </li> ,Commissive-A,Liberal,Vague,
+8,"<li> An innovation and science programme bringing more great Australian ideas to market, providing tax incentives to invest in start-up businesses and helping prepare our children for the jobs of the future by boosting participation in science, technology, engineering and maths (STEM). </li> ",Commissive-A,Liberal,Vague,
+9,<li> A defence industry plan that will secure an advanced defence manufacturing industry in Australia and create thousands of new hi-tech jobs. </li> ,Commissive-A,Liberal,Vague,
+10,"<li> Export trade deals to generate 19,000 new export opportunities, give our farmers a competitive edge and open doors into expanding markets for our service industries. </li> ",Commissive-A,Liberal,Specific,
+11,"<li> Guaranteed funding for health, education and roads. </li> </LIST>",Commissive-A,Liberal,Vague,

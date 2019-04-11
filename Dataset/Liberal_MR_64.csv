@@ -1,28 +1,28 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,A re-elected Turnbull Coalition Government will partner with the NSW Baird Government in a City Deal for Western Sydney.,Commissive-A,3#4#6#17#20#21#23#24#25#26,Liberal,Specific,
-2,"The Western Sydney City Deal is the single largest planning, investment and delivery partnership in the history of this nation.",Assertive,1,Other,,
-3,It addresses the two critical challenges for Western Sydney - stimulating job growth and better transport links between the region and the rest of Sydney.,Commissive-O,,Liberal,,
-4,The Cities Deal will be centred around Western Sydney Airport –,Commissive-O,,Liberal,,1.0
-5,the most significant piece of infrastructure that will ever be built in the region –,Assertive-V,4,Liberal,,1.0
-6,and passenger rail that will link people to the jobs created around the airport.,Commissive-O,,Liberal,,
-7,"The new airport alone will create 39,000 new jobs over the next 20 years, ",Assertive-V,5#8,Liberal,,1.0
-8,but we aim to do much better.,Commissive-A,1,Liberal,Vague,
-9,"We aim to catalyse the additional 178,000 new homes and almost 200,000 new jobs that will be required to support the population directly around the airport - which is projected to reach over 1.4 million over this period.",Commissive-A,8,Liberal,Vague,
-10,"We will leverage our investments in the airport, planned rail link and key transport infrastructure to make the land use changes and create investment incentives to achieve these ambitious housing and employment targets.",Commissive-A,8,Liberal,Vague,
-11,"The City Deal for Western Sydney will draw on a new investment fund announced today to accelerate clean energy, renewable energy and energy efficiency technology in cities through the Clean Energy Finance Corporation.",Commissive-A,1,Liberal,Specific,
-12,"It will also draw on the $50 million competitive Smart Cities and Suburbs program to support councils apply cutting edge technology solutions to improve services, urban spaces and liveability.",Commissive-A,1,Liberal,Specific,
-13,"We will seek to leverage investment from the private sector and share the costs of key infrastructure required to unlock growth, housing and jobs, and share in the benefits.",Commissive-A,1,Liberal,Specific,
-14,"Under the City Deal, the Federal and State governments will work with local councils to develop a vision for Western Sydney and agree on the goals, actions and investments required to deliver it.",Commissive-A,1,Liberal,Specific,
-15,We will form a joint-Ministerial Council with ultimate accountability for the City Deal supported by officials from all three levels of government including direct representatives of the Prime Minister and Premier.,Commissive-A,1,Liberal,Specific,
-16,"The Prime Minister said currently 30 per cent of workers in Western Sydney have to travel outside of the area for work, often to Sydney’s CBD and central suburbs.",Assertive,17,Other,,
-17,"“We will stop this commuter exodus and support Western Sydney to become an exemplar 30-minute city, using the airport as a catalyst for regional jobs growth and better transport links between the region and the rest of Sydney,” said the Prime Minister.",Commissive-O,,Liberal,,
-18,“The airport presents a once-in-a-generation opportunity for long-term growth in Western Sydney which will only be realised with tight coordination and integrated planning across all three levels of governments.”,Assertive,7#19#20,Liberal,,
-19,It means the economic heart of Sydney is moving West.,Assertive,,Liberal,,
-20,Premier Baird said the agreement will be an exemplar of community engagement.,Assertive,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,A re-elected Turnbull Coalition Government will partner with the NSW Baird Government in a City Deal for Western Sydney.,Commissive-A,Liberal,Specific,
+2,"The Western Sydney City Deal is the single largest planning, investment and delivery partnership in the history of this nation.",Assertive,Other,,
+3,It addresses the two critical challenges for Western Sydney - stimulating job growth and better transport links between the region and the rest of Sydney.,Commissive-O,Liberal,,
+4,The Cities Deal will be centred around Western Sydney Airport –,Commissive-O,Liberal,,1.0
+5,the most significant piece of infrastructure that will ever be built in the region –,Assertive-V,Liberal,,1.0
+6,and passenger rail that will link people to the jobs created around the airport.,Commissive-O,Liberal,,
+7,"The new airport alone will create 39,000 new jobs over the next 20 years, ",Assertive-V,Liberal,,1.0
+8,but we aim to do much better.,Commissive-A,Liberal,Vague,
+9,"We aim to catalyse the additional 178,000 new homes and almost 200,000 new jobs that will be required to support the population directly around the airport - which is projected to reach over 1.4 million over this period.",Commissive-A,Liberal,Vague,
+10,"We will leverage our investments in the airport, planned rail link and key transport infrastructure to make the land use changes and create investment incentives to achieve these ambitious housing and employment targets.",Commissive-A,Liberal,Vague,
+11,"The City Deal for Western Sydney will draw on a new investment fund announced today to accelerate clean energy, renewable energy and energy efficiency technology in cities through the Clean Energy Finance Corporation.",Commissive-A,Liberal,Specific,
+12,"It will also draw on the $50 million competitive Smart Cities and Suburbs program to support councils apply cutting edge technology solutions to improve services, urban spaces and liveability.",Commissive-A,Liberal,Specific,
+13,"We will seek to leverage investment from the private sector and share the costs of key infrastructure required to unlock growth, housing and jobs, and share in the benefits.",Commissive-A,Liberal,Specific,
+14,"Under the City Deal, the Federal and State governments will work with local councils to develop a vision for Western Sydney and agree on the goals, actions and investments required to deliver it.",Commissive-A,Liberal,Specific,
+15,We will form a joint-Ministerial Council with ultimate accountability for the City Deal supported by officials from all three levels of government including direct representatives of the Prime Minister and Premier.,Commissive-A,Liberal,Specific,
+16,"The Prime Minister said currently 30 per cent of workers in Western Sydney have to travel outside of the area for work, often to Sydney’s CBD and central suburbs.",Assertive,Other,,
+17,"“We will stop this commuter exodus and support Western Sydney to become an exemplar 30-minute city, using the airport as a catalyst for regional jobs growth and better transport links between the region and the rest of Sydney,” said the Prime Minister.",Commissive-O,Liberal,,
+18,“The airport presents a once-in-a-generation opportunity for long-term growth in Western Sydney which will only be realised with tight coordination and integrated planning across all three levels of governments.”,Assertive,Liberal,,
+19,It means the economic heart of Sydney is moving West.,Assertive,Liberal,,
+20,Premier Baird said the agreement will be an exemplar of community engagement.,Assertive,Liberal,,
 21,"We welcome this vital initiative by the Turnbull Government for Western Sydney and a commitment to contributing to the funding and delivery of infrastructure to realise the region's potential,” said the Premier.
-",Expressive,,Liberal,,
-22,The development of Western Sydney Airport is the most significant economic development initiative in the country ,Assertive-V,18#23,Liberal,,1.0
-23,and we welcome the commitment of the Turnbull Government to delivering infrastructure to transform the region.”,Expressive,,Liberal,,
-24,This opportunity shows the value of governments with the shared goal of providing jobs and growth for Western Sydney working together to make it happen.,Assertive,,Liberal,,
-25,"The Western Sydney City Deal means more affordable housing, new jobs closer to home, better transport and a more liveable city.",Assertive-V,,Liberal,,
-26,City Deals are at the centre of the Turnbull Coalition’s Smart Cities Plan.,Assertive-V,,Liberal,,
+",Expressive,Liberal,,
+22,The development of Western Sydney Airport is the most significant economic development initiative in the country ,Assertive-V,Liberal,,1.0
+23,and we welcome the commitment of the Turnbull Government to delivering infrastructure to transform the region.”,Expressive,Liberal,,
+24,This opportunity shows the value of governments with the shared goal of providing jobs and growth for Western Sydney working together to make it happen.,Assertive,Liberal,,
+25,"The Western Sydney City Deal means more affordable housing, new jobs closer to home, better transport and a more liveable city.",Assertive-V,Liberal,,
+26,City Deals are at the centre of the Turnbull Coalition’s Smart Cities Plan.,Assertive-V,Liberal,,

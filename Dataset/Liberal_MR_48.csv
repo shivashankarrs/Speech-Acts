@@ -1,10 +1,10 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,A re-elected Turnbull Coalition Government will establish a $40 million Safer Communities Fund.,Commissive-A,,Liberal,Specific,
-2,"The fund will deliver on the Coalition’s ongoing commitment to keep Australians safe and secure because only safe communities can be strong and prosperous, and the best way to tackle crime and anti-social behaviour is to prevent it happening.",Commissive-A,1,Liberal,Vague,
-3,<LIST> The $40 million Safer Communities Fund will consist of two streams :,Commissive-A,1,Liberal,Specific,1.0
-4,<li> Stream one will boost the efforts of identified local governments and community organisations to address crime and anti-social behaviour by funding crime prevention initiatives (such as fixed and mobile CCTV and lighting). </li> ,Commissive-A,3,Labor,Specific,
-5,"<li> Stream two will boost efforts to protect schools, pre-schools and community organisations that are facing security risks associated with racial or religious intolerance. </li>  </LIST>",Commissive-A,3,Liberal,Specific,
-6,This new $40 million fund will build on ,Assertive-V,,Liberal,,1.0
-7,the previous work the Coalition undertook during Government through the $50 million Safer Streets Programme and the $18 million Schools Security Programme.,Assertive-S,6#9,Liberal,,
-8,Our community safety record is solid – the Coalition has now committed more than $100 million purely to assist local communities in delivering strategies to address crime and anti-social behaviour because we recognise that local solutions are often the best way to deal with local issues.,Assertive-S,9,Liberal,,
-9,"We will continue to reinvest money confiscated from criminals, and put those funds towards projects that make our streets, communities and our nation safer.",Commissive-A,1,Liberal,Vague,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,A re-elected Turnbull Coalition Government will establish a $40 million Safer Communities Fund.,Commissive-A,Liberal,Specific,
+2,"The fund will deliver on the Coalition’s ongoing commitment to keep Australians safe and secure because only safe communities can be strong and prosperous, and the best way to tackle crime and anti-social behaviour is to prevent it happening.",Commissive-A,Liberal,Vague,
+3,<LIST> The $40 million Safer Communities Fund will consist of two streams :,Commissive-A,Liberal,Specific,1.0
+4,<li> Stream one will boost the efforts of identified local governments and community organisations to address crime and anti-social behaviour by funding crime prevention initiatives (such as fixed and mobile CCTV and lighting). </li> ,Commissive-A,Labor,Specific,
+5,"<li> Stream two will boost efforts to protect schools, pre-schools and community organisations that are facing security risks associated with racial or religious intolerance. </li>  </LIST>",Commissive-A,Liberal,Specific,
+6,This new $40 million fund will build on ,Assertive-V,Liberal,,1.0
+7,the previous work the Coalition undertook during Government through the $50 million Safer Streets Programme and the $18 million Schools Security Programme.,Assertive-S,Liberal,,
+8,Our community safety record is solid – the Coalition has now committed more than $100 million purely to assist local communities in delivering strategies to address crime and anti-social behaviour because we recognise that local solutions are often the best way to deal with local issues.,Assertive-S,Liberal,,
+9,"We will continue to reinvest money confiscated from criminals, and put those funds towards projects that make our streets, communities and our nation safer.",Commissive-A,Liberal,Vague,

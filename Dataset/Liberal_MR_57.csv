@@ -1,16 +1,16 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,A re-elected Turnbull Coalition Government will help drive jobs and growth in Campbelltown and surrounding suburbs in the electorate of Sturt by upgrading the Campbelltown Memorial Oval.,Commissive-A,,Liberal,Vague,
-2,"Local clubs and community groups will benefit from a $5 million Turnbull Coalition investment in this facility, ",Commissive-A,1#4#5#6#7#8#11#12#15,Liberal,Specific,1.0
-3,which has been deteriorating.,Assertive,2,Liberal,,
-4,The new modern multipurpose sport and community facility will create jobs and increase recreation opportunities for community.,Commissive-O,,Liberal,,
-5,"It will include the construction of a play space, fitness station and pathway network.",Commissive-O,,Liberal,,
-6,"It will also boost the number of women participating in sport, with two additional netball courts and female specific change rooms.",Assertive-V,,Liberal,,
-7,This commitment is part of the Coalition’s approach to building healthy and active Australian communities.,Assertive-V,,Liberal,,
-8,"This funding commitment, which will be matched by the Campbelltown City Council, ",Assertive-V,,Liberal,,1.0
-9,is in addition to the $7.5 investment for the Campbelltown Leisure Centre announced in 2013 ,Assertive-S,8,Liberal,,1.0
-10,"and $500,000 announced last week to redevelop the Payneham Oval Clubrooms.",Assertive,8,Liberal,,
-11,The electorate of Sturt is benefitting from the hard work of local Member Minister Pyne and the Turnbull Coalition Government.,Assertive,,Liberal,,
-12,"“I am thrilled to be able to deliver this fantastic project for the families of the north eastern suburbs of Adelaide,” said Minister Pyne.",Expressive,,Liberal,,
-13,"“This project combined with the Campbelltown Leisure Centre and Payneham Oval redevelopment will see Sturt locals benefitting from the Turnbull Coalition Government’s investment long into the future,” Mr Pyne said.",Assertive-V,12,Liberal,,
-14,A re-elected Turnbull Coalition Government is dedicated to building stronger communities across Australia. ,Commissive-O,,Liberal,,
-15,By investing in community infrastructure such as the Campbelltown Memorial Oval we are growing more vibrant and viable communities and are delivering jobs and growth.,Commissive-O,14,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,A re-elected Turnbull Coalition Government will help drive jobs and growth in Campbelltown and surrounding suburbs in the electorate of Sturt by upgrading the Campbelltown Memorial Oval.,Commissive-A,Liberal,Vague,
+2,"Local clubs and community groups will benefit from a $5 million Turnbull Coalition investment in this facility, ",Commissive-A,Liberal,Specific,1.0
+3,which has been deteriorating.,Assertive,Liberal,,
+4,The new modern multipurpose sport and community facility will create jobs and increase recreation opportunities for community.,Commissive-O,Liberal,,
+5,"It will include the construction of a play space, fitness station and pathway network.",Commissive-O,Liberal,,
+6,"It will also boost the number of women participating in sport, with two additional netball courts and female specific change rooms.",Assertive-V,Liberal,,
+7,This commitment is part of the Coalition’s approach to building healthy and active Australian communities.,Assertive-V,Liberal,,
+8,"This funding commitment, which will be matched by the Campbelltown City Council, ",Assertive-V,Liberal,,1.0
+9,is in addition to the $7.5 investment for the Campbelltown Leisure Centre announced in 2013 ,Assertive-S,Liberal,,1.0
+10,"and $500,000 announced last week to redevelop the Payneham Oval Clubrooms.",Assertive,Liberal,,
+11,The electorate of Sturt is benefitting from the hard work of local Member Minister Pyne and the Turnbull Coalition Government.,Assertive,Liberal,,
+12,"“I am thrilled to be able to deliver this fantastic project for the families of the north eastern suburbs of Adelaide,” said Minister Pyne.",Expressive,Liberal,,
+13,"“This project combined with the Campbelltown Leisure Centre and Payneham Oval redevelopment will see Sturt locals benefitting from the Turnbull Coalition Government’s investment long into the future,” Mr Pyne said.",Assertive-V,Liberal,,
+14,A re-elected Turnbull Coalition Government is dedicated to building stronger communities across Australia. ,Commissive-O,Liberal,,
+15,By investing in community infrastructure such as the Campbelltown Memorial Oval we are growing more vibrant and viable communities and are delivering jobs and growth.,Commissive-O,Liberal,,

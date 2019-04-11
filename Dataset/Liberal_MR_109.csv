@@ -1,20 +1,20 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,Innovation is critical to Australia’s economic transition ,Assertive,2,Other,,1.0
-2,and forms an important part of our national economic plan.,Assertive-V,,Liberal,,
-3,As part of the Turnbull Coalition Government’s $1.1 billion National Innovation and Science Agenda we are backing startup businesses.,Commissive-A,2,Liberal,Specific,
-4,Startups are among the most innovative businesses and are an important source of job creation and growth.,Assertive,3,Other,,
-5,A re-elected Turnbull Coalition Government will invest $15 million to increase support to Australia’s startup businesses by expanding the Incubator Support programme.,Commissive-A,3#6#7#8#9#10#11#14#19,Liberal,Specific,
-6,This $15 million investment will add to the $8 million allocated to the Incubator Support programme under the Innovation Agenda.,Assertive-V,,Liberal,,
-7,<LIST> This new investment will:,Commissive-O,,Liberal,,1.0
-8,"<li> Increase the number of startup incubators and accelerators in Australia, </li>",Commissive-O,,Liberal,,1.0
-9,"<li> Support the expansion of existing high-performing incubators and accelerators, </li>",Commissive-O,,Liberal,,1.0
-10,"<li> Attract ‘experts in residence’ to provide specialist advice to startup businesses, </li>",Commissive-O,,Liberal,,1.0
-11,"<li> Enable new and existing incubators and accelerators to access up to $500,000 in funding. </li> </LIST>",Commissive-O,,Liberal,,
-12,"Incubators and accelerators assist startups with new business networks and expert advice, helping them access new sources of funding and bring innovative ideas to market sooner.",Assertive,14,Other,,
-13,Australia’s existing network of incubators and accelerators is falling well short of meeting the current level of demand.,Assertive,14,Liberal,,
-14,This initiative builds on the Turnbull Coalition Government’s strong record of investing in innovation and supporting startup businesses.,Assertive,,Liberal,,
-15,<LIST> The Coalition has:,Assertive-S,14#19,Liberal,,1.0
-16,<li> Delivered tax incentives for investors in innovative startups </li>,Assertive-S,14#19,Liberal,,1.0
-17,<li> Reformed Venture Capital Limited Partnerships to attract more venture capital investment in Australia </li>,Assertive-S,14#19,Liberal,,1.0
-18,<li> Commenced delivering international landing pads to assist Australian startups expand into key global markets </li> </LIST>,Assertive-S,14#19,Liberal,,
-19,"The Coalition’s support for startup businesses is helping to boost investment, deliver new sources of growth and create more jobs.",Assertive-V,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,Innovation is critical to Australia’s economic transition ,Assertive,Other,,1.0
+2,and forms an important part of our national economic plan.,Assertive-V,Liberal,,
+3,As part of the Turnbull Coalition Government’s $1.1 billion National Innovation and Science Agenda we are backing startup businesses.,Commissive-A,Liberal,Specific,
+4,Startups are among the most innovative businesses and are an important source of job creation and growth.,Assertive,Other,,
+5,A re-elected Turnbull Coalition Government will invest $15 million to increase support to Australia’s startup businesses by expanding the Incubator Support programme.,Commissive-A,Liberal,Specific,
+6,This $15 million investment will add to the $8 million allocated to the Incubator Support programme under the Innovation Agenda.,Assertive-V,Liberal,,
+7,<LIST> This new investment will:,Commissive-O,Liberal,,1.0
+8,"<li> Increase the number of startup incubators and accelerators in Australia, </li>",Commissive-O,Liberal,,1.0
+9,"<li> Support the expansion of existing high-performing incubators and accelerators, </li>",Commissive-O,Liberal,,1.0
+10,"<li> Attract ‘experts in residence’ to provide specialist advice to startup businesses, </li>",Commissive-O,Liberal,,1.0
+11,"<li> Enable new and existing incubators and accelerators to access up to $500,000 in funding. </li> </LIST>",Commissive-O,Liberal,,
+12,"Incubators and accelerators assist startups with new business networks and expert advice, helping them access new sources of funding and bring innovative ideas to market sooner.",Assertive,Other,,
+13,Australia’s existing network of incubators and accelerators is falling well short of meeting the current level of demand.,Assertive,Liberal,,
+14,This initiative builds on the Turnbull Coalition Government’s strong record of investing in innovation and supporting startup businesses.,Assertive,Liberal,,
+15,<LIST> The Coalition has:,Assertive-S,Liberal,,1.0
+16,<li> Delivered tax incentives for investors in innovative startups </li>,Assertive-S,Liberal,,1.0
+17,<li> Reformed Venture Capital Limited Partnerships to attract more venture capital investment in Australia </li>,Assertive-S,Liberal,,1.0
+18,<li> Commenced delivering international landing pads to assist Australian startups expand into key global markets </li> </LIST>,Assertive-S,Liberal,,
+19,"The Coalition’s support for startup businesses is helping to boost investment, deliver new sources of growth and create more jobs.",Assertive-V,Liberal,,

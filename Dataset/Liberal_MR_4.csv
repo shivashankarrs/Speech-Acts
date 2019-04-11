@@ -1,25 +1,25 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,A re-elected Turnbull Government will ban the sale of cosmetic products tested on animals.,Commissive-A,,Liberal,Specific,
-2,"Senator Fiona Nash, Minister for Regional Development, Regional Communications and Rural Health, and Mr Ken Wyatt AM MP, Assistant Minister for Health and Aged Care announced today the Coalition’s policy to ban the testing of finished cosmetic products on animals in Australia, the testing of cosmetic ingredients on animals in Australia and the sale of cosmetic products and ingredients that have been tested on animals outside of Australia.",Commissive-A,1#4#6#11#15#19,Liberal,Specific,
-3,"“Having worked hard on this important issue ,",Assertive,4,Liberal,,1.0
-4,"I’m glad to see it through to fruition,” said Senator Nash.",Expressive,,Liberal,,
-5,“Australians don’t want to see animals hurt unnecessarily.,Assertive,6,Other,,
-6,This brings us into line with the EU and produces consistent streamlined policy.”,Assertive-V,,Liberal,,
-7,"Mr Wyatt said the testing of cosmetics on animals is unethical, unnecessary, of highly questionable value and should stop.",Assertive,8,Liberal,,
-8,"“We no longer need to test cosmetics on animals and many countries, including the European Union, have banned the use of cosmetic ingredients tested on animals,” Mr Wyatt said.",Assertive,9,Liberal,,
-9,"“I can’t see any reason why Australia shouldn’t follow suit ,",Assertive,10,Liberal,,1.0
-10,which is why a Coalition Government will legislate this change if re-elected.”,Commissive-A,2,Liberal,Specific,
-11,"Mr Wyatt made it clear the Coalition had no intention to ban responsible animal testing for medicinal clinical trials, medicinal drug development or medicinal studies.",Assertive-V,,Liberal,,
-12,"“We acknowledge animal testing is essential in certain scientific contexts such as medicinal drug development ,",Assertive,13,Liberal,,1.0
-13,"but we want to make sure that it’s only used in ethically justifiable circumstances,” Mr Wyatt said.",Assertive-V,11,Liberal,,
-14,"Australia has a strong and effective regulatory regime for consumer products, however, the purchase and use of cosmetic products whose ingredients have been tested on animals is currently a matter of consumer choice.",Assertive,2,Other,,
-15,"Member for La Trobe Jason Wood MP welcomed the announcement ,",Expressive,,Liberal,,1.0
-16,having been lobbying for this change since his election.,Assertive,15,Liberal,,
-17,"“Our commitment to ban the sale of cosmetic products tested on animals is a positive step for consumers and Australia’s cosmetics marketplace,” Mr Wood said.",Assertive-V,15,Liberal,,
-18,“Testing the ingredients of cosmetics on living creatures is a completely unnecessary cruelty and it’s time Australia joined a growing number of communities by banning it.”,Assertive,24,Liberal,,
-19,Mr Wyatt commended Mr Wood on his constant efforts in this space.,Expressive,,Liberal,,
-20,"“I congratulate Jason Wood for his ongoing lobbying efforts in Canberra to deliver for his communities and also for the good of the nation,” Mr Wyatt said.",Expressive,19,Liberal,,
-21,"Cosmetics are defined as substances or preparations intended for placement in contact with any external part of the human body with a view to altering the odours of the body, changing its appearance, cleansing it, protecting it, perfuming it or maintaining it in good condition.",Assertive,23,Other,,
-22,"Cosmetic products – including many common products, as such as mouthwash, acne washes, nail polish, and hair dyes – are well-established and widely used. ",Assertive,23,Other,,
-23,There are no physiological ambiguities or unknown detrimental effects to their use that necessitate their testing on animals.,Assertive,24,Other,,
-24,"The ban will take effect on 1 July 2017, providing industry and retailers with a defined and reasonable transition period.",Commissive-A,2,Liberal,Specific,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,A re-elected Turnbull Government will ban the sale of cosmetic products tested on animals.,Commissive-A,Liberal,Specific,
+2,"Senator Fiona Nash, Minister for Regional Development, Regional Communications and Rural Health, and Mr Ken Wyatt AM MP, Assistant Minister for Health and Aged Care announced today the Coalition’s policy to ban the testing of finished cosmetic products on animals in Australia, the testing of cosmetic ingredients on animals in Australia and the sale of cosmetic products and ingredients that have been tested on animals outside of Australia.",Commissive-A,Liberal,Specific,
+3,"“Having worked hard on this important issue ,",Assertive,Liberal,,1.0
+4,"I’m glad to see it through to fruition,” said Senator Nash.",Expressive,Liberal,,
+5,“Australians don’t want to see animals hurt unnecessarily.,Assertive,Other,,
+6,This brings us into line with the EU and produces consistent streamlined policy.”,Assertive-V,Liberal,,
+7,"Mr Wyatt said the testing of cosmetics on animals is unethical, unnecessary, of highly questionable value and should stop.",Assertive,Liberal,,
+8,"“We no longer need to test cosmetics on animals and many countries, including the European Union, have banned the use of cosmetic ingredients tested on animals,” Mr Wyatt said.",Assertive,Liberal,,
+9,"“I can’t see any reason why Australia shouldn’t follow suit ,",Assertive,Liberal,,1.0
+10,which is why a Coalition Government will legislate this change if re-elected.”,Commissive-A,Liberal,Specific,
+11,"Mr Wyatt made it clear the Coalition had no intention to ban responsible animal testing for medicinal clinical trials, medicinal drug development or medicinal studies.",Assertive-V,Liberal,,
+12,"“We acknowledge animal testing is essential in certain scientific contexts such as medicinal drug development ,",Assertive,Liberal,,1.0
+13,"but we want to make sure that it’s only used in ethically justifiable circumstances,” Mr Wyatt said.",Assertive-V,Liberal,,
+14,"Australia has a strong and effective regulatory regime for consumer products, however, the purchase and use of cosmetic products whose ingredients have been tested on animals is currently a matter of consumer choice.",Assertive,Other,,
+15,"Member for La Trobe Jason Wood MP welcomed the announcement ,",Expressive,Liberal,,1.0
+16,having been lobbying for this change since his election.,Assertive,Liberal,,
+17,"“Our commitment to ban the sale of cosmetic products tested on animals is a positive step for consumers and Australia’s cosmetics marketplace,” Mr Wood said.",Assertive-V,Liberal,,
+18,“Testing the ingredients of cosmetics on living creatures is a completely unnecessary cruelty and it’s time Australia joined a growing number of communities by banning it.”,Assertive,Liberal,,
+19,Mr Wyatt commended Mr Wood on his constant efforts in this space.,Expressive,Liberal,,
+20,"“I congratulate Jason Wood for his ongoing lobbying efforts in Canberra to deliver for his communities and also for the good of the nation,” Mr Wyatt said.",Expressive,Liberal,,
+21,"Cosmetics are defined as substances or preparations intended for placement in contact with any external part of the human body with a view to altering the odours of the body, changing its appearance, cleansing it, protecting it, perfuming it or maintaining it in good condition.",Assertive,Other,,
+22,"Cosmetic products – including many common products, as such as mouthwash, acne washes, nail polish, and hair dyes – are well-established and widely used. ",Assertive,Other,,
+23,There are no physiological ambiguities or unknown detrimental effects to their use that necessitate their testing on animals.,Assertive,Other,,
+24,"The ban will take effect on 1 July 2017, providing industry and retailers with a defined and reasonable transition period.",Commissive-A,Liberal,Specific,

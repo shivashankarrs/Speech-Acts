@@ -1,48 +1,48 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,"A Shorten Labor Government will tackle Australias chronic disease crisis through a preventive health package that helps families to raise healthy children, and keeps Australians healthy throughout their lives.",Commissive-A,,Labor,Specific,
-2,"Chronic diseases are the leading cause of illness, disability and death in Australia.",Assertive,1#3,Other,,
-3,"One in three Australians suffer from at least one chronic disease, like heart disease or diabetes.",Assertive,4,Other,,
-4,"Many of these diseases are due to preventable risk factors such as physical inactivity, poor nutrition, smoking and harmful use of alcohol.",Assertive,5,Other,,
-5,<LIST> Labor has a five-point plan to prevent chronic disease :,Commissive-A,1#47,Labor,Vague,1.0
-6,"<li> Investing in 50 Healthy Communities nationwide, to help communities at the greatest risk of chronic disease to stay well. </li> ",Commissive-A,5,Labor,Vague,
-7,<li> Tackling obesity through Australias first National Physical Activity Strategy and a National Nutrition Framework. </li> ,Commissive-A,5,Labor,Specific,
-8,<li> Expanding the successful Better Health Channel into a nationwide platform for health information. </li> ,Commissive-A,5,Labor,Specific,
-9,"<li> Continuing the push to reduce smoking rates, particularly in at-risk communities. </li> ",Commissive-A,5,Labor,Vague,
-10,<li> Addressing harmful use of alcohol through a National Alcohol Strategy. </li> </LIST>,Commissive-A,5,Labor,Specific,
-11,Healthy Communities,Assertive,12,Labor,,1.0
-12,A Shorten Labor Government will establish 50 Healthy Communities.,Commissive-O,,Labor,,
-13,Labor will identify the communities that are most at risk of chronic disease and invest in keeping them healthy.,Commissive-A,6#12,Labor,Vague,
-14,These communities will receive targeted support that is specific to their needs.,Commissive-A,13,Labor,Vague,
-15,"For example, Labors investment will help food producers, distributors and vendors to make healthy food options available in schools, workplaces and communities.",Commissive-A,14,Labor,Vague,
-16,"Labor will also work with local and state governments to encourage physical activity, for example, by building walking and cycling paths.",Commissive-A,17,Labor,Specific,
-17,Tackling obesity through a National Physical Activity Strategy and Nutrition Framework,Assertive,18#23,Labor,,1.0
-18,A Shorten Labor Government will develop Australias first National Physical Activity Strategy.,Commissive-A,7,Labor,Specific,
-19,Australia is one of the most overweight countries in the world.,Assertive,21,Other,,
-20,About two-thirds of Australian adults and a quarter of Australian children are overweight or obese.,Assertive,21,Other,,
-21,Participation in sport and both formal and informal activity will play a big part in Labors Strategy.,Assertive-V,22,Labor,,
-22,"A key finding from international experience is that we need to build physical activity into the day-to-day lives of all Australians  not just those who play organised sport  for example, by encouraging people to stand and walk more.",Assertive,18,Other,,
-23,A Shorten Labor Government will also introduce a National Nutrition Framework.,Commissive-A,7,Labor,Vague,
-24,"As part of the Framework, a Shorten Labor Government will work with food producers and retailers to expand the utilisation of the Health Star Rating system.",Commissive-A,23,Labor,Specific,
-25,"On top of these population-wide measures, Labor will ensure a particular focus on childrens nutrition, including through a $5 million commitment to the Stephanie Alexander Kitchen Garden Foundation.",Commissive-A,23#26,Labor,Specific,
-26,"Improving what kids eat can help to address the alarming rates of childhood obesity, as well as establish healthy eating habits for life.",Assertive,,Other,,
-27,National Better Health Channel,Assertive,28,Labor,,1.0
-28,"A Shorten Labor Government will make the Better Health Channel a national health information platform, providing the health information that all Australians need, and linking them to the services and supports available in their communities, to help Australians better manage their own health.",Commissive-A,8,Labor,Specific,
-29,"Driving down smoking rates, particularly in at-risk communities",Assertive,30,Labor,,1.0
-30,A Shorten Labor Government will help vulnerable groups stop smoking.,Commissive-A,9,Labor,Vague,
-31,"Thanks to Labors world-leading tobacco control measures, such as advertising bans and plain packaging,",Expressive,32,Labor,,1.0
-32,just 16 per cent of Australians now smoke daily.,Assertive-V,33#34,Labor,,
-33,"But smoking still kills 15,000 Australians a year, and remains one of the top three causes of disease.",Assertive,35#36,Other,,
-34,"Smoking also disproportionally affects Aboriginal and Torres Strait Islanders, Australians with a mental illness, people living in rural or remote areas and those in areas of socioeconomic disadvantage.",Assertive,35#36,Other,,
-35,"Based on expert advice, a Shorten Labor Government will invest $20 million in a scaled-up National Tobacco Campaign.",Commissive-A,30,Labor,Specific,
-36,Labor will also invest $30 million in targeting at-risk populations such as Aboriginal and Torres Strait Islander Australians and Australians with mental illness through Primary Health Networks.,Commissive-A,30,Labor,Specific,
-37,"As announced in November 2015, a Shorten Labor Government will also continue the existing annual 12.5 per cent annual tobacco increases for a further four years from 2017,",Commissive-A,30,Labor,Specific,1.0
-38,a measure since copied by the Turnbull Government.,Assertive,37,Liberal,,
-39,Addressing harmful use of alcohol through a National Alcohol Strategy,Assertive,40,Labor,,1.0
-40,Some Australians drink at levels that put themselves and those around them at risk.,Assertive,41,Other,,
-41,More than one in four Australians binge drink at least once a month.,Assertive,42,Other,,
-42,"This sort of consumption puts drinkers at higher risk of injury, brain and liver disease, and other chronic diseases like obesity.",Assertive,43,Other,,
-43,A Shorten Labor Government will develop a new National Alcohol Strategy.,Commissive-A,10,Labor,Specific,
-44,"The Strategy will focus on evidence-based measures to prevent and reduce alcohol-related harms, including alcohol related violence.",Commissive-A,43,Labor,Specific,
-45,"It will also focus on the riskiest behaviours, such as binge drinking, and the most vulnerable populations, such Aboriginal and Torres Strait Islanders and young Australians.",Commissive-A,43,Labor,Vague,
-46,"As part of the Strategy, Labor will strengthen work to limit alcohol advertising to children and work with State, Territory and local Government to reduce childrens exposure in other settings.",Commissive-A,43,Labor,specific,
-47,This package will have a total financial impact of $300 million over four years.,Assertive-V,,Labor,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,"A Shorten Labor Government will tackle Australias chronic disease crisis through a preventive health package that helps families to raise healthy children, and keeps Australians healthy throughout their lives.",Commissive-A,Labor,Specific,
+2,"Chronic diseases are the leading cause of illness, disability and death in Australia.",Assertive,Other,,
+3,"One in three Australians suffer from at least one chronic disease, like heart disease or diabetes.",Assertive,Other,,
+4,"Many of these diseases are due to preventable risk factors such as physical inactivity, poor nutrition, smoking and harmful use of alcohol.",Assertive,Other,,
+5,<LIST> Labor has a five-point plan to prevent chronic disease :,Commissive-A,Labor,Vague,1.0
+6,"<li> Investing in 50 Healthy Communities nationwide, to help communities at the greatest risk of chronic disease to stay well. </li> ",Commissive-A,Labor,Vague,
+7,<li> Tackling obesity through Australias first National Physical Activity Strategy and a National Nutrition Framework. </li> ,Commissive-A,Labor,Specific,
+8,<li> Expanding the successful Better Health Channel into a nationwide platform for health information. </li> ,Commissive-A,Labor,Specific,
+9,"<li> Continuing the push to reduce smoking rates, particularly in at-risk communities. </li> ",Commissive-A,Labor,Vague,
+10,<li> Addressing harmful use of alcohol through a National Alcohol Strategy. </li> </LIST>,Commissive-A,Labor,Specific,
+11,Healthy Communities,Assertive,Labor,,1.0
+12,A Shorten Labor Government will establish 50 Healthy Communities.,Commissive-O,Labor,,
+13,Labor will identify the communities that are most at risk of chronic disease and invest in keeping them healthy.,Commissive-A,Labor,Vague,
+14,These communities will receive targeted support that is specific to their needs.,Commissive-A,Labor,Vague,
+15,"For example, Labors investment will help food producers, distributors and vendors to make healthy food options available in schools, workplaces and communities.",Commissive-A,Labor,Vague,
+16,"Labor will also work with local and state governments to encourage physical activity, for example, by building walking and cycling paths.",Commissive-A,Labor,Specific,
+17,Tackling obesity through a National Physical Activity Strategy and Nutrition Framework,Assertive,Labor,,1.0
+18,A Shorten Labor Government will develop Australias first National Physical Activity Strategy.,Commissive-A,Labor,Specific,
+19,Australia is one of the most overweight countries in the world.,Assertive,Other,,
+20,About two-thirds of Australian adults and a quarter of Australian children are overweight or obese.,Assertive,Other,,
+21,Participation in sport and both formal and informal activity will play a big part in Labors Strategy.,Assertive-V,Labor,,
+22,"A key finding from international experience is that we need to build physical activity into the day-to-day lives of all Australians  not just those who play organised sport  for example, by encouraging people to stand and walk more.",Assertive,Other,,
+23,A Shorten Labor Government will also introduce a National Nutrition Framework.,Commissive-A,Labor,Vague,
+24,"As part of the Framework, a Shorten Labor Government will work with food producers and retailers to expand the utilisation of the Health Star Rating system.",Commissive-A,Labor,Specific,
+25,"On top of these population-wide measures, Labor will ensure a particular focus on childrens nutrition, including through a $5 million commitment to the Stephanie Alexander Kitchen Garden Foundation.",Commissive-A,Labor,Specific,
+26,"Improving what kids eat can help to address the alarming rates of childhood obesity, as well as establish healthy eating habits for life.",Assertive,Other,,
+27,National Better Health Channel,Assertive,Labor,,1.0
+28,"A Shorten Labor Government will make the Better Health Channel a national health information platform, providing the health information that all Australians need, and linking them to the services and supports available in their communities, to help Australians better manage their own health.",Commissive-A,Labor,Specific,
+29,"Driving down smoking rates, particularly in at-risk communities",Assertive,Labor,,1.0
+30,A Shorten Labor Government will help vulnerable groups stop smoking.,Commissive-A,Labor,Vague,
+31,"Thanks to Labors world-leading tobacco control measures, such as advertising bans and plain packaging,",Expressive,Labor,,1.0
+32,just 16 per cent of Australians now smoke daily.,Assertive-V,Labor,,
+33,"But smoking still kills 15,000 Australians a year, and remains one of the top three causes of disease.",Assertive,Other,,
+34,"Smoking also disproportionally affects Aboriginal and Torres Strait Islanders, Australians with a mental illness, people living in rural or remote areas and those in areas of socioeconomic disadvantage.",Assertive,Other,,
+35,"Based on expert advice, a Shorten Labor Government will invest $20 million in a scaled-up National Tobacco Campaign.",Commissive-A,Labor,Specific,
+36,Labor will also invest $30 million in targeting at-risk populations such as Aboriginal and Torres Strait Islander Australians and Australians with mental illness through Primary Health Networks.,Commissive-A,Labor,Specific,
+37,"As announced in November 2015, a Shorten Labor Government will also continue the existing annual 12.5 per cent annual tobacco increases for a further four years from 2017,",Commissive-A,Labor,Specific,1.0
+38,a measure since copied by the Turnbull Government.,Assertive,Liberal,,
+39,Addressing harmful use of alcohol through a National Alcohol Strategy,Assertive,Labor,,1.0
+40,Some Australians drink at levels that put themselves and those around them at risk.,Assertive,Other,,
+41,More than one in four Australians binge drink at least once a month.,Assertive,Other,,
+42,"This sort of consumption puts drinkers at higher risk of injury, brain and liver disease, and other chronic diseases like obesity.",Assertive,Other,,
+43,A Shorten Labor Government will develop a new National Alcohol Strategy.,Commissive-A,Labor,Specific,
+44,"The Strategy will focus on evidence-based measures to prevent and reduce alcohol-related harms, including alcohol related violence.",Commissive-A,Labor,Specific,
+45,"It will also focus on the riskiest behaviours, such as binge drinking, and the most vulnerable populations, such Aboriginal and Torres Strait Islanders and young Australians.",Commissive-A,Labor,Vague,
+46,"As part of the Strategy, Labor will strengthen work to limit alcohol advertising to children and work with State, Territory and local Government to reduce childrens exposure in other settings.",Commissive-A,Labor,specific,
+47,This package will have a total financial impact of $300 million over four years.,Assertive-V,Labor,,

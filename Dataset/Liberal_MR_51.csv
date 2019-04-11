@@ -1,22 +1,22 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,The Turnbull Coalition will invest $15 million in protecting the rights of older Australians.,Commissive-A,2#19,Liberal,Specific,
-2,"For the first time, a Federal party will take to an election a platform designed solely to recognise and promote the rights of older Australians.",Assertive-V,,Liberal,,
-3,"Older members of our community should feel safe, cared for, and respected. causing an increasing concern in the community.",Assertive,5,Other,,
-4,They should expect to be able to exercise their rights fully and have their choices respected. ,Assertive,5,Other,,
-5,"Unfortunately, there are worrying signs that this is not always the case causing an increasing concern in the community.",Assertive,6,Liberal,,
-6,"The Turnbull Coalition recognises that more needs to be done to protect the rights of older Australians, ",Assertive,7,Liberal,,1.0
-7,"and now, with a re-elected Turnbull Government, more will be done.",Commissive-A,1,Liberal,Vague,
-8,<LIST> The Turnbull Coalition’s national plan to better protect the rights of older Australians includes :,Commissive-A,1,Liberal,Specific,1.0
-9,<li> developing a national elder abuse hotline; </li> ,Commissive-A,8,Liberal,Specific,1.0
-10,<li> developing pilot training programmes for frontline staff; </li> ,Commissive-A,8,Liberal,Specific,1.0
-11,<li> a study into the prevalence of elder abuse to better understand the problem; and </li> ,Commissive-A,8,Liberal,Specific,1.0
-12,<li> developing a national awareness campaign to educate and to change </li> ,Commissive-A,8,Liberal,Specific,1.0
-13,<li> attitudes and values. </li>  </LIST>,Commissive-A,12,Liberal,Specific,
-14,"Other work will include identifying potential enhancements to programmes and services already supported by the Australian Government, and identifying barriers to enforcement of existing laws intended to protect people from offences such as assault, neglect, fraud, theft and breaches of consumer rights.",Commissive-A,1#15#17,Liberal,Vague,
-15,Today’s announcement builds on the work of the Australian Law Reform Commission (ALRC) ,Assertive,,Liberal,,1.0
-16,which I asked in February to conduct an inquiry into laws and frameworks to safeguard older Australians from abuse.,Assertive-S,15#18,Liberal,,
-17,This will also assist the Government in identifying best practices for protecting older Australians. ,Assertive-V,,Liberal,,
-18,"Today, the ALRC is releasing its first issues paper from this inquiry. [https://www.alrc.gov.au/publications/elder-abuse]",Assertive-V,,Liberal,,
-19,"We are promoting this policy because we value human dignity, we value the past, present and future contributions of older Australians. ",Assertive,21,Liberal,,
-20,"The Coalition has always stood for promoting the rights of individuals to make choices, and have those choices respected.",Assertive-S,16#21,Liberal,,
-21,"Our commitment will help ensure older Australians feel safe, cared for, and respected.",Commissive-O,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,The Turnbull Coalition will invest $15 million in protecting the rights of older Australians.,Commissive-A,Liberal,Specific,
+2,"For the first time, a Federal party will take to an election a platform designed solely to recognise and promote the rights of older Australians.",Assertive-V,Liberal,,
+3,"Older members of our community should feel safe, cared for, and respected. causing an increasing concern in the community.",Assertive,Other,,
+4,They should expect to be able to exercise their rights fully and have their choices respected. ,Assertive,Other,,
+5,"Unfortunately, there are worrying signs that this is not always the case causing an increasing concern in the community.",Assertive,Liberal,,
+6,"The Turnbull Coalition recognises that more needs to be done to protect the rights of older Australians, ",Assertive,Liberal,,1.0
+7,"and now, with a re-elected Turnbull Government, more will be done.",Commissive-A,Liberal,Vague,
+8,<LIST> The Turnbull Coalition’s national plan to better protect the rights of older Australians includes :,Commissive-A,Liberal,Specific,1.0
+9,<li> developing a national elder abuse hotline; </li> ,Commissive-A,Liberal,Specific,1.0
+10,<li> developing pilot training programmes for frontline staff; </li> ,Commissive-A,Liberal,Specific,1.0
+11,<li> a study into the prevalence of elder abuse to better understand the problem; and </li> ,Commissive-A,Liberal,Specific,1.0
+12,<li> developing a national awareness campaign to educate and to change </li> ,Commissive-A,Liberal,Specific,1.0
+13,<li> attitudes and values. </li>  </LIST>,Commissive-A,Liberal,Specific,
+14,"Other work will include identifying potential enhancements to programmes and services already supported by the Australian Government, and identifying barriers to enforcement of existing laws intended to protect people from offences such as assault, neglect, fraud, theft and breaches of consumer rights.",Commissive-A,Liberal,Vague,
+15,Today’s announcement builds on the work of the Australian Law Reform Commission (ALRC) ,Assertive,Liberal,,1.0
+16,which I asked in February to conduct an inquiry into laws and frameworks to safeguard older Australians from abuse.,Assertive-S,Liberal,,
+17,This will also assist the Government in identifying best practices for protecting older Australians. ,Assertive-V,Liberal,,
+18,"Today, the ALRC is releasing its first issues paper from this inquiry. [https://www.alrc.gov.au/publications/elder-abuse]",Assertive-V,Liberal,,
+19,"We are promoting this policy because we value human dignity, we value the past, present and future contributions of older Australians. ",Assertive,Liberal,,
+20,"The Coalition has always stood for promoting the rights of individuals to make choices, and have those choices respected.",Assertive-S,Liberal,,
+21,"Our commitment will help ensure older Australians feel safe, cared for, and respected.",Commissive-O,Liberal,,

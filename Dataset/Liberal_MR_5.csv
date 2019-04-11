@@ -1,18 +1,18 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,"Bill Shorten has today made a captain’s call announcing Labor will impose yet another giant, job-destroying tax on Australian businesses, workers and the economy by ripping out legislated business tax cuts.",Assertive-V,,Labor,,
-2,"Not only has Labor committed to ripping the Turnbull Government’s personal income tax cut away from 9 million Australians ,",Assertive-S,4#8#13#17,Labor,,1.0
-3,"they will now hit 20,000 businesses employing 1.5 million Australians with a tax sledgehammer.",Assertive-V,1#4,Labor,,
-4,"Labor has confirmed yet again they are for higher taxes on our economy, including small and medium sized businesses.",Assertive-V,7,Labor,,
-5,Labor used to talk about climbing the ladder of opportunity.,Assertive,6,Labor,,
-6,Now it’s about sliding down the snake of envy.,Assertive,7,Labor,,
-7,That’s Labor’s snakes and ladders approach to tax.,Assertive,,Labor,,
-8,"Under Labor, Australians will pay more, either directly in higher taxes, or from the suffocation of our economy through their more than $200 billion in already announced higher taxes.",Assertive-V,,Labor,,
-9,Businesses with turnovers of between $10 million and $50 million are not multinationals.,Assertive,10,Labor,,
-10,They are not the big end of town.,Assertive,11,Labor,,
-11,"In fact, by opposing making business taxes more competitive for Australian businesses ,",Assertive-S,3#12#13,Labor,,1.0
-12,"Bill Shorten is backing the big end of town in Manhattan, San Francisco, Houston, Chicago, Paris, Frankfurt, London, Singapore, Hong Kong, Tokyo and Seoul.",Assertive-V,,Labor,,
-13,This announcement today proves the lie of Labor on tax.,Assertive-V,14,Labor,,
-14,They’re hitting everyone.,Assertive,,Labor,,
-15,The fact they cannot even bring themselves to guarantee the tax relief already legislated for small businesses with turnovers of up to $10 million tells Australians everything they need to know.,Assertive-S,11#16,Labor,,
-16,Labor wants to roll back the tax relief we have legislated for small and medium sized businesses and for those on an average full-time wage.,Assertive-V,17,Labor,,
-17,That’s $70 billion in roll backs of personal tax relief and around $20 billion in tax hikes which will make Australian businesses less competitive.,Assertive-V,,Labor,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,"Bill Shorten has today made a captain’s call announcing Labor will impose yet another giant, job-destroying tax on Australian businesses, workers and the economy by ripping out legislated business tax cuts.",Assertive-V,Labor,,
+2,"Not only has Labor committed to ripping the Turnbull Government’s personal income tax cut away from 9 million Australians ,",Assertive-S,Labor,,1.0
+3,"they will now hit 20,000 businesses employing 1.5 million Australians with a tax sledgehammer.",Assertive-V,Labor,,
+4,"Labor has confirmed yet again they are for higher taxes on our economy, including small and medium sized businesses.",Assertive-V,Labor,,
+5,Labor used to talk about climbing the ladder of opportunity.,Assertive,Labor,,
+6,Now it’s about sliding down the snake of envy.,Assertive,Labor,,
+7,That’s Labor’s snakes and ladders approach to tax.,Assertive,Labor,,
+8,"Under Labor, Australians will pay more, either directly in higher taxes, or from the suffocation of our economy through their more than $200 billion in already announced higher taxes.",Assertive-V,Labor,,
+9,Businesses with turnovers of between $10 million and $50 million are not multinationals.,Assertive,Labor,,
+10,They are not the big end of town.,Assertive,Labor,,
+11,"In fact, by opposing making business taxes more competitive for Australian businesses ,",Assertive-S,Labor,,1.0
+12,"Bill Shorten is backing the big end of town in Manhattan, San Francisco, Houston, Chicago, Paris, Frankfurt, London, Singapore, Hong Kong, Tokyo and Seoul.",Assertive-V,Labor,,
+13,This announcement today proves the lie of Labor on tax.,Assertive-V,Labor,,
+14,They’re hitting everyone.,Assertive,Labor,,
+15,The fact they cannot even bring themselves to guarantee the tax relief already legislated for small businesses with turnovers of up to $10 million tells Australians everything they need to know.,Assertive-S,Labor,,
+16,Labor wants to roll back the tax relief we have legislated for small and medium sized businesses and for those on an average full-time wage.,Assertive-V,Labor,,
+17,That’s $70 billion in roll backs of personal tax relief and around $20 billion in tax hikes which will make Australian businesses less competitive.,Assertive-V,Labor,,

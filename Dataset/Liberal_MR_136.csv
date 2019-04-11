@@ -1,9 +1,9 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,A re-elected Turnbull Coalition Government will invest $5 million towards the construction of the Sunshine Coast Community Sporting Hub delivering jobs and growth in the electorate of Fisher.,Commissive-A,2#3#5#6#8,Liberal,Specific,
-2,This commitment will deliver a multipurpose sport and community centre that will benefit the entire Sunshine Coast community.,Commissive-O,,Liberal,,
-3,"The $22.5 million project includes a high performance sports and medical centre, a community sports and recreation club and short-term accommodation.",Assertive-V,4,Liberal,,
-4,"These new sporting facilities will be a destination for local, national and international athletes and sporting teams across all codes.",Assertive-V,,Liberal,,
-5,"Importantly, the Sporting Hub will be an economic boon for the region creating new local jobs in recreation and sport.",Assertive-V,,Liberal,,
-6,It will help address the need for improved community infrastructure to support the healthy population growth on the Sunshine Coast.,Assertive-V,,Liberal,,
-7,"This is a great initiative that has long been supported by LNP candidate Andrew Wallace, a tireless advocate for improved community infrastructure and services across the electorate of Fisher.",Assertive-S,1,Liberal,,
-8,Investing in the Sunshine Coast Community Sporting Hub demonstrates how a Turnbull Government is committed to growing more vibrant communities and delivering jobs and growth.,Assertive-V,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,A re-elected Turnbull Coalition Government will invest $5 million towards the construction of the Sunshine Coast Community Sporting Hub delivering jobs and growth in the electorate of Fisher.,Commissive-A,Liberal,Specific,
+2,This commitment will deliver a multipurpose sport and community centre that will benefit the entire Sunshine Coast community.,Commissive-O,Liberal,,
+3,"The $22.5 million project includes a high performance sports and medical centre, a community sports and recreation club and short-term accommodation.",Assertive-V,Liberal,,
+4,"These new sporting facilities will be a destination for local, national and international athletes and sporting teams across all codes.",Assertive-V,Liberal,,
+5,"Importantly, the Sporting Hub will be an economic boon for the region creating new local jobs in recreation and sport.",Assertive-V,Liberal,,
+6,It will help address the need for improved community infrastructure to support the healthy population growth on the Sunshine Coast.,Assertive-V,Liberal,,
+7,"This is a great initiative that has long been supported by LNP candidate Andrew Wallace, a tireless advocate for improved community infrastructure and services across the electorate of Fisher.",Assertive-S,Liberal,,
+8,Investing in the Sunshine Coast Community Sporting Hub demonstrates how a Turnbull Government is committed to growing more vibrant communities and delivering jobs and growth.,Assertive-V,Liberal,,

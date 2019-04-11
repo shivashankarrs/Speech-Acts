@@ -1,21 +1,21 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,A Shorten Labor Government will match the Queensland Labor Government’s $200 million commitment to the first stage of upgrading the Ipswich Motorway between Rocklea and Darra to tackle traffic congestion on Brisbane’s southside.,Commissive-A,2#3#4#5#6#7#19,Labor,Specific,
-2,<LIST> The project scope includes:,Commissive-O,,Labor,,1.0
-3,<li> Upgrading Ipswich Motorway from four to six lanes between Granard Road and Oxley Road </li>,Commissive-O,8,Labor,,1.0
-4,<li> New southern service road connection from Rocklea industrial precinct to the Oxley commercial and retail areas </li> ,Commissive-O,,Labor,,1.0
-5,"<li> Seven new bridges, plus major culverts </li> ",Commissive-O,,Labor,,1.0
-6,<li> Suscatand Street intersection traffic signals </li> ,Commissive-O,,Labor,,1.0
-7,<li> Active transport improvements. </li> </LIST>,Commissive-O,,Labor,,
-8,"This important project will boost the capacity of the Ipswich Motorway from four lanes to six between Granard and Oxley roads, ",Commissive-O,9,Labor,,1.0
-9,"reducing travelling times for 85,000 motorists who use it each day, including 12,000 trucks hauling freight.",Assertive-V,,Labor,,
-10,Labor committed to this upgrade in 2013. ,Assertive-S,1#11,Labor,,
-11,But the incoming Turnbull-Abbott Government has failed to advance the project.,Assertive-S,,Liberal,,
-12,Shayne Neumann and Milton Dick have been unrelenting in campaigning for this vital upgrade and this announcement is due to their steadfast commitment to improving infrastructure throughout the region.,Assertive-S,1,Labor,,
-13,Last year’s Infrastructure Australia Audit identified the direct cost of congestion along this corridor at up to $40 million a year in 2011 and increasing.,Assertive-V,12#14,Other,,
-14,The project is on Infrastructure Australia’s Priority List.,Assertive-V,15,Other,,
-15,It’s time to get it done.,Assertive,1,Labor,,
-16,"With south-east Queensland continuing to grow strongly, it is critical that our roads and railway lines are efficient or traffic congestion will impede economic growth and reduce job creation.",Assertive,1,Labor,,
-17,The Turnbull-Abbott Government has reduced infrastructure investment over the past three years.,Assertive-S,18,Liberal,,
-18,Australian Bureau of Statistics figures showing public sector infrastructure investment fell 20 per cent between the September quarter of 2013 and the September quarter of 2015.,Assertive-V,19,Liberal,,
-19,"A Shorten Labor Government will get infrastructure delivery back on track, not only to lift productivity, but also to provide relief for millions of Australian commuters who already spend too long in their cars.",Commissive-O,,Labor,,
-20,The former Labor Government spent over $2 billion on earlier stages of the Ipswich Motorway between 2007 and 2013.,Assertive-S,10,Labor,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,A Shorten Labor Government will match the Queensland Labor Government’s $200 million commitment to the first stage of upgrading the Ipswich Motorway between Rocklea and Darra to tackle traffic congestion on Brisbane’s southside.,Commissive-A,Labor,Specific,
+2,<LIST> The project scope includes:,Commissive-O,Labor,,1.0
+3,<li> Upgrading Ipswich Motorway from four to six lanes between Granard Road and Oxley Road </li>,Commissive-O,Labor,,1.0
+4,<li> New southern service road connection from Rocklea industrial precinct to the Oxley commercial and retail areas </li> ,Commissive-O,Labor,,1.0
+5,"<li> Seven new bridges, plus major culverts </li> ",Commissive-O,Labor,,1.0
+6,<li> Suscatand Street intersection traffic signals </li> ,Commissive-O,Labor,,1.0
+7,<li> Active transport improvements. </li> </LIST>,Commissive-O,Labor,,
+8,"This important project will boost the capacity of the Ipswich Motorway from four lanes to six between Granard and Oxley roads, ",Commissive-O,Labor,,1.0
+9,"reducing travelling times for 85,000 motorists who use it each day, including 12,000 trucks hauling freight.",Assertive-V,Labor,,
+10,Labor committed to this upgrade in 2013. ,Assertive-S,Labor,,
+11,But the incoming Turnbull-Abbott Government has failed to advance the project.,Assertive-S,Liberal,,
+12,Shayne Neumann and Milton Dick have been unrelenting in campaigning for this vital upgrade and this announcement is due to their steadfast commitment to improving infrastructure throughout the region.,Assertive-S,Labor,,
+13,Last year’s Infrastructure Australia Audit identified the direct cost of congestion along this corridor at up to $40 million a year in 2011 and increasing.,Assertive-V,Other,,
+14,The project is on Infrastructure Australia’s Priority List.,Assertive-V,Other,,
+15,It’s time to get it done.,Assertive,Labor,,
+16,"With south-east Queensland continuing to grow strongly, it is critical that our roads and railway lines are efficient or traffic congestion will impede economic growth and reduce job creation.",Assertive,Labor,,
+17,The Turnbull-Abbott Government has reduced infrastructure investment over the past three years.,Assertive-S,Liberal,,
+18,Australian Bureau of Statistics figures showing public sector infrastructure investment fell 20 per cent between the September quarter of 2013 and the September quarter of 2015.,Assertive-V,Liberal,,
+19,"A Shorten Labor Government will get infrastructure delivery back on track, not only to lift productivity, but also to provide relief for millions of Australian commuters who already spend too long in their cars.",Commissive-O,Labor,,
+20,The former Labor Government spent over $2 billion on earlier stages of the Ipswich Motorway between 2007 and 2013.,Assertive-S,Labor,,

@@ -1,21 +1,21 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,The Coalition has today released its plan for a stronger agriculture sector ,Assertive,,Liberal,,1.0
-2,with Deputy Prime Minister and Minister for Agriculture and Water Resources Barnaby Joyce today launching the Coalition’s $240 million agriculture policy at the Primex agricultural field day in Casino.,Commissive-A,1,Liberal,Specific,
-3,"“When the Coalition came to office, we were determined to rescue agriculture from the policy backwater where Labor had placed it, develop a strategic plan for the sector and implement it,” Minister Joyce said.",Assertive-S,5#8#20,Liberal,,
-4,"“The Labor-Greens-Independent government had gutted the Agriculture Department and delivered industry catastrophes, such as the live export ban.",Assertive-V,3,Labor,,
-5,"“At the end of one term, we have built and delivered a $4 billion Agricultural Competitiveness White Paper that will support jobs growth in our regions, drive export opportunities for agricultural businesses and encourage investment to ensure Australia remains a globally competitive agriculture producer.",Assertive-V,6,Liberal,,
-6,“Every aspect of the Ag White Paper has been delivered or is well in progress.,Assertive-V,,Liberal,,
-7,"“The Coalition is delivering significant commitments to the agriculture sector, including a $200 million increase in biosecurity funding, $190 million for rural research and development for profit, $100 million for pest and weed management, a $2.5 billion drought concessional loan programme for farmers and a $500 million National Water Infrastructure Fund to provide future water security for our farmers.",Assertive-V,6,Liberal,,
-8,“The Coalition has taken agriculture to the centre of government business and brought water resources policy into the portfolio.,Assertive-V,9,Liberal,,
-9,“But there is more we can do to bolster the plan laid out in the White Paper.,Assertive,10#11,Liberal,,
-10,"“In the recent budget, the Coalition delivered a $2 billion National Water Infrastructure Loan Facility, ",Assertive-S,11#20,Liberal,,1.0
-11,"and if re-elected we will implement the Livestock Export Global Assurance programme, create centres of excellence in agriculture and establish a Regional Investment Corporation to deliver loans initiatives.”",Commissive-A,2#13#15#20,Liberal,Specific,
-12,"Minister Joyce said the Coalition was also committed to increasing the Clean Energy Finance Corporation investment into agriculture, helping establish a rice industry in Northern Australia and developing the capacity of agricultural industry leaders.",Commissive-A,2#13#15#20,Liberal,Vague,
-13,"“A stronger agricultural sector not only benefits regional Australia, but boosts the economy, creates more jobs and drives exports,” he said.",Assertive-V,,Liberal,,
-14,"“Australia’s farmers contribute around $51 billion to our nation’s economy, including $41 billion in agricultural exports.",Assertive,13,Other,,
-15,"“The Coalition’s leadership in agriculture is in stark contrast to the Labor Party, ",Assertive-V,,Liberal,,1.0
-16,"which has not found the time to come up with a single policy for Australian agriculture, other than promises to punish the sector with additional federal red tape and oversight for land clearing.",Assertive-V,15,Labor,,
-17,"“It is truly shocking that among Labor’s 100 policies, agriculture doesn’t rate a mention.",Assertive-V,16,Labor,,
-18,"“Labor is trying to get the old Labor-Greens-Independent alliance back into Government, ",Assertive,19,Labor,,1.0
-19,with its shocking record of economic mismanagement and complete disregard for Australian agriculture.,Assertive-V,16#20,Labor,,
-20,“The Coalition has proved it can deliver for Australian agriculture and we have no intention of slowing down now.”,Assertive,,Liberal,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,The Coalition has today released its plan for a stronger agriculture sector ,Assertive,Liberal,,1.0
+2,with Deputy Prime Minister and Minister for Agriculture and Water Resources Barnaby Joyce today launching the Coalition’s $240 million agriculture policy at the Primex agricultural field day in Casino.,Commissive-A,Liberal,Specific,
+3,"“When the Coalition came to office, we were determined to rescue agriculture from the policy backwater where Labor had placed it, develop a strategic plan for the sector and implement it,” Minister Joyce said.",Assertive-S,Liberal,,
+4,"“The Labor-Greens-Independent government had gutted the Agriculture Department and delivered industry catastrophes, such as the live export ban.",Assertive-V,Labor,,
+5,"“At the end of one term, we have built and delivered a $4 billion Agricultural Competitiveness White Paper that will support jobs growth in our regions, drive export opportunities for agricultural businesses and encourage investment to ensure Australia remains a globally competitive agriculture producer.",Assertive-V,Liberal,,
+6,“Every aspect of the Ag White Paper has been delivered or is well in progress.,Assertive-V,Liberal,,
+7,"“The Coalition is delivering significant commitments to the agriculture sector, including a $200 million increase in biosecurity funding, $190 million for rural research and development for profit, $100 million for pest and weed management, a $2.5 billion drought concessional loan programme for farmers and a $500 million National Water Infrastructure Fund to provide future water security for our farmers.",Assertive-V,Liberal,,
+8,“The Coalition has taken agriculture to the centre of government business and brought water resources policy into the portfolio.,Assertive-V,Liberal,,
+9,“But there is more we can do to bolster the plan laid out in the White Paper.,Assertive,Liberal,,
+10,"“In the recent budget, the Coalition delivered a $2 billion National Water Infrastructure Loan Facility, ",Assertive-S,Liberal,,1.0
+11,"and if re-elected we will implement the Livestock Export Global Assurance programme, create centres of excellence in agriculture and establish a Regional Investment Corporation to deliver loans initiatives.”",Commissive-A,Liberal,Specific,
+12,"Minister Joyce said the Coalition was also committed to increasing the Clean Energy Finance Corporation investment into agriculture, helping establish a rice industry in Northern Australia and developing the capacity of agricultural industry leaders.",Commissive-A,Liberal,Vague,
+13,"“A stronger agricultural sector not only benefits regional Australia, but boosts the economy, creates more jobs and drives exports,” he said.",Assertive-V,Liberal,,
+14,"“Australia’s farmers contribute around $51 billion to our nation’s economy, including $41 billion in agricultural exports.",Assertive,Other,,
+15,"“The Coalition’s leadership in agriculture is in stark contrast to the Labor Party, ",Assertive-V,Liberal,,1.0
+16,"which has not found the time to come up with a single policy for Australian agriculture, other than promises to punish the sector with additional federal red tape and oversight for land clearing.",Assertive-V,Labor,,
+17,"“It is truly shocking that among Labor’s 100 policies, agriculture doesn’t rate a mention.",Assertive-V,Labor,,
+18,"“Labor is trying to get the old Labor-Greens-Independent alliance back into Government, ",Assertive,Labor,,1.0
+19,with its shocking record of economic mismanagement and complete disregard for Australian agriculture.,Assertive-V,Labor,,
+20,“The Coalition has proved it can deliver for Australian agriculture and we have no intention of slowing down now.”,Assertive,Liberal,,

@@ -1,16 +1,16 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,Andrew Leigh has again confirmed that Labor is waging a war on business. ,Assertive-V,,Labor,,
-2,Mr Leigh has also revealed that he doesn’t understand the impact of his own policies on small business and everyday Australians.,Assertive-V,,Labor,,
-3,Mr Leigh falsely claimed that there was an error in one of the cameos in Volume One of “Labor’s War on Business” in relation to small business capital gains tax (CGT) concessions.,Assertive,2#4,Labor,,
-4,"But if Mr Leigh had actually read the document properly, he would have noticed that the small business owner in the cameo would still be able to access the small business CGT concessions.",Assertive-V,5,Labor,,
-5,"It is a cold, hard fact that Labor are reducing the CGT discount to 25 percent ",Assertive-S,6,Labor,,1.0
-6,"and this will have an impact on small businesses, as the cameo reveals - ",Assertive-V,10,Labor,,1.0
-7,even if Mr Leigh tries to deny it.,Assertive,6,Labor,,
-8,"Mr Leigh then tried to argue that a tax hike of nearly $50,000 on everyday Australians will have no impact on investment decisions.",Assertive-S,7,Labor,,
-9,"The cameo simply outlines a scenario in which, in the absence of Labor’s tax hikes, the individual expects to make a capital gain. ",Assertive-V,6,Labor,,
-10,"It goes on to show that with the introduction of Labor’s policies, everyday Australians would pay much higher taxes.",Assertive-V,11#12,Labor,,
-11,This would deter them from investing in the first place.,Assertive-V,12#13#14#15,Labor,,
-12,"Bizarrely, Mr Leigh does not deny the clear cut fact that Labor’s changes will hit everyday Australians with an extra $56 billion in taxes ;  he just seems to think this massive tax hike won’t affect economic decisions.",Assertive-V,,Labor,,
-13,"The reality is that the resulting drop in investor demand, due to Labor’s higher taxes, would lead to exactly the kind of adverse impacts on the property market that the Coalition and a growing number of experts have warned against.",Assertive-V,1,Labor,,
-14,Labor is waging a War on Business and it would cost economic growth and jobs.,Assertive-V,1,Labor,,
-15,Labor is bad for business… not even Mr Leigh denies that.,Assertive-V,1,Labor,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,Andrew Leigh has again confirmed that Labor is waging a war on business. ,Assertive-V,Labor,,
+2,Mr Leigh has also revealed that he doesn’t understand the impact of his own policies on small business and everyday Australians.,Assertive-V,Labor,,
+3,Mr Leigh falsely claimed that there was an error in one of the cameos in Volume One of “Labor’s War on Business” in relation to small business capital gains tax (CGT) concessions.,Assertive,Labor,,
+4,"But if Mr Leigh had actually read the document properly, he would have noticed that the small business owner in the cameo would still be able to access the small business CGT concessions.",Assertive-V,Labor,,
+5,"It is a cold, hard fact that Labor are reducing the CGT discount to 25 percent ",Assertive-S,Labor,,1.0
+6,"and this will have an impact on small businesses, as the cameo reveals - ",Assertive-V,Labor,,1.0
+7,even if Mr Leigh tries to deny it.,Assertive,Labor,,
+8,"Mr Leigh then tried to argue that a tax hike of nearly $50,000 on everyday Australians will have no impact on investment decisions.",Assertive-S,Labor,,
+9,"The cameo simply outlines a scenario in which, in the absence of Labor’s tax hikes, the individual expects to make a capital gain. ",Assertive-V,Labor,,
+10,"It goes on to show that with the introduction of Labor’s policies, everyday Australians would pay much higher taxes.",Assertive-V,Labor,,
+11,This would deter them from investing in the first place.,Assertive-V,Labor,,
+12,"Bizarrely, Mr Leigh does not deny the clear cut fact that Labor’s changes will hit everyday Australians with an extra $56 billion in taxes ;  he just seems to think this massive tax hike won’t affect economic decisions.",Assertive-V,Labor,,
+13,"The reality is that the resulting drop in investor demand, due to Labor’s higher taxes, would lead to exactly the kind of adverse impacts on the property market that the Coalition and a growing number of experts have warned against.",Assertive-V,Labor,,
+14,Labor is waging a War on Business and it would cost economic growth and jobs.,Assertive-V,Labor,,
+15,Labor is bad for business… not even Mr Leigh denies that.,Assertive-V,Labor,,

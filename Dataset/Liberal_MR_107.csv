@@ -1,43 +1,43 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,The Turnbull Government continues to pursue an ambitious trade agenda to create jobs and drive economic growth.,Assertive-S,3#34,Liberal,,
-2,Removing trade barriers lays the groundwork for our transitioning economy.,Assertive,1,Liberal,,
-3,Australians will see key benefits from greater access to overseas markets and more affordable prices for household items.,Assertive-V,,Liberal,,
-4,<LIST> The Government’s key trade achievements in 2015-16 include:,Assertive-V,1#15,Liberal,,1.0
-5,"<li> The entry into force of the China-Australia Free Trade Agreement (ChAFTA) in December 2015, ",Assertive-S,6,Liberal,,1.0
-6,which facilitates our access to China’s increasingly wealthy consumer base; </li>,Assertive-V,4,Liberal,,1.0
-7,"<li> The signing of the Trans-Pacific Partnership (TPP) Agreement in February 2016, ",Assertive-S,8,Liberal,,1.0
-8,the most significant trade and investment agreement finalised in more than two decades with member countries accounting for around 40 per cent of global GDP; </li>,Assertive-V,4,Liberal,,1.0
-9,"<li> Agreement between the 163 members of the WTO in December 2015 to eliminate more than $15 billion of agricultural export subsidy entitlements, ",Assertive-S,4,Liberal,,1.0
-10,which for decades have threatened the livelihoods of Australian farmers; </li>,Assertive,9,Liberal,,1.0
-11,"<li> The decision to relaunch FTA negotiations with Indonesia in March 2016, ",Assertive-S,12,Liberal,,1.0
-12,a significant milestone towards realising the huge opportunities that sit on our doorstep; and </li>,Assertive-V,4,Liberal,,1.0
-13,<li> The EU’s agreement in 2015 to commence work towards the launch of FTA negotiations - ,Assertive-S,14,Liberal,,1.0
-14,an important market for Australia accounting for more than 12 per cent of our total trade. </li> </LIST>,Assertive-V,4,Liberal,,
-15,"These achievements will boost opportunities for Australian exports, enhance market access for the Australian services sector, cut costs for Australian businesses and consumers and open up greater investment opportunities.",Assertive-V,,Liberal,,
-16,"The Government has created an innovative FTA portal to help businesses take full advantage of the landmark free trade agreements (FTAs) the Coalition concluded with China, Japan and Korea.",Assertive-S,5#18,Liberal,,
-17,The portal provides comprehensive tariff information and product specific Australian and international trade data to help businesses assess how their products meet the requirements of the FTAs.,Assertive,16,Liberal,,
-18,The Turnbull Government will invest $1.8 million to expand the portal to all FTAs and Austrade will boost the popular Open for Business website.,Commissive-A,,Liberal,Specific,
-19,"Labor had six years to conclude trade agreements with China, Korea and Japan but did nothing.",Assertive-S,18#20,Labor,,
-20,Australian exporters lost market share in these countries as our competitors concluded trade deals and Labor sat on its hands.,Assertive-V,,Labor,,
-21,Developing Australia’s tourism industry will further drive jobs and economic growth.,Assertive,23,Liberal,,
-22,"The sector enjoyed record international visitor numbers in 2015 and the highest-ever growth in international visitor expenditure, with visitors spending a record $36.6 billion.",Assertive,21,Liberal,,
-23,"Through the Tourism 2020 strategy, the Turnbull Government will ensure Australia’s tourism potential is fully realised. ",Commissive-A,,Liberal,Vague,
-24,"Our priority areas are building tourism infrastructure, visa reform, increasing international aviation capacity, promoting Australia internationally as a first choice destination, and attracting vital new investment.",Commissive-A,23,Liberal,Vague,
-25,Unlike Labor the Government recognises that tourism is a critical part of Australia’s modern 21st century economy.,Assertive,23#26#28#30#31,Liberal,,
-26,"The Government froze the Passenger Movement Charge, ",Assertive-S,,Liberal,,1.0
-27,"a tax that increased 45 per cent under Labor,",Assertive-S,25#26,Labor,,1.0
-28,"and abolished the carbon tax, which cost the tourism sector more than $115 million in its first year.",Assertive-S,,Liberal,,
-29,"Labor also cut funding to Tourism Australia, ",Assertive-S,25#30,Labor,,1.0
-30,whereas the Government delivered an extra $36.7 million over four years.,Assertive-S,,Liberal,,
-31,It was a Coalition Government that created Tourism Australia and we remain committed to properly funding our international marketing agency.,Assertive-S,,Liberal,,
-32,This Budget delivers a record investment of $629.4 million over four years ,Commissive-A,23,Liberal,Specific,1.0
-33,which is in stark contrast to Labor who cut funding to Tourism Australia when last in government.,Assertive-S,32,Labor,,
-34,"In support of Australia’s transitioning economy, Austrade will fund five overseas Landing Pads to connect Australian entrepreneurs to global innovation hubs and promote the commercialisation of Australian ideas.",Commissive-A,,Liberal,Specific,
-35,"<LIST> The 2016-17 Budget builds on the Coalition’s earlier initiatives to enhance investment, promote free trade, and grow tourism that included:",Commissive-A,32,Liberal,Specific,1.0
-36,<li> $30 million to Austrade for global investment teams in the major target markets of North America and North Asia. ,Commissive-A,35,Liberal,Specific,
-37," Five private sector investment specialists have already been hired to improve Austrade’s capacity to promote, attract and facilitate investment in priority sectors; </li> ",Assertive-S,36,Liberal,,1.0
-38,"<li> $18 million to expand Australia Week trade and promotional events in China, India, US and ASEAN, promoting Australia as a world class tourism and education destination and a valued trade and investment partner; </li> ",Commissive-A,35,Liberal,Specific,1.0
-39,<li> Rolling out a $43 million Tourism Demand-Driver Infrastructure Program to improve the quality of regional tourism infrastructure to attract more visitors; </li> ,Commissive-A,35,Liberal,Specific,1.0
-40,"<li> Negotiating revised air services arrangements with China that will see a tripling of gateway capacity between Australia and China by the end of 2016, increasing links with Australia’s largest source of international students and biggest spending tourism market; </li> ",Commissive-A,35,Liberal,Specific,1.0
-41,<li> Three-year (and a pilot of ten-year) multiple-entry visas for approved tourist and business applicants from China and Indonesia; </li> ,Commissive-A,35,Liberal,Specific,1.0
-42,"<li> A trial of online lodgement for visitor visas in China, India and Indonesia, with full roll out by end of 2016 in China, and 2017 in Indonesia and India. </li> </LIST>",Commissive-A,35,Liberal,Specific,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,The Turnbull Government continues to pursue an ambitious trade agenda to create jobs and drive economic growth.,Assertive-S,Liberal,,
+2,Removing trade barriers lays the groundwork for our transitioning economy.,Assertive,Liberal,,
+3,Australians will see key benefits from greater access to overseas markets and more affordable prices for household items.,Assertive-V,Liberal,,
+4,<LIST> The Government’s key trade achievements in 2015-16 include:,Assertive-V,Liberal,,1.0
+5,"<li> The entry into force of the China-Australia Free Trade Agreement (ChAFTA) in December 2015, ",Assertive-S,Liberal,,1.0
+6,which facilitates our access to China’s increasingly wealthy consumer base; </li>,Assertive-V,Liberal,,1.0
+7,"<li> The signing of the Trans-Pacific Partnership (TPP) Agreement in February 2016, ",Assertive-S,Liberal,,1.0
+8,the most significant trade and investment agreement finalised in more than two decades with member countries accounting for around 40 per cent of global GDP; </li>,Assertive-V,Liberal,,1.0
+9,"<li> Agreement between the 163 members of the WTO in December 2015 to eliminate more than $15 billion of agricultural export subsidy entitlements, ",Assertive-S,Liberal,,1.0
+10,which for decades have threatened the livelihoods of Australian farmers; </li>,Assertive,Liberal,,1.0
+11,"<li> The decision to relaunch FTA negotiations with Indonesia in March 2016, ",Assertive-S,Liberal,,1.0
+12,a significant milestone towards realising the huge opportunities that sit on our doorstep; and </li>,Assertive-V,Liberal,,1.0
+13,<li> The EU’s agreement in 2015 to commence work towards the launch of FTA negotiations - ,Assertive-S,Liberal,,1.0
+14,an important market for Australia accounting for more than 12 per cent of our total trade. </li> </LIST>,Assertive-V,Liberal,,
+15,"These achievements will boost opportunities for Australian exports, enhance market access for the Australian services sector, cut costs for Australian businesses and consumers and open up greater investment opportunities.",Assertive-V,Liberal,,
+16,"The Government has created an innovative FTA portal to help businesses take full advantage of the landmark free trade agreements (FTAs) the Coalition concluded with China, Japan and Korea.",Assertive-S,Liberal,,
+17,The portal provides comprehensive tariff information and product specific Australian and international trade data to help businesses assess how their products meet the requirements of the FTAs.,Assertive,Liberal,,
+18,The Turnbull Government will invest $1.8 million to expand the portal to all FTAs and Austrade will boost the popular Open for Business website.,Commissive-A,Liberal,Specific,
+19,"Labor had six years to conclude trade agreements with China, Korea and Japan but did nothing.",Assertive-S,Labor,,
+20,Australian exporters lost market share in these countries as our competitors concluded trade deals and Labor sat on its hands.,Assertive-V,Labor,,
+21,Developing Australia’s tourism industry will further drive jobs and economic growth.,Assertive,Liberal,,
+22,"The sector enjoyed record international visitor numbers in 2015 and the highest-ever growth in international visitor expenditure, with visitors spending a record $36.6 billion.",Assertive,Liberal,,
+23,"Through the Tourism 2020 strategy, the Turnbull Government will ensure Australia’s tourism potential is fully realised. ",Commissive-A,Liberal,Vague,
+24,"Our priority areas are building tourism infrastructure, visa reform, increasing international aviation capacity, promoting Australia internationally as a first choice destination, and attracting vital new investment.",Commissive-A,Liberal,Vague,
+25,Unlike Labor the Government recognises that tourism is a critical part of Australia’s modern 21st century economy.,Assertive,Liberal,,
+26,"The Government froze the Passenger Movement Charge, ",Assertive-S,Liberal,,1.0
+27,"a tax that increased 45 per cent under Labor,",Assertive-S,Labor,,1.0
+28,"and abolished the carbon tax, which cost the tourism sector more than $115 million in its first year.",Assertive-S,Liberal,,
+29,"Labor also cut funding to Tourism Australia, ",Assertive-S,Labor,,1.0
+30,whereas the Government delivered an extra $36.7 million over four years.,Assertive-S,Liberal,,
+31,It was a Coalition Government that created Tourism Australia and we remain committed to properly funding our international marketing agency.,Assertive-S,Liberal,,
+32,This Budget delivers a record investment of $629.4 million over four years ,Commissive-A,Liberal,Specific,1.0
+33,which is in stark contrast to Labor who cut funding to Tourism Australia when last in government.,Assertive-S,Labor,,
+34,"In support of Australia’s transitioning economy, Austrade will fund five overseas Landing Pads to connect Australian entrepreneurs to global innovation hubs and promote the commercialisation of Australian ideas.",Commissive-A,Liberal,Specific,
+35,"<LIST> The 2016-17 Budget builds on the Coalition’s earlier initiatives to enhance investment, promote free trade, and grow tourism that included:",Commissive-A,Liberal,Specific,1.0
+36,<li> $30 million to Austrade for global investment teams in the major target markets of North America and North Asia. ,Commissive-A,Liberal,Specific,
+37," Five private sector investment specialists have already been hired to improve Austrade’s capacity to promote, attract and facilitate investment in priority sectors; </li> ",Assertive-S,Liberal,,1.0
+38,"<li> $18 million to expand Australia Week trade and promotional events in China, India, US and ASEAN, promoting Australia as a world class tourism and education destination and a valued trade and investment partner; </li> ",Commissive-A,Liberal,Specific,1.0
+39,<li> Rolling out a $43 million Tourism Demand-Driver Infrastructure Program to improve the quality of regional tourism infrastructure to attract more visitors; </li> ,Commissive-A,Liberal,Specific,1.0
+40,"<li> Negotiating revised air services arrangements with China that will see a tripling of gateway capacity between Australia and China by the end of 2016, increasing links with Australia’s largest source of international students and biggest spending tourism market; </li> ",Commissive-A,Liberal,Specific,1.0
+41,<li> Three-year (and a pilot of ten-year) multiple-entry visas for approved tourist and business applicants from China and Indonesia; </li> ,Commissive-A,Liberal,Specific,1.0
+42,"<li> A trial of online lodgement for visitor visas in China, India and Indonesia, with full roll out by end of 2016 in China, and 2017 in Indonesia and India. </li> </LIST>",Commissive-A,Liberal,Specific,

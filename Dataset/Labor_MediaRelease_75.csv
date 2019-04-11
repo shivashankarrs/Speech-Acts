@@ -1,36 +1,36 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,"A Shorten Labor Government will introduce a loan cap of $8,000 a year in the VET FEE-HELP program as part of an integrity package to stop the massive waste of taxpayers’ money, to prevent price gouging of students and improve training outcomes.",Commissive-A,10#18,Labor,Specific,
-2,"Under the Liberals, the VET FEE-HELP loans scheme has escalated from $699 million in 2013 to $1.7 billion in 2014 and is expected to have blown out to over $3 billion for 2015.",Assertive-V,3,Liberal,,
-3,"At the same time, students are being ripped off by unscrupulous colleges and dodgy providers - and taxpayers are being forced to pick up the tab.",Assertive-V,,Liberal,,
-4,In some colleges it is costing taxpayers over a million dollars in VET FEE-HELP loans to produce a single graduate.,Assertive-V,3,Liberal,,
-5,"Right now, students at private colleges are paying fees of $32,941 for salon management, or $29,065 for project management, $28,596 for marketing diplomas.",Assertive-V,6,Liberal,,
-6,An equivalent government-provided course in NSW costs just $6330.,Assertive-V,7,Other,,
-7,Thousands of Australian students are being loaded up with a massive new debt – but not the qualification they need to find a job.,Assertive-V,3#10#16#17#21,Liberal,,
-8,"In 2014, the ten largest private training college recipients of VET FEE-HELP subsidies in Australia were paid $900 million in government subsidies - yet less than five per cent of their students graduated.",Assertive-V,9#32,Liberal,,
-9,"At just 4,181 students, this represented an average cost to taxpayers of $215,259 per student.",Assertive-V,10#16#17#21,Liberal,,
-10,Labor will stop this waste of taxpayers’ money and exploitation of students.,Commissive-O,,Labor,,
-11,"Our plan will restore integrity to the system, by cleaning out the dodgy private providers who have been ripping Australians off for too long.",Commissive-A,1#14,Labor,Vague,
-12,"Many providers and brokers have preyed on students, offered free computers and laptops, and signed them up to expensive courses – and made taxpayers pay the bill.",Assertive,13,Labor,,
-13,Labor's plan will put reasonable limits on course loans in the same way limits are already in place for university degrees.,Commissive-A,1#14,Labor,Specific,
-14,"We will put students and taxpayers first, over vested interests.",Assertive,,Labor,,
-15,"While this has been happening, apprenticeship numbers have plummeted, ",Assertive-V,,Liberal,,1.0
-16,because Malcolm Turnbull slashed $1 billion from apprenticeship support and programs.,Assertive-S,15#21,Liberal,,
-17,"At the same time, Liberal governments have slashed funding for TAFEs and vocational education.",Assertive-S,21,Liberal,,
-18,Labor’s plan to rein in these taxpayer subsidies and restore integrity to the vocational education sector will save Australian taxpayers $6 billion over ten years.,Assertive-V,,Labor,,
-19,"Loans will be capped at $8,000 each year.",Commissive-A,13#35,Labor,Specific,
-20,There will be an exemption on legitimate high-cost courses such as nursing and engineering following ministerial approval.,Commissive-A,19,Labor,Specific,
-21,The vocational education sector has only seen one winner under the Liberals and that is the unscrupulous colleges making huge profits at the expense of students.,Assertive-V,,Liberal,,
-22,<LIST> Other measures in Labor’s integrity package include :,Commissive-A,11#35,Labor,Vague,1.0
-23,<li>  Ensuring that funding for providers is linked to student progress </li>,Commissive-A,11#35,Labor,Specific,1.0
-24,<li>  Set national priorities to help meet the skills needs of industry </li>,Commissive-A,11#35,Labor,Specific,1.0
-25,<li> Crackdown on the use of brokers to recruit students </li>,Commissive-A,11#35,Labor,Vague,1.0
-26,<li>  Ensure that only the highest quality colleges get access to funding </li>,Commissive-A,11#35,Labor,Specific,1.0
-27,"<li> Tougher powers to audit, investigate and suspend unscrupulous providers </li> </LIST>",Commissive-A,11#35,Labor,Vague,1.0
-28,"<LIST> The Abbott-Turnbull Government’s poor governance, poor administration and ideological pursuit for deregulation and private provision of education has seen:",Assertive-S,5#8#29#30#31,Liberal,,1.0
-29,<li> More students burdened with a lifetime of debt; </li>,Assertive-V,7,Liberal,,1.0
-30,<li> $2.5 billion cut from the vocational education system; </li>,Assertive-S,16#17#32#33,Liberal,,1.0
-31,"<li>  Extensive reputational damage of the national training system, with industry now losing faith; </li>",Assertive-V,,Liberal,,1.0
-32,<li> A nation losing the skilled workforce that it needs for growth and prosperity. </li> </LIST>,Assertive-V,,Liberal,,
-33,"In contrast, Labor has announced a funding guarantee for TAFE, a comprehensive review into the role and function of the vocational education and training system and a VET ombudsman.",Assertive-S,34,Labor,,
-34,Labor's National Priority Plan for TAFE places it squarely as the public provider within the VET sector and ensures TAFE's viability and strength into the future.,Assertive-V,35,Labor,,
-35,"Only Labor will stand up for the welfare of students, the integrity of the vocational education system and prevent taxpayers lining the pockets of unscrupulous colleges.",Assertive,,Labor,,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,"A Shorten Labor Government will introduce a loan cap of $8,000 a year in the VET FEE-HELP program as part of an integrity package to stop the massive waste of taxpayers’ money, to prevent price gouging of students and improve training outcomes.",Commissive-A,Labor,Specific,
+2,"Under the Liberals, the VET FEE-HELP loans scheme has escalated from $699 million in 2013 to $1.7 billion in 2014 and is expected to have blown out to over $3 billion for 2015.",Assertive-V,Liberal,,
+3,"At the same time, students are being ripped off by unscrupulous colleges and dodgy providers - and taxpayers are being forced to pick up the tab.",Assertive-V,Liberal,,
+4,In some colleges it is costing taxpayers over a million dollars in VET FEE-HELP loans to produce a single graduate.,Assertive-V,Liberal,,
+5,"Right now, students at private colleges are paying fees of $32,941 for salon management, or $29,065 for project management, $28,596 for marketing diplomas.",Assertive-V,Liberal,,
+6,An equivalent government-provided course in NSW costs just $6330.,Assertive-V,Other,,
+7,Thousands of Australian students are being loaded up with a massive new debt – but not the qualification they need to find a job.,Assertive-V,Liberal,,
+8,"In 2014, the ten largest private training college recipients of VET FEE-HELP subsidies in Australia were paid $900 million in government subsidies - yet less than five per cent of their students graduated.",Assertive-V,Liberal,,
+9,"At just 4,181 students, this represented an average cost to taxpayers of $215,259 per student.",Assertive-V,Liberal,,
+10,Labor will stop this waste of taxpayers’ money and exploitation of students.,Commissive-O,Labor,,
+11,"Our plan will restore integrity to the system, by cleaning out the dodgy private providers who have been ripping Australians off for too long.",Commissive-A,Labor,Vague,
+12,"Many providers and brokers have preyed on students, offered free computers and laptops, and signed them up to expensive courses – and made taxpayers pay the bill.",Assertive,Labor,,
+13,Labor's plan will put reasonable limits on course loans in the same way limits are already in place for university degrees.,Commissive-A,Labor,Specific,
+14,"We will put students and taxpayers first, over vested interests.",Assertive,Labor,,
+15,"While this has been happening, apprenticeship numbers have plummeted, ",Assertive-V,Liberal,,1.0
+16,because Malcolm Turnbull slashed $1 billion from apprenticeship support and programs.,Assertive-S,Liberal,,
+17,"At the same time, Liberal governments have slashed funding for TAFEs and vocational education.",Assertive-S,Liberal,,
+18,Labor’s plan to rein in these taxpayer subsidies and restore integrity to the vocational education sector will save Australian taxpayers $6 billion over ten years.,Assertive-V,Labor,,
+19,"Loans will be capped at $8,000 each year.",Commissive-A,Labor,Specific,
+20,There will be an exemption on legitimate high-cost courses such as nursing and engineering following ministerial approval.,Commissive-A,Labor,Specific,
+21,The vocational education sector has only seen one winner under the Liberals and that is the unscrupulous colleges making huge profits at the expense of students.,Assertive-V,Liberal,,
+22,<LIST> Other measures in Labor’s integrity package include :,Commissive-A,Labor,Vague,1.0
+23,<li>  Ensuring that funding for providers is linked to student progress </li>,Commissive-A,Labor,Specific,1.0
+24,<li>  Set national priorities to help meet the skills needs of industry </li>,Commissive-A,Labor,Specific,1.0
+25,<li> Crackdown on the use of brokers to recruit students </li>,Commissive-A,Labor,Vague,1.0
+26,<li>  Ensure that only the highest quality colleges get access to funding </li>,Commissive-A,Labor,Specific,1.0
+27,"<li> Tougher powers to audit, investigate and suspend unscrupulous providers </li> </LIST>",Commissive-A,Labor,Vague,1.0
+28,"<LIST> The Abbott-Turnbull Government’s poor governance, poor administration and ideological pursuit for deregulation and private provision of education has seen:",Assertive-S,Liberal,,1.0
+29,<li> More students burdened with a lifetime of debt; </li>,Assertive-V,Liberal,,1.0
+30,<li> $2.5 billion cut from the vocational education system; </li>,Assertive-S,Liberal,,1.0
+31,"<li>  Extensive reputational damage of the national training system, with industry now losing faith; </li>",Assertive-V,Liberal,,1.0
+32,<li> A nation losing the skilled workforce that it needs for growth and prosperity. </li> </LIST>,Assertive-V,Liberal,,
+33,"In contrast, Labor has announced a funding guarantee for TAFE, a comprehensive review into the role and function of the vocational education and training system and a VET ombudsman.",Assertive-S,Labor,,
+34,Labor's National Priority Plan for TAFE places it squarely as the public provider within the VET sector and ensures TAFE's viability and strength into the future.,Assertive-V,Labor,,
+35,"Only Labor will stand up for the welfare of students, the integrity of the vocational education system and prevent taxpayers lining the pockets of unscrupulous colleges.",Assertive,Labor,,

@@ -1,16 +1,16 @@
-Id,Sentence,Categories,Head,Target Party,Specificity,Split
-1,"A Shorten Labor Government will provide $45 million to reduce congestion along Perth’s north-western corridor, funding two grade separation projects on one of the city’s busiest commuter routes.",Commissive-A,4#12#15,Labor,Specific,
-2,"Infrastructure Australia has identified the corridor as a national priority, predicting it will become the most congested route in Perth by 2031 if left unaddressed.",Assertive-V,1,Other,,
-3,Only Labor cares about building the transport infrastructure that residents of Perth will need in the future.,Assertive,4#5#6#7,Labor,,
-4,The $45 million for the Wanneroo Road grade separation projects comes on top of ,Assertive-V,5,Labor,,1.0
-5,"Labor’s $1 billion pledge to build the METRONET rail project, $80 million for the North Lake Bridge, and $25 million for the Denny Avenue grade separation project.",Commissive-A,15,Labor,Specific,
-6,"Labor has also allocated $2 million for Outer Harbour logistics planning, ",Assertive-S,7,Labor,,1.0
-7,and will provide $59 million for its commitment to upgrade High Street Fremantle between Carrington Street and Stirling Highway.,Commissive-A,15,Labor,Specific,
-8,"State government investment in transport infrastructure has not kept pace with population growth in Perth’s outer suburbs, resulting in increasing bottlenecks for commuters in the northern corridor.",Assertive-V,3,Liberal,,
-9,Wanneroo Road is one of the major arterial roads in and out of Perth.,Assertive,10,Other,,
-10,"The City of Wanneroo has experienced major residential development and population growth, ",Assertive,11,Other,,1.0
-11,but road upgrades have not kept up.,Assertive-V,8#12,Liberal,,
-12,"The two Wanneroo Road upgrades will unlock future growth potential for the city of Wanneroo and will have direct benefits for commuters living in Tapping, Ashby, Wanneroo, Hocking and Pearsall including an increased opportunity for high frequency bus transit.",Assertive-V,13,Labor,,
-13,Labor is the party of infrastructure and cities. ,Assertive,15,Labor,,
-14,"Since the Abbott-Turnbull government was elected in 2013, public sector infrastructure investment across Australia has fallen by 20 per cent.",Assertive-V,13#15,Labor,,
-15,"A Shorten Labor Government will include a Minister for Cities, will invest in public transport as well as roads, and bring back the Major Cities Unit to help manage growth as our cities grow.",Commissive-A,,Labor,Specific,
+Id,Sentence,Categories,Target Party,Specificity,Split
+1,"A Shorten Labor Government will provide $45 million to reduce congestion along Perth’s north-western corridor, funding two grade separation projects on one of the city’s busiest commuter routes.",Commissive-A,Labor,Specific,
+2,"Infrastructure Australia has identified the corridor as a national priority, predicting it will become the most congested route in Perth by 2031 if left unaddressed.",Assertive-V,Other,,
+3,Only Labor cares about building the transport infrastructure that residents of Perth will need in the future.,Assertive,Labor,,
+4,The $45 million for the Wanneroo Road grade separation projects comes on top of ,Assertive-V,Labor,,1.0
+5,"Labor’s $1 billion pledge to build the METRONET rail project, $80 million for the North Lake Bridge, and $25 million for the Denny Avenue grade separation project.",Commissive-A,Labor,Specific,
+6,"Labor has also allocated $2 million for Outer Harbour logistics planning, ",Assertive-S,Labor,,1.0
+7,and will provide $59 million for its commitment to upgrade High Street Fremantle between Carrington Street and Stirling Highway.,Commissive-A,Labor,Specific,
+8,"State government investment in transport infrastructure has not kept pace with population growth in Perth’s outer suburbs, resulting in increasing bottlenecks for commuters in the northern corridor.",Assertive-V,Liberal,,
+9,Wanneroo Road is one of the major arterial roads in and out of Perth.,Assertive,Other,,
+10,"The City of Wanneroo has experienced major residential development and population growth, ",Assertive,Other,,1.0
+11,but road upgrades have not kept up.,Assertive-V,Liberal,,
+12,"The two Wanneroo Road upgrades will unlock future growth potential for the city of Wanneroo and will have direct benefits for commuters living in Tapping, Ashby, Wanneroo, Hocking and Pearsall including an increased opportunity for high frequency bus transit.",Assertive-V,Labor,,
+13,Labor is the party of infrastructure and cities. ,Assertive,Labor,,
+14,"Since the Abbott-Turnbull government was elected in 2013, public sector infrastructure investment across Australia has fallen by 20 per cent.",Assertive-V,Labor,,
+15,"A Shorten Labor Government will include a Minister for Cities, will invest in public transport as well as roads, and bring back the Major Cities Unit to help manage growth as our cities grow.",Commissive-A,Labor,Specific,
