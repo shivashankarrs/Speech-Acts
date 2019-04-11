@@ -1,0 +1,11 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,A re-elected Turnbull Coalition Government will expand the Baseball Park into a premier sporting and events facility delivering on our growth and jobs plan for the people of the City of Gosnells.,Commissive-O,,Liberal,,
+2,Baseball Park is the home of baseball in Western Australia and ABL champions Perth Heat.,Assertive,3,Other,,
+3,This important upgrade will accommodate baseball’s increasing popularity in Western Australia and the growing numbers of fans and patrons who use the venue for sport and community functions.,Commissive-O,,Liberal,,
+4,"The Turnbull Government’s $6 million investment will result in new seating with increased capacity, grassed terraces and lighting, and new amenities and corporate facilities.",Commissive-A,1#3#5#7#8,Liberal,Specific,
+5,"The improved facilities will also provide valuable services to the growing community and surrounds, ",Assertive-V,,Liberal,,1.0
+6,"with the district being home to over 2,100 registered players and volunteers.",Assertive,5,Other,,
+7,"Importantly, the investment will support economic growth and create new local jobs in recreation and sport.",Assertive-V,,Liberal,,
+8,The electorate of Hasluck is benefitting from the hard work of local Member Ken Wyatt and the Turnbull Coalition Government.,Assertive,,Liberal,,
+9,A re-elected Turnbull Government is dedicated to building stronger communities across Australia.,Commissive-O,,Liberal,,
+10,By investing in community infrastructure such as Baseball Park we are growing more vibrant communities and delivering jobs and growth.,Commissive-A,4#9,Liberal,Specific,

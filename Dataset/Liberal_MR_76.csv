@@ -1,0 +1,14 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"Labor’s National Broadband Network (NBN) would have taken six to eight years longer to rollout across Australia, leaving businesses waiting longer for superfast broadband.",Assertive-V,,Labor,,
+2,"Labor’s anti-business stance would see it prioritise a slow and gold plated rollout, ignoring businesses that need to connect to superfast broadband as soon as possible.",Assertive-V,1#3#12,Labor,,
+3,"Under the Coalition, the rollout of the NBN is on budget and on track to meet its corporate plan target of 2.632 million premises ready for service this financial year.",Assertive-V,4#5#6,Liberal,,
+4,The Coalition is focused on giving businesses the edge earlier as part of our plan to create economic growth and jobs.,Assertive,,Liberal,,
+5,We are also delivering broadband to businesses and homes in our regions.,Assertive,,Liberal,,
+6,"In April this year, rural and remote Australia began to connect to NBN’s Sky Muster Satellite Service, ",Assertive,7,Liberal,,1.0
+7,delivering internet speeds that are faster than many urban areas.,Assertive-V,,Liberal,,
+8,"Under Labor, the NBN Interim Satellite Service was poorly managed, slow and congested.",Assertive-V,6#13,Labor,,
+9,When it comes to Australian Government support to remove mobile phone blackspots in the bush the scorecard reads :,Assertive,10#11,Other,,1.0
+10,"Coalition $220 million funding and at least 3,000 black spots ; ",Assertive-V,,Liberal,,1.0
+11,Labor $0 and zero black spots in its six years of government.,Assertive-V,,Labor,,
+12,Labor’s already tried and failed to deliver the NBN.,Assertive-V,13,Labor,,
+13,They can’t be trusted to bring broadband to Australians.,Assertive-V,,Labor,,

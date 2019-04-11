@@ -1,0 +1,22 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"Chris Bowen yesterday confirmed that Labor has no economic plan for our nation, telling Australians they would have to wait another 100 days for a detailed economic statement after the election.",Assertive-V,5#6,Labor,,
+2,Yesterday at the National Press Club and again in a media release Chris Bowen said Labor would deliver an ‘economic statement’.,Assertive,1#3,Labor,,
+3,The only catch?,Interrogative,4,Labor,,
+4,"They would have to be elected first and even then you would have to wait another three months until after they were sworn in, some 100 days after the election.",Assertive,,Labor,,
+5,Add to this the chaos of Labor having to deliver an economic statement with the Greens and Adam Bandt as your Deputy Treasurer and it further highlights the risk that Labor presents to derailing the success of our economic transition.,Assertive-V,,Labor,,
+6,"This confirms yet again Labor have no economic plan and can’t level with Australians about their tax and spend agenda which will drive up deficit, debt and drive down economic growth.",Assertive-V,,Labor,,
+7,Bill Shorten and Chris Bowen had three years to come up with an economic plan but they are now asking the Australian people to let them hand in their homework after the election.,Assertive,1#8#20#21,Labor,,
+8,"The reality is that Labor is running across Australia throwing money around with their old tax and spend approach that will increase taxes by more than $100 billion over the next ten years, by their own admission.",Assertive-V,6#9,Labor,,
+9,This is not a plan for jobs and growth.,Assertive-V,10,Labor,,
+10,By contrast the re-election of the Turnbull Government will see the Government continue to implement our national economic plan for jobs and growth from day one.,Commissive-A,11#12,Liberal,Vague,
+11,This is the stability and certainty the Australian economy needs.,Assertive,,Liberal,,
+12,"The Turnbull Government’s strong national economic plan for jobs and growth will support our continued successful transition from the mining investment boom to a stronger, more diversified economy.",Commissive-O,,Liberal,,
+13,<LIST> The Turnbull Government’s plan is built upon the firm foundations of :,Assertive,10,Liberal,,1.0
+14,"<li> a Ten Year Enterprise Tax Plan that will boost investment, create and support jobs and increase real wages and tax relief for hard working families </li> ",Commissive-A,10,Liberal,Vague,1.0
+15,<li> continued investment in our National Innovation and Science Agenda </li> ,Commissive-A,10,Liberal,Vague,1.0
+16,<li>  securing our advanced local defence manufacturing industry through our Defence Industry Plan </li> ,Commissive-A,10,Liberal,Vague,1.0
+17,<li> the opening of more export opportunities through trade agreements that are already delivering new jobs and markets for Australian producers </li> ,Commissive-A,10,Liberal,Vague,1.0
+18,<li> a sustainable budget with crackdowns on tax avoidance and loopholes and; </li> ,Commissive-A,10,Liberal,Vague,1.0
+19,"<li> guaranteed funding for health, education and roads. </li> </LIST>",Commissive-A,10,Liberal,Vague,
+20,Labor’s games will not go unnoticed by Australians who remember the false promises and ‘trust me’ arrogance of the Rudd-Gillard-Rudd years.,Assertive,,Labor,,
+21,These are the same old Labor tricks and spin they’re used to.,Assertive,,Labor,,

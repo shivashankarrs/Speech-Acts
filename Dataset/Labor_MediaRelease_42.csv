@@ -1,0 +1,17 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"A Shorten Labor Government will invest $4 million to help secure the future of Townsville’s water supply, as part of our commitment to support local infrastructure and the future of our regions.",Commissive-A,,Labor,Specific,
+2,"<LIST> Labor will fund a major Water Infrastructure Feasibility Study, to look at potential upgrades to existing water infrastructure, including:",Commissive-A,1#7#10#15,Labor,Specific,1.0
+3,<li> Raising the wall of the existing Burdekin Dam. </li> ,Commissive-A,2,Labor,Specific,
+4,<li> Duplicating the existing pipeline between Burdekin and Ross River Dams. </li> ,Commissive-A,2,Labor,Specific,
+5,<li> A water treatment plant to be used with the existing pipeline. </li> ,Commissive-A,2,Labor,Specific,
+6,<li> Other affordable water efficiency measures. </li> </LIST>,Commissive-A,2,Labor,Specific,
+7,Labor will work with the Queensland Government to establish the Study within 100 days of taking office.,Commissive-A,,Labor,Specific,
+8,"Townsville is a major regional city, and the largest in northern Australia.",Assertive,9,Other,,
+9,"With Townsville’s booming population growing towards 200,000 and above, examining options to maximise the use of existing infrastructure is critical in planning for Townsville’s future.",Assertive,10#16,Labor,,
+10,This Feasibility Study will build on the work of Townsville Enterprise in identifying possible solutions to water supply for Townsville.,Assertive,,Labor,,
+11,Townsville has been experiencing a critical drought period over the last two years and has been officially drought declared along with surrounding shires.,Assertive,13#14,Other,,
+12,"Existing water levels in Ross River Dam have been 30 per cent or below, and water restrictions are currently in place.",Assertive,13#14,Other,,
+13,The people who live and work in Townsville need affordable water solutions that provide for a reliable supply into the longer term.,Assertive,15,Labor,,
+14,"We need smart solutions to keep down existing evaporation rates, improve connections between existing dams and look at raising the wall of the Burdekin.",Assertive,15,Labor,,
+15,The Feasibility Study would consider environmental as well as economic factors that apply to the identified options.,Assertive-V,,Labor,,
+16,Labor is committed to acting now to ensure Townsville’s growth is supported by great infrastructure.,Commissive-A,1,Labor,Vague,

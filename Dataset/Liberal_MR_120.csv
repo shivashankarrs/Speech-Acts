@@ -1,0 +1,29 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"Bill Shorten still refuses to support the 60,000 Victorian CFA volunteers ",Assertive-S,2#6,Labor,,1.0
+2,whose ability to protect Victorians is threatened by the Labor Party’s deal to hand over the CFA to the United Firefighters Union.,Assertive-V,,Labor,,
+3,Bill Shorten today once again refused to come clean on his role in this issue.,Assertive,4,Labor,,
+4,"When asked at a doorstop in Adelaide whether he would support the volunteers or side the union,",Interrogative,5,Labor,,1.0
+5," Mr Shorten replied: “Mr Turnbull's weighed in for political reasons only, into what is clearly a State issue…”",Assertive-V,6,Liberal,,
+6,"Mr Shorten’s answer is not only highly disingenuous, it ignores his own history of interventions in state matters.",Assertive-V,,Labor,,
+7,Today Bill Shorten says he won’t get involved a state industrial dispute.,Assertive-S,6,Labor,,
+8,"Yet in 2014, he did exactly that.",Assertive-S,6#9,Labor,,
+9,On 22 August 2014 Bill Shorten spoke at rally held in Spring Street by the Victorian paramedics union that was then in dispute with the Napthine Coalition Government:,Assertive,10,Labor,,1.0
+10,According to one union account of the event:,Assertive,11#12#13,Other,,1.0
+11,“Federal Opposition leader Bill Shorten mingled with members and posed for selfies long after delivering a rousing tribute to the members’ unity and professionalism….,Assertive,16#17,Labor,,
+12,“No self-respecting government lets a strike or a dispute go for two years.,Assertive,16#17,Liberal,,
+13,"That’s negligent,” he said, ",Assertive,16#17,Liberal,,1.0
+14,before congratulating members on discovering a new industrial tactic.”,Expressive,13,Labor,,
+15,(http://www.unitedvoicevic.org.au/strong_united_and_determined_to_win),Assertive,11#12#13,Other,,
+16,Mr Shorten then held a press conference in which he inserted himself even further into this “state issue”.,Assertive,,Labor,,
+17,Yet now Bill Shorten is running for cover.,Assertive,6#20,Labor,,
+18,"In contrast to his 2014 intervention in a Victorian dispute,",Assertive-S,9#19,Labor,,1.0
+19,he now claims that the current threat to the Victorian CFA is a “state matter” in which he is not involved.,Assertive-V,20,Labor,,
+20,This ignores the fact that Bill Shorten is involved.,Assertive,,Labor,,
+21,In April this year he met with UFU secretary Peter Marshall in his Canberra office.,Assertive,20#22#23,Labor,,
+22,"At the same time, Mr Marshall was meeting with Premier Daniel Andrews to do a deal to handover the CFA to his union.",Assertive,24,Labor,,
+23,Mr Marshall had previously threatened both Mr Shorten and Mr Andrews that his union would campaign for the Greens at this election if they did not roll over to his demands. ,Assertive,24,Labor,,
+24,"In typical Bill Shorten style, he rolled over and did a deal with a militant union, to the detriment of the Victorian community.",Assertive-S,25,Labor,,
+25,Mr Shorten’s deal with the UFU reflects a pattern of behaviour on his part.,Assertive-V,26#28,Labor,,
+26,"He sold out 60,000 volunteers firefighters as part of his deal with the UFU,",Assertive-V,28,Labor,,1.0
+27,"just as he sold out 35,000 owner-drivers in his deal with the TWU to bring back the “Road Safety Remuneration Tribunal”, and just as he sold out thousands of building contractors in his deal with the CFMEU to abolish the ABCC.",Assertive-S,26,Labor,,
+28,"Bill Shorten needs to be honest with the Australian people about the deal he has done with the UFU, and the real reasons why he refuses to support Victoria’s CFA volunteers.",Assertive,,Labor,,

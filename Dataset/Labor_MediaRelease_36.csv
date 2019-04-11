@@ -1,0 +1,18 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"A Shorten Labor Government will boost apprenticeships across the country, giving more Australians the opportunity to gain real skills and a good job.",Commissive-O,,Labor,,
+2,Labor will do this by ensuring a proportion of the jobs on major federally funded-projects are delivered as apprenticeships.,Commissive-A,1,Labor,Vague,
+3,We will start with a target of seeing one in 10 jobs on Labor’s priority infrastructure projects filled by Australian apprentices.,Commissive-A,2#4,Labor,Specific,
+4,"This will create 2,600 new apprenticeship places for young workers seeking a job and real skills.",Commissive-O,,Labor,,
+5,"In government, we will also work with the States and Territories and industry to develop procurement rules for apprentices that will apply to all infrastructure, construction and defence projects with capital expenditure over $10 million.",Commissive-A,6,Labor,Specific,
+6,This will create tens of thousands more apprenticeship places in the years to come.,Commissive-O,,Labor,,
+7,The number of Australians in training for an apprenticeship is now at its lowest level since 2001.,Assertive,10,Labor,,
+8,"The Abbott-Turnbull Government has cut over $2.5 billion from skills and training programs,",Assertive-S,9,Liberal,,1.0
+9,"and has seen apprentice numbers fall by more than 120,000 since the last election.",Assertive-V,10,Liberal,,
+10,"Labor’s plan will ensure more Australians benefit from good jobs and training, and give more businesses access to the skilled workers they need to grow and innovate.",Assertive-V,,Labor,,
+11,"To help connect potential apprentices with jobs and training, and ensure they gain high quality skills, Labor will also establish an Apprenticeships Connect search portal and appoint a dedicated Apprentice Advocate.",Commissive-A,,Labor,Specific,
+12,"Similar to the UK Government’s Find an Apprenticeship service, the portal will let young people who are considering doing an apprenticeship search for training and job opportunities near them and connect with Australian Apprenticeship Support Network Providers who can help them get signed up.",Commissive-A,1#11,Labor,Specific,
+13,"We will also establish a dedicated Apprentice Advocate to work on important issues like quality of training, portable skills, retention and completion rates for apprentices across the country.",Commissive-A,1,Labor,Specific,
+14,Labor backs apprenticeships because they give people a job to support themselves while they gain valuable skills – two things every Australian should have access to.,Assertive,16,Labor,,
+15,We also understand that quality trades training will be central to building up the skilled workforce Australia needs to continue growing and innovating as a country.,Assertive,16,Labor,,
+16,Our plan for apprentices comes on top of our commitment to ridding the VET sector of dodgy operators and guaranteeing the future of TAFE as our central public provider.,Assertive,17,Labor,,
+17,"Only Labor backs apprentices and vocational training, because we believe every Australian should have the chance to gain real skills and a good job.",Assertive,2,Labor,,

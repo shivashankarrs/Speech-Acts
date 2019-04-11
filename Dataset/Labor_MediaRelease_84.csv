@@ -1,0 +1,19 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,A Shorten Labor Government will invest $175 million to unclog freight rail bottlenecks at Port Botany which are currently costing jobs across Sydney.,Commissive-A,13#14,Labor,Specific,
+2,Australia’s economic prosperity is tied to our ability to minimise bottlenecks in the logistics chain and Port Botany is vital to that.,Assertive,3,Labor,,
+3,Labor understands this,Assertive,4,Labor,,1.0
+4,and will invest in the infrastructure needed to create jobs and boost operations at this important trade hub.,Commissive-A,1#10#12,Labor,Vague,
+5,"As a main gateway for container freight, unclogging Port Botany is a priority project for the future of Sydney industries, and central to boosting employment in the industry.",Assertive,6,Labor,,
+6,"Duplicating the Rail will free up the movement of goods for exporters and importers, reduce logistics costs and boost capacity, productivity and jobs across industries that rely on container movements through the Port.",Assertive-V,10,Labor,,
+7,"Sydney’s freight task is growing, with Sydney Ports predicting a growth rate of five to seven per cent each year at Port Botany.",Assertive,8,Other,,
+8,"The more freight that travels by rail, the less congested the roads around Port Botany, including the M5, will be.",Assertive-V,9,Other,,
+9,Only about 14 per cent of containers that arrive at the Port are currently carried by rail.,Assertive-V,10,Other,,
+10,Labor’s investment will help the Australian Rail and Track Corporation (ARTC) achieve its target to take a higher percentage of containers on rail into and out of the Port.,Assertive-V,,Labor,,
+11,The NSW Government wants to double the amount of freight carried by rail out of Port Botany by 2020.,Assertive,10,Labor,,
+12,"The funding will also provide for a crossing loop at Warwick Farm in Sydney’s West, facilitating better movement by rail of containers and improving efficiency in south-western Sydney.",Commissive-O,,Labor,,
+13,The funding is subject to an Infrastructure Australia assessment of the business case.,Assertive-V,,Labor,,
+14,"The $175 million is by way of equity injection into the ARTC, and will not have an impact on the underlying cash balance or fiscal balance.",Assertive-V,,Labor,,
+15,Upgrading the freight rail line out of Port Botany is on the Infrastructure Australia Priority List for addressing in the near term – ,Assertive,16,Other,,1.0
+16,Labor is committed to acting as soon as possible to boost the Port’s capacity.,Commissive-A,4#17,Labor,Vague,
+17,"Developing the Port is good for local jobs, it is good for the economy and it is good for Australia.",Assertive-V,18,Labor,,
+18,Labor understands that an investment in infrastructure is an investment in local jobs.,Assertive,,Labor,,

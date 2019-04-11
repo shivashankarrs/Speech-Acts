@@ -1,0 +1,29 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"A re-elected Turnbull Coalition Government will invest $192 million towards a bold package of mental health reforms to ensure help for individuals and their families across Australia, including key commitments in suicide prevention.",Commissive-A,21#22,Liberal,Specific,
+2,"This is in addition to a series of important steps already undertaken in our first term, including the commissioning of regionally-delivered mental health services through Primary Health Networks (PHN’s) in partnership with state, territory and local service providers.",Assertive-S,1,Liberal,,
+3,Our National Suicide Prevention Strategy will draw together the current fragmented approach to suicide prevention and build on what is working well to focus on effective strategies to prevent suicide and reduce suicidal behaviour.,Commissive-A,1,Liberal,Vague,
+4,"Under a Coalition Government, we will prioritise $26 million for 10 PHN Mental Health lead sites to trial innovative approaches in mental health services.",Commissive-A,1,Liberal,Specific,
+5,"These will include establishing regional service pathways, evolving models of stepped health care and increasing use of digital technology.",Commissive-A,4,Liberal,Specific,
+6,Four of these locations will specifically focus on suicide prevention.,Commissive-A,4#7,Liberal,Specific,
+7,"We will invest a further $24 million to add a further eight Suicide Prevention Trial sites throughout regional Australia, bringing the total number to 12.",Commissive-A,1#8,Liberal,Specific,
+8,"These trial sites will build on best practice and community models and adopt new digital technologies to assist in crisis support, clinical intervention and ongoing support for individuals.",Assertive-V,,Liberal,,
+9,The Prime Minister said he was passionately committed to addressing the challenges of mental illness and suicide.,"Commissive-A
+",1,Liberal,Vague,
+10,"“As a society we need to be alert to mental illness and remove the taboo on discussing it, ",Assertive,9#11,Liberal,,1.0
+11,"which is why we are talking more often and openly about mental health issues,"" he said.",Assertive-S,14,Liberal,,
+12,"“We have to learn to recognise depression in family, friends and work mates and reach out to them - before it is too late.",Assertive,13#14,Liberal,,
+13,"This is why my Government is investing more in mental health and making services far more accessible, including through our smart phones. ",Assertive-S,,Liberal,,
+14,"And why we as leaders are talking more often and more openly about mental health.""",Assertive-S,,Liberal,,
+15,<LIST> The Coalition will also:,"Commissive-A
+",9,Liberal,Vague,1.0
+16,"<li> Guarantee funding for youth mental health services, including headspace and six Early Psychosis Youth Services </li>","Commissive-A
+",9,Liberal,Specific,
+17,<li> Spend $30 million to trial new digital technologies to ensure access to mental health services wherever and whenever needed 24/7. </li>,"Commissive-A
+",9,Liberal,Specific,
+18,"<li> Strengthen the National Mental Health Commission, which will provide independent oversight of our mental health reforms. </li> </LIST>","Commissive-A
+",9,Liberal,Vague,
+19,Minister for Health Sussan Ley said the Coalition would also establish a $12 million Suicide Prevention Research Fund to support targeted research to develop and evaluate regional suicide prevention models and provide a best practice hub of resources.,"Commissive-A
+",9,Liberal,Specific,
+20,"“The Coalition Government understands the impact of depression, anxiety and poor mental health on both individuals and our productivity as a nation, is significant,” Ms Ley said.",Assertive,21,Liberal,,
+21,"“Our mental health reforms will result in better personalised support and care, greater opportunity and better lives for Australians.",Assertive-V,,Liberal,,
+22,“We are a Government that made mental health a first term priority and this announcement demonstrates our commitment to ensure it remains front and centre if we are re-elected.”,Assertive-V,,Liberal,,

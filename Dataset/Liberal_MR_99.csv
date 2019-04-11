@@ -1,0 +1,39 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,The Coalition Government announced today that it will provide support for Australian dairy farmers who have had their incomes retrospectively cut by dairy processors Murray-Goulburn and Fonterra.,Commissive-A,,Liberal,Vague,
+2,"Deputy Prime Minister and Minister for Agriculture and Water Resources, Barnaby Joyce said the Coalition will deliver immediate assistance to dairy farmers in hardship to help them manage through these difficult times and return to profitability.",Commissive-A,1,Liberal,Vague,
+3,“I was pleased to meet dairy farmers in Victoria last week ,Expressive,4,Liberal,,1.0
+4,"and the Coalition wants to send a clear message that the Coalition stands shoulder to shoulder with them,” Mr Joyce said.",Assertive,2,Liberal,,
+5,<LIST> The key elements of the support package are:,Commissive-A,2,Liberal,Specific,1.0
+6,<li> $555 million in Dairy Recovery Concessional Loans </li>,Commissive-A,2,Liberal,Specific,1.0
+7,<li> $20 million to fast track the upgrade of the Macalister Irrigation District </li>,Commissive-A,2,Liberal,Specific,1.0
+8,<li> $2 million to establish a commodity milk price index </li>,Commissive-A,2,Liberal,Specific,1.0
+9,"<li> $900,000 for an additional 9 Rural Financial Counsellors in Victoria, Tasmania, South Australia and New South Wales </li>",Commissive-A,2,Liberal,Specific,1.0
+10,"<li> $900,000 for Dairy Australia’s ‘Tactics for Tight Times’ programme </li>",Commissive-A,2,Liberal,Specific,1.0
+11,<li> Fast tracking Farm Household Allowance applications with 18 more Department of Human Services employees processing claims </li>,Commissive-A,2,Liberal,Specific,1.0
+12,<li> Appointment of a Department of Human Services Dairy Industry Liaison Officer </li>,Commissive-A,2,Liberal,Specific,1.0
+13,<li> Redirection of two Department of Human Services Mobile Service Centres to dairy regions </li> </LIST>,Commissive-A,2,Liberal,Specific,
+14,"“The Coalition will be making immediately available $55 million in Dairy Recovery Concessional Loans for Murray-Goulburn and Fonterra suppliers this year, as well as access to $500 million in concessional loans over 2016-17 and 2017-18 years. ",Commissive-A,6,Liberal,Specific,
+15,"The recovery loans will be for terms of 10 years,” Mr Joyce said.",Commissive-A,14,Liberal,Specific,
+16,The concessional loans will be funded by expanding the drought concessional loan scheme to include dairy-specific criteria.,Commissive-A,14,Liberal,Specific,
+17,"Mr Joyce said the Coalition was allocating $900,000 to Rural Financial Counselling Services in dairy production areas to ensure farmers receive the farm business financial advice needed, ",Assertive-S,9,Liberal,,1.0
+18,"as well as $900,000 to Dairy Australia to continue rolling out one-to-one business advisory support via the Tactics for Tight Times programme.",Assertive-S,10,Liberal,,
+19,"Minister for Human Services, Alan Tudge said the Coalition is taking immediate action to ensure eligible dairy farmers have fast-tracked access to the support they need to get through the tough times.",Assertive-S,11#22,Liberal,,
+20,“We’ve ramped up the number of staff processing Farm Household Allowance claims. ,Assertive-S,19,Liberal,,
+21,"An extra 18 people have been brought in to process claims and to work directly with farming families on their individual cases, with a special focus on people in financial hardship,” Mr Tudge said.",Assertive-S,20,Liberal,,
+22,"“Where a farmer is facing real hardship and we have received the full details,",Assertive,23#24,Liberal,,1.0
+23,a decision can be made almost immediately.,Assertive-V,,Liberal,,
+24,"If there is any difficulty obtaining the information we need to assess a claim, Farm Household Case Officers can talk to the farmer’s accountant or financial adviser to help get the information needed.",Assertive,,Liberal,,
+25,“Our one-stop-shop Mobile Service Centres are now travelling through the hard-hit dairy areas of regional Victoria and South Australia. ,Assertive,13,Liberal,,
+26,The Service Centres provide direct access to the full range of Government services and are staffed with people who can answer farmers’ questions. ,Assertive-V,13,Liberal,,
+27,"Farmers can submit claims for Farm Household Allowance and other income support at the Mobile Service Centre, or by mail, online or at any Centrelink or DHS Service Centre.”",Assertive-V,26,Liberal,,
+28,Mr Tudge said the Coalition will appoint a dedicated Dairy Industry Liaison Officer who will work on the ground with dairy farmers and local communities to coordinate support and services.,Commissive-A,12,Liberal,Specific,
+29,"“I encourage any farmer with questions to contact the Farmer Assistance Hotline on 132 316, which is running on extended hours from 8am to 8pm each week day,” Mr Tudge said.",Directive,30,Liberal,,
+30,"Mr Joyce said the Coalition is delivering these assistance measures now as an immediate response under the Caretaker Conventions, not waiting until after the election on 2 July.",Assertive-S,2#32#34#38,Liberal,,
+31,"“In a sign of our strong confidence in the future of the Australian dairy industry, ",Assertive,32,Liberal,,1.0
+32,"a re-elected Coalition Government will commit $20 million to build the upgrade of the Macalister Irrigation System in Gippsland,” Mr Joyce said.",Commissive-A,33#38,Liberal,Specific,
+33,“The Macalister project will upgrade the 1920s and 1950s era Southern-Tinamba area irrigation network delivering almost 10 gigalitres in water savings which can be put back into growing the region’s agricultural production.”,Commissive-O,,Liberal,,
+34,"Mr Joyce said to help ensure the domestic dairy industry does not in future find itself in a situation where dairy processors unexpectedly reduce farm gate milk prices late in the season, a re-elected Coalition Government will work with the dairy industry to establish a commodity milk price index.",Commissive-A,35#38,Liberal,Specific,
+35,“The index would introduce greater transparency and market signals in domestic and global milk prices. ,Commissive-O,,Liberal,,
+36,"The Coalition will consult with the industry on the design of the index that would provide dairy farmers with valuable information for use in supply negotiations with processors and to assist in following international price trends,” Mr Joyce said.",Commissive-A,34,Liberal,Specific,
+37,“The Coalition values the contribution our dairy farmers make to their regional communities and the nation as a whole ,Assertive,38,Liberal,,1.0
+38,and we are proud to support them throughout good times and bad.”,Expressive,,Liberal,,

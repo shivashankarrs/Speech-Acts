@@ -1,0 +1,22 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"The Turnbull Coalition will support South Australia’s steel sector and around 2,700 workers of Whyalla by keeping Arrium competitive.",Commissive-A,,Liberal,Vague,
+2,A re-elected Turnbull Coalition will provide $49.2 million for new machinery at two mines to help Arrium remove waste materials from the ore to produce a higher grade ore which will benefit both the mining and steel making divisions of Arrium.,Commissive-A,1#8#10#14#20,Liberal,Specific,
+3,The Administrators have advised that this investment is the most immediate action that can be taken to improve the profitability of Arrium.,Assertive,2,Liberal,,
+4,The funds will be advanced as a loan and secured against the new beneficiation equipment ,Commissive-A,2#6#9,Liberal,Specific,1.0
+5,which the Administrators advise can be in operation by February -,Assertive,4,Other,,1.0
+6,delivering immediate support to Arrium and the workers of Whyalla.,Assertive-V,,Liberal,,
+7,"The Prime Minister said: ""I have discussed this project with the Administrator Mark Mentha and our own adviser Russell Caplan.",Assertive,8,Liberal,,
+8,It is a practical ‘no regrets’ investment which will lower the cash cost of iron ore production in the near term and supports both mining and steel making and the jobs which depend on them.,Assertive-V,,Liberal,,
+9,"The Commonwealth’s investment is protected by taking security over the assets.""",Assertive-V,,Liberal,,
+10,The new machinery is expected to add $241 million to Arrium’s cash-flow over the next five years.,Assertive-V,11,Liberal,,
+11,This support will enable Arrium to process low grade ore stockpiles to export quality and will increase the supply of lump ore feed to the Whyalla steelworks.,Assertive-V,12,Liberal,,
+12,It is the number one project to support the workers of the Whyalla steelworks at this time.,Assertive-V,14,Liberal,,
+13,"Russell Caplan, former Chair of Orica and Shell Australia, is independently advising the Australian Government on this matter.",Assertive,14,Liberal,,
+14,The Turnbull Coalition has carefully considered the decision and it builds on our commitment to support Australia’s steel sector and the workers of Whyalla.,Assertive-V,,Liberal,,
+15,<LIST> We have already committed to:,Assertive-S,14#20,Liberal,,1.0
+16,<li> Using Australian steel across Australia’s naval shipbuilding program </li>,Assertive-S,14#20,Liberal,,1.0
+17,"<li> Using steel from Whyalla to upgrade 1200 kilometres of rail between Adelaide and Tarcoola, worth approximately $80 million to Arrium </li>",Assertive-S,14#20,Liberal,,1.0
+18,<li> Strengthening Australia’s anti-dumping system </li>,Assertive-S,14#20,Liberal,,1.0
+19,"<li> Scrapping the Carbon Tax and exempting emissions intensive, trade exposed industries from the Renewable Energy Target </li> </LIST>",Assertive-S,14#20,Liberal,,1.0
+20,"In contrast to the Coalition’s decisive action, Labor is just promising to hand out grants, which is nothing more than old industry policy.",Assertive-V,21,Labor,,
+21,Arrium and the workers of Whyalla cannot wait while Labor tries to resuscitate its failed industry policy.,Assertive,,Labor,,

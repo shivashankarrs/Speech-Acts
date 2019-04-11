@@ -1,0 +1,24 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"A re-elected Turnbull Coalition Government will invest to transform the CBDs of Launceston and Burnie, bringing thousands of students and new business opportunities that will energise these city centres.",Commissive-A,18,Liberal,Vague,
+2,We will invest $150 million to relocate and expand the University of Tasmania’s (UTAS) campuses in Burnie and Launceston as part of the Coalition’s plan for jobs and smart cities in Tasmania.,Commissive-A,1#3#8#9#10#11#12#13#14#15#22#23,Liberal,Specific,
+3,The UTAS relocation presents a once-in-a-generation opportunity for long-term jobs and growth in the Launceston ,Assertive-V,4,Liberal,,1.0
+4,which will only be realised with all three levels of governments working together with the university and the community.,Assertive,5,Liberal,,
+5,"That is why the Turnbull Coalition is partnering with the Tasmanian Government, Launceston Council and UTAS in a City Deal for Launceston, and committing to a plan for growth and investing in the critical infrastructure that will deliver it.",Commissive-A,19#20#21,Liberal,Vague,
+6,"We will provide a further $7.5 million to the Launceston City Heart project to accelerate these benefits and make the CBD a more attractive and accessible place to study, work, visit and live.",Commissive-A,1#17,Liberal,Specific,
+7,UTAS is one of Tasmania’s largest employers and accounts for over two per cent of gross state product.,Assertive,2,Liberal,,
+8,"By backing UTAS the Turnbull Coalition’s investment will generate an additional $1.1 billion in economic output during the construction phase and 3,110 jobs.",Assertive-V,,Liberal,,
+9,It will boost Tasmania’s and Australia’s attraction as a high quality international education destination.,Assertive-V,,Liberal,,
+10,"The UTAS program will significantly increase the number of Associate Degree places, benefiting 8,000 students who have never undertaken further education.",Assertive-V,,Liberal,,
+11,<LIST> With our funding support UTAS will be able to deliver on their plans for :,Commissive-O,,Liberal,,1.0
+12,"<li> A fit-for-purpose campus at Inveresk in Launceston providing modern, world-class teaching, learning and research facilities </li> ",Commissive-O,,Liberal,,1.0
+13,"<li> The new Launceston Institute for Applied Science and Design Building to strengthen the future of science, research and STEM in Northern Tasmania </li> ",Commissive-O,,Liberal,,1.0
+14,"<li> The relocation of the Tasmanian Institute of Agriculture to modern and accessible facilities at West Park in Burnie, applying the latest in technology-enhanced learning environments </li> ",Commissive-O,,Liberal,,1.0
+15,"<li> The new campuses at Inveresk and West Park will both provide innovation centres that support entrepreneurship, start-ups and industry supply chain spin-offs. </li>  </LIST> ",Commissive-O,,Liberal,,
+16,The award-winning $18.1 million Launceston City Heart project is the largest project ever undertaken by the City of Launceston.,Assertive,6,Liberal,,
+17,"The City Heart project will redefine and revitalise Central Launceston by creating a liveable and walkable retail, cultural and business hub.",Assertive-V,,Liberal,,
+18,The Prime Minister said the Turnbull Coalition is committed to delivering jobs and greater opportunities for the people of Tasmania.,Commissive-O,,Liberal,,
+19,"“This City Deal is about long-term jobs and economic development, revitalising cities and communities, and enabling students to have high quality education here so they can stay in Tasmania without having to move to the mainland,” said the Prime Minister.",Assertive-V,,Liberal,,
+20,“It’s also about opening new markets and ensuring Tasmanian cities realise their enormous potential as international hubs for both education and tourism.,Assertive-V,,Liberal,,
+21,"“I thank your local Liberal representatives – Andrew Nikolic, Eric Hutchinson, Brett Whiteley and the hard-working Tasmanian Liberal Senate Team including Minister for International Education Richard Colbeck – for their tireless advocacy and success in realising this vision.""",Expressive,,Liberal,,
+22,"Member for Bass Andrew Nikolic said: “This redevelopment of the Launceston UTAS campus will be a game changer for the city, making it a more attractive and accessible place to work study, visit and live.”",Assertive-V,,Liberal,,
+23,“It will open up more opportunities for young people in Northern Tasmania to access higher education and make Launceston an attractive option for interstate and overseas students.”,Assertive-V,,Liberal,,

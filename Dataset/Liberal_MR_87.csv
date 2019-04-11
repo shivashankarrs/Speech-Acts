@@ -1,0 +1,11 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,Prime Minister Malcolm Turnbull led last night's debate like he leads the nation – with a comprehensive economic plan for Australia's future.,Assertive-S,2,Liberal,,
+2,"The Prime Minister outlined our Plan for a strong new economy – through greater innovation, a defence industry plan, export trade agreements, tax relief for small and medium businesses, a sustainable budget with crackdowns on tax avoidance and guaranteed funding for health, education and roads.",Commissive-A,3#4,Liberal,Vague,
+3,This Plan will set Australia up for the long term.,Assertive-V,,Liberal,,
+4,The contrast has never been greater – Bill Shorten has no plan and last night only had cheap shots and political one liners.,Assertive-V,,Labor,,
+5,"After three years in Opposition, Bill Shorten is still all about the politics.",Assertive,4,Labor,,
+6,"Shorten delivered more of the same old Labor – more unfunded spending promises, higher taxes and higher debt.",Assertive-V,9,Labor,,
+7,"He confirmed Labor will increase taxes by $100 billion over 10 years, which will damage jobs and growth.",Assertive-V,9,Labor,,
+8,Bill Shorten leads a divided party and cannot be trusted to protect Australia’s borders.,Assertive-V,9,Labor,,
+9,"By playing politics, and squibbing policy, Shorten made it clear that after three years in opposition, Labor is still all about politics.",Assertive,4#10,Labor,,
+10,It is still just the same old Labor.,Assertive,,Labor,,

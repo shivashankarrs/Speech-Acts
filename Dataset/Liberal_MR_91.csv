@@ -1,0 +1,17 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,The Turnbull Coalition Government recognises the importance of mobile coverage for people in regional and remote Australia.,Assertive,2,Liberal,,
+2,That is why a re-elected Turnbull Government will invest an additional $60 million in the Mobile Black Spot Programme.,Commissive-A,5,Liberal,Specific,
+3,Mobile connectivity is a critical part of daily social and business interaction and it is vital for personal safety.,Assertive,2,Other,,
+4,This is as true for people living in remote regions as it is in cities.,Assertive,2,Other,,
+5,The new investment will bring the Coalition’s total investment in eliminating mobile black spots to $220 million.,Assertive-V,,Liberal,,
+6,Our Programme contrasts with the previous Labor government which failed to allocate a single dollar of public money to address the problem.,Assertive-S,2,Labor,,
+7,The Coalition’s Mobile Black Spot Programme has already committed to erecting or upgrading 499 mobile base stations around the country ,Assertive-S,2#8#9,Liberal,,1.0
+8,in order to cover about half of the 6000 black spots nominated by the community.,Assertive-V,,Liberal,,
+9,"This Programme will provide additional handheld coverage to 68,600 square kilometres - an area equivalent to the landmass of Tasmania - and new external antenna coverage to over 150,000 square kilometres.",Assertive-V,,Liberal,,
+10,"A re-elected Turnbull Government will invest an additional $60 million to cover black spot locations that have not previously received funding under the Programme, as well as locations that have been overlooked by mobile network operators because they are uncommercial.",Commissive-A,2#11#12#15,Liberal,Specific,
+11,"This new commitment will improve mobile coverage along major transport routes, in small communities and in locations prone to experiencing natural disasters, as well as addressing unique mobile coverage problems such as areas with high seasonal demand.",Commissive-O,,Liberal,,
+12,"We expect Commonwealth funding will again leverage investment from mobile network operators, state governments, local governments, businesses and community organisations.",Assertive-V,,Liberal,,
+13,Eliminating mobile back spot locations will unlock opportunities for farmers and businesses previously impacted by little or no mobile connectivity.,Assertive,15,Other,,
+14,Better mobile coverage means a quicker response to car accidents or bushfires; tourism operators can attract more guests; children can research school assignments online or adults can study at university online; farmers can sell their crops on the futures markets while sitting on the tractor; and people don’t miss out on business or social calls or texts.,Assertive,15,Other,,
+15,"The Coalition’s $220 million plan to address mobile black spots will enhance productivity and improve public safety, making life easier for those living in regional and remote areas thanks to access to more reliable mobile phone coverage.",Commissive-A,16,Liberal,Specific,
+16,This is another example of the Coalition’s commitment to drive investment as part of our national economic plan for jobs and growth.,Assertive-V,,Liberal,,

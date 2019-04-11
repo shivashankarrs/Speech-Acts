@@ -1,0 +1,29 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,Tourism is critical to Australia’s economic transition and forms an important part of our national economic plan.,Assertive,5,Liberal,,
+2,Under the Coalition Government the number of international tourists visiting Australia has grown to record levels and spending has surged.,Assertive-V,5,Liberal,,
+3,"The number of international visitors rose 8.7 per cent in the year to March, to 7.7 million.",Assertive-V,2,Liberal,,
+4,"The value of tourism exports soared 18 per cent last calendar year to $36.6 billion, including more than $8 billion from Chinese visitors alone.",Assertive-V,2,Liberal,,
+5,"A re-elected Turnbull Coalition Government will support the tourism sector with policies at the international, national and local levels, including today’s $20 million commitment to improve tourism infrastructure for the Dandenong Ranges.",Commissive-A,,Liberal,Specific,
+6,<LIST> This investment will include:,Commissive-A,5,Liberal,Specific,1.0
+7,"<li> $6.5 million to upgrade the iconic Puffing Billy, including construction of all-weather facilities </li>",Commissive-A,5#15,Liberal,Specific,1.0
+8,<li> $1 million to extend the Emerald-Cockatoo multi-use trail to Gembrook </li>,Commissive-A,5#15,Liberal,Specific,1.0
+9,"<li> $2.5 million for the Ridge Walk, connecting Upwey/Tecoma to Montrose via Ferny Creek, Sassafras, Olinda, Mount Dandenong, and Kalorama </li>",Commissive-A,5#15,Liberal,Specific,1.0
+10,<li> $10 million for the widening of the Mount Dandenong Tourist Road to reduce congestion and improve safety. </li> </LIST>,Commissive-A,5#15,Liberal,Specific,
+11,"The Coalition will also deliver a corporate tax cut for the approximately 11,500 small business located around the Dandenong Ranges.",Commissive-A,15,Liberal,Specific,
+12,"The Yarra Valley and Dandenong Ranges are among Victoria’s most iconic tourism destinations, receiving six million visitors last year.",Assertive,11,Other,,
+13,The Turnbull Coalition Government has allocated a record $629 million for Tourism Australia and it is implementing a range of policies to make Australia a more attractive destination for tourists from key markets in Asia.,Assertive-S,5#11#15,Liberal,,
+14,Prime Minister Malcolm Turnbull said tourism was a key element of his Government’s plan for managing the transition from the mining construction boom.,Assertive-V,1#13,Liberal,,
+15,"“Improving access and raising the visitor experience at iconic local tourist attractions will raise investment and drive jobs and growth,” said Prime Minister Malcolm Turnbull.",Assertive-V,,Liberal,,
+16,"“And now that China has proclaimed next year to be the ‘Australia-China Year of Tourism’ we can look forward to hotels, restaurants and tour operators all over the country investing in new capacity and hiring more employees to meet this new demand.”",Assertive,19,Liberal,,
+17,"Minister for Tourism Richard Colbeck said: “We are ensuring the regions can capitalise on Australia's tourism boom, making a big contribution to regional employment.”",Assertive,19,Liberal,,
+18,Member for La Trobe Jason Wood said huge interest in China and elsewhere had seen the number of Puffing Billy international passengers rise by more than 65 per cent in two years.,Assertive,19,Liberal,,
+19,"We're investing in new facilities to cater for the surge in visitors to this beautiful corner of the state, said Jason Wood MP.",Assertive-S,20,Liberal,,
+20,New investment means more jobs.,Assertive-V,,Liberal,,
+21,A record 1 million Chinese tourists visited Australia last year.,Assertive,19#22,Liberal,,
+22,<LIST> The Government aims to boost these numbers by:,Commissive-A,,Liberal,Vague,1.0
+23,<li> Introducing 10 year multiple entry visas for Chinese tourists </li>,Commissive-A,22#27,Liberal,Specific,1.0
+24,<li> Making visas available in another language for the first time – Chinese </li>,Commissive-A,22#27,Liberal,Specific,1.0
+25,<li> Supporting the designation of 2017 as the Australia-China Year of Tourism </li>,Commissive-A,22#27,Liberal,Specific,1.0
+26,"<li> Freezing the Passenger Movement Charge tourist tax at $55, after it increased by 45% under Labor </li> </LIST>",Commissive-A,22#27,Liberal,Specific,1.0
+27,"These measures will help Australia attract more Chinese tourists, ",Assertive-V,,Liberal,,1.0
+28,with the total number of international Chinese travellers forecast to double from 100 million to 200 million by 2020.,Assertive,27,Other,,

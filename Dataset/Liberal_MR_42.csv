@@ -1,0 +1,16 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,A re-elected Turnbull Coalition Government is committed to supporting jobs and growth in the trucking industry.,Commissive-A,9,Liberal,Vague,
+2,Labor’s Road Safety Remuneration Tribunal (RSRT) devastated Australia’s trucking industry.,Assertive-V,,Labor,,
+3,"Established solely to advantage the Transport Workers Union (TWU), ",Assertive,4,Labor,,1.0
+4,the RSRT cost jobs and put owner-drivers out of business.,Assertive-V,2#6,Labor,,
+5,"Truck drivers are the lifeblood of Australian business with the road transport sector employing around 200,000 drivers and contributing $51 billion to the economy.",Assertive,6,Other,,
+6,Despite this Bill Shorten has pledged to bring the RSRT back ,Assertive-S,7,Labor,,1.0
+7,"putting around 35,000 jobs under threat.",Assertive-V,,Labor,,
+8,Labor’s deal with the TWU to re-establish the RSRT will not only risk the livelihoods of owner drivers but will also have significant flow on effects to consumers.,Assertive-V,6#7#9,Labor,,
+9,The Turnbull Coalition is committed to never re-establish the RSRT or anything like it.,Commissive-A,11#15,Liberal,Specific,
+10,This follows our move to abolish the RSRT and its disastrous Payments Order in April 2016 that was putting tens of thousands of mum and dad owner truck drivers out of business.,Assertive-S,9,Liberal,,
+11,A re-elected Turnbull Government is committed to road safety through initiatives that will actually work.,Commissive-A,,Liberal,Vague,
+12,We will redirect the $4 million saved from the abolition of the Road Safety Remuneration System to the National Heavy Vehicle Regulator and will invest additional funds to important road safety initiatives including the Roads to Recovery Programme.,Commissive-A,11#15,Liberal,Specific,
+13,Investing in improved infrastructure is critical to road safety and a key part of our national economic plan for jobs and growth.,Assertive,12,Liberal,,
+14,Labor’s approach to road safety is to jeopardise the livelihoods of mum and dad truck drivers who simply want to get on with running their businesses.,Assertive-V,8#15,Labor,,
+15,"Only a re-elected Turnbull Government will protect mum and dad small businesses in the trucking industry, while delivering real and tangible improvements to road safety.",Assertive-V,,Liberal,,

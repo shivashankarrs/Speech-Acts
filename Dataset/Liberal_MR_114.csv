@@ -1,0 +1,23 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"A re-elected Turnbull Coalition Government will provide continuous mobile coverage on trains between the Central Coast and Hornsby, as well as Wi-Fi at each train station.",Commissive-O,,Liberal,,
+2,"We will invest to upgrade and build telecommunications infrastructure to improve the lives of 30,000 Central Coast residents – ",Commissive-A,1,Liberal,Vague,1.0
+3,one in four of the adult workforce - who commute long distances by train each day.,Assertive,2,Liberal,,
+4,There are more than sixty kilometres of rail between Wyong and Hornsby where commuters currently face little or no mobile data coverage.,Assertive,5,Other,,
+5,The Coalition will invest $12 million to provide continuous in-train mobile coverage along this corridor as well as Wi-Fi at each train station.,Commissive-A,2#6#8#12#15#16#21#22,Liberal,Specific,
+6,“This will improve the lives of thousands of Central Coast residents ,Assertive-V,,Liberal,,1.0
+7,"who leave home before dawn each day and return after dark,” said Prime Minister Malcolm Turnbull.",Assertive,6,Liberal,,
+8,"“It will make work time more productive, enhance leisure time and help families and friends connect.",Assertive-V,,Liberal,,
+9,“And it’s happening because local members Karen McNamara and Lucy Wicks – after spending hundreds of hours talking to commuters – told me this was one of the most practical things we could do for families on the Central Coast.”,Assertive,5,Liberal,,
+10,Minister for Communications Mitch Fifield said the Coalition understands that reliable mobile coverage is crucial for productivity.,Assertive,5,Liberal,,
+11,"“The Coalition understands the importance of reliable mobile coverage so commuters can get work done and stay in touch with family or the office,” said Minister Fifield.",Assertive,10,Liberal,,
+12,Member for Robertson Lucy Wicks said this commitment is a game-changer which will directly benefit thousands of people every day.,Assertive-V,,Liberal,,
+13,"“This is a major, innovative commitment from the Turnbull Government which will mean more of our hard-working commuters can stay connected for longer on the daily commute, ",Assertive-V,12,Liberal,,1.0
+14,"which can be a 4 to 5 hour round trip to Sydney or Newcastle,” Mrs Wicks said.",Assertive,13,Other,,
+15,Member for Dobell Karen McNamara said: “Better mobile connectivity on trains and Wi-Fi at train stations between the Central Coast and Sydney can seem like such a simple solution but it will make a big difference to so many people.”,Assertive-V,,Liberal,,
+16,The Turnbull Coalition Team’s $12 million commitment is expected to leverage an additional $4 million investment from the NSW Government.,Assertive-V,,Liberal,,
+17,There will be an expression of interest process for mobile network providers to bid for the funding.,Commissive-A,5,Liberal,Specific,
+18,"A re-elected Turnbull Coalition will work with the NSW Government to provide in-kind assistance to deliver the Wi-Fi and improved mobile coverage, facilitating access to land along the rail corridor and helping facilitate planning approvals for new infrastructure.",Commissive-A,5#20,Liberal,Vague,
+19,"NSW Minister for Transport and Infrastructure Andrew Constance said: “A lack of mobile coverage is one of the greatest frustrations for customers on the Central Coast,",Assertive,20,Liberal,,1.0
+20,"so this investment will make a huge difference, keeping them connected on the go.”",Assertive-V,,Liberal,,
+21,This new project will build on the success of the Coalition’s $220 million Mobile Black Spot Programme which is already fixing thousands of mobile black spots around the country.,Assertive-V,,Liberal,,
+22,The Coalition is investing in infrastructure and delivering jobs and growth for the Central Coast.,Assertive-V,,Liberal,,

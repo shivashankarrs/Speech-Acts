@@ -1,0 +1,14 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,A re-elected Turnbull Government will use Australian steel to build the first fleet of naval vessels commissioned in Australia since 2007.,Commissive-O,5#8,Liberal,,
+2,"The $282 million contract was signed on May 5 with Austal for its shipyard in Henderson, Western Australia, to replace the existing Pacific Patrol Boat fleet and is part of Australia’s new Pacific Maritime Security Program.",Assertive-S,3#4#11,Liberal,,
+3,The contract to build and sustain 19 steel-hulled vessels will create over 120 jobs and secure Henderson as core to the re-elected Turnbull Coalition’s plan for jobs and growth.,Assertive-V,,Liberal,,
+4,"Austal will use Australian high-tensile steel to build the Pacific Patrol Boats – reinforcing our commitment to Australian built ships, by Australian workers and with Australian steel.",Commissive-O,1,Liberal,,
+5,The Turnbull Government is committed to maximising Australian industry across this project and all of our naval shipbuilding projects.,Commissive-O,6#12#13,Liberal,,
+6,"This is an important part of our plan for Western Australia, ",Assertive-V,,Liberal,,1.0
+7,whose economy is transitioning away from a mining boom and into broader based growth.,Assertive,6,Other,,
+8,This is the first fleet of naval vessels to be commissioned from an Australian shipyard since the Howard Government commissioned the Air Warfare Destroyers in 2007.,Assertive-V,,Liberal,,
+9,"Labor, during their time in office, never commissioned a naval vessel from an Australian shipyard.",Assertive-S,1,Labor,,
+10,Australia has a fundamental strategic interest in the security and stability of Pacific island nations ,Assertive,11,Other,,1.0
+11,and the replacement Pacific Patrol Boats will continue our important contribution to this.,Assertive-V,,Liberal,,
+12,Our defence industry policy will secure an advanced defence manufacturing industry in Australia and create thousands of new hi-tech jobs.,Assertive-V,,Liberal,,
+13,It is part of our carefully structured plan to provide jobs and growth and a secure future for Australian families.,Assertive-V,,Liberal,,

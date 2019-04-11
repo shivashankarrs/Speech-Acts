@@ -1,0 +1,25 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"A re-elected Turnbull Coalition Government will invest in the future of Far North Queensland, delivering jobs and growth.",Commissive-A,,Liberal,Vague,
+2,The Coalition will deliver a $30 million Jobs and Investment Package that will open opportunities for local enterprise and employment pathways for local workers.,Commissive-A,1,Liberal,Specific,
+3,The Coalition’s Jobs and Investment Package will provide $10 million towards a new $50 million Cairns Innovation Centre.,Commissive-A,2#4#6#7#22,Liberal,Specific,
+4,"The Centre will be delivered by James Cook University (JCU), helping to boost collaboration between researchers and local business and support the commercialisation of JCU research.",Assertive-V,,Liberal,,
+5,"JCU is one of the world’s leading universities for tropical sciences with specialist expertise in medicine, marine sciences, ecology and water quality.",Assertive,4,Other,,
+6,"The new centre will promote business innovation and help local businesses, industry associations, researchers and students share knowledge and develop opportunities under a single roof.",Assertive-V,,Liberal,,
+7,This investment will support even deeper collaboration and commercialisation opportunities in these fields.,Assertive-V,,Liberal,,
+8,"The Coalition will also provide $20 million to promote local jobs and investment, which will be used to leverage a further $20 million in matched funding.",Commissive-A,2,Liberal,Specific,
+9,Because locals know their regions best ,Assertive,10,Other,,1.0
+10,we will enlist local experts to assess local economic opportunities and develop a tailored investment plan.,Commissive-A,8,Liberal,Vague,
+11,<LIST> Our package will:,Commissive-A,8#10,Liberal,Vague,1.0
+12,"<li> Provide competitive business innovation grants which promote new technology, new export opportunities and sustainable jobs </li>",Commissive-A,8#10,Liberal,Vague,1.0
+13,<li> Invest in local infrastructure to boost productivity and generate more local investment </li>,Commissive-A,8#10,Liberal,Vague,1.0
+14,<li> Deliver targeted training programs to address regional skills shortages and supporting workers to retrain and upskill </li> </LIST>,Commissive-A,8#10,Liberal,Vague,1.0
+15,"Regional Australia is critical to Australia’s prosperity, accounting for around 65 per cent of Australia’s export earnings and 45 cents in every tourism dollar.",Assertive,17,Other,,
+16,"While the opportunities for regional Australia have never been greater, Prime Minister Malcolm Turnbull said he recognised that people in Far North Queensland are feeling pressure as the economy transitions from the resources construction boom.",Assertive,17,Liberal,,
+17,"“My Government is committed to delivering jobs, opening new markets and giving a fair go to the people of Far North Queensland,” said Mr Turnbull.",Commissive-O,,Liberal,,
+18,"We are investing in skills and infrastructure, commercialising local science, and helping Cairns to realise its potential as a services hub and export gateway to the region. ",Commissive-A,3#8#17#19#20#24,Liberal,Vague,
+19,Only my Government has a plan to drive Northern Australia forward.”,Assertive,,Liberal,,
+20,"The Member for Leichhardt, Warren Entsch said the two commitments would be a catalyst for businesses to grow and a culture of innovation to prosper.",Assertive-V,,Liberal,,
+21,"“These commitments will enable businesses to take that crucial next step – whether it’s through seizing an export opportunity, exploring the use of new technologies, purchasing a piece of infrastructure or upskilling their staff,” he said.",Assertive-V,20,Liberal,,
+22,"“And the JCU Innovation Centre will be a regionally-significant resource identifying new career pathways, new business possibilities and providing a helping hand so that innovations that have commercial potential can stay in the region.”",Assertive-V,,Liberal,,
+23,"Labor, in contrast, has abandoned regional Australia and has no plan to create sustainable jobs in our regions.",Assertive-V,24,Labor,,
+24,"The Turnbull Coalition Government’s Jobs and Investment Package will boost local jobs, investment and growth in Far North Queensland.",Assertive-V,,Liberal,,

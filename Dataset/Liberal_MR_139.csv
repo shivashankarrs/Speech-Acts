@@ -1,0 +1,23 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"The Turnbull Coalition Government will improve the Budget bottom line by $1.1 billion in the next four years while we continue to guarantee funding for schools, hospitals and roads.",Commissive-A,2#4,Liberal,Specific,
+2,"Only the Coalition has a clear plan to grow the Australian economy, manage its finances responsibly, and create more jobs.",Assertive-V,,Liberal,,
+3,"We will also reduce taxes for families and businesses, as well as delivering certainty and stability.",Commissive-A,4,Liberal,Vague,
+4,"In contrast, Labor will increase the deficit by $16.5 billion in the next four years. ",Assertive-V,5,Labor,,
+5,"The Labor Party is promising higher deficits, more debt and higher taxes. ",Assertive-V,6,Labor,,
+6,This is bad for the economy.,Assertive-V,,Labor,,
+7,<LIST> The Coalition has fully funded all of the policies announced throughout this campaign to:,Assertive-S,1#8#9#10#11#12,Liberal,,1.0
+8,<li> Ensure regional jobs; </li>,Assertive-V,,Liberal,,1.0
+9,<li> Increase funding for mental health and medical cures; </li>,Assertive-V,,Liberal,,1.0
+10,<li> Boost infrastructure spending; </li>,Assertive-V,,Liberal,,1.0
+11,<li> Keep communities safe; and </li>,Assertive-V,,Liberal,,1.0
+12,<li> Promote investment. </li> </LIST>,Assertive-V,,Liberal,,
+13,Our plan for economic growth is working.,Assertive-V,16,Liberal,,
+14,The Australian economy is growing at 3.1 per cent a year – faster than any of the G7 economies.,Assertive-V,13,Liberal,,
+15,"Around 300,000 new jobs were created last year, the strongest growth in employment since the Howard years, and our credit rating remains at the top level of Triple-A with a stable outlook.",Assertive-V,13,Liberal,,
+16,But there is more work to do to continue the successful transition of our economy.,Assertive,17#18,Liberal,,
+17,That’s why the Coalition is directing every lever of policy to secure our nation’s prosperity and economic security for the 21st century.,Assertive-S,,Liberal,,
+18,"At a time of uncertainty, we will manage the economy and manage the budget so we can grow the economy and create more jobs.",Commissive-A,22,Liberal,Vague,
+19,"Our innovation and science agenda will bring more great Australian ideas to market, provide tax incentives to invest in start-up businesses and make sure our children have the right skills for the jobs of the future.",Assertive-V,18,Liberal,,
+20,Our defence industry plan will secure an advanced defence manufacturing industry in Australia and create thousands of new hi-tech jobs.,Assertive-V,18,Liberal,,
+21,Our export trade deals will give our farmers a competitive edge into the biggest markets in our region.,Assertive-V,18,Liberal,,
+22,"We have a clear plan to improve the budget, rather than increase debt on Australian families.",Commissive-A,1,Liberal,Vague,

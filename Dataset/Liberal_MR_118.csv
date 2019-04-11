@@ -1,0 +1,18 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"A re-elected Turnbull Government will invest $150 million toward the Townsville Eastern Access Rail Corridor supporting exporters, trade and jobs and growth.",Commissive-A,2#3#4#5#6#7#12#14#16#17,Liberal,Specific,
+2,The investment will provide a new eight kilometre rail freight line connecting the North Coast Line directly into the Port of Townsville.,Commissive-O,,Liberal,,
+3,The Coalition’s $150 million commitment will address an emerging bottleneck in the supply chain.,Assertive-V,,Liberal,,
+4,"The new rail corridor will remove freight trains from Townsville’s suburbs, increasing safety and reducing congestion.",Assertive-V,,Liberal,,
+5,And it will ensure Townsville is well placed to become a critical major transport and logistics hub in Northern Australia.,Assertive-V,,Liberal,,
+6,"An efficient port, able to accommodate freight trains without disrupting road traffic and local communities, is vital for developing Northern Australia.",Assertive,,Liberal,,
+7,The project is expected to deliver around 300 jobs during the rail construction phase alone.,Assertive-V,,Liberal,,
+8,"Already, the Port of Townsville facilitates around $8 billion in trade.",Assertive,12,Other,,
+9,It is Australia’s largest sugar exporter. ,Assertive,12,Other,,
+10,It is an import terminal for fuel. ,Assertive,12,Other,,
+11,"Other exports include mineral concentrates, mineral ore, and fertiliser.",Assertive,12,Other,,
+12,"Importantly the Townsville Eastern Access Rail Corridor will make the Port of Townsville more competitive through the scale economies that arise from being able to utilise longer trains and, subsequently, larger ships.",Assertive-V,13,Liberal,,
+13,This investment is critical to unlocking more trade and more enterprise.,Assertive-V,,Liberal,,
+14,It is part of the Coalition’s commitment to make the Australian economy more competitive and to the broader development of Northern Australia.,Assertive-V,,Liberal,,
+15,Infrastructure Australia has identified the Townsville Eastern Access Rail Corridor as a priority initiative,Assertive-V,16,Liberal,,1.0
+16,and the project is supported by the Queensland Government.,Assertive,,Liberal,,
+17,This investment is a crucial element of our national economic plan for growth and jobs.,Assertive-V,,Liberal,,

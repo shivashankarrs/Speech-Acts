@@ -1,0 +1,40 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,A Shorten Labor Government will deliver child care support that is fairer and will make child care more affordable for over a million families.,Commissive-O,2,Labor,,
+2,Our package will give parents the child care relief they need now – from 1 January 2017 – ,Assertive-V,3,Labor,,1.0
+3,not in two years’ time as announced by Liberals.,Assertive-V,,Liberal,,
+4,<LIST> Under Labor’s plan:,Assertive,5#6#7#9,Labor,,1.0
+5,<li> Low and middle income families will benefit from an increase to the Child Care Benefit of 15 per cent. </li>,Commissive-O,,Labor,,
+6,"<li> Every one of the 813,000 families that rely on the Child Care Benefit will be better off – an increase up to $31 per child per week, or up to $1,627 per year, will provide much needed relief for the family budget. </li>",Commissive-O,,Labor,,
+7,"<li> The annual cap on the Child Care Rebate will be increased from $7,500 to $10,000 per child, ",Commissive-A,8,Labor,Specific,1.0
+8,"leaving families up to $2,500 per child per year better off. </li>",Commissive-O,,Labor,,
+9,"<li> 107,800 families who would otherwise reach the Child Care Rebate cap this financial year won’t have to choose between paying double fees, or dropping out of the workforce. </li> </LIST>",Commissive-O,,Labor,,
+10,"Right now, too many Australian women have their pay packet eaten up by the costs of child care.",Assertive,11,Other,,
+11,Labor’s plan will take pressure off the family budget and help grow the economy by keeping more parents in work.,Commissive-O,,Labor,,
+12,Better child care is essential to a growing economy.,Assertive,13,Other,,
+13,"It’s central to Labor’s plan for fairer growth, real jobs and greater opportunities.",Assertive,,Labor,,
+14,Families who rely on child care need a better deal now -,Assertive,15,Other,,1.0
+15,and that's what Labor will deliver.,Assertive,,Labor,,
+16,"Before the last election, the Liberals promised to make child care more affordable for Australian families.",Assertive-S,17,Liberal,,
+17,"But over the last three years, child care fees have increased by over 20 per cent, and out-of-pocket costs have gone up.",Assertive-V,,Liberal,,
+18,"While we work with experts and the sector to formalise the very best long-term reforms, Labor recognises that families need action and support now – they should not have to wait any longer.",Assertive,19,Labor,,
+19,By boosting the current system Labor will ensure that all children continue to have access to two days of vital early education.,Commissive-A,,Labor,Vague,
+20,<LIST> Labor’s plan will also include:,Commissive-A,21#22#23#24,Labor,Vague,1.0
+21,"<li> Cracking down on unjustified price increases – New transparency and accountability standards, along with extra powers to investigate unjustified price increases and stop price gouging. </li>",Commissive-A,,Labor,Specific,
+22,"<li> Supporting flexible Family Day Care – Investing an additional $50 million to support improvements to the Family Day Care system, including flexible options for families and enhancing the education, investigation and compliance programs. </li>",Commissive-A,,Labor,Specific,
+23,"<li> Better services for Indigenous children and children in remote areas – Increasing support for children in Budget Base Funded Services by 15 per cent, in line with the increase to the Child Care Benefit. </li>",Commissive-A,,Labor,Specific,
+24,"<li> Valuing our early education workforce - $150 million investment towards developing the early education workforce – developing a new Early Years’ Workforce Strategy, and establishing a national Educator Professional Development Program.",Commissive-A,,Labor,Specific,
+25,Labor will also make submissions to the Fair Work Commission proceedings in support of professional wages for early childhood educators. </li> </LIST>,Commissive-A,24,Labor,Specific,
+26,"In government, Labor will not proceed with the Liberals’ child care changes in their current form,",Commissive-A,27,Labor,Specific,1.0
+27,"because of the number of families that will be worse off, the unfair activity test and the impact on vulnerable children.",Assertive-V,,Labor,,
+28,"According to research by the ANU’s Centre for Social Research and Methods, one in three families would be worse off under the Liberals’ proposed child care changes.",Assertive-V,26,Liberal,,
+29,Families won’t be worse off under Labor’s changes.,Assertive-V,30,Labor,,
+30,Mr Turnbull’s Budget was the final blow for families who have been dealt nothing but broken promises under the Liberals.,Assertive-V,31,Liberal,,
+31,The Liberals have announced around $3 billion in taxpayer funds to make one in three families worse off while at the same time creating a system which is so complicated that even the experts struggle to explain it.,Assertive-V,,Liberal,,
+32,Today’s announcement is made within the same funding envelope as the Government.,Assertive,33,Labor,,
+33,Labor has supported more than $9 billion in social services and child care savings –,Assertive-S,34,Labor,,1.0
+34,more than three times what is needed to cover increases in child care investment.,Assertive-V,35,Labor,,
+35,"We will also axe the Liberals’ Baby Bonus payment, $1.2 billion over the next ten years.",Commissive-A,,Labor,Specific,
+36,"Labor has a proud history of early education reform,",Assertive-S,37,Labor,,1.0
+37,and we are driven to build on this platform.,Assertive,39,Labor,,
+38,Early education and care isn’t a form of babysitting – it is critical for parents and for children.,Assertive,39,Labor,,
+39,Only Labor will put families first.,Assertive,,Labor,,

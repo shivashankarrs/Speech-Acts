@@ -1,0 +1,37 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,Australia’s hard working small businesses are the engine room of our economy.,Assertive,2,Other,,
+2,"As we transition from the mining boom, it is vital that opportunities are created for our small businesses to innovate, grow and employ more Australians.",Assertive,3#13#25#30,Liberal,,
+3,Small business tax relief for companies and unincorporated small businesses,Assertive,4#8,Liberal,,1.0
+4,The Turnbull Government will cut the small business company tax rate to 27.5 per cent and make it available to all small companies with an annual turnover of less than $10 million from 1 July 2016.,Commissive-A,5#34,Liberal,Specific,
+5,"Around 870,000 companies will gain access to the lower rate. ",Assertive-V,,Liberal,,
+6,"Over the next decade, the lower tax rate will be extended to all companies and then progressively reduce to 25 per cent by 1 July 2026.",Commissive-A,4,Liberal,Specific,
+7,The Government recognises that not all small businesses are companies.,Assertive,8,Liberal,,
+8,"As a result, the unincorporated tax discount will be increased from 5 per cent to 8 per cent from 1 July 2016. ",Commissive-A,9#11,Liberal,Specific,
+9,Around 2.3 million unincorporated businesses will be eligible for the unincorporated tax discount.,Assertive-V,,Liberal,,
+10,"After the initial increase, the discount will be progressively increased to a final discount rate of 16 per cent from 1 July 2026.",Commissive-A,8#11,Liberal,Specific,
+11,This will provide unincorporated small businesses with improved cash flow and enable profitable unincorporated businesses to reinvest in their business to help them grow.,Assertive-V,,Liberal,,
+12,"The unincorporated tax discount will be limited to small businesses with turnover of less than $5 million and remains capped at $1,000 per individual per year.",Commissive-A,8,Liberal,Specific,
+13,Extending tax concessions to more small businesses,Assertive,14,Liberal,,1.0
+14,"The Government will also ease the burden on small businesses by increasing access to a range of small business tax concessions, for businesses with an annual turnover of less than $10 million.",Commissive-A,15#34,Liberal,Vague,
+15,"<LIST> This change will make the small business tax concessions available to over 90,000 additional businesses from 1 July 2016, and will include access to:",Commissive-O,,Liberal,,1.0
+16,"<li> simplified depreciation rules, including the ability to claim an immediate deduction for each and every asset purchased costing less than $20,000 until 30 June 2017; </li>",Commissive-O,15#21,Liberal,,1.0
+17,"<li> simplified trading stock rules, giving businesses the option to avoid an end of year stocktake if the value of their stock has changed by less than $5,000; </li>",Commissive-O,15,Liberal,,1.0
+18,<li> the option to account for GST on a cash basis and pay GST instalments as calculated by the Australian Taxation Office (ATO); </li>,Commissive-O,15,Liberal,,1.0
+19,<li> a simplified method of paying PAYG instalments calculated by the ATO; and </li>,Commissive-O,15,Liberal,,1.0
+20,"<li> other tax concessions available to small business, including fringe benefits tax (FBT) exemptions (FBT changes from 1 April 2017) and immediate deductibility of professional expenses. </li> </LIST>",Commissive-O,15#22,Liberal,,
+21,"Extending the ability to claim immediate deductibility for asset purchases less than $20,000 will help more small businesses to reinvest in their business and grow by helping them to replace or upgrade their machinery and equipment.",Assertive-V,,Liberal,,
+22,"Extending access to a range of other concessions will reduce the regulatory barriers small businesses face, enabling them to put their business and employees first.",Assertive-V,,Liberal,,
+23,Increasing the turnover threshold will not affect access to the capital gains tax concessions for small businesses.,Commissive-A,14,Liberal,Specific,
+24,These concessions will remain available only to businesses with annual turnover of less than $2 million or that satisfy the maximum net asset value test. ,Commissive-A,23,Liberal,Specific,
+25,Simplifying GST administration for small businesses,Assertive,26,Liberal,,1.0
+26,Small businesses will also benefit from changes to simplify BAS reporting requirements.,Assertive-V,,Liberal,,
+27,"From 1 July 2017, all small businesses with less than $10 million turnover will be able to easily classify transactions, and prepare and lodge their BAS.",Commissive-O,26,Liberal,,
+28,This simpler approach means that small businesses can work with their tax professionals on growing their business not form filling.,Assertive-V,,Liberal,,
+29,A trial of the new simpler reporting arrangements will commence on 1 July 2016.,Commissive-A,27#28#34,Liberal,Specific,
+30,Exploring eInvoicing opportunities,Assertive,31,Liberal,,1.0
+31,"As part of the FinTech agenda, the Government will also undertake a detailed implementation study into the costs and benefits of adopting electronic invoicing (eInvoicing) so that small businesses spend less time re-entering invoice data for government and more time developing and growing their business.",Commissive-A,34,Liberal,Vague,
+32,"According to the Digital Business Council, eInvoicing could improve efficiency over the traditional paper invoicing process by 60-80 per cent with widespread adoption leading to significant regulatory savings.",Assertive-V,33,Other,,
+33,The findings of the implementation study will be considered in early 2017.,Commissive-A,31,Liberal,Vague,
+34,"The Turnbull Government is creating the right conditions for Australian small businesses to innovate, prosper, and create new jobs.",Assertive-V,,Liberal,,
+35,"As a vital sector of our economy and the home of Australian enterprise and innovation, Australia’s hardworking small businesses need a tax system that actively supports them.",Assertive,34,Liberal,,
+36,"These important reforms build on the Government’s biggest small business initiative in our nation’s history, the Growing Jobs and Small Business package, which was a key feature of last year’s Budget.",Assertive-S,4#14#29#31,Liberal,,

@@ -1,0 +1,33 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,A re-elected Turnbull Government is committed to ensuring Australians continue to have affordable access to pathology services.,Commissive-O,,Liberal,,
+2,The Coalition has reached agreement with Pathology Australia ,Assertive,3,Liberal,,1.0
+3,that a returned Turnbull Coalition Government will take immediate action to reduce regulatory cost pressures on pathology providers.,Commissive-A,1,Liberal,Vague,
+4,This includes legislating to address ambiguities and improve compliance regarding the charging of ‘fair market value’ rents for pathology collection centres by landlords.,Commissive-A,3#5#7#8,Liberal,Vague,
+5,These changes will allow the pathology sector to continue to provide all Australians affordable access to pathology services through maintaining current bulk billing rates.,Assertive-V,,Liberal,,
+6,The pathology sector recently identified rents as their biggest cost-pressure threatening the ongoing sustainability of bulk billing for patients at a roundtable convened by the Coalition in April.,Assertive,7,Other,,
+7,This announcement will give the pathology sector a more sustainable path to confidently invest in future innovation in line with our plan for jobs and growth.,Assertive-V,,Liberal,,
+8,"It will also maintain a diversity of providers in the sector safeguarding access to pathology services across Australia, including in rural and regional areas.",Assertive-V,,Liberal,,
+9,"As such, the Coalition and Pathology Australia have agreed that our action on rents allows pathology providers to continue to bulk bill patients without the current incentive payment.",Assertive-V,2,Liberal,,
+10,The Coalition is committed to building a Healthier Medicare and will increase investment in Medicare to $26 billion by 2021.,Commissive-A,1#12,Liberal,Specific,
+11,This is compared to an average of about $17 billion under Labor.,Assertive-S,10,Labor,,
+12,"However, we are also committed to ensuring every dollar taxpayers invest lands as close to the patient as possible.",Commissive-O,,Liberal,,
+13,"The current bulk billing incentive saw pathology bulk billing rates increase by just 1 per cent in five years, despite taxpayers investing over $500 million over that period.",Assertive-V,12#14#15,Liberal,,
+14,"This is a positive outcome for patients, pathologists and taxpayers over politics.",Assertive-V,,Liberal,,
+15,It also confirms that all we have seen from Labor are scare campaigns dressed up as health policy.,Assertive-V,16,Labor,,
+16,Labor created this problem.,Assertive-V,,Labor,,
+17,The Rudd-Gillard Government deregulated pathology collection centres without the appropriate market protections in place on rental prices charged.,Assertive-S,4#16#22,Labor,,
+18,Labor also indiscriminately cut over $500 million from Medicare-funded pathology services in Government.,Assertive-S,10#16#22,Labor,,
+19,This is despite Bill Shorten declaring “Labor will never attack Medicare”.,Assertive-S,18,Labor,,
+20,“We did think we needed to make savings in pathology.,Assertive,18,Labor,,
+21,"Now, they didn’t like it, they weren’t chanting in the street saying that was terrific, they didn’t like it. - Catherine King – January 6 2016 – Press Conference",Assertive,18,Labor,,
+22,Bill Shorten today faces the biggest challenge in his campaign yet.,Assertive,23,Labor,,
+23,Can he and Labor bring themselves to put patients and pathologists before politics?,Interrogative,,Labor,,
+24,<LIST> Key Details of the Coalition's plan for access to affordable pathology for all Australians,Assertive,3,Liberal,,1.0
+25,<li> The Coalition will introduce provisions within the Health Insurance Act 1973 regulatory framework to clarify the meaning of the term ‘market value’ and link this meaning with relative local commercial market rents </li>,Commissive-A,4#32,Liberal,Specific,1.0
+26,<li> The Coalition will introduce appropriate compliance mechanisms to ensure that arrangements between pathology providers and requestors of pathology services are consistent with this framework </li>,Commissive-A,25,Liberal,Specific,1.0
+27,<li> The information required in order to register collection centre will be expanded to allow for proper assessment by the Department of Health as to whether an application is compliant.,Commissive-A,4#32,Liberal,Vague,
+28,"In the interim, under a returned Turnbull Government, there will be a moratorium on any new approved pathology collection centres until the introduction of the new regulatory framework. </li>",Commissive-A,27,Liberal,Specific,
+29,<li> The measure to remove bulk billing incentives will commence at the date that the changes to the regulatory framework take effect.,Commissive-A,10#25,Liberal,Specific,
+30,"In addition to the delay of this measure and consistent with other policy decisions the government has made, a returned Turnbull government will not change the Pathology Services Table, excluding those from the MBS Review, for the next three years, without consultation and agreement with the sector. </li>",Commissive-A,29,Liberal,Specific,
+31,<li> The Coalition will continue consultation with all stakeholders during the transition and implementation phase of this policy </li>,Commissive-A,29,Liberal,Specific,1.0
+32,"<li> These changes will allow pathology providers to compete for rental locations based on the quality of the services they can provide, which will foster innovation in the delivery of pathology services and will lead to improved outcomes for all Australians. </li> </LIST>",Assertive-V,,Liberal,,

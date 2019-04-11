@@ -1,0 +1,38 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"The Turnbull Government today announced it will undertake a review of the broad range of issues affecting the supply and taxation of working holiday maker 417 and 462 visas, the Minister for Small Business and Assistant Treasurer, Kelly O’Dwyer MP said.",Commissive-A,3,Liberal,Vague,
+2,"To provide for further consideration of these issues, the Commonwealth will defer the commencement of the previously announced changes to treat all working holiday makers as non-residents for tax purposes from July 1 for six months, pending the outcome of the review process,” Minister O’Dwyer said.",Commissive-A,1#3,Liberal,Specific,
+3,“The Government has listened to issues raised by stakeholders about workforce challenges faced by industries in regional and rural areas and how the taxation arrangements for Working Holiday Maker visa holders potentially affect industries such as agriculture and tourism.,Assertive,5,Liberal,,
+4,“The Government recognises that working holiday makers are an important source of labour in Australia and the ‘Review of 417 and 462 Visa Labour’ will ensure our labour supply is adequate and Australia remains competitive globally.,Assertive,5,Liberal,,
+5,"“As a result, a re-elected Turnbull Government will undertake a comprehensive review of the broad range of issues affecting the supply of working holiday makers. ",Commissive-A,,Liberal,Vague,
+6,The review will also address issues of labour supply more broadly for the agriculture and tourism sectors.,Commissive-A,5,Liberal,Specific,
+7,“The review will include consultation with stakeholders.,Commissive-A,5,Liberal,Vague,
+8,"“The review will consider a range of issues such as short and long term agricultural and tourism seasonal labour needs, regulatory imposts on employers, and opportunities to expand the supply of seasonal workers while ensuring that Australians continue to have priority for available work",Commissive-A,5,Liberal,Specific,
+9,"“The review will also assess Australia’s competitive position in attracting seasonal and temporary labour, including comparative wages and taxation.",Commissive-A,5,Liberal,Specific,
+10,"“The Minister for Agriculture and Water Resources will lead the review process through his portfolio agency in consultation with Employment, Immigration, Regional Development, Tourism, Treasury, and Prime Minister and Cabinet (PM&C).",Commissive-A,5,Liberal,Specific,
+11,"“The ‘Review of 417 and 462 Visa Labour’ will report by mid-October, with agreed changes to take effect from 1 January 2017.”",Commissive-A,5,Liberal,Specific,
+12,Review of 417 and 462 Visa labour,Assertive,16,Liberal,,
+13,Terms of Reference,Assertive,16,Liberal,,
+14,The Government recognises that 417 and 462 Visa holders are a vital source of labour in Australia.,Assertive,16,Liberal,,
+15,Issues have been raised about the impact of the 2015 Budget measure on tax arrangements for 417 and 462 Visa holders.,Assertive,16,Liberal,,
+16,The Government will undertake an inter-departmental review of the broad range of issues affecting the supply of 417 and 462 Visa labour.,Commissive-A,5,Liberal,Vague,
+17,The Government has listened to issues raised by stakeholders about workforce challenges faced by industries such as agriculture and tourism.,Assertive,16,Liberal,,
+18,The review will also address issues of labour supply more broadly for the agriculture and tourism sectors.,Commissive-A,16,Liberal,Specific,
+19,"The Minister for Agriculture and Water Resources will lead a process through his portfolio agency in consultation with other agencies including Employment, Immigration, Regional Development, Tourism, Treasury and PM&C.",Commissive-A,16,Liberal,Specific,
+20,The review will report to the Minister for Agriculture and Water Resources by mid October 2016.,Commissive-A,16,Liberal,Specific,
+21,"The Minister for Agriculture and Water Resources, together with relevant Ministers, will then bring a joint submission to Cabinet with recommendations to address 417 and 462 Visa labour issues.",Commissive-A,16,Liberal,Vague,
+22,<LIST> Key issues that will be addressed as part of the review include:,Assertive,16,Liberal,,1.0
+23,"<li> Australia’s competitive position in attracting seasonal and temporary foreign labour, including </li> ",Commissive-A,16,Liberal,Specific,1.0
+24,"<li> comparative wages, entitlements and conditions; </li> ",Commissive-A,16,Liberal,Specific,1.0
+25,<li> comparative taxation on income earned; </li> ,Commissive-A,16,Liberal,Specific,1.0
+26,<li> comparative superannuation or equivalent entitlements; </li> ,Commissive-A,16,Liberal,Specific,1.0
+27,<li> promotional programmes and schemes to assist workers while in the country; </li> ,Commissive-A,16,Liberal,Specific,1.0
+28,<li> costs and barriers to entry; </li> ,Commissive-A,16,Liberal,Specific,1.0
+29,<li> Regulatory imposts on employers; </li> ,Commissive-A,16,Liberal,Specific,1.0
+30,"<li> Exploitation of and protections for vulnerable workers, including evaluation of illegal labour hire practices and non-compliance with laws and regulations; </li> ",Commissive-A,16,Liberal,Specific,1.0
+31,"<li> Capacity to match employers with available workers, including regulatory arrangements in relation to the role of labour hire companies; </li> ",Commissive-A,16,Liberal,Specific,1.0
+32,"<li> Changes to the use of volunteer or unpaid labour (for instance Willing Workers on Organic Farms, or ‘Woofers’); </li> ",Commissive-A,16,Liberal,Specific,1.0
+33,"<li> Australia’s exposure to changes in exchange rates, economic growth and employment rates in source nations which may affect Australia attracting seasonal and temporary labour; </li> ",Commissive-A,16,Liberal,Specific,1.0
+34,<li> Short-term and long-term agricultural and tourism labour needs; </li> ,Commissive-A,16,Liberal,Specific,1.0
+35,"<li> Policies to attract unemployed Australians, including young Australians, into work in agriculture and tourism; </li> ",Commissive-A,16,Liberal,Specific,1.0
+36,<li> Opportunities to expand supply of seasonal and temporary foreign workers for the agricultural sector; </li> ,Commissive-A,16,Liberal,Specific,1.0
+37,<li> and Consistent tax treatment between different classes of temporary work Visa holders. </li> </LIST>,Commissive-A,16,Liberal,Specific,

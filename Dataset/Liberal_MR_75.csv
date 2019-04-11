@@ -1,0 +1,13 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,A re-elected Turnbull Coalition Government will provide $40 million towards a grade separation that will reduce congestion and improve safety at Oaklands Crossing.,Commissive-A,3#4#7#10,Liberal,Specific,
+2,For years Oaklands Crossing has experienced severe congestion causing frustration for commuters at the intersection of Diagonal and Morphett Roads.,Assertive-V,1,Other,,
+3,"The $40 million investment will contribute towards the separation of the rail line from the road, reducing congestion and delivering significant benefits for commuters and businesses.",Commissive-O,,Liberal,,
+4,The investment will also improve safety at a site ,Assertive-V,,Liberal,,1.0
+5,which experienced 100 collisions between 2010 and 2015.,Assertive,4,Other,,
+6,The upgrade will require funding from all levels of government. ,Assertive,7,Liberal,,
+7,The Turnbull Government's $40 million contribution demonstrates our strong commitment to this project.,Assertive-V,,Liberal,,
+8,A re-elected Turnbull Government will also commit $2 million to undertake planning for the upgrade of Marion Road.,Commissive-A,10,Liberal,Specific,
+9,"The planning work will look at the grade separation of Marion Road from the intersection of Anzac Highway to Cross Road, grade separation of Marion Road from the tramline to Cross Road and a tramline overpass of Marion Road and Cross Road.",Commissive-A,8,Liberal,Specific,
+10,Our commitment to Oaklands Crossing and Marion Road builds on our $3 billion transport infrastructure investment in South Australia.,Assertive-S,11#12,Liberal,,
+11,"Our investment in the South Australian transport infrastructure will generate 1,330 jobs each year during construction.",Assertive-V,,Liberal,,
+12,The Turnbull Government is spending a record $50 billion on land transport infrastructure as part of national economic plan to provide jobs and growth and a secure future for Australian families.,Assertive-S,,Liberal,,

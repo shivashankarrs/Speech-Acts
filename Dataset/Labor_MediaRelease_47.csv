@@ -1,0 +1,47 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,A Shorten Labor Government will restore the essential role of the arts and creative industries to their rightful place in Australia’s cultural and economic life.,Commissive-O,,Labor,,
+2,"The visual arts, film, music, theatre and dance chronicle our Australian stories while creating jobs across our cities and regions.",Assertive,4,Labor,,
+3,The Abbott-Turnbull Government has delivered nothing but chaos and cuts for the arts.,Assertive-V,4,Liberal,,
+4,Labor has a plan to fix the damage and restore our creative industries to their rightful place at the centre of Australia’s cultural and economic life.,Commissive-A,1,Labor,Vague,
+5,Labor believes the arts belong to all Australians.,Assertive,6,Labor,,
+6,They are part of our national identity and our egalitarian tradition.,Assertive,9,Labor,,
+7,"The arts bring pleasure to Australians of all ages and in every part of our nation: our regions and cities, our growing suburbs and grand old country towns.",Assertive,9,Other,,
+8,The arts are not just important for Australians as an avenue for creativity – thousands of jobs also depend on them.,Assertive,9,Labor,,
+9,They are worth our support.,Assertive,10,Labor,,
+10,<LIST> Our plan to grow Australia’s creative industries for a more creative country includes:,Commissive-A,4#11#17#25#29#33#38#44,Labor,Vague,1.0
+11,<li> Restoring the standing of the Australia Council for the Arts,Commissive-A,,Labor,Vague,1.0
+12,A Shorten Labor Government will restore the Australia Council’s ability to make independent funding decisions and support the small and medium arts organisations across the country that make the arts accessible to all Australians.,Commissive-A,11,Labor,Specific,
+13,"The Abbott-Turnbull Government destroyed the principle of arms-length, independent arts funding in this country by ripping $105 million away from the Australia Council and using it to create a ministerial slush fund, Catalyst.",Assertive-S,14,Liberal,,
+14,This is wrong – arts funding should never be a political plaything of the government of the day.,Assertive-V,15,Liberal,,
+15,A Shorten Labor Government will close the Catalyst fund and return all remaining money to the Australia Council.,Commissive-A,12,Labor,Specific,
+16,We will also boost the Australia Council by providing $20 million a year in new funding over four years from 2017. </li>,Commissive-A,12,Labor,Specific,
+17,<li> Investing in local drama,Commissive-A,,Labor,Vague,1.0
+18,A Shorten Labor Government will invest in local production so that Australian audiences can grow up watching Australian stories on Australian screens.,Commissive-A,17,Labor,Vague,
+19,Investment in Australian drama makes sense.,Assertive,20#21,Labor,,
+20,"It fosters local creative skills development for Australian writers, producers and actors and will help to invigorate the local industry.",Assertive,22,Labor,,
+21,It also provides a boost to the local economy where it is filmed.,Assertive,22,Labor,,
+22,A Shorten Labor Government will deliver $60 million for the ABC to produce local drama.,Commissive-A,17#23,Labor,Specific,
+23,This boost to our ABC will deliver an estimated 30 hours a year of high quality ABC programming.,Assertive-V,24,Labor,,
+24,"Recent successful examples like Rake, The Code, Janet King, Redfern Now, Anzac Girls and The Beautiful Lie have shown how powerful local drama can be in expressing the national character. </li>",Assertive-V,,Other,,
+25,<li> Growing regional creative industries,Commissive-A,,Labor,Vague,1.0
+26,Labor will ensure Australians in rural and regional communities have an opportunity to connect with the arts and share the stories of our country towns by boosting the Regional Arts Fund.,Commissive-A,25,Labor,Vague,
+27,"We will increase the Regional Arts Fund by $8 million over four years, increasing employment and professional development opportunities for regional and remote artists.",Commissive-A,26,Labor,Specific,
+28,"The Fund has a particular focus on artistic skills development among disadvantaged communities, including young people, Aboriginal and Torres Strait Islander and isolated townships. </li>",Commissive-A,27,Labor,Specific,
+29,<li> Strengthening live music,Commissive-A,,Labor,Vague,1.0
+30,Australia is the 6th largest music market in the world and has the potential to become a significant global exporter of contemporary music.,Assertive,31,Other,,
+31,The talent of contemporary Australian musicians should be shared with the world.,Assertive,32,Other,,
+32,A Shorten Labor Government will invest $5.4 million to strengthen Australia’s contemporary live music industry by bringing the Live Music Office and the Australian Music Centre under the umbrella of an expanded Sounds Australia to support the development of Australia’s live music export industry. </li>,Commissive-A,29,Labor,Specific,
+33,<li> Boosting music in schools,Commissive-A,,Labor,Vague,1.0
+34,Labor believes the benefits of musical education should be available to all Australian students.,Assertive,35,Labor,,
+35,We will support more schools introducing children to the arts through the joy of music.,Commissive-A,33,Labor,Vague,
+36,"A Shorten Labor Government will provide $2 million a year to expand successful school music programs such as Music: Count Us In, Musica Viva in Schools and the Song Room.",Commissive-A,35,Labor,Specific,
+37,"We will also invest $350,000 a year to continue the SongMakers program beyond 2017. </li>",Commissive-A,35,Labor,Specific,
+38,<li> Carefully consulting on copyright,Commissive-A,,Labor,Vague,1.0
+39,The Australian book publishing industry is competitive and highly innovative.,Assertive,41,Labor,,
+40,Labor understands that its value goes beyond economic benefits.,Assertive,41,Labor,,
+41,"A strong local publishing industry also fosters emerging Australian authors, often giving them their first publications and the chance to enrich our culture by telling Australian stories to ourselves and to the world.",Assertive,42,Labor,,
+42,Labor will consider any proposals or recommendations to adjust the current territorial copyright regime with caution.,Commissive-A,38#43,Labor,Specific,
+43,"While there are economic arguments to be made in support of this, such a significant change to our copyright laws could have a serious impact on our publishing industry, our authors and Australia’s cultural life. </li>",Assertive-V,,Labor,,
+44,<li> Labor is the party of the arts,Assertive,46,Labor,,1.0
+45,"From Gough Whitlam’s establishment of the Australia Council to the Gillard Government’s wide-ranging Creative Australia policy, we have valued and elevated the contribution of the creative industries to Australia’s social, cultural and economic life.",Assertive-S,44,Labor,,
+46,"Our comprehensive plan for the arts will see this sector flourish, reaching out to touch the lives of all Australians. </li> </LIST>",Assertive-V,,Labor,,

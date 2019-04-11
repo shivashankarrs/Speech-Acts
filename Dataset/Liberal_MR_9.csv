@@ -1,0 +1,18 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,Bill Shorten has started his campaign pitch by once again lying to Australians about education funding in a playground in Leichhardt in Queensland ,Assertive,2,Labor,,1.0
+2,where Labor agreed to rip out $40 million from local schools.,Assertive-V,,Labor,,
+3,"“There is no plan for schools except cuts.” - Bill Shorten, Doorstop interview, 9/5/16",Assertive,1,Labor,,
+4,"Malcolm Turnbull has no plan or the plan he has he's ashamed of, cutting funding to schools. - Bill Shorten, Doorstop interview, 9/5/16",Assertive,1,Labor,,
+5,"There are no cuts to schools funding – the Coalition will build on the existing record base for federal funding, which will grow from $16 billion in 2016 to $20.1 billion in 2020.",Commissive-A,17,Liberal,Specific,
+6,<LIST> Year   Schools funding (recurrent calendar year),Assertive,5,Liberal,,1.0
+7,<li> 2014   $13.7 billion </li> ,Assertive-S,5,Liberal,,1.0
+8,<li>  2015   $14.9 billion  </li> ,Assertive-S,5,Liberal,,1.0
+9,<li> 2016   $16.0 billion  </li> ,Commissive-A,5,Liberal,Specific,1.0
+10,<li> 2017   $17.4 billion  </li> ,Commissive-A,5,Liberal,Specific,1.0
+11,<li> 2018   $18.2 billion  </li> ,Commissive-A,5,Liberal,Specific,1.0
+12,<li> 2019   $19.1 billion  </li> ,Commissive-A,5,Liberal,Specific,1.0
+13,<li> 2020   $20.1 billion  </li>  </LIST>,Commissive-A,5,Liberal,Specific,
+14,"The only ‘plan for cuts’ to schools was when then-Education Minister Bill Shorten withheld $1.2 billion from Queensland, WA and NT schools in 2013 ",Assertive-S,2#16#17,Labor,,1.0
+15,when they did not sign up to Labor’s funding model.,Assertive,14,Other,,
+16,"If the Coalition had not reinstated the funding when we took office, schools in Leichhardt would have missed out on around $40 million.",Assertive-V,,Liberal,,
+17,"The Coalition is the only party with a fully funded and affordable plan that ensures money is directed where it’s most needed and focuses on proven measures that will improve outcomes in literacy, numeracy, STEM subjects and prepare students for the jobs of the future.",Assertive-V,,Liberal,,

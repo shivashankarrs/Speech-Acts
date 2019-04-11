@@ -1,0 +1,21 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,The Coalition welcomes new Medicare figures showing bulk billing rates continue to increase to historic levels under the Turnbull Government.,Expressive,,Liberal,,
+2,"The Coalition is working with medical and health professionals to build a 21st century health system for Australians that is putting the focus back on patients, not politics.",Assertive-S,15,Liberal,,
+3,"This includes a commitment to Medicare that will see the Coalition invest $23 billion into Medicare in 2016-17, increasing to $26 billion by 2020-21.",Commissive-A,2,Liberal,Specific,
+4,Over one million Medicare services are also now billed to taxpayers every day and continuing to grow.,Assertive,1#5,Other,,
+5,That’s why the Coalition is working with GPs to revolutionise the way primary care is co-ordinated for millions of Australians with multiple chronic and complex diseases through our Healthier Medicare reforms.,Assertive-S,2,Liberal,,
+6,"This also includes putting clinicians at the helm of our review of all 5700 items on the Medicare Benefits Schedule to ensure every dollar taxpayers invest is in medical services that are safe, clinically-relevant and evidenced-based.",Commissive-A,5,Liberal,Specific,
+7,"In contrast, Labor invested an average of $17.7 billion into Medicare during their six years in Government.",Assertive-S,3,Labor,,
+8,"<LIST> Labor’s only plan to ensure Medicare was sustainable was billions of dollars of cuts to Medicare funding for GPs, pathology, diagnostic imaging and dental, and attacking doctor wages to justify it : ",Assertive-S,3,Labor,,1.0
+9,"<li> “Doctors earn enough money to bear the Federal Government’s controversial freeze on MBS rebates, Health Minister Tanya Plibersek says.” – 22 May 2013 - Australian Doctor </li> ",Assertive,8,Labor,,1.0
+10,<li> “the opposition would be kidding itself if it didn't recognise there were challenges in the budget and that savings needed to be found”... ,Assertive,8,Labor,,1.0
+11,“There is no area that is going to be exempt”...,Assertive,8,Labor,,1.0
+12,“We have to look across the board.”- Labor Shadow Health Minister Catherine King – 22 Feb 2015 – Sky News </li>  </LIST>,Assertive,8,Labor,,1.0
+13,The Coalition’s historic reforms have come from consulting directly with medical and health professionals on the ground,Assertive,5#14,Liberal,,1.0
+14,and we appreciate their ongoing involvement and patience while they are delivered.,Expressive,,Liberal,,
+15,Only the Coalition has a plan to build a healthier Medicare for this generation and the next.,Assertive,,Liberal,,
+16,Figures,Assertive,1,Liberal,,
+17,"The latest quarterly Medicare data shows bulk billing rates increased to 78.1 per cent year to date in 2015-16 (July to March), compared with 77.5 per cent over the same period last year. ",Assertive-V,1,Liberal,,
+18,"This is the same trend for GPs, with bulk billing increased to 84.8 per cent, compared with 84.0 per cent.",Assertive-V,1,Liberal,,
+19,"Under Labor, general and GP bulk billing rates averaged between three and five percentage points lower than the Coalition at 75 per cent and 79 per cent respectively.",Assertive-V,18,Labor,,
+20,About 283 million Medicare services have been claimed to date in 2015-16 – the equivalent of more than one million Medicare services per day.,Assertive-V,1,Liberal,,

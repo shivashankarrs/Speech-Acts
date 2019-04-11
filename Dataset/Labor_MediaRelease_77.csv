@@ -1,0 +1,28 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"A Shorten Labor Government will invest an additional $100 million to support Indigenous students to succeed at school, and boost the number of Indigenous teachers.",Commissive-A,2,Labor,Specific,
+2,This is part of Labor’s plan to help close the gap between Indigenous and non-Indigenous students.,Assertive-V,,Labor,,
+3,"Currently, the gap between outcomes for Indigenous and non-Indigenous students is unacceptably high.",Assertive,2#9,Labor,,
+4,<LIST> Indigenous students are still:,Assertive,3,Labor,,1.0
+5,<li> Twice as likely to be developmentally vulnerable in their first year of school. </li>,Assertive,3,Labor,,
+6,<li> Up to two years behind at school. </li>,Assertive,3,Labor,,
+7,<li> Behind non-Indigenous students’ NAPLAN results. </li>,Assertive,3,Labor,,
+8,<li> Less likely to complete Year 12. </li> </LIST>,Assertive,3,Labor,,
+9,This is just not good enough.,Assertive,10,Labor,,
+10,Labor will ensure our schools and teachers are equipped with the resources they need to support Indigenous students to succeed at school.,Commissive-A,1,Labor,Vague,
+11,Labor’s Your Child. Our Future plan will make sure that Indigenous students get the targeted support we know makes a difference to their education.,Commissive-A,10#12#13#14#15#16#17,Labor,Vague,
+12,"<LIST> Schools and educators will be able to put in place targeted strategies to close the gap, including:",Commissive-O,,Labor,,1.0
+13,<li> Early intervention literacy and numeracy programs. </li>,Commissive-O,,Labor,,
+14,<li> Breakfast clubs. </li>,Commissive-O,,Labor,,
+15,"<li> Attendance, parenting and family support programs. </li>",Commissive-O,,Labor,,
+16,<li> Targeted professional development and training for teachers. </li>,Commissive-O,,Labor,,
+17,<li> One-on-one tutoring and mentoring. </li> </LIST>,Commissive-O,,Labor,,
+18,Labor’s Your Child. Our Future will see an additional $96 million go towards improving outcomes for Indigenous students around Australia over school years 2018 and 2019.,Commissive-A,1#22,Labor,Specific,
+19,"In addition, Labor will provide $4.8 million over the forward estimates to fund 100 scholarships per year for Aboriginal and Torres Strait Islander students, and increase the number of Aboriginal and Torres Strait Islander teachers.",Commissive-A,1#22#27,Labor,Specific,
+20,Increasing the number of Indigenous teachers is critical to improving educational outcomes of Indigenous students.,Assertive,21,Labor,,
+21,"Indigenous teachers are significantly under-represented in schools – while Indigenous students comprise 5 per cent of the total school student population, they only represent approximately 1 per cent of the teaching community.",Assertive,22,Labor,,
+22,Labor is committed to efforts to close the gap in Indigenous disadvantage – ,Commissive-O,23,Labor,,1.0
+23,and education is key.,Assertive,24#25,Labor,,
+24,Mr Turnbull’s decision to dump the Gonski reforms and rip $29 billion out of schools will mean that students who need the most help are not getting the resources and support they need to succeed at school.,Assertive-V,25,Liberal,,
+25,Only Labor will put people first – and support Aboriginal and Torres Strait Islander students with the investment they need to achieve their best.,Assertive,,Labor,,
+26,Funding for the $96 million in targeted support for Indigenous students formed part of Labor’s Your Child. Our Future package announced on 28 January 2016.,Assertive-S,18,Labor,,
+27,Labor’s Indigenous teacher scholarships program is offset from Labor’s announced improvements to the Budget.,Assertive-V,,Labor,,

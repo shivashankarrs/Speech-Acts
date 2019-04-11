@@ -1,0 +1,21 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"Labor has confirmed they cannot provide details of how they will pay for their latest Medicare stunt, dooming it to the same fate as their soon-to-be scrapped $57 billion hospitals promise.",Assertive-V,2,Labor,,
+2,"Bill Shorten and Labor can’t pay for their health spending promises, and what they can’t pay for they will never deliver.",Assertive-V,,Labor,,
+3,"Labor introduced the pause on Medicare indexation in 2013 and cut $664 million from GPs, as part of over $11 billion worth of cuts to Medicare, pathology, diagnostic imaging, medicines, hospitals, dental and the private health rebate.",Assertive-S,4,Labor,,
+4,"Shadow Minister for Health Catherine King has already unravelled Labor’s announcement – repeatedly unable to explain this morning exactly how Labor would pay for this $12 billion hit to their election costings, saying it was ‘not her area’.",Assertive,5,Labor,,
+5,The lack of clear and transparent detail around Labor’s announcement today proves it has been cobbled together at short notice and they are clearly hiding something from the Australian people.,Assertive,1#9,Labor,,
+6,"It also comes as Mr Shorten again refused to back Labor’s unfunded and unaffordable $57 billion hospitals promise, confirming another Labor health commitment Bill Shorten can’t pay for and will be scrapped.",Assertive-S,1#9,Labor,,
+7,"Labor’s announcement today also continues their ongoing refusal to back the Coalition’s Healthier Medicare reforms, including better co-ordination of care for the chronically-ill and our clinician-led review of all 5700 Medicare items to ensure they are evidenced-based and clinically necessary.",Assertive-S,9,Labor,,
+8,"These are all reforms that doctors asked for to protect patients and the future sustainability of Medicare into the 21st Century, and the Coalition listened.",Assertive,7,Liberal,,
+9,"This is another Labor announcement focused on politics, not patients.",Assertive,10,Labor,,
+10,The Choice,Assertive,12#13#19,Other,,1.0
+11,"In contrast, the Coalition has increased Medicare investment by nearly $2.7 billion since coming to office, ",Assertive-S,12#15,Liberal,,1.0
+12,with $23 billion announced in 2016-17.,Commissive-A,20,Liberal,Specific,
+13,A re-elected Turnbull Government has already budgeted for our plan to increase Medicare investment by a further $3.1 billion over the next four years to $26 billion by 2020-21.,Commissive-A,14#20,Liberal,Specific,
+14,This is compared with an average of just $17.7 billion per year under Labor.,Assertive-V,,Liberal,,
+15,Bulk billing rates remain higher under the Coalition than Labor.,Assertive-V,18,Liberal,,
+16,"For example, the current GP bulk billing rate under the Coalition is nearly 85 per cent, versus an average of just 79 per cent under Labor.",Assertive-V,15,Liberal,,
+17,"Labor has continued to warn bulk billing rates would crash for the past three years, ",Assertive-S,18,Labor,,1.0
+18,but the evidence has proven Bill Shorten continues to be the chicken little of Australian politics.,Assertive-V,,Labor,,
+19,Many GPs are also small business owners and employers and the Coalition’s 10 year enterprise tax plan will benefit them directly.,Assertive-V,20,Liberal,,
+20,"A re-elected Turnbull Coalition Government is delivering doctors guaranteed, increased funding for Medicare, with the matching health and economic reforms to ensure Medicare and their practices remain sustainable well into the 21st Century.",Assertive,,Liberal,,

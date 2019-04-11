@@ -1,0 +1,28 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,A Shorten Labor Government will deliver a six-point plan to secure the future of strategically significant metals manufacturing industries including steel-making in Australia.,Commissive-A,2,Labor,Vague,
+2,Labor's Plan for Australian Metals Manufacturing and Jobs will ensure a strong future for Australia’s metal industries - one where we grow jobs,Commissive-O,3,Labor,,1.0
+3,instead of seeing them slip away as is happening on Malcolm Turnbull’s watch.,Assertive-V,,Liberal,,
+4,Steel is a strategically significant industry for Australia. ,Assertive,5,Other,,
+5,We must not become the only advanced economy in the world to let our steel industry die.,Assertive,6,Labor,,
+6,Being an advanced economy that can make things here at home means ensuring Australia’s strategic industries have a sustainable future.,Assertive,7,Labor,,
+7,"To secure the long-term future of our local metal industries, we need to make smart use of the opportunities in front of us and build on Australia’s natural strengths.",Assertive,8,Labor,,
+8,<LIST> A Shorten Labor Government will:,Assertive,9#10#11#12#13#14,Labor,,1.0
+9,<li> ensure Australian standards are upheld in Federal Government funded projects and support local producers meet certification standards </li>,Commissive-A,1#17#22,Labor,Specific,1.0
+10,<li> seek to maximise the use of locally-produced steel in Federal Government funded projects and put in place regular reporting of usage levels </li>,Commissive-A,1#17#22,Labor,Specific,1.0
+11,"<li> halve the thresholds for projects required to have an Australian Industry Participation Plans from $500 million down to $250 million for private projects, and from $20 million to $10 million for public projects. </li>",Commissive-A,1#17#21#22,Labor,Specific,
+12,<li> double funding for the Australian Industry Participation Authority and appoint an AIP Board </li>,Commissive-A,1#17#22,Labor,Specific,1.0
+13,<li> ensure Australia’s anti-dumping system has the right powers and penalties in place </li>,Commissive-A,1#17#21#22,Labor,Specific,1.0
+14,<li> create a national Steel Supplier Advocate </li> </LIST>,Commissive-A,1#17#22,Labor,Specific,1.0
+15,"Labor will start delivering our Plan for Australian Metals Manufacturing and Jobs within 100 days of forming office, with the creation of the Metals Manufacturing Innovation Council.",Commissive-A,9#10#11#12#13#14,Labor,Specific,
+16,"The Council will bring together representatives from industry, unions and state governments, and work closely with the Federal Labor Government to deliver our plan.",Commissive-A,15#21,Labor,Specific,
+17,Our plan acknowledges that Australia’s local steel industry is now under significant pressure. ,Assertive,18,Labor,,
+18,"Low international prices, high-cost raw materials, the dumping of products from overseas and weak domestic demand are all challenging its long-term viability.",Assertive,19,Labor,,
+19,Other metal industries are facing the same challenges. ,Assertive,21,Labor,,
+20,"For example, Australia’s aluminium industry is also being squeezed by low international prices and significant industry restructuring.",Assertive,19,Labor,,
+21,"These industries will also benefit from lower thresholds for Australian Industry Participation Plans, better anti-dumping rules and having a direct line to Government through the Metals Manufacturing Innovation Council.",Assertive-V,,Labor,,
+22,Labor has developed our plan by listening to industry and being willing to take action on the practical challenges holding our metal industries back.,Assertive-V,23,Labor,,
+23,"On the other hand, the Turnbull Government talks a lot about the future of these industries but has refused to act.",Assertive-V,26,Liberal,,
+24,"Earlier this week, Mr Turnbull said that on his visit to China he won’t even raise the issue of excess capacity",Assertive-S,23,Liberal,,1.0
+25,which the OECD has said is “one of the most significant challenges facing the global steel industry today.”,Assertive-V,24,Other,,
+26,"Unlike Mr Turnbull and the Liberals, we won’t just talk about keeping these industries strong for the future; ",Assertive,27,Labor,,1.0
+27,Labor will act to make sure they will be.,Commissive-A,1,Labor,Vague,

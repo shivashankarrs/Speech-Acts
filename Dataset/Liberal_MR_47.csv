@@ -1,0 +1,11 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"A re-elected Coalition Government will encourage greater use of the Clean Energy Finance Corporation (CEFC) by the agricultural sector, to enhance energy efficiency and farm profitability.",Commissive-A,,Liberal,Vague,
+2,"The announcement was made today by Barnaby Joyce, Deputy Prime Minister and Minister for Agriculture and Water Resources, as a part of the Coalition’s $240 million plan for a stronger agriculture sector.",Assertive,1,Liberal,,
+3,"“Energy costs have a direct impact on the profitability of agricultural businesses,” Minister Joyce said.",Assertive,4,Liberal,,
+4,“The introduction of Labor’s carbon tax in 2012 significantly reduced the competiveness and profitability of the agriculture sector. ,Assertive-V,5,Labor,,
+5,The Coalition believes that investment in energy efficiency is better policy than a devastating tax on production.,Assertive,6#7,Liberal,,
+6,"“The CEFC is already able to invest in energy efficient technologies and renewables, however at 30 June 2015, only 12 per cent of the CEFC’s investment was in the agriculture, forestry and fishing sector.",Assertive,8,Liberal,,
+7,“There are opportunities for agriculture to capture an increased share of the CEFC’s investment to improve the sector’s competiveness and profitability.,Assertive,8,Liberal,,
+8,“A re-elected Coalition Government will direct the Department of Agriculture and Water Resources to work with the CEFC to identify projects suitable for investment.”,Commissive-A,1#9#10,Liberal,Specific,
+9,"Minister Joyce said eligible businesses may include farms, abattoirs, sugar mills, irrigation infrastructure operators and timber and dairy processors. ",Assertive-V,,Liberal,,
+10,"He said examples of suitable energy efficient technologies may include micro hydro power generation, bio-digestion and on-farm renewables.",Assertive-V,,Liberal,,

@@ -1,0 +1,22 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,A re-elected Turnbull Coalition Government will deliver a $25 million NSW North Coast Jobs and Investment Package as part of our national economic plan for jobs and growth.,Commissive-A,7#8#9#18#21,Liberal,Specific,
+2,Regional Australia is critical to Australia’s prosperity.,Assertive,6,Other,,
+3,Our regions account for around 65 per cent of Australia’s export earnings by value and are a major source of domestic and international tourism.,Assertive,6,Other,,
+4,More than 40 per cent of tourism spending occurs in regional Australia.,Assertive,6,Other,,
+5,"While the opportunities for regional Australia have never been greater, ",Assertive,6,Liberal,,1.0
+6,we recognise that some of our regions are feeling pressure as our economy transitions from the mining construction boom.,Assertive-V,1,Liberal,,
+7,"The Coalition’s NSW North Coast Jobs and Investment Package will incentivise business to invest, deliver new export opportunities and help boost regional jobs.",Assertive-V,,Liberal,,
+8,Our $25 million commitment will be used to leverage a further $25 million or more in matched funding for the Northern Rivers and Mid-North Coast.,Assertive-V,,Liberal,,
+9,"Lismore, Ballina, Grafton and Woolgoolga, Coffs Harbour, Port Macquarie, Taree, Gloucester and Forster will benefit from the Coalition’s investment.",Assertive-V,,Liberal,,
+10,"Local communities will be enlisted to assess their region's economic opportunities and develop a tailored, forward looking local investment plan.",Commissive-A,1#11,Liberal,Vague,
+11,The Coalition understands locals know their regions best.,Assertive,,Liberal,,
+12,<LIST> We are committed to working with community leaders and local experts to create a genuine community-driven jobs and investment programme by:,Commissive-A,10#17,Liberal,Vague,1.0
+13,"<li> Providing business innovation grants on a competitive basis to help businesses invest in new technology, diversify operations, create new export opportunities and deliver new sustainable jobs </li>",Commissive-A,12,Liberal,Vague,1.0
+14,<li> Upgrading existing local infrastructure or investing in new infrastructure to boost productivity and generate more local investment </li>,Commissive-A,12,Liberal,Vague,1.0
+15,<li> Delivering targeted skills and training programs to address regional skill shortages and supporting workers impacted by structural change to retrain and upskill </li> </LIST>,Commissive-A,12,Liberal,Vague,
+16,"New, creative and innovative local businesses are beginning to show green shoots",Assertive,17,Other,,1.0
+17,and our commitment will strengthen these opportunities.,Assertive-V,,Liberal,,
+18,"This investment will boost the Mid-North Coast and Northern Rivers and leverage the area’s productive farmland, spectacular environments and many tourism opportunities.",Assertive-V,,Liberal,,
+19,Only the Turnbull Government has a plan to drive the Northern Rivers and Mid-North Coast regions forward.,Assertive,20#21,Liberal,,
+20,"Labor on the other hand has abandoned regional Australia and has no plan to create jobs in regional, rural and remote Australia.",Assertive-V,,Labor,,
+21,"The Turnbull Coalition Government’s NSW North Coast Jobs and Investment Package will boost local jobs, investment and growth.",Assertive-V,,Liberal,,

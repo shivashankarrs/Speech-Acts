@@ -1,0 +1,65 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,The Turnbull Government is continuing to provide record levels of financial assistance to State and Territory government schools and the non-government schools sector to support all Australian students.,Assertive-S,2,Liberal,,
+2,"The Turnbull Government’s investment in education, training and child care will increase to more than $41.8 billion in 2016-17.",Commissive-A,4#6#7#36#61,Liberal,Specific,
+3,"A well-educated nation will increase productivity, drive innovation and support our transition to a stronger and more diversified economy.",Assertive,2,Other,,
+4,"The 2016-17 Budget is focused on improving student outcomes in literacy, numeracy and STEM subjects; teacher quality reforms; delivering more support for students with disability; improving our attractiveness as an education destination for international students; and assuring the quality, reputation and affordability of our higher education system.",Commissive-O,,Liberal,,
+5,"Every Commonwealth dollar for education and child care will be invested according to evidence and core, robust and proven ways of improving outcomes for students.",Commissive-A,2,Liberal,Vague,
+6,"The Turnbull Government’s new measures will ensure this and future generations of children and students are learning the skills they need for the jobs of the future as the economy transitions from one built on the mining and construction industries, to one built on minds.",Commissive-O,,Liberal,,
+7,"We are committed to reforming the higher education sector to enshrine equitable access, achieve budget sustainability and ensure high quality and we are committed to reforming the early childhood education and care sector so Australians can receive more affordable, accessible and fairer support for their young families.",Commissive-O,,Liberal,,
+8,Investment in Education and Training,Assertive,9,Liberal,,1.0
+9,"<LIST> Our total investment in Education and Training for 2016-17 is more than $41.8 billion, representing an overall net increase of 6.1 per cent, including:",Commissive-A,2,Liberal,Specific,1.0
+10,<li> $8.6 billion for early education and care – a 9.6 per cent increase  </li> ,Commissive-A,2,Liberal,Specific,1.0
+11,<li> $17.6 billion for schools – an 8.0 per cent increase </li> ,Commissive-A,2,Liberal,Specific,1.0
+12,<li> $12.3 billion for higher education – a 0.9 per cent increase </li> ,Commissive-A,2,Liberal,Specific,1.0
+13,<li> $3.3 billion for skills – a 7.7 per cent increase </li> </LIST>,Commissive-A,2,Liberal,Specific,1.0
+14,Our plans,Assertive,15#16,Liberal,,1.0
+15,The Turnbull Government has committed to the most significant package of education quality reforms in a generation to drive excellence in Australia’s school students as part of its $73.6 billion student achievement plan.,Commissive-A,64,Liberal,Vague,
+16,"We will invest an additional $1.2 billion from 2018 to 2020, lifting recurrent school funding from $16.0 billion in 2016 to $20.1 billion in 2020 that will be tied to a needs-based distribution of funding and reforms in our schools to help every parent have confidence that their child is receiving the teaching they require.",Commissive-A,63,Liberal,Specific,
+17,"Our student achievement plan emphasises the importance of literacy and numeracy, quality teaching and teachers, engagement with science, technology, engineering and mathematics subjects and greater interest in foreign languages and the international community.",Assertive,15,Liberal,,
+18,The Turnbull Government knows that every tax dollar paid by hardworking Australians needs to be used as effectively as possible ,Assertive,19,Liberal,,1.0
+19,and our reforms will seek to ensure this occurs in our schools so that students receive the quality outcomes they need to secure jobs in our new economy.,Commissive-A,15,Liberal,Vague,
+20,Distribution of schools funding will be needs-based and we are committed to fairness and equity as core values across all parts of our education system.,Commissive-A,16,Liberal,Vague,
+21,"That’s why we have committed an additional $118.2 million over 2016 and 2017 to increase the support for students with disability, ahead of new funding distribution models commencing in 2018.",Commissive-A,20,Liberal,Specific,
+22,The funding will be targeted to those schools and students with the highest needs and for the first time ever is informed by the Nationally Consistent Collection of Data on School Students with Disability.,Commissive-A,21,Liberal,Specific,
+23,"Further, from 1 July 2016, the new $543 million Inclusion Support Programme will assist child care services to improve their capacity and capability to provide inclusive practices and address barriers to participation for children with additional needs, particularly children with disability.",Commissive-A,20,Liberal,Specific,
+24,A list of organisations which have accepted an offer to deliver the new ISP is now available on the department’s website.,Assertive,23,Liberal,,
+25,The department is negotiating and finalising contracts with these organisations so there is no gap in ISP delivery.,Assertive,23,Liberal,,
+26,"In addition, the Turnbull Government will deliver $10 million a year from July 2016 for two years to pilot integrating child care, maternal and child health and family support services in a number of Indigenous communities experiencing disadvantage, as recommended by Andrew Forrest in his review, Creating Parity.",Commissive-A,20,Liberal,Specific,
+27,"We will invest $41.8 billion over the next four years to make our child care system simpler, more flexible, more affordable, accessible and targeted to those who need it most.",Commissive-A,2#16,Liberal,Specific,
+28,That includes a $184.5 million commitment to the Nanny Pilot Programme to assist families who cannot easily access mainstream services.,Commissive-A,27,Liberal,Specific,
+29,"Following the successful trial of the preschool languages programme Early Learning Languages Australia,",Assertive,30,Liberal,,1.0
+30,from 2017 the initiative will be expanded into a nation-wide rollout.,Commissive-A,,Liberal,Specific,
+31,"Through an extra $5.9 million, the Turnbull Government will deliver the programme to all preschool services nationally.",Commissive-A,30,Liberal,Specific,
+32,That includes focused support for preschools and children from low socio-economic areas to purchase tablets so they can participate in the programme.,Commissive-A,16#31,Liberal,Specific,
+33,It is also essential that all Australian children are ready for life beyond school classrooms. ,Assertive,34,Liberal,,
+34,"We want our higher education institutions to deliver the innovative courses students want, and produce the skilled graduates Australia needs for the jobs of the 21st century and for the growth of our economy.",Assertive,35,Liberal,,
+35,"This means encouraging them to innovate, differentiate and collaborate.",Assertive,2,Liberal,,
+36,"The Turnbull Government will ensure high-quality education starts from a young age, that children have access to a quality learning experience and that there is strong support for parents who want or need to work, or who want to work more.",Commissive-O,,Liberal,,
+37,"Labor continues to stand in the way of the savings to pay for our childcare reforms, in favour of imposing higher fees on families and increasing costs for taxpayers.",Assertive-V,36,Labor,,
+38,We are strongly committed to our Jobs for Families package ,Commissive-A,2#39,Liberal,Specific,1.0
+39,but we have been forced to defer its start date for 12 months to July 2018 ,Assertive,,Liberal,,1.0
+40,due to Labor’s failure to support the necessary offsetting savings in time for its effective implementation.,Assertive-V,39,Labor,,
+41,"The costs to taxpayers of higher education, have, over recent years, grown dramatically.",Assertive,44,Other,,
+42,"Since 2009, with the demand driven system, taxpayer funding for Commonwealth supported places in higher education has increased by 69 per cent as compared to 29 per cent growth in nominal GDP over the same period of time.",Assertive,44,Other,,
+43,"Funding of university students has, essentially, grown at twice the rate of the economy.",Assertive,44,Other,,
+44,"While we will invest $49.4 billion in Australian higher education and research over the next four years, today we have released the next step in our moves to ensure higher education continues to support equitable access, excellence and innovation while also ensuring that the system is sustainable for this and future generations of students.",Assertive-S,45,Liberal,,
+45,"Our paper, ‘Driving innovation, fairness and excellence in Australian higher education’, will ensure there is a reasoned and evidence-driven discussion on higher education reform, without full university fee deregulation.",Commissive-A,16,Liberal,Vague,
+46,"To allow for finalisation of reform details and further input from the sector, experts and students, higher education reforms will not commence until 1 January 2018.",Commissive-A,45,Liberal,Specific,
+47,This Budget also confirms our support for Australia’s world-class researchers through the National Innovation and Science Agenda.,Commissive-A,2,Liberal,Vague,
+48,"That support includes $1.5 billion worth of annual indexed funding over ten years from 2017-18 for the National Collaborative Research Infrastructure Strategy and an additional $180.2 million of new Research Support and Research Training Programmes, in total worth more than $1.9 billion in 2017.",Commissive-A,47,Liberal,Specific,
+49,The Turnbull Government is investing an additional $8.1 million to improve the Quality Indicators for Learning and Teaching website to help students make better-informed decisions about what courses and further education they will study.,Commissive-A,15,Liberal,Specific,
+50,That is in addition to another $10.1 million for the Tertiary Education Quality and Standards Agency to boost their capacity to assure the quality of our higher education system.,Commissive-A,49,Liberal,Specific,
+51,"International education is worth more than $19 billion to our economy and supports more than 130,000 jobs.",Assertive-V,52,Other,,
+52,We want to ensure Australia maintains and grows its reputation as a destination of choice for international students and as a preferred provider of international education services throughout the world.,Assertive,53,Liberal,,
+53,We have committed $12.0 million over four years to implement our National Strategy for International Education that will strengthen Australia’s position as a world leader in this sector.,Commissive-A,15,Liberal,Specific,
+54,"International education is a sector that has boomed under the Coalition’s leadership, growing at an average 11.5 per cent ",Assertive-V,53,Liberal,,1.0
+55,"compared to 3.58 per cent during Labor’s time in government, even going backwards in 2009-10 by 4.7 per cent and 2010-11 by 5.2 per cent.",Assertive-V,54,Labor,,
+56,In 2016-17 the Turnbull Government will commit around $7 billion on vocational education and training through funding and student loans.,Commissive-A,15,Liberal,Specific,
+57,The Government has acted to improve protection for students and address unscrupulous behaviour and practices in the VET FEE-HELP scheme.,Assertive-S,56,Liberal,,
+58,The previous Labor government expanded the VET FEE-HELP scheme in 2012 ,Assertive-S,56#59,Labor,,1.0
+59,but failed to include sufficient safeguards against dishonest providers.,Assertive-V,,Labor,,
+60,The Coalition has introduced measures to both protect students and taxpayers and in April released a discussion paper to inform the redesign of the scheme for 2017.,Assertive-S,56,Liberal,,
+61,"As we offer better education and training support for all Australians, the Turnbull Government will protect the cultural heritage and knowledge of Indigenous Australians.",Assertive-V,62,Liberal,,
+62,"We have committed an additional $10.0 million in annual funding for the Australian Institute of Aboriginal and Torres Strait Islander Studies to help add to, preserve and promote its collection of more than one million historical and cultural items.",Commissive-A,63#64,Liberal,Specific,
+63,"We want to ensure Australia has a fair, equitable and high-performing education system – from the high chair to higher education.",Assertive,,Liberal,,
+64,The Turnbull Government will ensure Australia’s education system delivers quality services that focus on excellent outcomes for students and the wider community.,Commissive-A,,Liberal,Vague,

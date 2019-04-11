@@ -1,0 +1,18 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,Labor believes every Australian deserves access to affordable medicine.,Assertive,3,Labor,,
+2,For more than two years we have been fighting the Liberal Government’s unfair plan to drive up the cost of medicines and take this country down the path of the American health system.,Assertive-S,3,Liberal,,
+3,Today we confirm that a Shorten Labor Government will scrap the Liberals’ medicines price hike and ensure healthcare remains affordable for every Australian.,Commissive-A,,Labor,Vague,
+4,"In his horror 2014 Budget, Tony Abbott announced $1.3 billion in cuts to the Pharmaceutical Benefits Scheme (PBS), to be achieved by increasing co-payments and safety net thresholds.",Assertive-S,2#5,Liberal,,
+5,This would see co-payments increase by $5 for general patients and by $0.80 for concessional patients.,Assertive-V,,Liberal,,
+6,The Liberals also plan to increase the PBS safety net thresholds each year for four years.,Assertive-V,7,Liberal,,
+7,"This would see the general safety net thresholds increase by 10 per cent a year, and the concessional safety nets rise by the cost of two prescriptions a year.",Assertive-V,,Liberal,,
+8,Malcolm Turnbull confirmed his commitment to these cuts by building them into his first budget earlier this month.,Assertive-S,4#6#9,Liberal,,
+9,They would come on top of the existing annual indexation of co‑payments and safety net thresholds in line with the Consumer Price Index.,Assertive-V,10,Liberal,,
+10,Labor will not stand by and let Malcolm Turnbull and the Liberals dismantle universal healthcare.,Commissive-A,17,Labor,Vague,
+11,"We will scrap the Liberals’ cuts to the PBS, ensuring there will be no increase to the co-payments or safety net thresholds on top of regular indexation.",Commissive-A,10#12,Labor,Specific,
+12,"This means that under Labor, medicines will be more affordable than under Malcolm Turnbull.",Commissive-O,,Labor,,
+13,"Under a Shorten Labor Government, all Australians will continue to have access to affordable medicines.",Commissive-O,12,Labor,,
+14,"This will protect access for the most vulnerable – the poor, elderly and sick – ",Commissive-O,12#15,Labor,,1.0
+15,who would be worst hit by the Liberals’ plans to cut the PBS.,Assertive-V,,Liberal,,
+16,"Our plan to keep medicines affordable has been costed by the independent Parliamentary Budget Office at $971 million over the next four years, and $3.6 billion over the decade.",Commissive-A,3,Labor,Specific,
+17,"Together with our plan to end the Government’s GP Tax by stealth, today’s announcement confirms only Labor will protect universal healthcare – for today and for future generations.",Assertive,,Labor,,

@@ -1,0 +1,24 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,There is no project more important for the millions of people in western and southwestern Sydney than the $16.8 billion WestConnex motorway – ,Assertive,2,Liberal,,1.0
+2,but every day there is more evidence of Labor’s hostility to this project.,Assertive-S,,Labor,,
+3,"Just today, Labor released its so called ‘Positive Policies’ for New South Wales document – ",Assertive,4,Labor,,1.0
+4,but the infrastructure section fails to even mention WestConnex.,Assertive-V,11,Labor,,
+5,"Speaking on the ABC’s AM programme today, Labor’s infrastructure spokesman Anthony Albanese was asked if he supported WestConnex.",Assertive,6,Labor,,
+6,He failed to express his support – and could not even bring himself to use the project’s name.,Assertive-S,11,Labor,,
+7,Albanese last month told a town hall meeting in his electorate that “not one dollar” of federal government funding would flow to WestConnex if he became federal Transport Minister.,Assertive-S,11,Labor,,
+8,Deputy Labor Leader Tanya Plibersek is on the record with her view that “WestConnex cannot and should not proceed.”,Assertive-S,11,Labor,,
+9,Today the Daily Telegraph reports that Labor has refused to agree to federal environmental approval of WestConnex Stage 2 being granted.,Assertive-S,11,Labor,,
+10,This follows federal Environment Minister Greg Hunt seeking the agreement of his Labor counterpart under the caretaker convention – following advice from the Commonwealth Environment Department that the approval should be granted.,Assertive,9,Labor,,
+11,It seems that Labor is taking every opportunity to oppose WestConnex.,Assertive-V,2#12,Labor,,
+12,This is a remarkable backflip – ,Assertive-V,,Labor,,1.0
+13,when two years ago Albanese was claiming credit for having provided $1.8 billion of funding for WestConnex when Labor was last in power.,Assertive-S,12,Labor,,
+14,WestConnex will deliver real benefits to millions of people in western and southwestern Sydney – such as cutting travel time from Parramatta to Sydney Airport by 40 minutes.,Assertive-V,19,Liberal,,
+15,WestConnex will widen and extend both the M4 and M5 motorways ,Assertive,16,Liberal,,1.0
+16,"and take traffic off local residential streets, including large sections in underground tunnels, meaning less time stuck in traffic, quicker trips to and from work, and easier travel between western and south western Sydney and other parts of the Sydney metropolitan area.",Assertive-V,19,Liberal,,
+17,The business case shows the benefits of WestConnex exceed the costs by 70 per cent.,Assertive-V,19,Other,,
+18,Infrastructure Australia recommends the project proceed.,Assertive-V,19,Other,,
+19,That is why the Turnbull Government is supporting the project – with $1.5 billion in grant funding and a $2 billion concessional loan.,Assertive-S,20,Liberal,,
+20,"However, $300 million of grant funding isn’t due to be paid until after the election, while all but $38 million of the concessional loan will not yet have flowed, leaving $1.962 billion at risk.",Assertive,21,Liberal,,
+21,"Given Mr Albanese’s commitment that ‘not one dollar’ of Commonwealth money would flow to WestConnex, ",Assertive-S,2#22,Labor,,1.0
+22,this must raise grave concerns about what actions Mr Albanese might take in government.,Assertive,23,Labor,,
+23,Only a re-elected Turnbull Coalition Government can be trusted to deliver WestConnex.,Assertive-V,,Liberal,,

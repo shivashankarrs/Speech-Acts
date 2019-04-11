@@ -1,0 +1,35 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"Labor will invest in Australian made goods and services, boosting our competitive advantage, and backing our businesses and people.",Commissive-A,,Labor,Vague,
+2,"Goods and services made in Australia support local jobs, whether they are for domestic sale or for export. ",Assertive,3#7,Labor,,
+3,"Labor knows that with the right policies, and the right settings, our businesses can compete and win in the global market place.",Assertive,1,Labor,,
+4,"A Shorten Labor Government will make the necessary investments to see more goods and services made in Australia, to better train our people, and to boost the demand and capture the value of Australian made goods and services.",Commissive-A,1#5,Labor,Vague,
+5,"This isn’t just promoting Australia overseas, it is also backing Australians at home. ",Assertive-V,6,Labor,,
+6,"It is maximising Australian steel in infrastructure projects, training apprentices from the local area and boosting domestic tourism facilities.",Assertive-V,,Labor,,
+7,"Made in Australia means local jobs, real jobs.",Assertive,8,Labor,,
+8,"Labor wants to see more Australian advanced manufacturing, an expanded services sector, greater export capacity and maximising local content in Australian Government investments.",Assertive,9,Labor,,
+9,"When we build in Australia, our communities want confidence that the investments will result in local jobs in their area.",Assertive,10,Labor,,
+10,For too long this has been a fragmented process supported in a half-hearted way.,Assertive,11,Labor,,
+11,Labor will put the resources of government to work.,Commissive-A,,Labor,Vague,
+12,"We will drive a new, concentrated effort so that more is made in Australia.",Commissive-A,11,Labor,Vague,
+13,"Labor will invest in our brand, our people, and our businesses to promote made in Australia at home and abroad.",Commissive-A,12,Labor,Vague,
+14,"A Shorten Labor Government will provide $5 million over four years to expand the promotion of made in Australia brands overseas by increasing awareness, supporting the registration of trademarks, and boosting export promotion to drive demand for our goods and services, and support more local jobs.",Commissive-A,13,Labor,Specific,
+15,"Labor will support branding and campaigns that target the growing Asian middle class, with a particular focus on agricultural goods.",Commissive-A,13,Labor,Vague,
+16,"Labor will also support an export promotion push to boost the recognition and support for “Brand Australia”, including promotions opportunities at trade fairs, retail and online promotions, and advertising to support the sale of genuine Aussie products in key export markets.",Commissive-A,13,Labor,Vague,
+17,Made in Australia also has considerable international value that benefits Australian companies and businesses.,Assertive,18#22,Labor,,
+18,"When goods and services like agriculture and services are sold overseas under the banner of made in Australia, it is Australian businesses that benefit from the price premium.",Assertive,21,Labor,,
+19,"Made in Australia denotes quality and reliability, but it also means local jobs. ",Assertive,20#22,Labor,,
+20,Jobs in communities across Australia.,Assertive,21,Labor,,
+21,"Buying these products will see more money invested in the Australian economy, supporting local wages and investment.",Assertive-V,,Labor,,
+22,"For Labor, made in Australia is a statement of belief in our people, our businesses, and our ability to compete internationally.",Assertive,23,Labor,,
+23,<LIST>  This announcement builds on Labor’s existing commitments:,Assertive,24#25#26#27#28#29#30#31#33#34,Labor,,1.0
+24,<li> Local Jobs for Local people - connecting people in disadvantaged communities with jobs and training opportunities </li> ,Commissive-A,,Labor,Vague,1.0
+25,<li> Startup Years - delivering new startup loans through the existing HELP system will offer final year students and new graduates the option of taking an additional business-focused year so they can develop their innovative startup ideas </li> ,Commissive-A,,Labor,Specific,1.0
+26,"<li> Advancing Apprentices – a target of seeing one in 10 of the jobs on Labor’s national priority infrastructure projects filled by Australian apprentices, creating 2,600 new apprenticeships </li> ",Commissive-O,,Labor,,1.0
+27,"<li> Australian Industry Participation - invest in stronger Australian Industry Participation Plans, so local businesses get a fair chance to supply to investment projects, maximise local content and create local jobs </li> ",Commissive-A,,Labor,Vague,1.0
+28,"<li> New Jobs Tax Cut - small businesses will be able to claim a tax deduction of up to $20,000 per worker to offset the wages of up to five new employees </li> ",Commissive-A,,Labor,Specific,1.0
+29,<li> Steel procurement - new steel procurement rules that require projects receiving government funding to use steel that meets Australian standards and certification requirements.,Commissive-A,,Labor,Specific,
+30,"We’ll also support Australian producers to certify their products as meeting Australian standards, to maximise their ability to supply into government projects </li> ",Commissive-A,,Labor,Vague,1.0
+31,"<li> Manufacturing Transition Boost – to support jobs at risk from planned automotive closures, so they can plan a transition to new products and markets and receive investment support to make those plans reality. ",Commissive-A,32,Labor,Vague,
+32,This will not only save jobs in existing businesses but also grow new jobs as businesses grow. </li> ,Assertive-V,,Labor,,
+33,"<li> Northern Australia Tourism Fund – investing $1 billion in projects that deliver real tourism jobs in the North – from construction and new facilities, to expanding capacity, this investment will see immediate jobs generated in the regions. </li> ",Commissive-A,,Labor,Specific,
+34,"<li> Renewable energy – our 50 per cent renewable energy goal will drive millions of dollars of investments, in new wind and solar generation capacity. </li> </LIST>",Commissive-O,,Labor,,

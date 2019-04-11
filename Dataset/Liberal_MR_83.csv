@@ -1,0 +1,14 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,A re-elected Turnbull Coalition Government will drive jobs and growth in Mount Barker by investing $3.75 million towards the new Mount Barker Regional Sports Hub.,Commissive-A,2#3#5#13,Liberal,Specific,
+2,This new facility will ensure the Mount Barker Regional Sports Hub is a critical regional sporting facility contributing to the local economy and local job creation.,Commissive-O,,Liberal,,
+3,"As well as providing a two-level, 350 seat regional function centre, recreational areas and club rooms Stage 1 of this project will incorporate a full size AFL standard oval, eight five-a-side soccer pitches, soccer clubrooms and grandstand, six netball courts, improved lighting, car parking and vehicle access.",Commissive-O,4,Liberal,,
+4,"These new high class sporting facilities will meet the requirements for professional sporting events including AFL pre-season games, first class cricket matches and high level soccer games which will generate economic activity for the area.",Commissive-O,,Liberal,,
+5,"Member for Mayo, Jamie Briggs and the Turnbull Coalition Government is delivering for Mayo.",Assertive,,Liberal,,
+6,"“This is a fantastic project for our community and one that I am thrilled to be able to deliver for the families of Mount Barker,” said Jamie Briggs.",Expressive,5,Liberal,,
+7,"“The Hills community is in need of more sporting and function facilities, ",Assertive,8,Liberal,,1.0
+8,"and this project will serve Mayo locals well into the future,” Mr Briggs said.",Assertive-V,6,Liberal,,
+9,Mr Briggs has been working with Mount Barker District Council and South Australia's peak sporting bodies to deliver the Mount Barker Regional Sports Hub.,Assertive-S,5#10,Liberal,,
+10,"Mayor of the Mount Barker District Council, Ann Ferguson, has thanked Mr Briggs for his long-term support of this project.",Expressive,,Liberal,,
+11,“Jamie Briggs has been a strong advocate for this project at a federal government level. ,Assertive-S,9,Liberal,,
+12,"This important project would not be possible without the support of Jamie and the Turnbull Coalition Government,” Mayor Ferguson said.",Assertive,11,Liberal,,
+13,"By investing in much needed community infrastructure like the Mount Barker Regional Sports Hub, a re-elected Turnbull Coalition Government will deliver jobs, growth and stronger communities.",Commissive-O,,Liberal,,

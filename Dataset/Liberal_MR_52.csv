@@ -1,0 +1,19 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,The chorus of concern over Bill Shorten’s retrograde anti-business agenda is growing louder by the day.,Assertive,,Labor,,
+2,"Bill Shorten wants to increase taxes on Australian families and businesses by more than $100 billion, ",Assertive-S,1#3#17#18,Labor,,1.0
+3,harming jobs and growth.,Assertive-V,4,Labor,,
+4,This economic damage will manifest in a number of ways.,Assertive-V,,Labor,,
+5,"For example, Mr Shorten’s proposed changes to Capital Gains Tax would stifle the very initiative and entrepreneurism that Australia requires to grow businesses and create jobs.",Assertive-V,4,Labor,,
+6,The 2.2 million unincorporated small businesses in Australia would be particularly vulnerable to Labor’s proposal to halve the CGT discount from 50% to 25%.,Assertive-V,4,Labor,,
+7,The following cameo demonstrates just how hard hit small businesses would be under Labor’s anti-business agenda.,Assertive-V,6,Labor,,
+8,<LIST> Sole Trader with a Turnover below $2m,Assertive,11#12,Other,,1.0
+9,"<li> Sally is a sole trader with an income of $70,000 decides to sell her home-based business with a turnover of less than $2m. </li> ",Assertive,11#12,Other,,
+10,"<li> Her business is sold for $500,000. </li> ",Assertive,11#12,Other,,
+11,"<li> Under current arrangements, Sally will pay $65,497 in tax. </li> ",Assertive-V,7#15,Liberal,,
+12,"<li> Under Labor’s proposal to increase capital gains tax, Sally will pay $96,122 in tax – an increase of 47% </li>  </LIST>",Assertive-V,7#15,Labor,,
+13,"NB: Because the business is less than $2m in turnover, the owner will also be eligible for the small business CGT concessions, which allows them to access the 50% active asset reduction.",Assertive-V,11#12,Other,,
+14,This has been factored into the above.,Assertive-V,11#12,Other,,
+15,"Under Labor this small business would be hit with an extra $30,625 in tax – a 47% increase.",Assertive-V,16,Labor,,
+16,"That is $30,625 that should be in the business owner’s bank account, not in the government’s coffers.",Assertive-V,,Labor,,
+17,Labor’s anti-business agenda is a direct attack on small businesses and the entrepreneurial culture that supports it.,Assertive-V,,Labor,,
+18,Labor is waging a war against the businesses of Australia – and the casualties of that war are jobs.,Assertive-V,,Labor,,

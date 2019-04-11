@@ -1,0 +1,12 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,There is one day left to vote and save Medicare.,Assertive,10,Labor,,
+2,Doctors and experts could not be clearer – Mr Turnbull’s cuts are destroying universal healthcare in this country.,Assertive-V,4#9,Liberal,,
+3,Mr Turnbull’s health cuts are dangerous.,Assertive-V,4#9,Liberal,,
+4,His refusal to acknowledge the damage they will do is insulting.,Assertive-V,,Liberal,,
+5,The Australian Medical Association has estimated that many practices will need to charge patients $25 more because of Mr Turnbull’s Medicare policies.,Assertive-V,2,Liberal,,
+6,"According to the Royal Australian College of GPs, 14.5 million Australians will have to pay more to see the doctor.",Assertive,2,Other,,
+7,Australians are already seeing fees increase when they visit the GP.,Assertive,8,Liberal,,
+8,They are already seeing practices walk away from bulk billing.,Assertive,10,Liberal,,
+9,Mr Turnbull is destroying Medicare brick by brick.,Assertive-V,10,Liberal,,
+10,"This election, the only way Australia can have a strong Medicare system is to elect a Shorten Labor Government.",Assertive,11,Labor,,
+11,Only Labor will protect Medicare.,Assertive,,Labor,,

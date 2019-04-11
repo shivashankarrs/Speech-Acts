@@ -1,0 +1,26 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"The Coalition Government’s Youth Jobs PaTH (Prepare-Trial-Hire) program has received the backing of another major Australian industry group who today pledged to use the scheme to give at least 5,000 young Australians the opportunity to get into jobs and apprenticeships.",Assertive-V,,Liberal,,
+2,The Australian Hotels Association (AHA) represent thousands of members across Australia,Assertive,3,Liberal,,1.0
+3,"and have signalled their intention to assist young Australians under the PaTH program, aimed at maximising the chances of job seekers under 25 getting a job.",Assertive-V,1,Liberal,,
+4,"Announced in the 2016 Budget, the Youth Jobs PaTH will help young people gain a foothold in the labour market through intensive pre-employment skills training, up to 120,000 internships for young people to gain real work experience and an increased wage subsidy for employers who take on young job seekers.",Commissive-A,1#5#7#9#16#17,Liberal,Vague,
+5,The Youth Jobs PaTH is critical to the Coalition Government’s strong national economic plan for jobs and growth.,Assertive-V,,Liberal,,
+6,"Australian businesses, especially small businesses, want to give young people a go, but we need to do more to get young people ready for a job, so businesses don’t carry all the risk and cost.",Assertive,7,Liberal,,
+7,"The PaTH program will appeal to many businesses across Australia, such as members of the Australian Hotels Association wanting to give young people a go and potentially help them identify a new employee, trainee or apprentice.",Assertive-V,,Liberal,,
+8,"The hospitality industry has well-known workforce shortages in parts of Australia, yet conversely there are many young Australians looking for work – ",Assertive,9,Other,,1.0
+9,"this innovative programme will help get young Australians job-ready, give them a go and working with the AHA, get them a job.",Assertive-V,,Liberal,,
+10,Australian Hotels Association (WA) CEO Bradley Woods said “the Australian hotel and hospitality sector is well positioned to recruit over 5000 people through the PaTH program ,Assertive-V,1,Liberal,,1.0
+11,"as we have a current labour shortage of approximately 25,000 workers.",Assertive,10,Other,,
+12,"It has been estimated that the whole tourism industry requires 123,000 new workers by 2020 to meet rising demand.",Assertive,15,Other,,
+13,"“Not having qualifications is not a barrier to employment in the hotel and hospitality sector and those willing to start at introductory levels will find that gaining experience through employer supported placements in the PaTH program, will provide long term opportunities.",Assertive-V,15,Liberal,,
+14,"“The types of jobs our industry can provide include, bar attendants, guest services, waiters, baristas and kitchenhands which all have the potential to lead to long term careers.",Assertive,15,Other,,
+15,"The 5000 jobs would be created in accommodation hotels, resorts, pubs, bars and restaurants” said Mr Woods.",Assertive-V,10,Liberal,,
+16,"The program has been backed by not for profit groups such as the Brotherhood of St Laurence, the Council of Small Business Australia and mental health advocate and former Australian of the Year Professor Patrick McGorry AO.",Assertive-V,,Liberal,,
+17,Only the Coalition is committed to addressing entrenched youth unemployment and breaking the cycle of welfare dependency.,Assertive,,Liberal,,
+18,"In contrast, Labor is in lock-step with the unions in opposing the Youth Jobs PaTH.",Assertive-S,17,Labor,,
+19,<LIST> The Youth Jobs PaTH will involve three flexible stages ;,Assertive,4,Liberal,,1.0
+20,<li> Employability skills training will begin on 1 April 2017 to help prepare young job seekers for the workplace. ,Commissive-A,4#21,Liberal,Specific,
+21,"The training will help young people better understand what employers expect of them and give them the skills, attitudes and behaviours required to be successful in a job. </li> ",Commissive-O,,Liberal,,
+22,"<li> From 1 April 2017, up to 30,000 young job seekers each year will be eligible to undertake an internship placement of 4 to 12 weeks.",Commissive-A,4,Liberal,Specific,
+23,"The internships will be voluntary and provide incentives of $1,000 upfront to a business to host an intern and a $200 fortnightly payment to job seekers on top of their income support. </li> ",Commissive-A,22,Liberal,Specific,
+24,"<li> From 1 January 2017 a Youth Bonus wage subsidy of between $6,500 and $10,000 will be available to businesses who take on an eligible young person as an employee or apprentice. </li> ",Commissive-A,4,Liberal,Specific,
+25,"A re-elected Turnbull Government will, from day one, continue implementing our national economic plan for jobs and growth, of which the Youth Jobs PaTH program is such an integral part. </LIST>",Commissive-A,4,Liberal,Specific,

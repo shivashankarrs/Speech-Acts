@@ -1,0 +1,22 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"On National TAFE Day 2016, the Turnbull Coalition Government is standing with thousands of TAFE students against Bill Shorten’s knee-jerk plan to charge students thousands of dollars in upfront course fees.",Commissive-A,21,Liberal,Specific,
+2,"Minister for Vocational Education and Skills Senator the Hon Scott Ryan said choice and opportunity in Australia’s vocational education and training (VET) system were under attack from Bill Shorten and Labor, whose promises to cap fees will result in upfront fees for some TAFE courses.",Assertive-V,,Labor,,
+3,"“Labor frontbenchers have admitted their plan will leave TAFE students paying thousands of dollars in upfront fees if their course costs more than $8000 per year,” Minister Ryan said. ",Assertive-V,,Labor,,
+4,"“Under Labor, students will have to choose between the course that best leads them to a job and the course they can afford.",Assertive-V,,Labor,,
+5,"Currently, eligible Australian students studying diploma-level courses or above can access a VET FEE-HELP student loan from approved institutions. ",Assertive,6,Other,,
+6,"If elected, Labor has promised to cap these loans at $8000 per student per year. ",Assertive-S,1#2#3#4#8#9#10#11#20,Labor,,
+7,Many TAFEs currently offer courses across a range of disciplines with fees well above the $8000 limit.,Assertive,6,Other,,
+8,"Under Labor’s proposal, students studying a Diploma of Maritime Operations at Hunter Institute, NSW, who are not currently required to pay upfront fees, will pay up to $13,025 upfront. ",Assertive-V,,Labor,,
+9,"Students studying a Diploma of Website Development at TAFE Queensland – Brisbane will pay up to $6,900 upfront and students studying a Diploma of Building and Construction at Victoria’s Chisholm Institute will be forced to pay up to $8453 under a Shorten government. ",Assertive-V,,Labor,,
+10,"There are hundreds more examples across Australia, affecting thousands of future students.",Assertive-V,,Labor,,
+11,Labor’s plan has been announced with no industry consultation and no modelling to gauge the effects of this policy on students. ,Assertive,12,Labor,,
+12,It has drawn criticism from both TAFE directors and representatives of private training providers.,Assertive-V,,Labor,,
+13,“TAFE students have every right to fear Bill Shorten and Labor. ,Assertive,,Labor,,
+14,"Their plan to charge massive upfront fees has been introduced with no industry consultation and without regard for the impact on students,” Minister Ryan said.",Assertive,11#13#20,Labor,,
+15,Minister Ryan said Labor’s record in vocational education and training is disastrous.,Assertive-V,18,Labor,,
+16,In 2012 Labor opened up VET FEE-HELP scheme ,Assertive-S,15#17,Labor,,1.0
+17,to shonky providers and predatory brokers with no thought for the implications this would have on students and taxpayers.,Assertive-V,,Labor,,
+18,"“Labor is repeating the same mistakes it made in 2012, which led to the current VET FEE-HELP disaster, ",Assertive-V,19,Labor,,1.0
+19,and this time they are asking TAFE students to pay for Labor’s election promises” Minister Ryan said.,Assertive,6,Labor,,
+20,Labor’s ill-thought-through plan for massive upfront fees,Assertive-V,21,Labor,,1.0
+21,"stands in stark contrast to the deliberative and consultative approach of the Turnbull Coalition Government, which has introduced more than a dozen measures to crack down on dodgy providers, and put students’ and taxpayers' interests at the heart of VET FEE-HELP reform.",Assertive-V,,Liberal,,

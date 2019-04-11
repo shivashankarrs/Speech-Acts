@@ -1,0 +1,22 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"A re-elected Turnbull Coalition Government will invest in the future of Townsville and the region, delivering jobs and growth.",Commissive-A,21,Liberal,Vague,
+2,"With its relative proximity to Asia and important natural endowments, Townsville is central to the development of North Queensland.",Assertive,1,Liberal,,
+3,"The Coalition will invest $100 million to achieve the city’s vision for a modern stadium, entertainment venue and headquarters for the 2015 NRL premiers, the North Queensland Cowboys.",Commissive-A,1#11#14,Liberal,Specific,
+4,"As part of our long-term plan for the renewal of Townsville, the Turnbull Government will make this the first city in Australia to be recognised in a ‘City Deal’ under our Smart Cities Plan.",Commissive-A,1#6,Liberal,Specific,
+5,"City Deals are intended to make our cities more liveable through more integrated planning, better collaboration between governments and, ultimately, improved delivery of the infrastructure that families and businesses need.",Assertive,4,Liberal,,
+6,"The Turnbull Government is committed to working with all levels of Government, business and the community to deliver city deals in key growth centres across Australia, including other regions of Queensland.",Commissive-A,,Liberal,Vague,
+7,A re-elected Turnbull Coalition Government will work with the Queensland Government and Townsville City Council to sign a City Deal agreement within six months of the election.,Commissive-A,6#8,Liberal,Specific,
+8,"Through this partnership agreement we will help grow the population of Townsville over the next decade and create new jobs, more growth and a more liveable city.",Commissive-O,,Liberal,,
+9,The Townsville City Deal will leverage our investment in the stadium and entertainment centre to revitalise the central business area and accelerate commercial and residential development in the waterfront precinct.,Commissive-A,3#7#10,Liberal,Specific,
+10,Plans include new public spaces and amenities including pedestrian bridges and riverside bike and walking pathways linking to the CBD.,Commissive-O,,Liberal,,
+11,This investment will position Townsville as a vibrant city and destination and will boost national and international tourist numbers to the region.,Assertive-V,,Liberal,,
+12,"We will seek to maximise participation of local contractors and businesses, building local industry expertise and capacity.",Commissive-A,9,Liberal,Vague,
+13,We are committed to the people of Townsville at a time when the community is transitioning from the old resources construction economy to the new economy.,Commissive-A,1,Liberal,Vague,
+14,<LIST> Today’s announcement builds on the Coalition’s significant investment in infrastructure and jobs for Townsville including:,Assertive-V,,Liberal,,1.0
+15,"<li> $150 million toward the Townsville Eastern Access Rail Corridor, </li> ",Assertive-S,14#20#21,Liberal,,1.0
+16,"<li> More than $900 million in infrastructure projects in the region, including the Townsville Ring Road, </li> ",Assertive-S,14#20#21,Liberal,,1.0
+17,"<li> Planning work for Hells Gate Dam, </li> ",Assertive-S,14#20#21,Liberal,,1.0
+18,"<li> Expansion of one of the largest defence base in Australia, Lavarack Barracks, and </li> ",Assertive-S,14#20#21,Liberal,,1.0
+19,<li> Expanded defence facilities to support the regional deployment of Singapore’s defence forces during training exercises </li>  </LIST>,Assertive-S,14#20#21,Liberal,,
+20,These Turnbull Government commitments will help the Townsville region realise its immense potential.,Assertive-V,,Liberal,,
+21,"The Turnbull Government’s long-term development plan demonstrates our commitment to ensure Townsville is a rejuvenated city where families can be confident of a successful future for themselves, their children, and their community.",Assertive-V,,Liberal,,

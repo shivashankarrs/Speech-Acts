@@ -1,0 +1,19 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,A Shorten Labor Government will act to address the issue of child care waiting lists and help parents return to work faster.,Commissive-O,,Labor,,
+2,The struggle to secure a child care place has been completely ignored by the Liberals.,Assertive-V,,Liberal,,
+3,Many parents face long and frustrating waiting lists to access early education and care services – with the current arrangements limiting work options for parents.,Assertive,4,Other,,
+4,This isn’t only a battle before children reach school.,Assertive,2,Other,,
+5,"Parents wanting Outside School Hours Care can face long waiting lists, and may even find that services simply don’t exist in their area.",Assertive,6,Other,,
+6,Long waiting lists also drive up early education and care costs – locking low and middle income families out of high demand areas.,Assertive,2,Other,,
+7,"<LIST>To help tackle waiting lists, Labor will:",Commissive-A,1#8#9#10,Labor,Vague,1.0
+8,<li> Invest $100 million over three years from 2017-18 so services in areas of very high demand can expand – creating more places where families need them. ,Commissive-A,13,Labor,Specific,
+9,"We will target areas of high or rapidly growing demand, with waiting lists in the local area, and priority will be given to community and not-for-profit services which would otherwise not be able to expand. </li> ",Commissive-A,13,Labor,Vague,
+10,"<li> Commit $63.2 million over three years from 2017-18 to establish or expand up to 1,200 Outside School Hours Care services.",Commissive-A,13,Labor,Specific,
+11,"Grants of up to $50,000 will be made available. ",Commissive-A,10,Labor,Specific,
+12,"Services must be in areas of high demand, have waiting lists or be in areas where Outside School Hours Care is currently not available. </li> </LIST>",Assertive,10,Other,,
+13,"Labor is not spending more money than the Government on child care – we are better allocating it over the forward estimates so parents have fairer child care relief, sooner.",Assertive-V,16,Labor,,
+14,Families who rely on child care need a better deal now -,Assertive,15,Other,,1.0
+15,and that's what Labor will deliver.,Commissive-O,13#17,Labor,,
+16,"The Liberals have done nothing for 1,000 days in Government other than make child care more unaffordable for families - and they have no plans to do anything until 2018 at the earliest.",Assertive-V,,Liberal,,
+17,Labor’s plan for better child care is essential to a growing economy.,Assertive-V,18,Labor,,
+18,"It’s central to Labor’s plan for fairer growth, real jobs and greater opportunities.",Assertive-V,,Labor,,

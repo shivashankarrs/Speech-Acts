@@ -1,0 +1,17 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,Students can make more informed choices about what and where to study following the publication today of the 2015 Student Experience Survey results from higher education institutions.,Assertive-V,7,Liberal,,
+2,Minister for Education and Training Senator Simon Birmingham said this is the first time students can compare student satisfaction rates across university and non-university higher education institutions.,Assertive-V,7,Liberal,,
+3,"“Results show an overwhelming number of students had positive experiences across the higher education sector, highlighting that Australia delivers a world-class higher education system,” Minister Birmingham said.",Assertive-V,7,Liberal,,
+4,“Students can now compare satisfaction rates across a broader range of Australian higher education institutions as part of a clearer picture of our higher education system.,Assertive-V,2,Liberal,,
+5,"“With thousands of students currently taking part in university and career expos,",Assertive,6,Other,,1.0
+6,these survey results arm students with the information they need when considering their future.,Assertive-V,7,Liberal,,
+7,“The Turnbull Government is committed to delivering greater transparency around how higher education institutions perform and engage and support their students.,Assertive,8#11,Liberal,,
+8,“That’s why I’ve asked the Higher Education Standards Panel to consult on the best ways we can ensure students are ‘uni-ready’ and can make informed choices about their studies.,Directive,,Liberal,,
+9,"“On top of the work the Turnbull Government and the Higher Education Standards Panel are doing to improve student experiences, ",Assertive-S,8#10,Liberal,,1.0
+10,the variety of results between institutions suggests there are lessons universities could learn from one another.”,Assertive-V,,Liberal,,
+11,Minister Birmingham said the Government’s commitment to transparency and quality in education was demonstrated in last week’s Budget announcement that an additional $8.1 million has been committed to the Quality Indicators for Learning and Teaching (QILT) website.,Commissive-A,,Liberal,Specific,
+12,"“QILT is already being enhanced with additional information, ",Assertive,13,Liberal,,1.0
+13,"and we are investing further in the initiative to make sure that students have user-friendly, easy to access information to help them make the right choices,” he said.",Commissive-A,11#14,Liberal,Vague,
+14,“The strengthening of QILT will provide greater transparency for students to ensure they enrol in a course that they have a high chance of seeing through but also demand more accountability of universities for the students they take on.,Assertive-V,,Liberal,,
+15,“Universities must take responsibility for those students they choose to enrol and ensure they have the capabilities and support to succeed.,Assertive,14,Liberal,,
+16,"“Investment in the QILT website will include additional comparable information, course information, employment outcomes and support for students.”",Commissive-A,13,Liberal,Specific,

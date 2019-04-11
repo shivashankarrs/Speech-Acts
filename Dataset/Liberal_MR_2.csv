@@ -1,0 +1,14 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,We have now passed the mid-point of this election campaign.,Assertive,2,Other,,
+2,We’ve heard a lot of lies and spin from Labor.,Assertive,3,Labor,,
+3,<LIST> Our report sets out some key facts :,Assertive,,Liberal,,1.0
+4,"<li> Our economy is strong – with strong momentum in exports, jobs and growth; </li> ",Assertive,3#11,Liberal,,1.0
+5,<li> Labor has a huge budget black hole. </li> ,Assertive-V,2,Labor,,
+6,<li> Their solution: “put it on the spend-o-meter”; </li> ,Assertive-V,5,Labor,,1.0
+7,<li> Labor has declared war on business and jobs will be the first casualty; </li> ,Assertive-V,2,Labor,,1.0
+8,"<li> Australia can’t afford Labor’s new taxes on investment, housing and electricity; </li> ",Assertive-V,2,Labor,,1.0
+9,<li> Labor is hopelessly divided on border protection ,Assertive-S,2#10,Labor,,1.0
+10,and people smugglers are ready to exploit their weakness. </li>   </LIST>,Assertive-V,,Labor,,
+11,Australia’s momentum has been hard won.,Assertive,12,Liberal,,
+12,"To continue Australia’s economic transition and secure our prosperity, there is much more work to do.",Assertive,13,Liberal,,
+13,"Only the Turnbull Team has a clear and costed plan for a strong and growing economy, with more jobs.",Assertive,,Liberal,,

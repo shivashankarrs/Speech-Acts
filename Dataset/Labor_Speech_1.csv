@@ -1,0 +1,75 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"Friends, thank you for turning up today.",Expressive,2,Other,,
+2,"You've got a great candidate in Cathy OToole,",Assertive,3,Labor,,1.0
+3,can you give her another round of applause.,Directive,,Other,,
+4,Our critics and the vested interests and those who never want to see a strong Labor party - ,Assertive,5#7#9#12#14#16,Other,,1.0
+5,they said on the Sunday morning after the last election  they said Tony Abbott would be in for three terms.,Assertive-V,8#17,Liberal,,
+6,Have a look at the newspaper editorials ,Directive,7,Other,,1.0
+7,they said the sun had set on Labor.,Assertive-V,8#17,Labor,,
+8,They were wrong about that.,Assertive-V,,Labor,,
+9,They said the 2014 Budget -  if you read the newspaper editorials of that - it was awesome.,Assertive-V,10#17,Liberal,,
+10,It was an economic masterstroke.,Assertive-V,11,Liberal,,
+11,That didnt last too long.,Assertive-V,,Liberal,,
+12,They said that the Labor Party at our National Conference would become divided.,Assertive-V,13#17,Labor,,
+13,And yet we became more united.,Assertive-V,24,Labor,,
+14,They said that the trade union royal commission would smash the trade union movement.,Assertive-V,15#17,Labor,,
+15,It didnt.,Assertive-V,,Labor,,
+16,"But they said then when Malcolm Turnbull took over from Tony Abbott, it was the end of two-party democracy in Australia and that we were in for a period of glorious rule.",Assertive-V,17,Liberal,,
+17,The reason why I go through each of those points is that there are always people out there who underestimate and write-off the Labor Party and write-off the legitimate aspirations and dreams of millions of Australians who rely upon a strong and united Labor.,Assertive-V,18,Labor,,
+18,"And now as we approach the last week, all of our critics and knockers are out ",Assertive,19#20,Other,,1.0
+19,"and say oh well, we know Labors doing well, we know Labors lead the policy debate, we do know that Labor has rejected being a small-target opposition, and instead offered a strong platform of alternative policies for this country.",Assertive-V,,Labor,,
+20,"And now they say now though in this last week, well the outcome in Britain means that somehow its a case for Turnbull.",Assertive-V,21,Liberal,,
+21,It is exactly the case against Turnbull.,Assertive-V,,Liberal,,
+22,You cannot have economic certainty without stable government.,Assertive,23,Other,,
+23,And you cannot have stable government without a united political party.,Assertive,24#25,Other,,
+24,"We are united, ",Assertive-V,26,Labor,,1.0
+25,they are not.,Assertive-V,27#28,Liberal,,
+26,"We will provide stable government,",Commissive-A,,Labor,Vague,1.0
+27,he cannot.,Assertive-V,,Liberal,,
+28,"One thing is for sure on July the 3rd, that win or lose, the Liberal Party, who have temporarily suspended hostilities between their different groups, they want to get this election out of the way so that they can get on with what they really want to do - the Abbott forces squaring off against the Turnbull forces.",Assertive-V,29,Liberal,,
+29,"And you can see the impatience of that civil war, even unravelling before the election is over.",Assertive,33,Liberal,,
+30,"You've got Tony Abbott, challenging Turnbull's interpretation of European settlement of Australia.",Assertive,29,Liberal,,
+31,You've got Cory Bernardi calling his boss a liar.,Assertive,29#32,Liberal,,
+32,"Ah well, you know - he's not always wrong, so I don't know.",Assertive,,Liberal,,
+33,What you've also got is what I think is a sign this week of what happens when you've got a divided government.,Assertive-V,34,Liberal,,
+34,You've got Turnbull saying now that whilst there'll be a plebiscite on marriage equality his cabinet won't be bound by it.,Assertive-S,35#36,Liberal,,
+35,We do not need three more years of a weak Prime Minister leading a divided government.,Assertive,37,Liberal,,
+36,We don't even need a public opinion poll which has no effect in terms of the voting patterns of the Liberals.,Assertive,37,Liberal,,
+37,"What we need now is an economic plan which drives stability, driven by a united team.",Assertive,38#41,Labor,,
+38,And that's we offer ourselves to the Australian people.,Assertive,39,Labor,,
+39,"We are united,",Assertive-V,40,Labor,,1.0
+40, they are not.,Assertive-V,,Liberal,,
+41,"And we have a plan for economic growth which I think speaks to the disaffection which we see in some Western societies right now, where the mass of ordinary voters feels that politics doesn't speak to them.",Assertive-V,43#45,Labor,,
+42,Where they're exhausted by the cynicism of political elites.,Assertive,41,Other,,
+43,What we offer the Australian people is not tax cuts of $50 billion for the largest multinationals and companies in Australia.,Assertive-V,44#47,Labor,,
+44,"We reject that economic path, because that is a flawed plan.",Assertive,,Labor,,
+45,"We do not offer Australians a tax cut for people on a million dollars a year so they can get $17,000 less - pay less tax next year than they did last year.",Assertive-V,46#47,Labor,,
+46,We believe in multinationals paying their fair share.,Assertive,,Labor,,
+47,And why do we do all of these things?,Interrogative,48#49#50#52#53#55#56#57,Labor,,
+48,It's because we believe that the best way that you grow a society is by ensuring that the working class and the middle class are looked after.,Assertive,,Labor,,
+49,"I want this to be a country, where when your kids are sick you can afford to go and see a doctor.",Assertive,,Labor,,
+50,"I want this to be a country where no matter the economic circumstances or the post code you live in, whether or not dad has lost his job because of a decline in the mining boom, I want it to be the case that every child, in every post code, in every school, gets every opportunity.",Assertive,51,Labor,,
+51,It is the best fix.,Assertive-V,,Labor,,
+52,"I want the regions, as well as the cities, to have access to a first class National Broadband Network.",Assertive,,Labor,,
+53,I want this to be a country that doesn't put off the problems of climate change to future generations ,Assertive,54,Labor,,1.0
+54,because Mr Turnbull's too scared of the climate sceptics in his own party.,Assertive-V,,Liberal,,
+55,"I want to make sure that Townsville gets its fair share of national infrastructure work, that we have local content.",Assertive,,Labor,,
+56,"I don't want to see Australian workers missing out on jobs because of rorts in the visa system which see guest workers from overseas being exploited by some unscrupulous employers, and at the same time our own welders and boilermakers, our own painters and scaffolders miss out on jobs.",Assertive,,Labor,,
+57,I want to see 'Made in Australia' mean something in the next three years.,Assertive,,Labor,,
+58,I promise you this - that we will work every minute of every hour in the countdown to the election.,Commissive-A,,Labor,Vague,
+59,This is an exciting time for this country.,Assertive,60,Labor,,
+60,I know it's been an eight-week election - that was the other chap's idea - ,Assertive,61,Labor,,1.0
+61,but what I can promise you is this.,Commissive-A,58,Labor,Vague,
+62,"Just as we look at great achievements in the past of our party, and we sometimes wonder at how they managed to do it, be it Chifley and Curtain, be it Hawke and Keating - you know, the great arguments and the great fights.",Assertive,64,Labor,,
+63,Be it Wayne Goss overturning the LNP regime up here.,Assertive,64,Liberal,,
+64,"Well this is our chance to be part of this nation's future, this is our chance to be more than just a face in the crowd, ",Assertive,65,Labor,,1.0
+65,"and I am determined,",Commissive-A,58,Labor,Vague,1.0
+66,despite what Mr Turnbull says about Medicare - ,Assertive,67,Liberal,,1.0
+67,"we called him out on his privatisation taskforce, we caught him with his hand in the policy cookie jar of privatisation, as I saw a bloke on TV say the other night, you don't set up a taskforce for privatisation with out an outcome in mind.",Assertive-S,65#68#70,Labor,,
+68,"But what we've done is we've scored a bit of a win there, but we know that this election ultimately is a referendum on Medicare.",Assertive,,Labor,,
+69,Every Australian can have a chance to make their vote count.,Assertive,70,Other,,
+70,"On July the 3rd, if Labor is elected, we will unfreeze the rebates to GP's, we will reinstate bulk-billing incentives for blood tests and X-rays, we will keep the price down on medicine and we will properly fund our hospitals.",Commissive-A,72,Labor,Specific,
+71,"A nation which looks after the healthcare of each other, that is a great and growing nation, it's a productive nation.",Assertive,72,Other,,
+72,Labor gives that productive economic plan for our future.,Assertive-V,,Labor,,
+73,"Thank you very much, ",Expressive,74,Other,,1.0
+74,seven more days.,Assertive,,Other,,

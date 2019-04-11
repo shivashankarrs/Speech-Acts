@@ -1,0 +1,388 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"Women and Men of Australia,",Assertive,2,Other,,1.0
+2,"We gather as one united party: ready to serve, ready to lead, ready for government.",Assertive,3,Other,,
+3,"Labor is ambitious for the great success that our country can achieve, determined to share that success with all who help to achieve it.",Assertive,4,Labor,,
+4,Confident that a great future is within Australia’s reach – and certain that Labor has the plans to grasp it.,Assertive,5,Labor,,
+5,Knowing that this election can be won – and working every day to win it.,Assertive,6,Labor,,
+6,"Mr Turnbull says he’s got this in the bag, he claims he’s already won it. ",Assertive,7,Liberal,,
+7,"I say to him – never underestimate Labor, you ain’t seen anything yet, ",Assertive,8,Liberal,,1.0
+8,has he?,Interrogative,9,Liberal,,
+9,"After three years of Opposition and six weeks of campaigning so far, we can win and we must win.",Assertive,10,Labor,,
+10,Because only a Labor Government will build a stronger economy and a fairer society.,Assertive,,Labor,,
+11,Will fund our schools and protect Medicare.,Commissive-A,10#14,Labor,Vague,
+12,"Will create jobs and build roads, rail and a proper National Broadband Network.",Commissive-O,10#14,Labor,,
+13,"Will grow our regions, we will make our cities work.",Commissive-O,10#14,Labor,,
+14,Only Australia will have a Labor Government which delivers prosperity for everyone who works and prosperity that works for everyone. ,Assertive,15,Labor,,
+15,Only Labor can do this.,Assertive,,Labor,,
+16,"I acknowledge the traditional owners of this land,",Assertive,17,Other,,1.0
+17,I pay my respects to elders past and present.,Expressive,18,Other,,
+18,But let our respect travel past words into action.,Assertive,19,Other,,
+19,"Because as long as a young Aboriginal man is more likely to go to jail than university, words are not enough.",Assertive,20,Labor,,
+20,Action matters.,Assertive,,Labor,,
+21,"Today, let us spare a thought for the two nations we count among our oldest and dearest friends, who've been shaken by terrible events.",Assertive,22,Other,,
+22,Terrible events with incomprehensible hatred at their core and inconsolable grief the result.,Assertive,,Other,,
+23,"In Australia, whatever our political differences, the security of our nation, our commitment to the men and woman of the ADF and the safety of all of our citizens unites us all.",Assertive,24,Other,,
+24,"And we can all be grateful that we live in a democracy where our disputes are heated but not hateful, our conflicts are a clash of policies not prejudices.",Assertive,25,Other,,
+25,This is no small achievement and we should jealously guard it.,Assertive,,Other,,
+26,"I want to thank all of you – Labor members, union members, supporters, volunteers –",Expressive,28,Other,,1.0
+27,"knocking on doors, making phone calls and delivering leaflets, handing out at pre-poll booths.",Assertive,26,Other,,
+28,"Friends, our issues are starting to bite –",Assertive,29,Other,,1.0
+29,"please, keep up the great work, ",Directive,30,Other,,1.0
+30,we count on all of you.,Assertive,31,Other,,
+31,As a movement we always fight for the future but we also honour our history.,Assertive,32,Other,,
+32,Kevin Rudd is overseas today – but on your behalf I want to thank him for his example and his service.,Assertive,33,Other,,
+33,And how lucky are we to share this room with three of our legends.,Expressive,45,Other,,
+34,"Firstly, we are joined today by a trail-blazer for women and girls, a fierce warrior for education, a continuing inspiration for everyone who fights for Labor.",Assertive,33#35,Labor,,
+35,Please welcome Julia Gillard.,Directive,,Labor,,
+36,"Then we have a man of courage, conviction and imagination.",Assertive,33#37,Labor,,
+37,A person whose public life was spent painting the big picture – yet always with working people at the centre.,Assertive,38,Labor,,
+38,The reason true believers kept the faith.,Assertive,39,Labor,,
+39,"The one that every other party would like to have, but only Labor has, the one and only, Paul Keating.",Assertive,,Labor,,
+40,"And what can I say about this man, ladies and gentlemen, Bob Hawke.",Assertive,33#41,Labor,,
+41,"Bob, there is so much admiration in this hall and indeed in this country for you and for what you've achieved.",Assertive,42,Labor,,
+42,"And when you wave your right arm, I realise there is more fight in Bob Hawke's right arm then the whole of Malcolm Turnbull's cabinet put together.",Assertive,43,Labor,,
+43,Thank you Bob.,Expressive,,Labor,,
+44,And to all those great leaders who have gone before. ,Assertive,45,Labor,,
+45,We pledge our determination to maintain some of the core issues which you so valiantly fought for.,Commissive-O,46,Labor,,
+46,"And indeed Bob, today we repeat what you said at your campaign launch, 26 years ago.",Assertive,47,Labor,,
+47,“Two words: Medicare stays.”,Assertive,,Labor,,
+48,"And amongst so many other distinguished guests, State Premiers and leaders,",Assertive,49,Other,,1.0
+49,"I would ask the Labor Party to please welcome to my wife Chloe and my family, ",Expressive,50,Other,,1.0
+50,without whom I could not have led these last three years.,Assertive,,Other,,
+51,WESTERN SYDNEY/LABOR TEAM,Assertive,52,Other,,1.0
+52,"It is fitting that we launch our campaign here in Penrith, one of the great, diverse and growing cities of Western Sydney.",Assertive,53,Other,,
+53,"<LIST> Here and right around our country, Australians need a government investing in the long term and in things that people rely upon:",Assertive,54#55#56#57#58,Labor,,1.0
+54,<li> Roads and rail. </li> ,Assertive,59,Labor,,
+55,<li> Education. </li> ,Assertive,59,Labor,,
+56,<li> A first-rate NBN. </li> ,Assertive,59,Labor,,
+57,<li> Medicare and child care. </li> ,Assertive,59,Labor,,
+58,<li> Jobs. </li> </LIST>,Assertive,59,Labor,,
+59,"Now, Labor has the policies and the plans to meet these challenges – and the people to deliver them.",Assertive-V,60,Labor,,
+60,"Friends, we can win this election.",Assertive,61,Labor,,
+61,I am completely certain of that. ,Assertive,62,Labor,,
+62,And one of the reasons why I am certain of that is that we have the best team.,Assertive,63,Labor,,
+63,The men and woman who sit on this stage are called to politics not for their own interests but to advance the national interest.,Assertive,,Labor,,
+64,You’ve already heard from a future Foreign Minister who will represent Australia on the world stage with distinction.,Assertive,63#84,Labor,,
+65,"And a future Treasurer, who will deliver a fairer, stronger Budget.",Assertive,63#84,Labor,,
+66,<LIST> Tanya and Chris will be members of a great Labor Cabinet: and the great Labor cabinet has many others in it.,Assertive,63#84,Labor,,
+67,<li> Wong </li> ,Assertive,66,Labor,,1.0
+68,<li> Conroy </li> ,Assertive,66,Labor,,1.0
+69,<li> Burke </li> ,Assertive,66,Labor,,1.0
+70,<li> Macklin </li> ,Assertive,66,Labor,,1.0
+71,<li> Albanese </li> ,Assertive,66,Labor,,1.0
+72,<li> Butler </li> ,Assertive,66,Labor,,1.0
+73,<li> Carr </li> ,Assertive,66,Labor,,1.0
+74,<li> Clare </li> ,Assertive,66,Labor,,1.0
+75,<li> Dreyfus </li> ,Assertive,66,Labor,,1.0
+76,<li> Ellis </li> ,Assertive,66,Labor,,1.0
+77,<li> Fitzgibbon </li> ,Assertive,66,Labor,,1.0
+78,<li> Gallagher </li> ,Assertive,66,Labor,,1.0
+79,<li> King </li> ,Assertive,66,Labor,,1.0
+80,<li> Marles </li> ,Assertive,66,Labor,,1.0
+81,<li> Neumann </li> ,Assertive,66,Labor,,1.0
+82,<li> O’Connor </li> </LIST>,Assertive,66,Labor,,1.0
+83,And Greenway’s own – Michelle Rowland. ,Assertive,66,Labor,,
+84,I wish I had time to name every member my executive and every member of the Caucus.,Assertive,85,Labor,,
+85,"Because every single name speaks for hard work, outstanding policies and complete unity of purpose.",Assertive,86,Labor,,
+86,"<LIST> Compare those men and women, these name and their ideas to:",Assertive,87#88#89#90#91#92#93,Liberal,,1.0
+87,<li> Scott Morrison </li> ,Assertive,94,Liberal,,1.0
+88,<li> Peter Dutton </li> ,Assertive,94,Liberal,,1.0
+89,<li> Michaelia Cash </li> ,Assertive,94,Liberal,,1.0
+90,<li> There’s Brandis </li> ,Assertive,94,Liberal,,1.0
+91,<li> Tony Abbott </li> ,Assertive,94,Liberal,,1.0
+92,<li> Cory Bernardi </li> ,Assertive,94,Liberal,,1.0
+93,<li> Christopher Pyne </li> </LIST>,Assertive,94,Liberal,,1.0
+94,"…in fact, I wish I had time to name all of them as well.",Assertive,95,Liberal,,
+95,"We’ve got the best people, we’ve got the best policies and we’ve got the best plan to pay for them.",Assertive-V,,Labor,,
+96,BUDGET,Assertive,95#97,Labor,,1.0
+97,We are being accountable and responsible for every single dollar.,Assertive-V,98,Labor,,
+98,"Only policies that we can fund, only policies our country can afford.",Assertive-V,99,Labor,,
+99,We will not be a big spending government.,Commissive-A,100,Labor,Vague,
+100,"We will be a government for the fair go, fully paid for.",Commissive-O,101,Labor,,
+101,Bringing down the deficit each and every year.,Assertive-V,102#103,Labor,,
+102,Saving more than we spend over the decade.,Assertive-V,,Labor,,
+103,Returning the Budget to balance at the same time as our opponents.,Assertive-V,104,Labor,,
+104,"And each and every year after that, our surpluses will be bigger and stronger and we will pay down the public debt faster because our savings plan is built upon structural reform, not savage short term cuts.",Assertive-V,105,Labor,,
+105,Paul Keating taught us well.,Assertive,106,Labor,,
+106,You do not grow the economy by shrinking opportunity.,Assertive,107,Labor,,
+107,"We believe in Budget repair, that is fair.",Assertive,108,Labor,,
+108,"Yes, we have had to make some tough decisions.",Assertive,109,Labor,,
+109,"But I know from travelling this marvellous country, from years of standing up for working people.",Assertive,110,Labor,,
+110,"From the hundreds of meetings I’ve spoken at and the countless workplaces I’ve visited and the thousands upon thousands of people that I’ve listened to, been privileged to meet.",Assertive,111,Labor,,
+111,I understand that Australians make hard choices every day.,Assertive,112,Labor,,
+112,"I know that people working today rely upon penalty rates, and those who drive the long shifts count upon safe rates.",Assertive,113,Labor,,
+113,And when terms of trade and living standards fall.,Assertive,120,Labor,,
+114,When the the mining boom is ending and jobs are going with it.,Assertive,113#115,Labor,,
+115,When workers need help to re-train and re-skill.,Assertive,,Labor,,
+116,When small businesses need that bit of encouragement to take risks.,Assertive,113,Labor,,
+117,When our farmers are fighting drought and floods.,Assertive,113,Labor,,
+118,When a whole generation of Australians feels shut out of the housing market – the great Australian dream of your own home.,Assertive,113,Labor,,
+119,When working Mums can’t find or afford child care places.,Assertive,113,Labor,,
+120,"One thing I understand, I know this, is that Australians don’t need a lecture from their government about hard work and hard decisions.",Assertive,121,Labor,,
+121,The job of government is not to make to make things any tougher than they already are for people.,Assertive,122,Labor,,
+122,Our job is to give the people of Australia more hope and more respect.,Assertive,123,Labor,,
+123,There is no hope for Australians and no respect for their hard work if all you offer the people of Australia is a three-word slogan and a small target strategy.,Assertive,124,Labor,,
+124,"That is why I'm so proud of Labor, ",Expressive,125,Labor,,1.0
+125,"we’ve taken the high road of politics, outlining the most comprehensive program in a generation and how we pay for it.",Assertive,126,Labor,,
+126,MR TURNBULL’S PLAN,Assertive,127,Liberal,,1.0
+127,And the difference in competing economic visions has never been sharper or starker:,Assertive-V,128#129,Labor,,1.0
+128,"A Labor party investing in people, in productivity, in infrastructure and technology.",Assertive-V,,Labor,,
+129,And a Liberal party asking for three more years on the back of one bad idea.,Assertive-V,,Liberal,,
+130,A $50 billion giveaway to big business.,Assertive,129#131,Liberal,,
+131,$30 billion of which goes straight overseas.,Assertive-V,132,Liberal,,
+132,This is not a plan for the Australian economy – it is foreign aid for foreign companies.,Assertive-V,133,Liberal,,
+133,"Treasury has put a final figure on the economic benefits, such as they are.",Assertive-V,134#135,Liberal,,
+134,A growth dividend of 0.1 per cent a year.,Assertive-V,136,Liberal,,
+135,Zero. Point. One.,Assertive-V,136,Liberal,,
+136,$50 billion dollars for a benefit that rounds down to zero.,Assertive-V,137,Liberal,,
+137,"And when that money’s gone – our schools will still be struggling, our hospitals will be under more pressure and university degrees will commonly cost $100,000.",Assertive-V,138,Liberal,,
+138,All that money will have built nothing – and we will never get it back.,Assertive-V,139,Liberal,,
+139,<LIST> But at least Mr Turnbull has already told us already how he is going to fill the void it that will leave in the Budget.,Assertive,140#141#142,Liberal,,
+140,"<li> A 15 per cent GST, on everything. </li> ",Assertive,143,Liberal,,
+141,<li> Or ripping every single Commonwealth dollar out of every single government school. </li> ,Assertive,143,Liberal,,
+142,<li> And letting the states loose to charge their own income tax. </li> </LIST>,Assertive,143,Liberal,,
+143,"Make no mistake, if the Liberals win, we shouldn’t be worried about Mr Turnbull breaking his promises, we should be worried about him keeping his promises.",Assertive,,Liberal,,
+144,BANKS ROYAL COMMISSION,Assertive,125#145,Labor,,1.0
+145,"Mr Turnbull’s plan, such as it is, means a $7.4 billion windfall for Westpac, ANZ, the Commonwealth Bank and NAB.",Assertive-V,146#147,Liberal,,
+146,"Three out of four of these are under investigation for rigging the interest rates of Australians trying to save for a home, pay-off a mortgage or plan for a self-funded retirement.",Assertive,148,Liberal,,
+147,CommInsure recently denied compensation to a policy-holder because he had – and this is a real quote – because he had the ‘wrong sort of heart attack’.,Assertive,148,Liberal,,
+148,This is a time that requires more than a lofty lunchtime lecture from Malcolm Turnbull.,Assertive,149,Liberal,,
+149,The Banks do not need a tax cut – they deserve a Royal Commission.,Assertive,,Labor,,
+150,NEW JOBS TAX CUT,Assertive,125#151,Labor,,1.0
+151,The Australian economy needs a real jobs plan.,Assertive,,Labor,,
+152,"Because from Western Sydney to Northern Tassie, from regional Queensland and the Hunter Valley to the suburbs of Perth –",Assertive,151#153#154,Labor,,1.0
+153,"The Australians finding it hardest to find a job are young people under 25 looking for a start, and workers over 55 displaced by change, stranded by change, looking for another chance.",Assertive,155,Labor,,
+154,And of course the parents and carers returning to work after more than six months away.,Assertive,155,Labor,,
+155,Labor is determined to do more to help people find work in a changing economy.,Assertive,156#157,Labor,,
+156,Not by waffling about agility – but just getting on and doing the job.,Assertive,158,Labor,,
+157,Not talking about jobs – doing something to create them.,Assertive,158,Labor,,
+158,Hope is not found in a three-word slogan. ,Assertive,159,Labor,,
+159,Hope is an unemployed Australian finding a job. ,Assertive,160,Labor,,
+160,Labor gives Australians hope.,Assertive,161,Labor,,
+161,Today I announce Labor’s new jobs tax cut for small business.,Assertive,162,Labor,,
+162,"Under Labor, if you are a small business that has been in operation for two years or more, you will get a new tax break of up to $20,000 when you hire a parent going back to work, a carer, an Australian aged under 25 or over 55.",Commissive-O,163,Labor,,
+163,"Supporting these Australians into work will create 30,000 new jobs every year.",Assertive-V,,Labor,,
+164,These people are told by the Australian community sometimes it's too hard. ,Assertive,162#165,Labor,,
+165,"I'm sick and tired of seeing older Australians told that because you are over 55, just wait until you can get the pension, there is nothing more we need form you or that you can contribute.",Assertive,166,Labor,,
+166,We will speak up in particular for the long-term young unemployed and for older Australians.,Commissive-A,167,Labor,Vague,
+167,We have a real jobs plan and a responsible tax cut.,Assertive-V,168,Labor,,
+168,"A plan to grow small business and help Australians fulfil their potential, as is the birthright of every Australian.",Assertive-V,169,Labor,,
+169,Our message to small businesses and to jobseekers is one and the same:,Assertive,170,Labor,,1.0
+170,You know who I'm talking about.,Assertive,171#172,Labor,,
+171,"In the hardscrabble suburbs and postcodes of this country, where perhaps the family unit isn't working as well as we'd like it to. ",Assertive,173,Labor,,
+172,"Or those older migrant workers in the great factories of Australia, who 30 and 40 years came off the boat and into our factories and delivered us our standard of living.",Assertive,173,Labor,,
+173,We are a more imaginative country then we give ourselves credit for. ,Assertive,174,Labor,,
+174,"My policies, our policies, to small business and to job seekers is one and the same:",Assertive,175,Labor,,1.0
+175,Labor believes in you – and we will invest in you.,Assertive,176,Labor,,
+176,No new paperwork – just new jobs.,Assertive,,Labor,,
+177,INFRASTRUCTURE & EDUCATION,Assertive,125#178,Labor,,1.0
+178,"My friends, the two most important things for an economy in transition are: public investment in infrastructure and education.",Assertive,179,Labor,,
+179,Building and teaching.,Assertive,180,Labor,,
+180,Labor will do both.,Commissive-A,181#182#183#184#185,Labor,Vague,
+181,We will turbo-charge Infrastructure and create a new ‘Concrete Bank’.,Commissive-O,,Labor,,
+182,We will clear away the market blockages that hold back our superannuation investing in good projects.,Commissive-O,,Labor,,
+183,"We will build if given the opportunity by the Australian people, the Perth Metronet, AdeLINK, the Melbourne Metro and of course Brisbane’s Cross-River Rail.",Commissive-O,,Labor,,
+184,And we will build the Western Sydney Rail Line connecting fast growing communities.,Commissive-O,,Labor,,
+185,We are committed to creating blue collar jobs as well as white collar jobs across this country – and unlocking our congested cities and suburbs.,Commissive-O,186,Labor,,
+186,Local jobs – for local people.,Assertive,187,Labor,,
+187,"And as a condition of every cent that flows, we will require that 1 in 10 of the workers employed in our major infrastructure projects is an Australian apprentice.",Commissive-A,188,Labor,Specific,
+188,"We’ll back this up with 15,000 new places for apprentices – of all ages – right across the nation.",Commissive-O,189,Labor,,
+189,And we will clean-out the dodgy private colleges undermining vocational training in this country.,Commissive-A,190,Labor,Vague,
+190,"Because we, the Labor Party, are backing public TAFE, all the way.",Assertive,191,Labor,,
+191,"Politics, as you understand, is about choices.",Assertive,192#193#194#195,Labor,,
+192,We choose TAFE.,Assertive,196,Labor,,
+193,We choose local content.,Assertive,196,Labor,,
+194,We choose the apprenticeship system.,Assertive,196,Labor,,
+195,We choose renewable energy and Australian steel because we believe advanced manufacturing has a future in this country.,Assertive,196,Labor,,
+196,And the only three-word-slogan I want to see and hear a lot more about in the next three years is:,Assertive,197,Labor,,1.0
+197,Made in Australia.,Assertive,,Labor,,
+198,SCHOOLS,Assertive,125#199,Labor,,1.0
+199,We will build – and we will teach.,Commissive-A,,Labor,Vague,
+200,Our plan for schools means bright children are stretched in extension classes.,Assertive,203,Labor,,
+201,But the children falling behind get the individual attention they need to catch up.,Assertive,203,Labor,,
+202,Teachers get the resources they need and the respect they deserve.,Assertive,203,Labor,,
+203,"And our plan means a that a new Labor Government will fully-fund the Gonski school reforms, full stop.",Commissive-A,199#204,Labor,Specific,
+204,On the first day of this campaign I was fortunate to visit Cairns West Primary. ,Assertive,205,Other,,
+205,It's one of the most disadvantaged schools in our country. ,Assertive,206,Labor,,
+206,I got to speak to a little boy in grade 1.,Assertive,207,Other,,
+207,"A little kid, million-dollar smile.",Assertive,208,Other,,
+208,As the cameras whirred I said to him: ‘You’ll be on TV tonight.’,Assertive,209,Other,,
+209,He looked at me and said: ‘We don’t have a television.’,Assertive,210,Other,,
+210,"This is a school where Indigenous students, refugee kids, Cook Islanders and freckled redheads sit side-by-side.",Assertive,211#212,Other,,
+211,Teaching children to read and write and count. ,Assertive,213,Other,,
+212,Offering them a chance to take part in music and drama and sport.,Assertive,213,Other,,
+213,"In the face of hardship, and many parents there doing it hard, there are great teachers and wonderful kids achieving remarkable things in that school.",Assertive,214,Labor,,
+214,And this is a story writ large across the schools of Australia.,Assertive,215,Labor,,
+215,"And when I think about how they keep having to do more with less, it is an outrage when the Liberals say money doesn’t make a difference in education.",Assertive-V,216,Liberal,,
+216,Let us win this election so we put to bed forever the argument that funding schools is not an investment in our future.,Assertive,217,Labor,,
+217,"If equality of opportunity means anything in our 21st Century, then we must deliver needs-based funding – and lock it in for the decade.",Assertive,218,Labor,,
+218,Our children are bright and optimistic. ,Assertive,219,Labor,,
+219,Their parents want the best for them.,Assertive,220,Labor,,
+220,Our children and our parents deserve a government that is fulfilling their trust and their dreams.,Assertive,221,Labor,,
+221,Australia’s future as a knowledge economy depends upon this.,Assertive,,Labor,,
+222,NBN,Assertive,125#223,Labor,,1.0
+223,And our future as a knowledge economy depends upon the National Broadband Network.,Assertive,224#225,Labor,,
+224,"Fair dinkum broadband is crucial for the science, technology, engineering and maths skills our children need.",Assertive,226,Labor,,
+225,It’s vital to small businesses in the regions engaging in our region.,Assertive,226,Labor,,
+226,But Mr Turnbull has made a horrible mess of the NBN.,Assertive-V,227#228,Liberal,,
+227,The cost is now double what he promised – and it’s going to take as twice as long to build.,Assertive-V,229,Liberal,,
+228,Australia’s ranking has collapsed from 30th to 60th in the world in global internet speeds.,Assertive-V,229,Liberal,,
+229,"I suppose, this was the perfect preview for his time as Prime Minister.",Assertive-V,230,Liberal,,
+230,"Over-promise, under-deliver and take forever to get to the point.",Assertive-V,231,Liberal,,
+231,Australia deserves so much better than this.,Assertive,232,Labor,,
+232,A new Labor Government will connect up to 2 million more homes and businesses to a first-rate fibre National Broadband Network.,Commissive-O,233#234,Labor,,
+233,A better service and faster speeds. ,Assertive-V,235,Labor,,
+234,An end to the buffering and connection nightmare.,Assertive-V,235,Labor,,
+235,"You know why I say this, why I pledge this?",Interrogative,236,Labor,,
+236,Because world-class technology is only just good enough for Australia.,Assertive,237,Labor,,
+237,And no leader worth their salt will ever sell you second best when Australians deserve the best.,Assertive,238,Labor,,
+238,We’re not blogging about innovation – we’re just getting on with the job.,Assertive,,Labor,,
+239,EQUALITY FOR WOMEN,Assertive,125#240,Labor,,1.0
+240,"And talking about getting on with the job, growing a modern economy depends upon championing a modern society.",Assertive,241,Labor,,
+241,"If our country achieves nothing else in the next decade but true equality for the women of Australia, we will be the richest nation in the world – in every sense of the word.",Assertive,242,Labor,,
+242,<LIST> Equality for women will be a national mission for my government.,Commissive-O,,Labor,,
+243,"<li> A minimum of 18 weeks paid parental leave, guaranteed. </li> ",Commissive-O,242,Labor,,
+244,"<li> Better childcare, sooner – for 800,000 working families. </li> </LIST>",Commissive-O,242,Labor,,
+245,"And my government will provide the resources, support and leadership to tackle the most devastating and extreme manifestation of gender inequality: violence against women.",Commissive-A,242#250,Labor,Vague,
+246,"We will properly fund the frontline – you know the frontline – community legal centres, counsellors and safe housing for women and children.",Commissive-A,245,Labor,Vague,
+247,"No more delays, no more excuses.",Assertive,249,Labor,,
+248,No more pulling down the blinds and turning up the television to drown out the noise next door.,Assertive,249,Labor,,
+249,Family violence is not a family matter – it is a national disgrace.,Assertive,250,Labor,,
+250,And Labor will provide the leadership to tackle it. ,Commissive-A,251,Labor,Vague,
+251,Because we understand that a society that has men and women treated equally is capable of just about anything.,Assertive,252,Labor,,
+252,"And we want Australia that equal society, and that is what the Labor party believes in the heart of its DNA. ",Assertive,253,Labor,,
+253,Equal treatment for the women of Australia.,Assertive,,Labor,,
+254,MARRIAGE EQUALITY,Assertive,125#255,Labor,,1.0
+255,And talking about leadership.,Assertive,256,Labor,,
+256,We will provide the leadership in the Parliament to deliver marriage equality within our first 100 days.,Commissive-O,,Labor,,
+257,"In modern Australia, no-one should have to justify their sexuality or their love, to anyone else.",Assertive,258,Labor,,
+258,"And instead of sitting in judgement, instead of providing a taxpayer-funded platform for homophobia,",Assertive,259,Labor,,1.0
+259,we will gift every Australian an equal right in respect of love. ,Commissive-O,256#260,Labor,,
+260,Nothing less.,Assertive-V,,Labor,,
+261,MENTAL HEALTH,Assertive,125#262,Labor,,1.0
+262,"Friends, one of the things I’ve enjoyed most about the town hall meetings I’ve been holding is the chance to talk to Australian people around our great nation about what matters to them.",Assertive,263,Labor,,
+263,The issues that are rarely front page news or front of our national mind.,Assertive,264,Labor,,
+264,"So often, wherever we are in Australia, it’s often a young person who raises their hand to ask me about ice, mental health or suicide.",Assertive,265,Other,,
+265,"We should never underestimate the resilience, the courage it takes to put up your hand and talk about a subject that is still too often skated-over and stigmatised.",Assertive,266,Other,,
+266,There is a hidden story in our country.,Assertive,267#268,Other,,
+267,Teenagers are taking days off school to attend the funerals of classmates who have taken their own life.,Assertive,270,Other,,
+268,"Parents sitting at kitchen tables, numb with incomprehension, shattered by grief, trying to write a eulogy for their child. ",Assertive,269,Other,,
+269,No parent should ever bury their child.,Assertive,270,Other,,
+270,Yet seven Australians die every day at their own hand.,Assertive,271,Other,,
+271,Every single day.,Assertive,272,Other,,
+272,We can do better than this.,Assertive,273#275#276,Labor,,
+273,A new Labor Government will start by providing $72 million for 12 regional suicide prevention projects.,Commissive-A,277,Labor,Specific,
+274,"I say to people among us at the brink of despair, that we must offer more than help – we must offer hope.",Assertive,275,Labor,,
+275,Labor will therefore provide the funding to keep Headspace centres open in their 95 locations.,Commissive-A,277,Labor,Specific,
+276,"We will invest $9 million as the foundation of a new National Suicide Prevention Fund, to break down social stigma, to light a path out of the dark places that some of our fellow Australians find themselves in.",Commissive-A,277,Labor,Specific,
+277,We will not rest until mental health gets the continuous national attention and national action that it deserves.,Commissive-A,,Labor,Vague,
+278,SAVE MEDICARE,Assertive,125#279,Labor,,1.0
+279,"At gatherings of the faithful such as this, I think it’s also worth remembering that many Australians find politics exhausting rather than inspiring.",Assertive,280,Labor,,
+280,"Who think to themselves that nothing ever changes, that it's all a done deal, that their vote never changes a thing.",Assertive,281,Labor,,
+281,"But today I say to you, that isn't true.",Assertive,282,Labor,,
+282,"Politics is not perfect – it never was, it never will be.",Assertive,283,Labor,,
+283,"But if you want to know why this election will make a difference – to you, your family, your street, your workplace, to Australia’s future.",Assertive,284,Labor,,
+284,I can give you the answer of why politics matters in one word: Medicare.,Assertive,285,Labor,,
+285,"Friends, this election is a referendum on the future of Medicare.",Assertive,286,Labor,,
+286,"Your individual vote will decide the fate, direction and quality of healthcare in this country.",Assertive,287#288#289#292,Labor,,
+287,"Medicare is the community standard, it's the gold standard, it speaks to Australians about who we are.",Assertive,293,Labor,,
+288,"It's an echo of an older, uncomplicated sense of solidarity, the belief that the health of any one of us matters to all of us.",Assertive,293,Labor,,
+289,It’s also thoroughly modern economic policy.,Assertive,290#291,Labor,,
+290,Lifting productivity up – keeping sick days down.,Assertive,293,Labor,,
+291,Saving employers the expense of paying health insurance for their employees.,Assertive,293,Labor,,
+292,"And Medicare costs Australia far less than other countries pay, and we get better care.",Assertive,293,Labor,,
+293,"It is the job of good governments not just to preserve Medicare as it was, but to make sure it keeps up with the needs of our people.",Assertive,294,Labor,,
+294,"But under my opponent, the Liberals have cut $650 million from bulk-billing for pathology and diagnostic imaging.",Assertive-S,295,Liberal,,
+295,"<LIST> This will mean new out-of-pocket costs for x-rays, blood tests, pap smears, the scans for vulnerable Australians:",Assertive-V,299,Liberal,,1.0
+296,<li> $100 for a mammogram. </li> ,Assertive-V,295,Liberal,,
+297,"<li> $300 in diagnosis costs for a woman fighting breast cancer, </li> ",Assertive-V,295,Liberal,,1.0
+298,"<li> Over $1000 for an Aussie dealing with melanoma, </li> </LIST>",Assertive-V,295,Liberal,,1.0
+299,"Labor will not stand by idly and accept this on Medicare, on GPs, on specialists, on nurses and on patients.",Commissive-A,300#301#302#304#305,Labor,Vague,
+300,"I will unfreeze the GP rebate so every Australian can afford to see the doctor, without paying Mr Turnbull’s backdoor GP tax.",Commissive-A,,Labor,Specific,
+301,"I will keep the price of medicine down, by scrapping the price hikes of Mr Turnbull and by investing in the PBS.",Commissive-A,,Labor,Specific,
+302,"And today I announce that an incoming Labor Government will reverse Mr Turnbull’s cuts to pathology and diagnostic imaging, ",Commissive-A,,Labor,Specific,1.0
+303,"because when you are in the fight of your life, when your family member is in the fight of their life, you need a government on your side, and we will be that government.",Assertive,302,Labor,,
+304,"Labor will properly fund Australia's hospitals, working in cooperation with the states and as part of this, we will cut waiting times for elective surgery throughout Australia –  but also here in the West.",Commissive-A,,Labor,Vague,
+305,And we will contribute to the long overdue upgrade of the hardworking Nepean Hospital right in this district.,Commissive-A,,Labor,Vague,
+306,PRIVATISATION,Assertive,125#307,Labor,,1.0
+307,"Regrettably, the Liberal cuts to Medicare are just the beginning.",Assertive-V,308,Liberal,,
+308,We all know the endgame they’ve got in mind.,Assertive,309,Liberal,,
+309,I saw a bloke on TV the other night who summed it up pretty well:,Assertive,310,Liberal,,1.0
+310,"Everybody knows, you don’t set up a Medicare privatisation taskforce, unless you intend to privatise Medicare.",Assertive-V,311,Liberal,,
+311,"First, Mr Turnbull said there was nothing wrong with this, then he said there was nothing to see here.",Assertive,312,Liberal,,
+312,"Now the Liberals are trying to pull-off the biggest fraud of this campaign, and there is some competition for that title.",Assertive,313,Liberal,,
+313,They're pretending their taskforce doesn’t exist and that now privatising Medicare isn’t part of their plans.,Assertive,314,Liberal,,
+314,But facts have an inconvenient way of ruining a Turnbull story.,Assertive,315,Liberal,,
+315,Today we have new proof of their true intentions.,Assertive,316,Liberal,,
+316,"The Liberals have given the Productivity Commission new riding instructions, to investigate privatising human services and Americanising Medicare.",Assertive-S,317,Liberal,,
+317,"This is Mr Turnbull’s second strike on Medicare and we know he won’t stop, he won’t rest.",Assertive-V,318,Liberal,,
+318,"Piece by piece, brick by brick – the Liberals have never liked Medicare and they want to tear it down again.",Assertive,319#320,Liberal,,
+319,They want to replace it with a system where profits come before patients.,Assertive,321,Liberal,,
+320,Where emergency wards are crammed with people who can’t afford to see a GP and the rest are turned away.,Assertive,321,Liberal,,
+321,The Liberals are so out of touch. ,Assertive,322,Liberal,,
+322,They just don't get how everyday people organise their lives.,Assertive,323,Liberal,,
+323,Medicare is more than a column in a spreadsheet.,Assertive,324#325#326,Labor,,
+324,It’s not some corporate asset to be sold-off and exported.,Assertive,327,Labor,,
+325,"It’s not a shell company where you can rip out the heart, keep the brand and outsource the responsibility.",Assertive,327,Labor,,
+326,Medicare is not just another business – it is everyone’s business.,Assertive,327,Labor,,
+327,It belongs to all of us – it belongs in public hands.,Assertive,328,Labor,,
+328,"Today, I proudly give Australians this guarantee, hand-on-heart, from the Labor party.",Expressive,329,Labor,,
+329,"Labor will never support the privatisation of Medicare, full stop.",Commissive-A,330,Labor,Specific,
+330,As we enter the latest round in a forty-year fight – we do have an undefeated champion here with us.,Assertive,331,Labor,,
+331,"I wish to acknowledge your government Bob, you built Medicare and we stand with you now to defend it.",Assertive,332,Labor,,
+332,We will prevail.,Assertive,333,Labor,,
+333,CONCLUSION,Assertive,334,Labor,,1.0
+334,At this election we’re seeking to make history –and millions of Australians are counting on us to do just that.,Assertive,335,Labor,,
+335,"Because a close-run-race won’t do the job, I’m not interested in an honourable second-place. ",Assertive,336,Labor,,
+336,That simply won't suffice.,Assertive,337,Labor,,
+337,"If we want to save Medicare, if we want better schools, if we want real action on climate change and on an NBN that works, if we want to change the country for the better – we have to win. ",Assertive,338,Labor,,
+338,And that is what we are aiming to do in the next 13 days.,Assertive,339,Labor,,
+339,Now there are people who will tell us it can’t be done.,Assertive,340,Labor,,
+340,"<LIST> Mind you, these are the same people who said, less than 3 years ago, Tony Abbott was unbeatable.",Assertive,341#342#343#344,Labor,,
+341,<li> That the 2014 Budget was right for the times. </li> ,Assertive,344,Labor,,
+342,<li> That National Conference would divide and break our party. </li> ,Assertive,344,Labor,,
+343,<li> That a Royal Commission would crush our movement. </li> </LIST>,Assertive,344,Labor,,
+344,The same people now tell us that Malcolm Turnbull is invincible.,Assertive,345,Labor,,
+345,There is always someone willing to write Labor off –  and they are always wrong.,Assertive,346,Labor,,
+346,This election is a battle for our generation of true believers.,Assertive,347,Labor,,
+347,It’s our time.,Assertive,348#349#350,Labor,,
+348,Our chance to be more than a face in the crowd.,Assertive,351,Labor,,
+349,Our chance to make this a better country.,Assertive,351,Labor,,
+350,"Our moment to dig a little deeper, to try a little harder, to be part of something bigger than just ourselves.",Assertive,351,Labor,,
+351,"And for all of the complexities, all of the intricacies, for all the to-and-fro in the 13 days to come.",Assertive,352,Labor,,
+352,"In the end, the choice for Australians is simple:",Assertive,353#355#357#359#361#363#365#367,Labor,,1.0
+353,If you want to save Medicare – ,Assertive,354,Labor,,1.0
+354,vote Labor.,Directive,,Labor,,
+355,"If you want better schools, not richer banks – ",Assertive,356,Labor,,1.0
+356,vote Labor.,Directive,,Labor,,
+357,"If you want a tax cut for local jobs, not a tax break for foreign shareholders –",Assertive,358,Labor,,1.0
+358,vote Labor.,Directive,,Labor,,
+359,If you want a housing affordability plan that’s more than just – ‘get rich parents’ –,Assertive,360,Labor,,1.0
+360,vote Labor.,Directive,,Labor,,
+361,If you want a first-rate NBN for a first-rate economy – ,Assertive,362,Labor,,1.0
+362,vote Labor.,Directive,,Labor,,
+363,If you want to save the Reef – ,Assertive,364,Labor,,1.0
+364,vote Labor.,Directive,,Labor,,
+365,If you want the pension and penalty rates to be safe – ,Assertive,366,Labor,,1.0
+366,vote Labor.,Directive,,Labor,,
+367,If you want marriage equality to be a reality – ,Assertive,368,Labor,,1.0
+368,vote Labor.,Directive,,Labor,,
+369,"Friends some of the people who inspired me, some of my heroes and mentors, are Bob Hawke, Paul Keating, Bill Kelty.",Expressive,370,Labor,,
+370,They got Australia to here.,Assertive,371,Labor,,
+371,And this election is about 2030 –and how we get there.,Assertive,372,Labor,,
+372,<LIST> It’s about the markers we set for the future of our nation:,Assertive,373#374#375#376#377#378#379,Labor,,1.0
+373,<li> Jobs </li> ,Assertive,380,Labor,,1.0
+374,<li> Education </li> ,Assertive,380,Labor,,1.0
+375,<li> Medicare </li> ,Assertive,380,Labor,,1.0
+376,<li> Broadband </li> ,Assertive,380,Labor,,1.0
+377,<li> Infrastructure </li> ,Assertive,380,Labor,,1.0
+378,<li> The equal treatment of women </li> ,Assertive,380,Labor,,1.0
+379,"<li> And real action on climate change, doing our part in the world. </li> </LIST>",Assertive,380,Labor,,
+380,Today my remarkable team and I offer ourselves as a new government dedicated to Australia’s oldest preposition: a fair go all around.,Assertive,381#382,Labor,,
+381,A Labor government which recognises Australia has always grown stronger and richer by including everyone in opportunity and leaving no-one behind.,Assertive,383,Labor,,
+382,Preserving for future generations the things which make Australia one of the finest and best and different countries in the world.,Assertive,383,Labor,,
+383,"The Australian I see in the future is a creative country, a place of community, a Commonwealth built by common effort, courageous and generous people, striving together, shared opportunities and shared reward.",Assertive,384,Labor,,
+384,"We carry that fight forward, we can win this election, if we give it every ounce of our energy.",Assertive,385,Labor,,
+385,We will be a Labor government that will always put people first in the finest tradition of this great country we all love together.,Commissive-A,386,Labor,Vague,
+386,Putting people first.,Assertive,387,Labor,,
+387,Thank you very much ladies and gentlemen.,Expressive,,Other,,

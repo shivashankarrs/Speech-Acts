@@ -1,0 +1,18 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"By boosting science, technology, engineering and mathematics (STEM) skills the Turnbull Coalition Government is preparing our children for the jobs of the future.",Commissive-O,,Liberal,,
+2,75 per cent of Australia’s fastest-growing industries require STEM skills.,Assertive,3,Other,,
+3,"Unfortunately the performance of Australian students in mathematics, science and reading has declined in recent times.",Assertive-V,5,Liberal,,
+4,This is despite government investment in education increasing by nearly 40 per cent over the decade to 2012-13.,Assertive-S,3,Liberal,,
+5,"A re-elected Turnbull Coalition Government will invest $4.6 million for 12 new pilot sites for a programme designed to improve employment outcomes for students, and deliver stronger results in STEM performance, Pathways in Technology Early College High School (P-TECH).",Commissive-A,1#8#9#10#11#14#15#17,Liberal,Specific,
+6,"As part of pilots already underway in Geelong and Ballarat, students are benefitting from an advanced STEM learning programme that aligns with local employer needs.",Assertive-V,5,Liberal,,
+7,"These P-TECH pilots, run by the Skilling Australia Foundation, are opening up new avenues for students by linking schools with businesses in local communities that offer job opportunities that require STEM skills.",Assertive-V,5,Liberal,,
+8,<LIST> The Coalition’s new funding for P-TECH pilots will support:,Commissive-O,,Liberal,,1.0
+9,"<li> Collaboration of schools and businesses through local school - industry liaison officers, </li> ",Commissive-O,,Liberal,,1.0
+10,"<li> Design of courses being offered at the pilot sites, and </li> ",Commissive-O,,Liberal,,1.0
+11,<li> Training for industry mentors. </li>  </LIST>,Commissive-O,,Liberal,,
+12,Member for Lindsay Fiona Scott has been a vocal advocate for new and innovative pathways to ensure students in Western Sydney are given the best opportunities to succeed after they finish school.,Assertive-S,5,Liberal,,
+13,McCarthy Catholic College at Emu Plains will be one of 12 new pilot sites and will partner with PwC to help get students ‘job ready’.,Commissive-A,5,Liberal,Specific,
+14,By supporting practical programmes like P-TECH we are combining technical and vocational skills with school and industry partnerships to tackle the challenges of high youth unemployment and help more young people into work.,Commissive-O,,Liberal,,
+15,The Coalition is investing a record level of funding into schools and this will continue to grow. ,Commissive-A,,Liberal,Vague,
+16,This funding will be directed according to need and tied to reforms that lift the outcomes for Australian students.,Commissive-A,15,Liberal,Vague,
+17,"Our $4.6 million investment in P-TECH pilots is part of our national economic plan, helping young people develop the skills they need for the jobs of the future.",Assertive-V,,Liberal,,

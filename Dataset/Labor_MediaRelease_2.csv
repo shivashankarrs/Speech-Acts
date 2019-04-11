@@ -1,0 +1,24 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"A Shorten Labor Government will boost local jobs, invest in infrastructure, and reduce congestion in Perth by contributing to build a traffic overpass at the Roe Highway and Kalamunda Road intersection.",Commissive-A,8,Labor,Specific,
+2,"The Roe Highway is a major transport route in Perth, ",Assertive,3#4#5,Other,,1.0
+3,and its upgrade is part of Labor’s plan to get ahead of the State’s future growth and congestion pressures.,Assertive-V,1,Labor,,
+4,"The highway links with the Reid and Tonkin highways to the north, and the Tonkin and Kwinana Freeways to the south.",Assertive,6,Other,,
+5,It also links to the Great Eastern Bypass and the Great Eastern Highway.,Assertive,6,Other,,
+6,"These connections provide routes for heavy vehicles into industrial areas around Forrestfield, Kewdale and Hazelmere and include elements of the National Land Transport Network.",Assertive,7,Other,,
+7,During peak periods a mix of heavy and commercial vehicles on the Roe Highway commute with lighter vehicles on the Kalamunda Road.,Assertive,8,Other,,
+8,"This grade separation project will remove this intersection, separating north-south traffic on the Roe Highway from east-west traffic on Kalamunda Road, significantly improving the flow of traffic in both directions.",Commissive-O,,Labor,,
+9,Labor will contribute $43 million towards this project,Commissive-A,1#10#16,Labor,Specific,1.0
+10,and is calling on the WA Government to contribute funds to get the project underway.,Directive,,Liberal,,
+11,"The Infrastructure Australia Audit Report released last year said that without additional funding for transport projects in Perth, the cost of delays in urban transport will increase eightfold between 2011 and 2031 – from $2 billion to $16 billion.",Assertive,16,Other,,
+12,It also forecast that one of the major employment growth areas in Perth will be the Swan region.,Assertive,16,Other,,
+13,"Without new infrastructure investment, Infrastructure Australia says that by 2031, seven of the ten most congested transport corridors in Australia will be in Perth. ",Assertive,14#15#16,Other,,
+14,Currently there is only one in the top ten.,Assertive,,Other,,
+15,The Roe Highway is one of these corridors.,Assertive,,Other,,
+16,Funding for this project is part of Labor’s plan to address pressures as Perth grows rapidly,Assertive-V,17,Labor,,1.0
+17,and it comes on top of Labor’s pledge to plan and build the METRONET rail project; invest $45 million to build two overpasses on Wanneroo Road in Perth’s north-west; and commit $80 million for the North Lake Bridge in Perth’s south.,Commissive-A,20#22,Labor,Specific,
+18,"State Government investment in transport infrastructure has not kept pace with population growth in Perth’s outer suburbs,",Assertive-S,19#20,Liberal,,1.0
+19,resulting in increasing bottlenecks for commuters in the broad northern corridor.,Assertive-V,,Liberal,,
+20,Labor is the party of infrastructure and cities.,Assertive,23,Labor,,
+21,"Since the Abbott-Turnbull Government was elected in 2013, public sector infrastructure investment across Australia has fallen by 20 per cent (ABS September 2015 quarter compared with September 2013 quarter).",Assertive-V,23,Liberal,,
+22,"A Shorten Labor Government will appoint a Minister for Cities, will invest in public transport as well as roads and bring back the Major Cities Unit to help manage growth as our cities expand.",Commissive-A,23,Labor,Specific,
+23,Only Labor will build the transport infrastructure that residents of Perth will need in the future.,Assertive,,Labor,,

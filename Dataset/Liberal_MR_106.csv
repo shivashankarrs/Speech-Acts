@@ -1,0 +1,14 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"Labor’s reckless housing tax will see the wealthy continuing to negatively gear existing housing stock and still gaining a massive tax advantage over low and middle income Australians, Treasurer, the Hon. Scott Morrison said today.",Assertive-V,,Labor,,
+2,"Under Labor’s rushed and ill-considered negative gearing policy, the wealthiest investors earning over $100,000 will continue to claim nearly 90 per cent of their net rental losses against their investment income, yet middle and low income earners only have enough investment income to claim less than one quarter, essentially locking them out of investment in existing housing.",Assertive-V,1#3#13,Labor,,
+3,Labor’s regressive negative gearing policy greatly benefits the wealthiest investors.,Assertive-V,5,Labor,,
+4,Australians always knew Labor’s negative gearing policy would harm house prices and deny mum and dad investors the chance to build wealth through negative gearing. ,Assertive,5,Labor,,
+5,But nobody expected Labor to develop a policy that favours the wealthy over middle and low income earners.,Assertive,,Labor,,
+6,"Under Labor’s proposal wealthy investors will be least affected and will continue to negatively gear existing properties after 1 July 2017, at the expense of mum and dad investors who will be prevented from doing so.",Assertive-V,3,Labor,,
+7,"Labor’s housing tax means that investors cannot negatively gear against salary and wage income unless they purchase a new home, but they can still use negative gearing to reduce their tax on income that comes from investments such as share dividends and bank interest.",Assertive-V,8,Labor,,
+8,Under Labor's policy wealthy investors with high investment incomes will derive a greater benefit from negative gearing when purchasing existing property than Australians on lower incomes.,Assertive-V,9,Labor,,
+9,"Labor's policy is a double whammy for mum and dad investors, while wealthy investors will be largely untouched.",Assertive-V,6,Labor,,
+10,<LIST> The analysis of Australian Taxation Office data shows that:,Assertive-V,2,Labor,,1.0
+11,<li> A typical individual using negative gearing in the top 10% of income earners has enough investment income to allow them to offset almost 90% of their net rental losses </li>,Assertive-V,2,Labor,,1.0
+12,<li> By contract individuals using negative gearing in the bottom 90% of income earners typical have enough investment income to allow them to offset less than a quarter of their net rental losses. </li> </LIST>,Assertive-V,2,Labor,,
+13,"A re-elected Turnbull Government will reject Labor’s housing tax, backing mum and dad investors’ ability to build economic opportunities for themselves and their families.",Commissive-A,,Liberal,Specific,

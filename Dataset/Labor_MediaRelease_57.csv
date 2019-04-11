@@ -1,0 +1,22 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"A Shorten Labor Government will establish a Child Health Hub in Sunbury, giving families access to a range of integrated allied health services for children.",Commissive-O,,Labor,,
+2,"Run by Sunbury Community Health (SCH), the Child Health Hub will bring together paediatric allied health professionals, including speech and language pathology, child psychology, audiology, paediatric occupational therapy and physiotherapy.",Commissive-A,1#4,Labor,Specific,
+3,"Sunbury is a fast-growing urban area with a large number of young families, and infrastructure is not keeping up.",Assertive,2,Other,,
+4,"The Child Health Hub will mean families don’t miss out on the services they need for their kids, and stop them having to travel into Melbourne for help which will take pressure off these services.",Commissive-O,,Labor,,
+5,"The Child Health Hub will be co-located with the SCH early childhood education program in the heart of Sunbury, which sees around 600 children every week.",Commissive-A,2,Labor,Specific,
+6,"It will provide a one-stop shop for families, providing coordinated support to facilitate early intervention and treatment for the kids who need it.",Commissive-A,5,Labor,Specific,
+7,<LIST> Services will include:,Commissive-A,8#9#10#11#12#13#14,Labor,Vague,1.0
+8,"<li> Paediatric assessment, support and referral. </li>",Commissive-A,6,Labor,Specific,
+9,"<li> Audiology, speech therapy and physiotherapy for children. </li>",Commissive-A,6,Labor,Specific,
+10,<li> Access to a paediatrician. </li>,Commissive-A,6,Labor,Specific,
+11,"<li> Early intervention to support children with disabilities, developmental delay and  autism. </li>",Commissive-A,6,Labor,Specific,
+12,<li> ​​​​​​​NDIS-funded services for eligible children. </li>,Commissive-A,6,Labor,Specific,
+13,<li> Access to family supports and parenting groups. </li>,Commissive-A,6,Labor,Specific,
+14,<li> Secondary consultation and outside support to childcare centres and primary schools. </li> </LIST>,Commissive-A,6,Labor,Specific,
+15,A Shorten Labor Government will provide $2 million to fund the project.,Commissive-A,6,Labor,Specific,
+16,"Only a Shorten Labor Government will protect Medicare for future generations as a universal healthcare system for all Australians, keep medicines affordable and give Sunbury families the support services they need.",Assertive,17,Labor,,
+17,Today’s announcement reaffirms Labor’s commitment to putting people first in growth areas like Sunbury.,Assertive,18,Labor,,
+18,<LIST> Labor’s three-part pledge on Medicare includes:,Commissive-A,19#20#21,Labor,Vague,1.0
+19,<li> Protecting bulk-billing by abolishing Malcolm Turnbull’s GP Tax by stealth. </li>,Commissive-A,1,Labor,Specific,
+20,<li> Keeping medicines affordable by scrapping the Liberals’ price hikes. </li>,Commissive-A,1,Labor,Specific,
+21,<li> Legislating to protect Medicare from creeping privatisation. </li> </LIST>,Commissive-A,1,Labor,Specific,

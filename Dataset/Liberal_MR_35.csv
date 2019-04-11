@@ -1,0 +1,22 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"The Turnbull Government has committed around $200 million to invest in the acquisition and sustainment of defence capability in the Northern Territory this financial year, supporting up to 1,500 full-time jobs as part of the Coalition’s strong economic plan for jobs and growth.",Commissive-A,6#10,Liberal,Specific,
+2,"Federal Member for Solomon Natasha Griggs said a further $20.2 billion would be spent upgrading Defence facilities in the Northern Territory over the next 20 years as part of the Turnbull Government’s long-term commitment to Australia’s defence, as set out in the Defence White Paper.",Commissive-A,6#10,Liberal,Specific,
+3,"“Small to medium enterprises are benefitting from spending in the Northern Territory defence industry, with critical work occurring in the maritime and light to heavy vehicle sustainment sectors,” Ms Griggs said.",Assertive,1#2#8,Liberal,,
+4,"“Northern Territory businesses are also taking advantage of the Government’s Defence industry innovation programs, such as Skilling Australia’s Defence Industry and Defence Engineering Internship Program, ",Assertive-V,5,Liberal,,1.0
+5,which will now be delivered through the Turnbull Government’s new Centre for Defence Industry Capability.,Commissive-A,,Liberal,Specific,
+6,“The Turnbull Coalition Government’s investment in local defence capability means businesses in the Northern Territory will create jobs and grow the economy.,Assertive-V,7,Liberal,,
+7,"“These benefits flow out into the wider community, when workers spend money on buying lunch, going out to restaurants and shopping at local shops.”",Assertive-V,,Liberal,,
+8,"Minister for Defence Materiel Dan Tehan, who is met Northern Territory defence businesses with Ms Griggs today, said businesses around the country were reaping the benefits from the Turnbull Coalition Government’s investment in defence, ",Assertive-V,10,Liberal,,1.0
+9,after years of Labor stalling and inaction.,Assertive-V,8,Labor,,
+10,"“The Turnbull Government is increasing investment in Defence capability to approximately $195 billion over the next 10 years, including a $1.6 billion investment to support industry, science, technology and innovation to provide advanced home-grown Defence capabilities,” Mr Tehan said.",Commissive-A,11#12#13#14#15#16#17#18#19#20#21,Liberal,Specific,
+11,“There will be opportunities that lead to jobs and growth because of our investment in Defence capability.”,Assertive-V,,Liberal,,
+12,"<LIST> As part of the Government’s investment in Defence, the Northern Territory will be engaged in a number of key defence activities, including:",Commissive-O,,Liberal,,1.0
+13,"<li> 12 new Offshore Patrol Vessels begin service from the early 2020s, some to be home ported in Darwin (final number will depend on operational requirements). </li> ",Commissive-O,,Liberal,,
+14,<li> HMAS Coonawarra to be upgraded to support the existing maritime force. </li> ,Commissive-O,,Liberal,,
+15,<li> RAAF bases in Darwin and Tindal to be upgraded to support the new F-35A Lightning II Joint Strike Fighters. </li> ,Commissive-O,,Liberal,,
+16,"<li> Facilities, infrastructure and airfield works at RAAF Base Tindal to be upgraded to support the surveillance capabilities of seven high altitude MQ-4C Triton unmanned aircraft. </li> ",Commissive-O,,Liberal,,
+17,<li> Purpose built facilities to be established at the Delamere Air Weapons Range to support personnel training on the E/A-18G Growler electronic attack aircraft. </li> ,Commissive-O,,Liberal,,
+18,<li> Bradshaw Field Training Area and Robertson and Larrakeyah Barracks in Darwin to be upgraded. </li> ,Commissive-O,,Liberal,,
+19,"<li> Defence information networks to be upgraded to store, manage and process large amounts of intelligence, surveillance and reconnaissance data. </li> ",Commissive-O,,Liberal,,
+20,<li> The Jindalee Operational Radar Network to be upgraded over two decades. </li> ,Commissive-O,,Liberal,,
+21,<li> A Northern Explosive Ordnance storage facility will be established in the vicinity of Tindal. </li> </LIST>,Commissive-O,,Liberal,,

@@ -1,0 +1,24 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"A re-elected Turnbull Government will invest $48 million to help 24,000 of Australia’s most disadvantaged children with their education through The Smith Family’s Learning for Life programme.",Commissive-A,7,Liberal,Specific,
+2,"The Learning for Life programme provides support for low-income and vulnerable families to enable students to stay at school, to finish Year 12 or an equivalent, and make the transition from school to work or further education and training.",Assertive,1,Other,,
+3,<LIST> The programme asks families to commit to ensuring their children attend school regularly and helping them with their education in return for :,Assertive,2,Other,,1.0
+4,"<li> Financial support to pay for school supplies such as uniforms, shoes, textbooks and excursions </li> ",Assertive,3,Other,,1.0
+5,"<li> A coordinator who works directly with the family and students to overcome barriers to school attendance and achievement, and to connect the family with other support services </li> ",Assertive,3,Other,,1.0
+6,<li> Access to out-of-school education programmes focused on literacy and numeracy and career mentoring </li> </LIST>,Assertive,3,Other,,
+7,The Coalition’s contribution will cover around 60 per cent of the funding ,Assertive-V,8,Liberal,,1.0
+8,and will be used by The Smith Family to leverage a further $30 million in philanthropic funding from generous public donors.,Assertive,,Other,,
+9,The Learning for Life programme builds on our commitment to evidence-backed initiatives to lift student outcomes.,Assertive,1,Liberal,,
+10,"More than 70 per cent of the 34,000 children currently participating in the Learning for Life programme do not have any parent or carer in work.",Assertive,9#11#12,Other,,
+11,And yet more than 84 per cent of these students were employed or undertaking further education a year after finishing the Learning for Life programme.,Assertive,,Other,,
+12,"Of the remaining 16 per cent of students, four in five were actively looking for work and one in six had participated in voluntary work in the preceding four weeks.",Assertive,,Other,,
+13,The Prime Minister said the Learning for Life programme is working and delivering positive results.,Assertive,16,Other,,
+14,"This Smith Family-run programme has proven to be extraordinarily effective in helping thousands of Australia’s most disadvantaged children succeed at school and set themselves up for productive and fulfilling lives,” said the Prime Minister.",Assertive,16,Other,,
+15,It works by encouraging parental engagement - which we know is absotely pivotal to school attendance and learning outcomes.,Assertive,16,Other,,
+16,"My Government will expand this programme to assist a further 24,000 disadvantaged young people stay at school, finish year 12 and make the transition from school to work or further education.",Commissive-A,1#17#21,Liberal,Vague,
+17,"We are determined to break the poverty and welfare cycle and give our most disadvantaged kids a chance.""",Commissive-O,,Liberal,,
+18,"Minister Birmingham said Learning for Life is a proven way to help parents or carers to do better, in doing so helping students, teachers and schools.",Assertive,21,Other,,
+19,“One of the reasons Learning for Life has been so successful and why the Coalition is investing $48 million is because of the commitments it requires from families to ensure their children are actually going to school and that the financial assistance is targeted and guaranteed to be used for education.,Assertive,18,Liberal,,
+20,"Learning for Life is a ‘hand up’ for families, not a ‘hand out’.",Assertive,21,Other,,
+21,"We are determined to tackle disadvantage through a needs based distribution of our growing and record levels of school funding, real reforms to ensure funds achieve quality outcomes and practical support to better guide parents of those children most at risk of failure.”",Commissive-A,22,Liberal,Vague,
+22,“This programme is an example that you don't always need to splash billions of dollars around when careful investments into low cost but proven measures can make a meaningful difference to tens of thousands of lives.”,Assertive-V,,Liberal,,
+23,"A re-elected Turnbull Government will deliver a record $73.6 billion for Australian schools over the next four years distributed according to need and tied to evidence-based initiatives proven to support student achievement, such as improving literacy and numeracy, increasing engagement with science and maths subjects, and enhancing teaching quality.",Commissive-A,21,Liberal,Specific,

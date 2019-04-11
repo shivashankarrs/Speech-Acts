@@ -1,0 +1,15 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,A re-elected Turnbull Government will ease congestion and improve access to the Darwin CBD by investing in the Barneson Boulevard project.,Commissive-A,2#3#5#7#8,Liberal,Vague,
+2,"Barneson Boulevard will provide a new 750 metre link from Tiger Brennan Drive to the Darwin CBD and new signalised intersections at Cavanagh Street, McMinn Street and Tiger Brennan Drive.",Commissive-O,4,Liberal,,
+3,The project will also reduce travel times on Tiger Brennan Drive with further duplication works from Dinah Beach Road to the McMinn Street/Bennett Street intersection.,Commissive-O,4,Liberal,,
+4,"These works will distribute traffic travelling to the city centre by providing multiple entry and exit points, relieving pressure on the local transport network that is experiencing increased congestion and traffic delays.",Assertive-V,,Liberal,,
+5,This $29.5 million commitment takes the Coalition’s investment into the duplication of Tiger Brennan Drive to $100 million.,Assertive-V,,Liberal,,
+6,"Barneson Boulevard is currently in design,",Assertive,7,Liberal,,1.0
+7,the tender for construction could be released later this year with construction expected to be completed by the end of 2017.,Assertive-V,,Liberal,,
+8,It is expected that the Barneson Boulevard project and further duplication of Tiger Brennan Drive will create an estimated 80 jobs.,Assertive-V,,Liberal,,
+9,The Northern Territory Government and City of Darwin will partner with the Coalition in the Barneson Boulevard project having both committed $5 million towards its construction.,Commissive-A,1,Liberal,Specific,
+10,<LIST> This commitment builds on other infrastructure investments in the Northern Territory which include:,Assertive-S,1#14,Liberal,,1.0
+11,<li> $90 million for a Northern Territory Roads Productivity Package; </li>,Assertive-S,1#14,Liberal,,1.0
+12,<li> $77 million towards a Northern Territory Roads Package; and </li>,Assertive-S,1#14,Liberal,,1.0
+13,<li> $20 million for Outback Way upgrades in the NT alone with $42 million being provided overall. </li> </LIST>,Assertive-S,1#14,Liberal,,
+14,The Coalition is committed to further investment in critical transport infrastructure in Northern Australia through the $600 million Northern Australia Roads Programme and $100 million Beef Roads programme.,Commissive-A,,Liberal,Specific,

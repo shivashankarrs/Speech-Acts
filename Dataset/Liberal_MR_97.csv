@@ -1,0 +1,19 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,A re-elected Turnbull Government will invest $24 million to upgrade the Cairns Marine Precinct as part of the Coalition’s program to ensure Australia’s national security and economic security.,Commissive-A,3#8#9,Liberal,Specific,
+2,The Cairns Marine Precinct provides vital facilities and support services to our Defence Force whilst providing a critical contribution to the local economy and local jobs.,Assertive,1,Other,,
+3,"The investment will improve the capability and capacity of the existing shipyards so that Cairns can secure future maritime refit contracts, for both the Navy and commercial customers.",Commissive-O,,Liberal,,
+4,<LIST> Our $24 million investment will contribute to:,Commissive-O,3,Liberal,,1.0
+5,"<li> upgrading the wharfs and floating docks within the Cairns shipyards, allowing improved servicing of larger vessels; </li>",Commissive-O,3,Liberal,,1.0
+6,<li> reconfiguring the Cairns refit yards so they can operate more effectively and boost their competitiveness; and </li>,Commissive-O,3,Liberal,,1.0
+7,"<li> upgrading workshops, hardstands and ship refit areas. </li> </LIST>",Commissive-O,3,Liberal,,
+8,This $24 million investment is in addition to the Turnbull Government’s $420 million investment to develop additional wharf space and other support facilities at HMAS Cairns.,Commissive-A,18,Liberal,Specific,
+9,It is in addition to the recent announcement that more than $400 million of maintenance work on the replacement fleet of up to 21 Pacific Patrol Boats will be conducted at the Cairns Marine Precinct.,Commissive-A,10#11#12#15#16#17#18,Liberal,Specific,
+10,"Our commitment will allow the Navy to leverage world-class expertise in marine services, maintenance, sustainment and repairs as it expands its presence at HMAS Cairns.",Assertive-V,,Liberal,,
+11,"The Coalition’s investment will ensure the 1,300 local shipbuilding and maintenance jobs are sustained, as well as generating new jobs for the Cairns region both immediately and in the future.",Assertive-V,,Liberal,,
+12,This is part of the Coalition’s national plan for an advanced defence industry which includes our continuous shipbuilding program.,Assertive-V,,Liberal,,
+13,"During six years in government, Labor failed to commission a single naval vessel from an Australian shipyard, ",Assertive-S,9#14#16#17,Labor,,1.0
+14,causing the downturn in jobs that we are now experiencing.,Assertive-V,,Labor,,
+15,Enhancing and modernising the Cairns Marine Precinct will ensure this city becomes a long-term and sustainable maintenance hub for marine vessels in Northern Australia.,Assertive-V,,Liberal,,
+16,It shows why only the Coalition can be trusted to invest in defence industry and capability.,Assertive-V,,Liberal,,
+17,Only the Coalition can be trusted to uphold both economic and national security.,Assertive-V,,Liberal,,
+18,The Coalition is delivering on its commitment for jobs and growth.,Assertive-V,,Liberal,,

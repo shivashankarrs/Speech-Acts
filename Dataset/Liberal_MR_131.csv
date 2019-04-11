@@ -1,0 +1,17 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,The tourism industry continues to thrive under the Turnbull Government with visitor numbers and spend continuing their strong growth trajectory.,Assertive-V,,Liberal,,
+2,"One of five key super-growth sectors driving our transition to a new, diversified economy, tourism directly contributes $47.5 billion to Australia’s GDP (accounting for 3 per cent of GDP) and supports around one million Australian jobs.",Assertive-V,1,Liberal,,
+3,"International visitors spent a record $37.9 billion in the year ending 31 March 2016, an enormous 17 per cent increase on the previous year.",Assertive-V,1,Liberal,,
+4,"International visitor numbers increased 9 per cent to 7.1 million and nights were up 8 per cent to 248 million, according to Tourism Research Australia’s International Visitor Survey, released today.",Assertive-V,1,Liberal,,
+5,"Our top five markets for visitors (New Zealand, China, UK, USA and Japan) all saw growth in visitors and spend for the year, accounting for just over half (54 per cent) of total trip spend.",Assertive-V,3#4,Liberal,,
+6,China alone accounted for almost one quarter of total trip spend (23 per cent) demonstrating the importance of this key market.,Assertive-V,5,Liberal,,
+7,"On the back of record growth from China in 2015 with Chinese visitors surpassing a landmark one million for the first time, 2016 is already off to a strong start.",Assertive-V,4#6,Liberal,,
+8,Visitors from China increased 23 per cent while expenditure increased 38 per cent to reach $8.9 billion.,Assertive-V,3#6,Liberal,,
+9,The opportunity that our growing international tourism market presents for Australia is enormous.,Assertive,11,Other,,
+10,"A recent research paper by L.E.K. Consulting found that Chinese visitors to Australia are more likely to buy Australian products and services after they return home, with their average annual spend rising by 40 per cent after their trip.",Assertive,9#11,Other,,
+11,It is clear that tourism’s broader flow-on effects illustrate the importance of this industry.,Assertive,12,Other,,
+12,"Tourism operators continue to benefit from the Turnbull Government’s pro-growth policies, such as streamlining visa applications, targeted marketing, increasing aviation capacity and making tourism infrastructure a national investment priority.",Assertive-S,14#15#16,Liberal,,
+13,"In addition, approximately 95 percent of Australia’s tourism industry is made up of small businesses, ",Assertive,14,Other,,1.0
+14,"directly benefiting from the Turnbull Government’s plan for a strong new economy, creating more jobs, boosting growth and productivity.",Assertive-V,1,Liberal,,
+15,Our policies have overseen the highest growth in tourism since the Sydney Olympics and we remain on track to reach the Tourism 2020 target of doubling overnight visitor expenditure to between $115 and $140 billion annually.,Assertive-V,1,Liberal,,
+16,"Australians can trust the Turnbull Government will ensure the key growth sectors of our economy, such as tourism, are supported as we transition from the mining construction boom to a more diversified and stronger economy.",Assertive,,Liberal,,

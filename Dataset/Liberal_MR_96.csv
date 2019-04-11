@@ -1,0 +1,20 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"A re-elected Turnbull Government is set to invest $7 million to make it easier for clinical trials to take place in Australia, ",Commissive-A,2#6,Liberal,Specific,1.0
+2,potentially attracting hundreds of millions of dollars in added international investment.,Assertive-V,,Liberal,,
+3,Australia has a strong reputation for the quality of its scientific and medical research and is home to some of the world’s best researchers.,Assertive,4,Other,,
+4,The Coalition has also restored the reputation of Australia’s world-renowned Pharmaceutical Benefit Scheme ,Assertive-V,6,Liberal,,1.0
+5,"through investing in nearly 1000 new medicines since we came to office in 2013, repairing the damage Labor did when it blocked patient access to new medicines.",Assertive-S,4,Liberal,,
+6,We want to ensure these benefits translate into Australia completing the trifecta and being a world-leader in clinical trials.,Commissive-O,,Liberal,,
+7,Australia’s clinical trials environment is complex and can vary considerably across our states and territories.,Assertive,8,Other,,
+8,"This can force clinical trial sponsors to have to negotiate with multiple sites for recruitment and start-up timelines across borders, making large-scale national or interstate trials difficult.",Assertive,9,Other,,
+9,"As part of our national innovation and science reform agenda, a re-elected Coalition Government will remove red tape barriers and take a leadership role in promoting the uptake of current best practice.",Commissive-A,1#10,Liberal,Vague,
+10,"By streamlining the recruitment process for industry, Australia can become a more attractive destination to conduct world-leading trials.",Assertive-V,,Liberal,,
+11,"<LIST> Featured in our new $7 million funding commitment, the Coalition will:",Commissive-A,1,Liberal,Specific,1.0
+12,<li> Reorganise the existing regulation of clinical trials within and across jurisdicions so that there is better regulatory harmonisation and regulatory mutual-recognition; </li> ,Commissive-A,1,Liberal,Vague,1.0
+13,<li> Improve recruitment and start-up timelines for large-scale clinical trials in Australia </li> ,Commissive-A,1,Liberal,Vague,1.0
+14,<li> Facilitate legal and ethics approvals across multiple sites </li> ,Commissive-A,1,Liberal,Vague,1.0
+15,<li> Take a national leadership role in promoting the uptake of current best practice approaches within all jurisdictions; and </li> ,Commissive-A,1,Liberal,Vague,1.0
+16,"<li> As part of our digital health strategy, work with the National Health and Medical Research Council to make its digital portal available on new smart platforms to boost patient awareness. </li>  </LIST>",Commissive-A,1,Liberal,Specific,
+17,"Clinical trials make a positive contribution to our health and to our economy, with up to 1,000 new clinical trials adding around $1 billion in new investment each year.",Assertive,18,Liberal,,
+18,"Under the Coalition, the National Health and Medical Research Council will continue to provide support for the investigator-initiated trial sector to better understand the comparative effectiveness of commonly used treatments in Australia ",Commissive-A,1#19,Liberal,Vague,1.0
+19,to ensure we can target our investment towards the most effective treatments.,Assertive-V,,Liberal,,

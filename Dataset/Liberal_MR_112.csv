@@ -1,0 +1,20 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,Tonight in his Budget Reply Speech Bill Shorten must explain how his push for higher taxes is not going to hurt jobs and growth in our transitioning economy.,Assertive,,Labor,,
+2,All Bill Shorten as a former Rudd and Gillard man seems to be offering is more unnecessary political change and higher taxes.,Assertive-V,1,Labor,,
+3,Tonight he must explain to the Australian people how he is proposing to pay for his many unfunded spending promises.,Assertive,1,Labor,,
+4,"This comes at a time when we again received confirmation that Labor does not know how to add up, ",Assertive,3,Labor,,1.0
+5,with revelations this week of a $20 billion black hole in its costings of the proposal to increase the tobacco excise.,Assertive-V,4#6,Labor,,
+6,Today we can confirm that Labor's total budget black hole now stands at more than $62 billion.,Assertive-V,,Labor,,
+7,"That is, under Labor the 2016-17 budget would be more than $62 billion worse off over the forward estimates.",Assertive-V,6,Labor,,
+8,This is made up of savings and revenue measures proposed by the Government ,Assertive-S,7,Liberal,,1.0
+9,"which Labor are opposing, spending Labor says we must restore from banked savings and the budget impact of Labor’s own spending proposals so far.",Assertive-S,8,Labor,,
+10,<LIST> That is why tonight Bill Shorten needs to answer these critical questions:,Assertive,1#3,Labor,,1.0
+11,<li> Does he stand by all the spending promises he and his Shadow Ministers have made so far?,Interrogative,10#12#13#14#15#16,Labor,,
+12,"If not, that is if Labor has changed its mind on any of them he needs to tell the Australian people. </li> ",Assertive,,Labor,,
+13,<li> How is Bill Shorten going to pay for his unfunded spending promises? </li> ,Interrogative,3,Labor,,
+14,<li> Is he going to pay for them with higher taxes which hurt jobs and growth? </li> ,Interrogative,1,Labor,,
+15,<li> Is he going to pay for them with bigger deficits and debt – which will lead to higher taxes over time which hurt jobs and growth? </li>,Interrogative,1,Labor,,
+16,"<li> Or, is he going to do what the Government has done and that is to pay for any increased spending with genuine savings, genuine spending reductions, in other parts of the Budget and if so where? </li> </LIST>",Interrogative,,Labor,,
+17,"The Government on Tuesday laid out our plan for jobs and growth, including our efforts to put the budget on a sustainable foundation for the future.",Assertive-S,16#18#19,Liberal,,
+18,"Will Bill Shorten tonight again confirm his tax, spend and borrow approach which would hurt jobs and growth and undermine our economic transition from resource investment driven growth to a stronger, more innovative and diversified economy?",Interrogative,1#3,Labor,,
+19,Or will he join the Government in support of our agenda for jobs and growth and to secure our successful transition to a stronger more diversified economy?,Interrogative,,Labor,,

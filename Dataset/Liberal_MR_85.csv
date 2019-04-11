@@ -1,0 +1,20 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,Bill Shorten will today be forced to break a core Labor promise on hospitals as a result of his massive budget black hole.,Assertive-V,4,Labor,,
+2,Mr Shorten will today confirm Labor’s $57 billion hospitals promise to the states and territories was never funded.,Assertive-V,1,Labor,,
+3,Mr Shorten will today make it clear Labor has no credible way to pay for – or deliver – its hospital promises.,Assertive-V,1,Labor,,
+4,Mr Shorten will today admit Labor’s relentless hospitals scare campaign targeting our most sick and vulnerable patients was nothing but a cruel hoax.,Assertive-V,5#6,Labor,,
+5,"And, most importantly, Mr Shorten will today prove Australians cannot trust a word he or Labor says.",Assertive,,Labor,,
+6,"It is again clear Mr Shorten and Labor cannot pay for their promises and what they cannot pay for, they cannot deliver.",Assertive-V,19,Labor,,
+7,"<LIST> Mr Shorten’s reported refusal to offer states and territories any more than $2 billion extra for hospitals over the forward estimates, with no additional funding commitment over 10 years, is in direct defiance of his Shadow Health Spokesperson Catherine King :",Assertive-S,6,Labor,,1.0
+8,"<li> “It’s been reported Malcolm Turnbull will be offering the states an additional $1 billion, $7 billion, and now $5 billion. </li> ",Assertive-V,9,Liberal,,
+9,"<li> “No matter which of these reports is correct, this money is a drop in the ocean compared to the $57 billion the Coalition ripped from public hospital funding.” </li>  </LIST>",Assertive-V,4#7,Liberal,,
+10,- Labor Shadow Health Spokesperson Catherine King – 30 May 2016 – Media Release,Assertive,7,Labor,,1.0
+11,<LIST> And his Shadow Treasurer Chris Bowen :,Assertive,6,Labor,,1.0
+12,"<li> “Australia's hospitals need a long-term proper funding package, one which doesn't just get through to the next election but gets Australia's hospitals through the next decade. </li> ",Assertive,13,Labor,,
+13,<li> “A band-aid package to get him through the next election is not an answer to Australia's hospital crisis.” </li> </LIST>,Assertive,4#11,Liberal,,
+14,-Labor Shadow Treasurer Chris Bowen – 29 March 2016 - Doorstop,Assertive,11,Labor,,1.0
+15,The Choice:,Assertive,16#17,Other,,1.0
+16,"In contrast, a re-elected Turnbull Coalition Government will grow public hospital funding year on year.",Commissive-A,18,Liberal,Vague,
+17,"In total, we are investing $95 billion in public hospitals over five years.",Commissive-A,18,Liberal,Specific,
+18,This funding is not only costed – it’s already guaranteed in the Budget for all to see.,Assertive-S,19,Liberal,,
+19,"Only a re-elected Turnbull Coalition Government can be trusted to deliver a real, affordable plan to fund our public hospitals.",Assertive,,Liberal,,

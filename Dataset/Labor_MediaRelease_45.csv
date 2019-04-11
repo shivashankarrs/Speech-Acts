@@ -1,0 +1,17 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"Labor is joining concerned parents, educators and Australians across the country to send Mr Turnbull a clear message –",Assertive,2,Labor,,1.0
+2,don’t abandon our public schools.,Directive,,Liberal,,
+3,"In the chaos and dysfunction the Liberals showed last week, one thing became crystal clear – ",Assertive,4,Liberal,,1.0
+4,the Government’s $30 billion cuts are only the beginning of their destruction of our school system.,Assertive-V,5,Liberal,,
+5,"Mr Turnbull revealed his hand, showing his only priority is to abandon public education altogether.",Assertive-V,1#6#12,Liberal,,
+6,"This would be devastating, divisive, and push our children into a two-tiered school system.",Assertive-V,7#8,Liberal,,
+7,That’s why every single Labor MP and Senator will be working with local communities to fight for public education.,Commissive-A,,Labor,Vague,
+8,The Liberals want to distract and justify their cuts –,Assertive-S,9,Liberal,,1.0
+9,"but it’s not that Mr Turnbull and his Liberals can’t afford to fund our schools properly, it’s that they are choosing not to.",Assertive-V,,Liberal,,
+10,Labor has made difficult decisions on taxation and savings to fully fund our Your Child. Our Future  plan for Australia’s education system,Assertive-S,7#8,Labor,,1.0
+11,"because we know that the future of our children, and the future of our country, depends on investing in education.",Assertive,10,Labor,,
+12,Mr Turnbull has shown he just doesn’t get the pressures families are under – that’s why he can stand in the middle of a footy field and casually say his Government wants to stop funding public schools.,Assertive,13,Liberal,,
+13,This attitude shows how out of touch he is.,Assertive,14,Liberal,,
+14,"When Australians arrive at their local public school to vote this election, ",Assertive,15#16,Other,,1.0
+15,"they will know a vote for Labor is a vote for the future of Australia’s children,",Assertive-V,,Labor,,1.0
+16,and a vote for Mr Turnbull is a vote for $30 billion in cuts and the complete gutting of public schools.,Assertive-V,,Liberal,,

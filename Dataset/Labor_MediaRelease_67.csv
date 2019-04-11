@@ -1,0 +1,43 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,An average family with two children will be up to $400 a year worse off as a result of Mr Turnbull’s GP Tax by stealth.,Assertive-V,,Liberal,,
+2,Mr Turnbull’s Budget extended the GP-Tax by stealth which will cut bulk-billing and see more patients paying higher fees to visit their local doctor.,Assertive-S,1#3#4#6#7#12,Liberal,,
+3,An average family with two children would be slugged an additional $400 in doctor’s visits alone.,Assertive-V,,Liberal,,
+4,A pensioner couple suffering chronic illnesses would be hit with additional costs of $440 under the Turnbull Budget.,Assertive-V,,Liberal,,
+5,"One in twenty Australians already say that they delay visiting their GP, or do not visit at all, because of cost.",Assertive,6#8,Other,,
+6,"This comes as modelling from the Australian Medical Association reveals that under the Turnbull Government’s freeze on Medicare payments, the cost of seeing a specialist will be more than $220.",Assertive-V,,Liberal,,
+7,"People who need to see specialists regularly, such as those with cancer or in the care of a psychiatrist, will be hit particularly hard by this increase given they are likely to face this charge on a monthly or even more frequent basis.",Assertive-V,,Liberal,,
+8,Australian families can’t afford to face additional fees every time they go to the doctor – and Australia can’t afford to have people putting off health care when it is needed.,Assertive,10,Other,,
+9,Primary care is critical to the entire health system.,Assertive,10,Other,,
+10,If people put off visiting the GP it can lead to conditions worsening and people being admitted to hospital – much sicker and with greater cost to the health care system.,Assertive,11,Other,,
+11,Labor will reverse Mr Turnbull’s cuts which will reduce bulk-billing and hit Australian families every time they visit the doctor.,Commissive-A,,Labor,Vague,
+12,Doctors have confirmed the extension of the GP Tax by stealth in Mr Turnbull’s Budget will be the tipping point to make bulk-billing unviable for many practices.,Assertive-V,13,Liberal,,
+13,Existing co-payments will be increased.,Assertive-V,14,Liberal,,
+14,"In contrast, Labor will ensure that access to health care is determined by your Medicare card, and not your credit card.",Commissive-A,,Labor,Specific,
+15,We will reverse the Turnbull Government’s GP Tax by stealth which will rip $400 out of the average family’s Budget each and every year.,Commissive-A,11,Labor,Specific,
+16,Families are already feeling the pressure to make ends meet under the Liberals’ cuts to family payments.,Assertive,17#20,Liberal,,
+17,Malcolm Turnbull’s GP Tax by stealth would just be another blow that low and middle income families simply can’t afford.,Assertive-V,15,Liberal,,
+18,Nobody wants to head down the same path as America when it comes to our health system.,Assertive,19,Other,,
+19,Only Labor will make sure this doesn’t happen.,Commissive-A,,Labor,Vague,
+20,<LIST> Examples of costs:,Assertive,21,Labor,,1.0
+21,"Professor Brian Owler, president of the AMA, has indicated that as a result of the freeze “patients are going to be out of pocket at least an extra $10, and in most cases, probably more likely to be $20.”’ (15 May, 2016).",Assertive,22,Liberal,,
+22,"Assuming a $20 increase to out of pocket costs, the following examples illustrate the potential impacts of the MBS freeze on patient costs.",Assertive,23#25#28#34#37#40,Liberal,,
+23,"<li> A single, healthy, average Australian",Assertive,24,Liberal,,1.0
+24,6 visits to the GP a year will cost them up to $120 a year. </li>,Assertive,25,Liberal,,
+25,"<li> A couple with two, healthy young children",Assertive,26,Liberal,,1.0
+26,"If each parent had the average number of visits for themselves (6 each) and they also visited the average number of times for each child (4 times each), the family’s total number of visits to the GP would be 20.",Assertive,27,Liberal,,
+27,The MBS freeze will cost them up to $400 a year. </li>,Assertive,,Liberal,,
+28,"<li> A couple with two children, one with asthma",Assertive,29,Liberal,,1.0
+29,"If one of the children has asthma and required extra visits to the GP, say 10 in a year, their total number of visits would be 26.",Assertive,30,Liberal,,
+30,The MBS freeze will cost them up to $520 a year. </li>,Assertive,,Liberal,,
+31,"<li> A couple with three children, two with asthma",Assertive,32,Liberal,,1.0
+32,"If the same family have three children, two of whom have asthma and require extra visits, their total number of visits in a year would be 36.",Assertive,33,Liberal,,
+33,The MBS freeze will cost them up to $720 a year. </li>,Assertive,,Liberal,,
+34,<li> A single working parent with type 2 diabetes,Assertive,35,Liberal,,1.0
+35,A single parent with diagnosed type 2 diabetes (13 visits per year) has two children (4 visits each) and visits the GP a total of 21 times in a year.,Assertive,36,Liberal,,
+36,The MBS freeze will cost them up to $420 per year. </li>,Assertive,,Liberal,,
+37,<li> A couple aged over 65,Assertive,38,Liberal,,1.0
+38,"A couple aged over 65, one of whom has diagnosed dementia (10 visits) and one of whom has congestive heart failure (12 visits), will visit their GP on average 22 times per year.",Assertive,39,Liberal,,
+39,The MBS freeze will cost them up to $440 a year. </li>,Assertive,,Liberal,,
+40,<li> A single man aged over 65 with heart disease,Assertive,41,Liberal,,1.0
+41,A single man aged over 65 with heart disease visits 12 times a year.,Assertive,42,Liberal,,
+42,The MBS freeze will cost him $240 per year. </li> </LIST>,Assertive,,Liberal,,

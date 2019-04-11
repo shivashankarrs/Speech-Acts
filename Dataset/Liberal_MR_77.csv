@@ -1,0 +1,18 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,The Coalition Government’s Youth Jobs PaTH (Prepare-Trial-Hire) program has received the backing of major employers who have pledged to use the scheme to give thousands of young Australians the opportunity to get into jobs and apprenticeships.,Assertive-V,,Liberal,,
+2,"Announced in the 2016 Budget, the Youth Jobs PaTH will help young people gain a foothold in the labour market through intensive pre-employment skills training, up to 120,000 internships for young people to gain real work experience and an increased wage subsidy for employers who take on young job seekers.",Commissive-A,1#3#5#7#8#9#17,Liberal,Specific,
+3,"The Motor Trades Association of Australia Limited (MTAA), representing more than 60,000 automotive businesses nationwide, and Choices Flooring, a national flooring retailer have signalled their intention to assist young Australians under the program aimed at maximising the chances of job seekers under 25 getting a job.",Assertive-V,,Liberal,,
+4,Today the Coalition Government is launching a web portal other employers can use to register their interest for the program – www.pathtojobs.com.au,Assertive-S,2,Liberal,,
+5,The Youth Jobs PaTH is critical to the Coalition Government’s strong national economic plan for jobs and growth. ,Assertive-V,,Liberal,,
+6,"Australian businesses, especially small businesses, want to give young people a go, but we need to do more to get young people ready for a job, so businesses don’t carry all the risk and cost.",Assertive,7,Liberal,,
+7,"The PaTH program will appeal to many businesses across Australia wanting to give young people a go and potentially help them identify a new employee, trainee or apprentice.",Assertive-V,,Liberal,,
+8,"The program has been backed by not for profit groups such as the Brotherhood of St Laurence, the Council of Small Business Australia and mental health advocate and former Australian of the Year Professor Patrick McGorry AO.",Assertive-V,,Liberal,,
+9,Only the Coalition is committed to addressing entrenched youth unemployment and breaking the cycle of welfare dependency. ,Assertive,,Liberal,,
+10,"In contrast, Labor is in lock-step with the unions in opposing the Youth Jobs PaTH and have no policy to address youth unemployment.",Assertive-S,9,Labor,,
+11,<LIST> The Youth Jobs PaTH will involve three flexible stages;,Commissive-A,2,Liberal,Specific,1.0
+12,<li> Employability skills training will begin on 1 April 2017 to help prepare young job seekers for the workplace. ,Commissive-A,2#13,Liberal,Specific,
+13,"The training will help young people better understand what employers expect of them and give them the skills, attitudes and behaviours required to be successful in a job. </li>",Commissive-O,,Liberal,,
+14,"<li> From 1 April 2017, up to 30,000 young job seekers each year will be eligible to undertake an internship placement of 4 to 12 weeks. ",Commissive-A,2,Liberal,Specific,
+15,"The internships will be voluntary and provide incentives of $1,000 upfront to a business to host an intern and a $200 fortnightly payment to job seekers on top of their income support. </li>",Commissive-A,14,Liberal,Specific,
+16,"<li> From 1 January 2017 a Youth Bonus wage subsidy of between $6,500 and $10,000 will be available to businesses who take on an eligible young person as an employee or apprentice. </li>  </LIST>",Commissive-A,2,Liberal,Specific,
+17,"A re-elected Turnbull Government will, from day one, continue implementing our national economic plan for jobs and growth, of which the Youth Jobs PaTH program is such an integral part.",Commissive-A,,Liberal,Specific,

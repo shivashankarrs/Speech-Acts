@@ -1,0 +1,23 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,Labor will make it easier for small business to create new jobs.,Commissive-A,,Labor,Vague,
+2,"Under Labors New Jobs Tax Cut, small businesses will be able to claim a tax deduction of up to $20,000 per worker to offset the wages of up to five new employees.",Commissive-A,1#5#14#21,Labor,Specific,
+3,Businesses will be able to claim a 40 per cent deduction on top of the amount they can currently claim for their employees.,Commissive-A,2,Labor,Specific,
+4,Central to Labors positive plan to support small business is cutting red tape - making it easier and simpler for small business owners to support Australias economy and create jobs.,Commissive-A,1,Labor,Specific,
+5,This is a real jobs plan that offers a responsible tax cut to small businesses  the backbone of our economy.,Commissive-O,,Labor,,
+6,"To qualify for the deduction, the employees will need to be a net addition to the companys average full-time equivalent staffing level for the previous year.",Commissive-A,2,Labor,Specific,
+7,An employer will deduct 140 per cent of the wages expenses of a new employee when doing their accounts.,Commissive-A,6,Labor,Specific,
+8,Labors policy will be targeted to small businesses with turnover of less than $2 million which have been operating for more than two years.,Commissive-A,2,Labor,Specific,
+9,"<LIST> Importantly, the New Jobs Tax Cut will be available to businesses hiring Australians who face real barriers to finding work, including :",Commissive-A,2,Labor,Specific,1.0
+10,<li> Unemployed jobseekers aged under 25 or over 55. </li> ,Commissive-A,9,Labor,Specific,
+11,<li> Parents or carers returning to work after more than six months away. </li> </LIST>,Commissive-A,9,Labor,Specific,
+12,"Just like the previous Labor Governments instant asset write-off, businesses will be able to claim the New Jobs Tax Cut as part of their regular tax return.",Commissive-A,2#13,Labor,Specific,
+13,This minimises paperwork for busy employers and means they do not have to deal with yet another agency in order to help someone back into work.,Assertive-V,,Labor,,
+14,Labors New Jobs Tax Cut represents a $257 million investment in getting Australians back to work.,Assertive-V,15,Labor,,
+15,"It will help up to 30,000 Australians find a job each year.",Assertive-V,,Labor,,
+16,"The cost of the tax cut will be fully offset from the existing wage subsidy program ,",Commissive-A,2,Labor,Specific,1.0
+17,which is not working as well as it should be.,Assertive-V,16#20,Other,,
+18,"For example, only around 1 per cent of older Australians who would be eligible for the Governments Restart subsidy are currently in work because of it.",Assertive-V,17,Other,,
+19,"Today, too many older Australians, parents, carers and younger Australians are struggling to get back into work after becoming unemployed or taking time out of the workforce.",Assertive,17,Other,,
+20,"Labor wont stand idly by while there are Australians who want to work, but cant get a foot in the door.",Assertive,21,Labor,,
+21,Our New Jobs Tax Cut will reward small businesses that invest in jobs and do their bit to get these Australians back to into work.,Assertive-V,,Labor,,
+22,"Labor will also make investments in the Australian Taxation Office for targeted compliance arrangements such as data-matching, random audits and outreach to small business associations to ensure that our policy is being implemented and utilised effectively.",Commissive-A,2,Labor,Specific,

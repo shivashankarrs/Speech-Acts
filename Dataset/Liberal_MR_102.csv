@@ -1,0 +1,10 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,The Liberal Party has a long-established and proven method for deciding its preference recommendations to electors in national campaigns.,Assertive,5.0,Liberal,,
+2,Preferences are decided when nominations have closed and all the parties and other candidates and their views are known to us.,Assertive,1.0,Liberal,,
+3,"Preferences are allocated consistent with the electoral interests of the Party, our values, principles and priorities, and the best interests of the Australian people in having an effective national government.",Assertive,1.0,Liberal,,
+4,"Decisions are made by the Party organisation on a collaborative basis, coordinated Australia-wide by the National Campaign Director.",Assertive,1.0,Liberal,,
+5,No decisions have been made regarding preferences.,Assertive,6.0,Liberal,,
+6,Media speculation or the overwrought and obviously self-interested positioning by our political opponents will not affect or determine these matters for this election any more than they have for previous elections.,Assertive-V,9.0,Liberal,,
+7,"During elections, various parties have discussions. ",Assertive,8.0,Other,,
+8,"This is a standard process and speculation that any particular party, group, or individual has some deal, arrangement, or understanding is false.",Assertive,9.0,Liberal,,
+9,"At the appropriate time, the Liberal organisation will publish its recommendations to electors, and they will then decide what choice to make.",Commissive-A,,Liberal,Specific,

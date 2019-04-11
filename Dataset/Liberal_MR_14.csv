@@ -1,0 +1,13 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,Our cities are at the frontline of action on climate change.,Assertive,2,Liberal,,
+2,"The Turnbull Coalition Government understands liveable, accessible cities with clean environments – both major and regional – are essential economic assets.",Assertive,3#8,Liberal,,
+3,"That is why a re-elected Turnbull Government will establish an investment fund to accelerate the deployment of clean energy, renewable energy and energy efficiency technology in cities through the Clean Energy Finance Corporation.",Commissive-A,4#5,Liberal,Vague,
+4,"These investments will drive new jobs and enterprise, reduce greenhouse emissions and make our cities more resilient.",Assertive-V,,Liberal,,
+5,They will lower the cost of living and put downward pressure on energy bills.,Assertive-V,,Liberal,,
+6,This initiative will support projects that demonstrate value for money and provide a return which will be reinvested in new projects.,Commissive-A,3#7,Liberal,Vague,
+7,This will create a sustainable pool of funding with a target of up to $100 million each year.,Assertive-V,,Liberal,,
+8,We will also establish a $50 million competitive Smart Cities Program for local governments to collaborate and apply innovative technology-based approaches to improve the liveability of cities and their suburbs.,Commissive-A,,Liberal,Specific,
+9,Australia’s cities are home to the majority of our population and responsible for more than 80 per cent of national economic output.,Assertive,10,Other,,
+10,"The Turnbull Coalition knows that smart policy, smart investment and smart technology are critical to secure the prosperity of our cities and a high standard of living for all Australians.",Assertive,8,Liberal,,
+11,"The Smart Cities Program will incentivise councils to partner with communities, local business, not-for-profits and research institutes to create cutting edge technology solutions for urban problems.",Commissive-A,8#12,Liberal,Vague,
+12,A collaborative approach to cities is important for making measurable differences to people’s quality of life and delivering jobs and growth.,Assertive-V,,Liberal,,

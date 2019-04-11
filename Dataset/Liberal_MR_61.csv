@@ -1,0 +1,16 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"Bill Shorten’s war on business has multiple fronts, and businesses caught in its pincer would suffer significantly.",Assertive-V,2,Labor,,
+2,"The effect would be to stifle investment, growth and jobs while leaving companies open to the intimidation of the CFMEU.",Assertive-V,,Labor,,
+3,CAMEO,Assertive,7#8#10,Other,,1.0
+4,Dave runs a business that provides structural steel assembly services to the building construction industry.,Assertive,7#8#10,Other,,
+5,"His is one of the more than 2,000 small and medium sized businesses that supply these services, which provide jobs to thousands of Australians.",Assertive,7#8#10,Other,,
+6,Under Labor:,Assertive,7#8#10,Labor,,
+7,"If Dave’s company manages to generate a turnover of more than $2 million, it will miss out on a company tax cut.",Assertive-V,11#12,Labor,,
+8,"If Dave’s company manages to generate a turnover of more than $2 million, it will be unable to access Labor’s new jobs tax deductions.",Assertive-V,11#12,Labor,,
+9,"Because of Labor’s refusal to pass the Government’s ABCC legislation, ",Assertive-S,1#10,Labor,,1.0
+10,"union thuggery and industrial unlawfulness will remain rampant on building sites, and Dave will continue to receive threats that he will be kicked off new projects unless he signs a union EBA or becomes a union member.",Assertive-V,,Labor,,
+11,"If Dave’s company turns over $2,000,001 he misses out, but his competitor – who turns over $1,999,999 – gets the advantage of a tax cut and a potential tax deduction.",Assertive-V,1,Labor,,
+12,"However, both companies face potential losses due to the lawlessness of the CFMEU, ",Assertive-V,,Labor,,1.0
+13,which Labor continues to protect.,Assertive-S,1#12,Labor,,
+14,Labor runs a protection racket for the CFMEU and it opposes a tough cop on the beat in the form of the ABCC.,Assertive-S,9#13#15,Labor,,
+15,"Labor’s war on businesses has several policy intersections and none of them good for the economy, growth and jobs.",Assertive-V,,Labor,,

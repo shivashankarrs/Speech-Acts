@@ -1,0 +1,12 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,A re-elected Turnbull Coalition Government will improve recreation and sport facilities in Bli Bli by investing in the Maroochy River Rowing Facility at Muller Park.,Commissive-A,2#3#5#7#8#10#11,Liberal,Vague,
+2,"The Turnbull Government’s $100,000 commitment will help the club install bathroom and shower facilities as well as improve storage to accommodate larger rowing boats.",Commissive-O,,Liberal,,
+3,LNP candidate for Fairfax Ted O’Brien says the commitment will support the development of junior rowers in the Sunshine Coast region whilst delivering improved facilities for rowers on the Maroochy River.,Commissive-O,,Liberal,,
+4,“Sport is a valuable part of young people’s lives ,Assertive,5,Other,,1.0
+5,"and I am thrilled this initiative will be supported by a re-elected Turnbull Government,” said Mr O’Brien.",Expressive,,Liberal,,
+6,"The $225,000 project will be completed by the end of the year and includes contributions from the Queensland State Government and Sunshine Coast Council.",Commissive-A,1,Liberal,Specific,
+7,Supporting the Maroochy River Rowing Facility is part of the Coalition’s approach to building healthy and active Australian communities. ,Assertive-V,,Liberal,,
+8,"Importantly, it will deliver local jobs.",Assertive-V,,Liberal,,
+9,This initiative – long advocated by LNP candidate for Fairfax Ted O’Brien – ,Assertive-S,10,Liberal,,1.0
+10,demonstrates how the Turnbull Government is committed to growing more vibrant communities and delivering jobs and growth.,Assertive-V,,Liberal,,
+11,The Turnbull Government is delivering for the electorate of Fairfax.,Assertive,,Liberal,,

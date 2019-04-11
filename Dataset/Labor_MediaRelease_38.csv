@@ -1,0 +1,9 @@
+Id,Sentence,Categories,Head,Target Party,Specificity,Split
+1,"The future of Rockhampton’s world-famous Beef Australia Week will be secured under a Shorten Labor Government, with a $3.1 million investment to the event.",Commissive-A,4#8,Labor,Specific,
+2,Beef Australia Week is a unique celebration of Australian industry and showcases the Rockhampton region to an international audience.,Assertive,1,Other,,
+3,"Importantly, Beef Australia Week also facilitates new trade and export opportunities for the Australian beef industry and promotes local businesses.",Assertive,1,Other,,
+4,Labor’s commitment will contribute to funding Beef Australia Week 2018 and establish the Federal Government as a principal partner.,Commissive-O,7,Labor,,
+5,"With a record 90,000 people passing through the gates at last year’s event, and 1,100 registered international delegates from more than 40 countries in attendance, the signature event continues to go from strength to strength.",Assertive,6#7,Other,,
+6,The Turnbull Government has talked about the importance of the event – but is yet to commit a dollar of much-needed funding to ensuring the event continues.,Assertive-V,,Liberal,,
+7,The success of Beef Week 2018 will cement Rockhampton’s reputation as the beef capital of Australia.,Assertive-V,8,Labor,,
+8,"This $3.1 million investment continues Labor’s support for the region, recognising that trade and tourism are critical for Rockhampton’s future.",Assertive-V,,Labor,,
